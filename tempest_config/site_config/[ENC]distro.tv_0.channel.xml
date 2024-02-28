@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]distro.tv_0">
+  <channels>
+    <channel site="[ENC]distro.tv_0" site_id="10953||https://a.jsrdn.com/hls/22719/titanic-tv/logo_20231219_223231_70.png" xmltv_id="Titanic TV">Titanic TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="11063||https://a.jsrdn.com/hls/22705/horizon-sports/logo_20231219_213910_70.png" xmltv_id="Horizon Sports">Horizon Sports</channel>
+    <channel site="[ENC]distro.tv_0" site_id="11064||https://a.jsrdn.com/hls/22706/the-boat-show/logo_20231219_223008_70.png" xmltv_id="The Boat Show">The Boat Show</channel>
+    <channel site="[ENC]distro.tv_0" site_id="11065||https://a.jsrdn.com/hls/22697/sportskool-tv/logo_20231219_222110_70.png" xmltv_id="Sportskool TV">Sportskool TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="12860||https://a.jsrdn.com/hls/22759/the-film-detective/logo_20231219_223030_70.png" xmltv_id="The Film Detective">The Film Detective</channel>
+    <channel site="[ENC]distro.tv_0" site_id="15679||https://a.jsrdn.com/hls/22728/monarch/logo_20231219_215904_69.png" xmltv_id="Monarch">Monarch</channel>
+    <channel site="[ENC]distro.tv_0" site_id="15976||https://a.jsrdn.com/hls/22765/outside-tv/logo_20231219_220634_59.png" xmltv_id="Outside">Outside</channel>
+    <channel site="[ENC]distro.tv_0" site_id="21182||https://a.jsrdn.com/hls/22751/idg/logo_20231219_214050_68.png" xmltv_id="IDG">IDG</channel>
+    <channel site="[ENC]distro.tv_0" site_id="21310||https://a.jsrdn.com/hls/22728/everyday-heroes/logo_20231219_201332_70.png" xmltv_id="Everyday Heroes">Everyday Heroes</channel>
+    <channel site="[ENC]distro.tv_0" site_id="25045||https://a.jsrdn.com/hls/22801/fireplace-lounge/logo_20231219_201641_68.png" xmltv_id="Fireplace Lounge">Fireplace Lounge</channel>
+    <channel site="[ENC]distro.tv_0" site_id="25073||https://a.jsrdn.com/hls/22801/fish-tank/logo_20231219_201710_68.png" xmltv_id="Fish Tank">Fish Tank</channel>
+    <channel site="[ENC]distro.tv_0" site_id="25089||https://a.jsrdn.com/hls/22801/relaxing-rain/logo_20231219_221332_68.png" xmltv_id="Relaxing Rain">Relaxing Rain</channel>
+    <channel site="[ENC]distro.tv_0" site_id="25102||https://a.jsrdn.com/hls/22801/island-escape/logo_20231219_214316_68.png" xmltv_id="Island Escape">Island Escape</channel>
+    <channel site="[ENC]distro.tv_0" site_id="25454||https://a.jsrdn.com/hls/22769/real-vision-1/logo_20231219_225148_70.png" xmltv_id="Real Vision">Real Vision</channel>
+    <channel site="[ENC]distro.tv_0" site_id="25455||https://a.jsrdn.com/hls/22801/tranquil-thunderstorms/logo_20231219_223555_68.png" xmltv_id="Tranquil Thunderstorms">Tranquil Thunderstorms</channel>
+    <channel site="[ENC]distro.tv_0" site_id="25982||https://a.jsrdn.com/hls/22814/mma-junkie/logo_20231219_215607_30.png" xmltv_id="MMA Junkie">MMA Junkie</channel>
+    <channel site="[ENC]distro.tv_0" site_id="28213||https://a.jsrdn.com/hls/22823/young-hollywood/logo_20231219_224434_70.png" xmltv_id="Young Hollywood">Young Hollywood</channel>
+    <channel site="[ENC]distro.tv_0" site_id="28953||https://a.jsrdn.com/hls/22759/lone-star/logo_20231219_215208_70.png" xmltv_id="Lone Star">Lone Star</channel>
+    <channel site="[ENC]distro.tv_0" site_id="29200||https://a.jsrdn.com/hls/22834/bspoketv/logo_20231219_185103_67.png" xmltv_id="bspoketv">bspoketv</channel>
+    <channel site="[ENC]distro.tv_0" site_id="29218||https://a.jsrdn.com/hls/22817/hard-knocks-fighting/logo_20231219_202542_70.png" xmltv_id="Hard Knocks">Hard Knocks</channel>
+    <channel site="[ENC]distro.tv_0" site_id="33227||https://a.jsrdn.com/hls/22851/entrepreneur-1/logo_20231219_201142_47.png" xmltv_id="Entrepreneur">Entrepreneur</channel>
+    <channel site="[ENC]distro.tv_0" site_id="33414||https://a.jsrdn.com/hls/22808/sword-1/logo_20231219_222836_68.png" xmltv_id="Sword &amp; Shield">Sword &amp; Shield</channel>
+    <channel site="[ENC]distro.tv_0" site_id="73234||https://a.jsrdn.com/hls/22868/kaloopy/logo_20231219_214555_68.png" xmltv_id="Kaloopy">Kaloopy</channel>
+    <channel site="[ENC]distro.tv_0" site_id="34007||https://a.jsrdn.com/hls/22863/right-now-tv/logo_20231219_221555_29.png" xmltv_id="Right Now Tv">Right Now Tv</channel>
+    <channel site="[ENC]distro.tv_0" site_id="34008||https://a.jsrdn.com/hls/22866/oan-encore/logo_20231219_220536_57.png" xmltv_id="OAN Plus">OAN Plus</channel>
+    <channel site="[ENC]distro.tv_0" site_id="34009||https://a.jsrdn.com/hls/22866/awe-encore/logo_20231219_184403_70.png" xmltv_id="AWE Plus">AWE Plus</channel>
+    <channel site="[ENC]distro.tv_0" site_id="36454||https://a.jsrdn.com/hls/22849/schwab-network/logo_20231219_221750_68.png" xmltv_id="Schwab Network">Schwab Network</channel>
+    <channel site="[ENC]distro.tv_0" site_id="37560||https://a.jsrdn.com/hls/22886/cjc-television-network/logo_20231219_192447_56.png" xmltv_id="CJC Television Network">CJC Television Network</channel>
+    <channel site="[ENC]distro.tv_0" site_id="37561||https://a.jsrdn.com/hls/22886/the-grid/logo_20231219_223119_65.png" xmltv_id="TheGrid">TheGrid</channel>
+    <channel site="[ENC]distro.tv_0" site_id="37810||https://a.jsrdn.com/hls/22870/kwelitv/logo_20231219_214912_70.png" xmltv_id="KweliTV">KweliTV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="37684||https://a.jsrdn.com/hls/22893/world-poker-tour/logo_20231219_224338_70.png" xmltv_id="World Poker Tour">World Poker Tour</channel>
+    <channel site="[ENC]distro.tv_0" site_id="38154||https://a.jsrdn.com/hls/22867/humor-mill/logo_20231219_214029_67.png" xmltv_id="Humor Mill">Humor Mill</channel>
+    <channel site="[ENC]distro.tv_0" site_id="39046||https://a.jsrdn.com/hls/22888/plymouth-rock-tv/logo_20231219_221017_69.png" xmltv_id="Plymouth Rock TV">Plymouth Rock TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="39079||https://a.jsrdn.com/hls/22889/adventure-sports-tv/logo_20231219_183950_70.png" xmltv_id="Adventure Sports">Adventure Sports</channel>
+    <channel site="[ENC]distro.tv_0" site_id="39081||https://a.jsrdn.com/hls/22884/law-crime/logo_20240131_212533_70.png" xmltv_id="Law &amp; Crime">Law &amp; Crime</channel>
+    <channel site="[ENC]distro.tv_0" site_id="39397||https://a.jsrdn.com/hls/22864/glewedtv-the-vault/logo_20231219_202231_70.png" xmltv_id="GlewedTV The Vault">GlewedTV The Vault</channel>
+    <channel site="[ENC]distro.tv_0" site_id="39398||https://a.jsrdn.com/hls/22864/glewedtv-spanish/logo_20231219_202213_70.png" xmltv_id="GlewedTV Spanish">GlewedTV Spanish</channel>
+    <channel site="[ENC]distro.tv_0" site_id="39399||https://a.jsrdn.com/hls/22864/glewedtv-yoga/logo_20231219_202248_70.png" xmltv_id="GlewedTV Yoga &amp; Fitness">GlewedTV Yoga &amp; Fitness</channel>
+    <channel site="[ENC]distro.tv_0" site_id="39344||https://a.jsrdn.com/hls/22904/dot-esports/logo_20231219_193130_43.png" xmltv_id="Dot Esports">Dot Esports</channel>
+    <channel site="[ENC]distro.tv_0" site_id="40431||https://a.jsrdn.com/hls/22882/sqad/logo_20231219_221849_48.png" xmltv_id="SKWAD">SKWAD</channel>
+    <channel site="[ENC]distro.tv_0" site_id="40434||https://a.jsrdn.com/hls/22882/cooking-panda/logo_20231219_192638_68.png" xmltv_id="Cooking Panda">Cooking Panda</channel>
+    <channel site="[ENC]distro.tv_0" site_id="41326||https://a.jsrdn.com/hls/22778/united-fight-alliance-1/logo_20231219_223908_70.png" xmltv_id="United Fight Alliance">United Fight Alliance</channel>
+    <channel site="[ENC]distro.tv_0" site_id="41373||https://a.jsrdn.com/hls/22912/trontv/logo_20231219_223616_61.png" xmltv_id="TronTV">TronTV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="42136||https://a.jsrdn.com/hls/22848/choppertown/logo_20231219_190148_64.png" xmltv_id="ChopperTown">ChopperTown</channel>
+    <channel site="[ENC]distro.tv_0" site_id="42160||https://a.jsrdn.com/hls/22915/business-rockstars/logo_20231219_185120_58.png" xmltv_id="Business Rockstars">Business Rockstars</channel>
+    <channel site="[ENC]distro.tv_0" site_id="42161||https://a.jsrdn.com/hls/22915/cinepride/logo_20231219_192429_27.png" xmltv_id="Cinepride">Cinepride</channel>
+    <channel site="[ENC]distro.tv_0" site_id="42162||https://a.jsrdn.com/hls/22915/dungeon-tv/logo_20231219_200859_58.png" xmltv_id="Dungeon TV">Dungeon TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="42163||https://a.jsrdn.com/hls/22915/el-conflicto-tv/logo_20231219_201005_66.png" xmltv_id="El Conflicto TV">El Conflicto TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="42165||https://a.jsrdn.com/hls/22915/galxy-tv/logo_20231219_202129_68.png" xmltv_id="Galxy">Galxy</channel>
+    <channel site="[ENC]distro.tv_0" site_id="42166||https://a.jsrdn.com/hls/22915/screendreams-by-invincible/logo_20231219_221808_45.png" xmltv_id="Screendreams by Invincible">Screendreams by Invincible</channel>
+    <channel site="[ENC]distro.tv_0" site_id="42167||https://a.jsrdn.com/hls/22915/ski-tv/logo_20231219_221909_68.png" xmltv_id="Slopes TV">Slopes TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="43219||https://a.jsrdn.com/hls/22914/fwtv/logo_20231219_202112_61.png" xmltv_id="fw.tv by Firework">fw.tv by Firework</channel>
+    <channel site="[ENC]distro.tv_0" site_id="43797||https://a.jsrdn.com/hls/22918/sportsgrid/logo_20231219_222046_68.png" xmltv_id="SportsGrid">SportsGrid</channel>
+    <channel site="[ENC]distro.tv_0" site_id="43912||https://a.jsrdn.com/hls/22919/revry/logo_20231219_221503_68.png" xmltv_id="Revry">Revry</channel>
+    <channel site="[ENC]distro.tv_0" site_id="43913||https://a.jsrdn.com/hls/22919/revry-news/logo_20231219_221525_68.png" xmltv_id="Revry News">Revry News</channel>
+    <channel site="[ENC]distro.tv_0" site_id="43914||https://a.jsrdn.com/hls/22919/revry-her/logo_20231219_221435_68.png" xmltv_id="Revry Her">Revry Her</channel>
+    <channel site="[ENC]distro.tv_0" site_id="45143||https://a.jsrdn.com/hls/22886/euronews/logo_20231218_175557_70.png" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC]distro.tv_0" site_id="45144||https://a.jsrdn.com/hls/22886/euronews-spa/logo_20231218_175505_70.png" xmltv_id="Euronews Español">Euronews Español</channel>
+    <channel site="[ENC]distro.tv_0" site_id="46436||https://a.jsrdn.com/hls/22882/christmas-classics/logo_20231219_190211_47.png" xmltv_id="Christmas Classics">Christmas Classics</channel>
+    <channel site="[ENC]distro.tv_0" site_id="47238||https://a.jsrdn.com/hls/22927/black-enterprise/logo_20231219_184612_57.png" xmltv_id="Black Enterprise">Black Enterprise</channel>
+    <channel site="[ENC]distro.tv_0" site_id="47476||https://a.jsrdn.com/hls/22930/militarytimes/logo_20231219_215521_36.png" xmltv_id="MilitaryTimes">MilitaryTimes</channel>
+    <channel site="[ENC]distro.tv_0" site_id="51308||https://a.jsrdn.com/hls/22943/documentary/logo_20231219_193112_63.png" xmltv_id="Documentary+">Documentary+</channel>
+    <channel site="[ENC]distro.tv_0" site_id="51531||https://a.jsrdn.com/hls/22930/wired2fish-tv/logo_20231219_224240_64.png" xmltv_id="Wired2fish TV">Wired2fish TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="51534||https://a.jsrdn.com/hls/22923/zoomer/logo_20231219_224547_70.png" xmltv_id="Zoomer TV">Zoomer TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="51535||https://a.jsrdn.com/hls/22950/us-weekly-tv/logo_20231219_223955_68.png" xmltv_id="Us Weekly TV">Us Weekly TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="51671||https://a.jsrdn.com/hls/22915/xfc-tv/logo_20231219_224405_58.png" xmltv_id="XFC TV">XFC TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="51848||https://a.jsrdn.com/hls/22930/quietude-4k/logo_20231219_221151_68.png" xmltv_id="Quietude 4K">Quietude 4K</channel>
+    <channel site="[ENC]distro.tv_0" site_id="52505||https://a.jsrdn.com/hls/22952/pro-football-focus/logo_20231219_221056_58.png" xmltv_id="Pro Football Focus">Pro Football Focus</channel>
+    <channel site="[ENC]distro.tv_0" site_id="54754||https://a.jsrdn.com/hls/22705/motorracing/logo_20231219_215946_68.png" xmltv_id="MotorRacing">MotorRacing</channel>
+    <channel site="[ENC]distro.tv_0" site_id="55592||https://a.jsrdn.com/hls/22963/wapptv/logo_20231219_224037_68.png" xmltv_id="WappTV">WappTV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="56052||https://a.jsrdn.com/hls/22973/mastiii/logo_20231219_215430_68.png" xmltv_id="Mastiii - India's No.1 Music and Youth Channel">Mastiii - India's No.1 Music and Youth Channel</channel>
+    <channel site="[ENC]distro.tv_0" site_id="56785||https://a.jsrdn.com/hls/22964/barktv/logo_20240220_175434_70.png" xmltv_id="BarkTV">BarkTV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="64138||https://a.jsrdn.com/hls/22982/arre/logo_20231219_184228_42.png" xmltv_id="Arré">Arré</channel>
+    <channel site="[ENC]distro.tv_0" site_id="65797||https://a.jsrdn.com/hls/22930/campuslore-sports/logo_20231219_185137_45.png" xmltv_id="CampusLore Sports">CampusLore Sports</channel>
+    <channel site="[ENC]distro.tv_0" site_id="66501||https://a.jsrdn.com/hls/22994/garv-punjab-gurbani/logo_20231219_202149_65.png" xmltv_id="Garv Punjab Gurbani">Garv Punjab Gurbani</channel>
+    <channel site="[ENC]distro.tv_0" site_id="66502||https://a.jsrdn.com/hls/22994/swar-shree/logo_20231219_222755_45.png" xmltv_id="Swar Shree">Swar Shree</channel>
+    <channel site="[ENC]distro.tv_0" site_id="66715||https://a.jsrdn.com/hls/22969/bowery-classics/logo_20231219_185008_54.png" xmltv_id="Bowery Classics">Bowery Classics</channel>
+    <channel site="[ENC]distro.tv_0" site_id="66893||https://a.jsrdn.com/hls/23001/true-history/logo_20231219_223655_68.png" xmltv_id="True History">True History</channel>
+    <channel site="[ENC]distro.tv_0" site_id="68556||https://a.jsrdn.com/hls/23000/afrolandtv/logo_20231219_184044_45.png" xmltv_id="AfroLandTV">AfroLandTV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="70963||https://a.jsrdn.com/hls/22994/hare-krsna/logo_20231219_202633_68.png" xmltv_id="Hare Krsna">Hare Krsna</channel>
+    <channel site="[ENC]distro.tv_0" site_id="71575||https://a.jsrdn.com/hls/23145/bollywood-prime/logo_20231219_184906_65.png" xmltv_id="Bollywood Prime">Bollywood Prime</channel>
+    <channel site="[ENC]distro.tv_0" site_id="71637||https://a.jsrdn.com/hls/23015/tv-punjab/logo_20231219_223846_50.png" xmltv_id="TV Punjab">TV Punjab</channel>
+    <channel site="[ENC]distro.tv_0" site_id="71818||https://a.jsrdn.com/hls/23017/epic-tv/logo_20231219_201202_64.png" xmltv_id="EPIC TV">EPIC TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="73913||https://a.jsrdn.com/hls/23011/abp-news/logo_20231219_183822_57.png" xmltv_id="ABP News">ABP News</channel>
+    <channel site="[ENC]distro.tv_0" site_id="73916||https://a.jsrdn.com/hls/23011/abp-asmita/logo_20231219_183735_56.png" xmltv_id="ABP Asmita">ABP Asmita</channel>
+    <channel site="[ENC]distro.tv_0" site_id="73917||https://a.jsrdn.com/hls/23011/abp-majha/logo_20231219_183808_55.png" xmltv_id="ABP Majha">ABP Majha</channel>
+    <channel site="[ENC]distro.tv_0" site_id="73918||https://a.jsrdn.com/hls/23011/abp-ananda/logo_20231219_183719_56.png" xmltv_id="ABP Ananda">ABP Ananda</channel>
+    <channel site="[ENC]distro.tv_0" site_id="73919||https://a.jsrdn.com/hls/23011/abp-ganga/logo_20231219_183752_65.png" xmltv_id="ABP Ganga">ABP Ganga</channel>
+    <channel site="[ENC]distro.tv_0" site_id="73920||https://a.jsrdn.com/hls/23011/abp-sanjha/logo_20231219_183839_70.png" xmltv_id="ABP Sanjha">ABP Sanjha</channel>
+    <channel site="[ENC]distro.tv_0" site_id="75531||https://a.jsrdn.com/hls/23015/bless-tv/logo_20231219_184716_61.png" xmltv_id="Bless TV">Bless TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="76351||https://a.jsrdn.com/hls/23014/sanjha-tv/logo_20231219_221730_68.png" xmltv_id="SANJHA TV">SANJHA TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="76352||https://a.jsrdn.com/hls/23014/news-only/logo_20231219_220243_64.png" xmltv_id="News Only">News Only</channel>
+    <channel site="[ENC]distro.tv_0" site_id="76353||https://a.jsrdn.com/hls/23014/gurkibani-tv/logo_20231219_202457_65.png" xmltv_id="Gurkibani TV">Gurkibani TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="76354||https://a.jsrdn.com/hls/23014/only-music/logo_20231219_220557_60.png" xmltv_id="Only Music">Only Music</channel>
+    <channel site="[ENC]distro.tv_0" site_id="76356||https://a.jsrdn.com/hls/23014/desi-tv/logo_20231219_193026_60.png" xmltv_id="Desi TV">Desi TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="76856||https://a.jsrdn.com/hls/23034/afriwood-blockbuster/logo_20231219_184011_68.png" xmltv_id="Afriwood Blockbuster">Afriwood Blockbuster</channel>
+    <channel site="[ENC]distro.tv_0" site_id="76857||https://a.jsrdn.com/hls/23034/afriwood-series/logo_20231219_184026_55.png" xmltv_id="Afriwood Series">Afriwood Series</channel>
+    <channel site="[ENC]distro.tv_0" site_id="76858||https://a.jsrdn.com/hls/23034/bongo/logo_20231219_184948_35.png" xmltv_id="Bongo">Bongo</channel>
+    <channel site="[ENC]distro.tv_0" site_id="76859||https://a.jsrdn.com/hls/23034/cinema-hausa/logo_20231219_192336_67.png" xmltv_id="Cinema Hausa">Cinema Hausa</channel>
+    <channel site="[ENC]distro.tv_0" site_id="76860||https://a.jsrdn.com/hls/23034/diva/logo_20231219_193045_49.png" xmltv_id="Diva">Diva</channel>
+    <channel site="[ENC]distro.tv_0" site_id="76861||https://a.jsrdn.com/hls/23034/lol/logo_20231219_215149_62.png" xmltv_id="LOL">LOL</channel>
+    <channel site="[ENC]distro.tv_0" site_id="76862||https://a.jsrdn.com/hls/23034/pulse/logo_20231219_221115_63.png" xmltv_id="Pulse">Pulse</channel>
+    <channel site="[ENC]distro.tv_0" site_id="76863||https://a.jsrdn.com/hls/23034/true-african/logo_20231219_223636_67.png" xmltv_id="True African">True African</channel>
+    <channel site="[ENC]distro.tv_0" site_id="77808||https://a.jsrdn.com/hls/23037/naturestreamtv/logo_20231219_220128_53.png" xmltv_id="NatureStream.tv">NatureStream.tv</channel>
+    <channel site="[ENC]distro.tv_0" site_id="77934||https://a.jsrdn.com/hls/23031/goalcast/logo_20231219_202309_69.png" xmltv_id="Goalcast">Goalcast</channel>
+    <channel site="[ENC]distro.tv_0" site_id="78616||https://a.jsrdn.com/hls/23040/roi-tv/logo_20231219_221615_68.png" xmltv_id="ROI TV">ROI TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="78921||https://a.jsrdn.com/hls/22886/africanews/logo_20231218_175639_70.png" xmltv_id="Africanews">Africanews</channel>
+    <channel site="[ENC]distro.tv_0" site_id="79804||https://a.jsrdn.com/hls/23049/pitaara-tv/logo_20231219_220959_63.png" xmltv_id="Pitaara TV">Pitaara TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="80273||https://a.jsrdn.com/hls/23052/foodfood/logo_20231219_201845_58.png" xmltv_id="FOODFOOD">FOODFOOD</channel>
+    <channel site="[ENC]distro.tv_0" site_id="80638||https://a.jsrdn.com/hls/22915/watchit-kid/logo_20231219_224059_68.png" xmltv_id="Watchit Kid!">Watchit Kid!</channel>
+    <channel site="[ENC]distro.tv_0" site_id="80640||https://a.jsrdn.com/hls/22915/zaz/logo_20231219_224454_68.png" xmltv_id="ZAZ">ZAZ</channel>
+    <channel site="[ENC]distro.tv_0" site_id="81997||https://a.jsrdn.com/hls/23055/fuel-tv-ww/logo_20231219_202054_68.png" xmltv_id="FUEL TV">FUEL TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="82588||https://a.jsrdn.com/hls/22801/autumn-escape/logo_20231219_184344_68.png" xmltv_id="Autumn Escape">Autumn Escape</channel>
+    <channel site="[ENC]distro.tv_0" site_id="82603||https://a.jsrdn.com/hls/22801/relaxing-winterscapes/logo_20231219_221355_68.png" xmltv_id="Relaxing WinterScapes">Relaxing WinterScapes</channel>
+    <channel site="[ENC]distro.tv_0" site_id="82604||https://a.jsrdn.com/hls/22801/spring-escape/logo_20231219_222130_68.png" xmltv_id="Spring Escape">Spring Escape</channel>
+    <channel site="[ENC]distro.tv_0" site_id="82605||https://a.jsrdn.com/hls/22801/study-lounge/logo_20231219_222717_68.png" xmltv_id="Study Lounge">Study Lounge</channel>
+    <channel site="[ENC]distro.tv_0" site_id="83003||https://a.jsrdn.com/hls/23024/life-style-by-triptic/logo_20231219_215112_55.png" xmltv_id="Life Style by Triptic">Life Style by Triptic</channel>
+    <channel site="[ENC]distro.tv_0" site_id="83408||https://a.jsrdn.com/hls/23062/gusto-tv/logo_20231219_202519_56.png" xmltv_id="Gusto TV">Gusto TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="83817||https://a.jsrdn.com/hls/23064/4k-travel-tv/logo_20231219_183416_68.png" xmltv_id="4K TRAVEL TV">4K TRAVEL TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="83820||https://a.jsrdn.com/hls/23064/encore/logo_20231219_201123_50.png" xmltv_id="ENCORE+">ENCORE+</channel>
+    <channel site="[ENC]distro.tv_0" site_id="83822||https://a.jsrdn.com/hls/23064/kozoom-tv/logo_20231219_214836_63.png" xmltv_id="KOZOOM TV">KOZOOM TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="85174||https://a.jsrdn.com/hls/23029/masala-entertainment-plus/logo_20231219_215407_68.png" xmltv_id="Masala Entertainment Plus">Masala Entertainment Plus</channel>
+    <channel site="[ENC]distro.tv_0" site_id="86482||https://a.jsrdn.com/hls/23060/balle-balle/logo_20231219_184445_68.png" xmltv_id="Balle Balle">Balle Balle</channel>
+    <channel site="[ENC]distro.tv_0" site_id="86556||https://a.jsrdn.com/hls/23073/trace-latina/logo_20231219_223517_68.png" xmltv_id="TRACE Latina">TRACE Latina</channel>
+    <channel site="[ENC]distro.tv_0" site_id="86557||https://a.jsrdn.com/hls/23073/trace-urban/logo_20231219_223537_68.png" xmltv_id="TRACE Urban">TRACE Urban</channel>
+    <channel site="[ENC]distro.tv_0" site_id="87419||https://a.jsrdn.com/hls/23077/free-classic-movies/logo_20231219_201918_68.png" xmltv_id="Free Classic Movies">Free Classic Movies</channel>
+    <channel site="[ENC]distro.tv_0" site_id="87420||https://a.jsrdn.com/hls/23077/indiebox/logo_20231219_214256_68.png" xmltv_id="IndieBox">IndieBox</channel>
+    <channel site="[ENC]distro.tv_0" site_id="89141||https://a.jsrdn.com/hls/23085/flou-cine/logo_20231219_201817_36.png" xmltv_id="FLOU Cine">FLOU Cine</channel>
+    <channel site="[ENC]distro.tv_0" site_id="89260||https://a.jsrdn.com/hls/23072/ted/logo_20231219_222902_42.png" xmltv_id="TED">TED</channel>
+    <channel site="[ENC]distro.tv_0" site_id="89324||https://a.jsrdn.com/hls/23073/trace-brazuca/logo_20231219_223457_68.png" xmltv_id="TRACE Brazuca">TRACE Brazuca</channel>
+    <channel site="[ENC]distro.tv_0" site_id="90129||https://a.jsrdn.com/hls/22964/neighborhood-tv/logo_20231219_220221_48.png" xmltv_id="Neighborhood TV">Neighborhood TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="92372||https://a.jsrdn.com/hls/22801/sonicentric/logo_20240104_210854_68.png" xmltv_id="SoniCentric">SoniCentric</channel>
+    <channel site="[ENC]distro.tv_0" site_id="92807||https://a.jsrdn.com/hls/23077/real-life-tv/logo_20231219_221246_66.png" xmltv_id="Real Life TV">Real Life TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="93870||https://a.jsrdn.com/hls/23091/bleav-sports/logo_20231219_184659_55.png" xmltv_id="Bleav Sports">Bleav Sports</channel>
+    <channel site="[ENC]distro.tv_0" site_id="93875||https://a.jsrdn.com/hls/23091/bleav-football/logo_20231219_184637_64.png" xmltv_id="Bleav Football">Bleav Football</channel>
+    <channel site="[ENC]distro.tv_0" site_id="94628||https://a.jsrdn.com/hls/23024/lifefit-by-triptic/logo_20231219_215130_63.png" xmltv_id="LifeFit by Triptic">LifeFit by Triptic</channel>
+    <channel site="[ENC]distro.tv_0" site_id="95621||https://a.jsrdn.com/hls/23095/defiance-media/logo_20231219_193005_68.png" xmltv_id="DeFiance Media">DeFiance Media</channel>
+    <channel site="[ENC]distro.tv_0" site_id="96919||https://a.jsrdn.com/hls/23088/kids-tv-ind/logo_20231219_214739_61.png" xmltv_id="Kids TV - Nursery Rhymes and Baby Songs">Kids TV - Nursery Rhymes and Baby Songs</channel>
+    <channel site="[ENC]distro.tv_0" site_id="97419||https://a.jsrdn.com/hls/23088/kids-tv-espanol/logo_20231219_214756_68.png" xmltv_id="Kids TV Español Latino - Canciones Infantiles">Kids TV Español Latino - Canciones Infantiles</channel>
+    <channel site="[ENC]distro.tv_0" site_id="98262||https://a.jsrdn.com/hls/23034/sports-connect/logo_20231219_222026_50.png" xmltv_id="Sports Connect">Sports Connect</channel>
+    <channel site="[ENC]distro.tv_0" site_id="99000||https://a.jsrdn.com/hls/22967/teton-gravity-research/logo_20231219_222923_68.png" xmltv_id="Teton Gravity Research">Teton Gravity Research</channel>
+    <channel site="[ENC]distro.tv_0" site_id="99076||https://a.jsrdn.com/hls/23099/mtrspt1/logo_20231219_220108_68.png" xmltv_id="MTRSPT1">MTRSPT1</channel>
+    <channel site="[ENC]distro.tv_0" site_id="99164||https://a.jsrdn.com/hls/23100/jovem-pan-news/logo_20231219_214511_49.png" xmltv_id="Jovem Pan News">Jovem Pan News</channel>
+    <channel site="[ENC]distro.tv_0" site_id="100495||https://a.jsrdn.com/hls/23085/flou-caribeno/logo_20231219_201749_36.png" xmltv_id="FLOU Caribeño">FLOU Caribeño</channel>
+    <channel site="[ENC]distro.tv_0" site_id="100517||https://a.jsrdn.com/hls/23108/craftsytv/logo_20231219_192821_64.png" xmltv_id="CraftsyTV">CraftsyTV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="102312||https://a.jsrdn.com/hls/23111/9xm/logo_20231219_183644_68.png" xmltv_id="9XM">9XM</channel>
+    <channel site="[ENC]distro.tv_0" site_id="102313||https://a.jsrdn.com/hls/23111/9x-jalwa/logo_20231219_183550_55.png" xmltv_id="9X Jalwa">9X Jalwa</channel>
+    <channel site="[ENC]distro.tv_0" site_id="102778||https://a.jsrdn.com/hls/22693/britasiatv/logo_20231219_185045_64.png" xmltv_id="BritAsiaTV">BritAsiaTV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="105174||https://a.jsrdn.com/hls/23087/vikatan-tv/logo_20231219_224016_44.png" xmltv_id="Vikatan TV">Vikatan TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="105576||https://a.jsrdn.com/hls/23088/kids-tv-india/logo_20231219_214815_66.png" xmltv_id="Kids TV India - Nursery Rhymes and Baby Songs">Kids TV India - Nursery Rhymes and Baby Songs</channel>
+    <channel site="[ENC]distro.tv_0" site_id="107368||https://a.jsrdn.com/hls/23117/wedding-tv-by-love-stories-tv/logo_20231219_224138_68.png" xmltv_id="Wedding TV by Love Stories TV">Wedding TV by Love Stories TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="109495||https://a.jsrdn.com/hls/23049/channel-divya/logo_20231219_185533_60.png" xmltv_id="Channel Divya">Channel Divya</channel>
+    <channel site="[ENC]distro.tv_0" site_id="109611||https://a.jsrdn.com/hls/23129/news9live/logo_20231219_220305_45.png" xmltv_id="News9Live">News9Live</channel>
+    <channel site="[ENC]distro.tv_0" site_id="109612||https://a.jsrdn.com/hls/23129/tv9-bangla/logo_20231219_225218_68.png" xmltv_id="TV9 Bangla">TV9 Bangla</channel>
+    <channel site="[ENC]distro.tv_0" site_id="109613||https://a.jsrdn.com/hls/23129/tv9-bharatvarsh/logo_20230713_173410_68.jpg" xmltv_id="TV9 Bharatvarsh">TV9 Bharatvarsh</channel>
+    <channel site="[ENC]distro.tv_0" site_id="109614||https://a.jsrdn.com/hls/23129/tv9-gujarati/logo_20231219_225259_68.png" xmltv_id="TV9 Gujarati">TV9 Gujarati</channel>
+    <channel site="[ENC]distro.tv_0" site_id="109615||https://a.jsrdn.com/hls/23129/tv9-kannada/logo_20231219_225317_68.png" xmltv_id="TV9 Kannada">TV9 Kannada</channel>
+    <channel site="[ENC]distro.tv_0" site_id="109616||https://a.jsrdn.com/hls/23129/tv9-marathi/logo_20231219_225337_68.png" xmltv_id="TV9 Marathi">TV9 Marathi</channel>
+    <channel site="[ENC]distro.tv_0" site_id="109617||https://a.jsrdn.com/hls/23129/tv9-telugu/logo_20231219_225400_68.png" xmltv_id="TV9 Telugu">TV9 Telugu</channel>
+    <channel site="[ENC]distro.tv_0" site_id="112018||https://a.jsrdn.com/hls/22883/floracing-247/logo_20231219_225054_24.png" xmltv_id="FloRacing 24/7">FloRacing 24/7</channel>
+    <channel site="[ENC]distro.tv_0" site_id="112687||https://a.jsrdn.com/hls/23128/cnbc-tv18/logo_20231219_192534_70.png" xmltv_id="CNBC TV18">CNBC TV18</channel>
+    <channel site="[ENC]distro.tv_0" site_id="112688||https://a.jsrdn.com/hls/23128/cnbc-awaaz/logo_20231219_192509_70.png" xmltv_id="CNBC Awaaz">CNBC Awaaz</channel>
+    <channel site="[ENC]distro.tv_0" site_id="112689||https://a.jsrdn.com/hls/23128/cnn-news18/logo_20231219_192552_42.png" xmltv_id="CNN News18">CNN News18</channel>
+    <channel site="[ENC]distro.tv_0" site_id="112690||https://a.jsrdn.com/hls/23128/news18-india/logo_20231219_220332_70.png" xmltv_id="News18 India">News18 India</channel>
+    <channel site="[ENC]distro.tv_0" site_id="113968||https://a.jsrdn.com/hls/22973/maiboli/logo_20231219_215344_67.png" xmltv_id="Maiboli">Maiboli</channel>
+    <channel site="[ENC]distro.tv_0" site_id="113969||https://a.jsrdn.com/hls/22973/dabangg/logo_20231219_192906_63.png" xmltv_id="Dabangg">Dabangg</channel>
+    <channel site="[ENC]distro.tv_0" site_id="114214||https://a.jsrdn.com/hls/22886/crematv/logo_20231219_192845_64.png" xmltv_id="crema.tv">crema.tv</channel>
+    <channel site="[ENC]distro.tv_0" site_id="114364||https://a.jsrdn.com/hls/23130/negocios-tv/logo_20240130_181524_70.png" xmltv_id="Negocios TV">Negocios TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="115692||https://a.jsrdn.com/hls/23132/feva-tv/logo_20231219_201430_69.png" xmltv_id="FEVA TV">FEVA TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="115974||https://a.jsrdn.com/hls/23133/bon-appetit/logo_20231219_184927_36.png" xmltv_id="Bon Appétit">Bon Appétit</channel>
+    <channel site="[ENC]distro.tv_0" site_id="115975||https://a.jsrdn.com/hls/23133/architectural-digest/logo_20231219_184205_14.png" xmltv_id="Architectural Digest">Architectural Digest</channel>
+    <channel site="[ENC]distro.tv_0" site_id="115982||https://a.jsrdn.com/hls/23133/gq/logo_20231219_202438_56.png" xmltv_id="GQ">GQ</channel>
+    <channel site="[ENC]distro.tv_0" site_id="116027||https://a.jsrdn.com/hls/23017/nazara/logo_20231219_220147_55.png" xmltv_id="Nazara">Nazara</channel>
+    <channel site="[ENC]distro.tv_0" site_id="116077||https://a.jsrdn.com/hls/22930/court-sports-network/logo_20231219_192657_70.png" xmltv_id="Court Sports Network">Court Sports Network</channel>
+    <channel site="[ENC]distro.tv_0" site_id="116082||https://a.jsrdn.com/hls/23132/feva-music/logo_20231219_201409_70.png" xmltv_id="FEVA MUSIC">FEVA MUSIC</channel>
+    <channel site="[ENC]distro.tv_0" site_id="116281||https://a.jsrdn.com/hls/23040/la-bocina-latina/logo_20231219_214948_65.png" xmltv_id="La Bocina Latina">La Bocina Latina</channel>
+    <channel site="[ENC]distro.tv_0" site_id="116336||https://a.jsrdn.com/hls/22994/lakshya-tv/logo_20231219_215028_60.png" xmltv_id="Lakshya TV">Lakshya TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="116337||https://a.jsrdn.com/hls/22994/kartavya-tv/logo_20231219_214633_61.png" xmltv_id="Kartavya TV">Kartavya TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="116338||https://a.jsrdn.com/hls/22994/kalyan-tv/logo_20231219_214614_65.png" xmltv_id="Kalyan TV">Kalyan TV</channel>
+    <channel site="[ENC]distro.tv_0" site_id="118866||https://a.jsrdn.com/hls/23135/always-funny/logo_20231219_184146_68.png" xmltv_id="Always Funny">Always Funny</channel>
+    <channel site="[ENC]distro.tv_0" site_id="118867||https://a.jsrdn.com/hls/23135/afv-espanol/logo_20231220_194007_70.png" xmltv_id="Always Funny en Español">Always Funny en Español</channel>
+    <channel site="[ENC]distro.tv_0" site_id="118869||https://a.jsrdn.com/hls/23131/toonzkids/logo_20231219_223312_67.png" xmltv_id="ToonzKids">ToonzKids</channel>
+    <channel site="[ENC]distro.tv_0" site_id="118870||https://a.jsrdn.com/hls/23131/toonzkids-atfal/logo_20231219_223251_61.png" xmltv_id="ToonzKids Atfal">ToonzKids Atfal</channel>
+    <channel site="[ENC]distro.tv_0" site_id="118871||https://a.jsrdn.com/hls/23131/toonzkids-ninos/logo_20231219_223332_60.png" xmltv_id="ToonzKids niños">ToonzKids niños</channel>
+    <channel site="[ENC]distro.tv_0" site_id="120048||https://a.jsrdn.com/hls/23137/al-arabiya/logo_20231219_184125_50.png" xmltv_id="Al Arabiya">Al Arabiya</channel>
+    <channel site="[ENC]distro.tv_0" site_id="120073||https://a.jsrdn.com/hls/23137/m-plus/logo_20231219_215325_35.png" xmltv_id="M+">M+</channel>
+    <channel site="[ENC]distro.tv_0" site_id="120071||https://a.jsrdn.com/hls/23137/panorama-drama/logo_20231219_220941_49.png" xmltv_id="PNC Drama">PNC Drama</channel>
+    <channel site="[ENC]distro.tv_0" site_id="120072||https://a.jsrdn.com/hls/23137/rotana-aflam-plus/logo_20231219_221653_60.png" xmltv_id="Rotana Aflam+">Rotana Aflam+</channel>
+    <channel site="[ENC]distro.tv_0" site_id="121810||https://a.jsrdn.com/hls/23077/mediacorp-entertainment-english/logo_20240102_190017_70.png" xmltv_id="Mediacorp Entertainment – English">Mediacorp Entertainment – English</channel>
+    <channel site="[ENC]distro.tv_0" site_id="121811||https://a.jsrdn.com/hls/23077/mediacorp-entertainment-tamil/logo_20240102_190222_70.png" xmltv_id="Mediacorp Entertainment – Tamil">Mediacorp Entertainment – Tamil</channel>
+    <channel site="[ENC]distro.tv_0" site_id="123695||https://a.jsrdn.com/hls/23141/shemaroo-bollywood/logo_20240206_185308_68.png" xmltv_id="Shemaroo Bollywood">Shemaroo Bollywood</channel>
+    <channel site="[ENC]distro.tv_0" site_id="123698||https://a.jsrdn.com/hls/23141/shemaroo-filmigaane/logo_20240206_190035_68.png" xmltv_id="Shemaroo Filmigaane">Shemaroo Filmigaane</channel>
+    <channel site="[ENC]distro.tv_0" site_id="123699||https://a.jsrdn.com/hls/23141/shemaroo-umang-plus/logo_20240206_191005_68.png" xmltv_id="Shemaroo Umang Plus">Shemaroo Umang Plus</channel>
+    <channel site="[ENC]distro.tv_0" site_id="124106||https://a.jsrdn.com/hls/23142/bollywood-masala/logo_20240213_192946_70.png" xmltv_id="Bollywood Masala">Bollywood Masala</channel>
+  </channels>
+</site>
