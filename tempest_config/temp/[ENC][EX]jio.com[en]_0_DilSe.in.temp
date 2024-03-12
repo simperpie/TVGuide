@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="DilSe.in">
+    <display-name lang="en">Dil Se</display-name>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dil_Se.png"/>
+  </channel>
+  <programme start="20240312000000 +0530" stop="20240312070000 +0530" channel="DilSe.in">
+    <title lang="en">Pehla Pehla Pyaar</title>
+    <desc lang="en">Bollywood's most Popular Romantic tracks - Back to Back</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122036000_s.jpg"/>
+    <previously-shown/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240312070000 +0530" stop="20240312120000 +0530" channel="DilSe.in">
+    <title lang="en">Love Aaj Kal</title>
+    <desc lang="en">New &amp; Trending romantic number from Bollywood</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122036001_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240312120000 +0530" stop="20240312130000 +0530" channel="DilSe.in">
+    <title lang="en">Tanha Dil</title>
+    <desc lang="en">Popular Sad Romantic Bollywood tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122036002_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240312130000 +0530" stop="20240312170000 +0530" channel="DilSe.in">
+    <title lang="en">Pehla Pehla Pyaar</title>
+    <desc lang="en">Bollywood's most Popular Romantic tracks - Back to Back</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122036003_s.jpg"/>
+    <previously-shown/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240312170000 +0530" stop="20240312220000 +0530" channel="DilSe.in">
+    <title lang="en">Love Aaj Kal</title>
+    <desc lang="en">New &amp; Trending romantic number from Bollywood</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122036004_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240312220000 +0530" stop="20240312235959 +0530" channel="DilSe.in">
+    <title lang="en">Tanha Dil</title>
+    <desc lang="en">Popular Sad Romantic Bollywood tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122036005_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240313000000 +0530" stop="20240313070000 +0530" channel="DilSe.in">
+    <title lang="en">Pehla Pehla Pyaar</title>
+    <desc lang="en">Bollywood's most Popular Romantic tracks - Back to Back</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132036000_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240313070000 +0530" stop="20240313120000 +0530" channel="DilSe.in">
+    <title lang="en">Love Aaj Kal</title>
+    <desc lang="en">New &amp; Trending romantic number from Bollywood</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132036001_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240313120000 +0530" stop="20240313130000 +0530" channel="DilSe.in">
+    <title lang="en">Tanha Dil</title>
+    <desc lang="en">Popular Sad Romantic Bollywood tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132036002_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240313130000 +0530" stop="20240313170000 +0530" channel="DilSe.in">
+    <title lang="en">Pehla Pehla Pyaar</title>
+    <desc lang="en">Bollywood's most Popular Romantic tracks - Back to Back</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132036003_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240313170000 +0530" stop="20240313220000 +0530" channel="DilSe.in">
+    <title lang="en">Love Aaj Kal</title>
+    <desc lang="en">New &amp; Trending romantic number from Bollywood</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132036004_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240313220000 +0530" stop="20240313235959 +0530" channel="DilSe.in">
+    <title lang="en">Tanha Dil</title>
+    <desc lang="en">Popular Sad Romantic Bollywood tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132036005_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240314000000 +0530" stop="20240314070000 +0530" channel="DilSe.in">
+    <title lang="en">Pehla Pehla Pyaar</title>
+    <desc lang="en">Bollywood's most Popular Romantic tracks - Back to Back</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142036000_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240314070000 +0530" stop="20240314120000 +0530" channel="DilSe.in">
+    <title lang="en">Love Aaj Kal</title>
+    <desc lang="en">New &amp; Trending romantic number from Bollywood</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142036001_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240314120000 +0530" stop="20240314130000 +0530" channel="DilSe.in">
+    <title lang="en">Tanha Dil</title>
+    <desc lang="en">Popular Sad Romantic Bollywood tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142036002_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240314130000 +0530" stop="20240314170000 +0530" channel="DilSe.in">
+    <title lang="en">Pehla Pehla Pyaar</title>
+    <desc lang="en">Bollywood's most Popular Romantic tracks - Back to Back</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142036003_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240314170000 +0530" stop="20240314220000 +0530" channel="DilSe.in">
+    <title lang="en">Love Aaj Kal</title>
+    <desc lang="en">New &amp; Trending romantic number from Bollywood</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142036004_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240314220000 +0530" stop="20240314235959 +0530" channel="DilSe.in">
+    <title lang="en">Tanha Dil</title>
+    <desc lang="en">Popular Sad Romantic Bollywood tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142036005_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+</tv>

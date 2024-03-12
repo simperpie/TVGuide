@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="HBOHits.my">
+    <display-name lang="mg">HBO Hits 🄼</display-name>
+    <icon src="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png"/>
+  </channel>
+  <programme start="20240311213000 +0530" stop="20240311232000 +0530" channel="HBOHits.my">
+    <title lang="mg">EL Diablo</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240311232000 +0530" stop="20240312005500 +0530" channel="HBOHits.my">
+    <title lang="mg">CLUELESS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240312005500 +0530" stop="20240312031500 +0530" channel="HBOHits.my">
+    <title lang="mg">Man on Fire</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240312031500 +0530" stop="20240312054500 +0530" channel="HBOHits.my">
+    <title lang="mg">TRANSFORMERS: DARK of the MOON</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240312054500 +0530" stop="20240312071000 +0530" channel="HBOHits.my">
+    <title lang="mg">The Enforcer</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240312071000 +0530" stop="20240312084500 +0530" channel="HBOHits.my">
+    <title lang="mg">CLUELESS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240312084500 +0530" stop="20240312104500 +0530" channel="HBOHits.my">
+    <title lang="mg">NOTTING HILL</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240312104500 +0530" stop="20240312121500 +0530" channel="HBOHits.my">
+    <title lang="mg">Puss in Boots (2011)</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240312121500 +0530" stop="20240312142000 +0530" channel="HBOHits.my">
+    <title lang="mg">Black Adam</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240312142000 +0530" stop="20240312155000 +0530" channel="HBOHits.my">
+    <title lang="mg">Bee Movie</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240312155000 +0530" stop="20240312175500 +0530" channel="HBOHits.my">
+    <title lang="mg">DOWNTON ABBEY</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240312175500 +0530" stop="20240312192500 +0530" channel="HBOHits.my">
+    <title lang="mg">Puss in Boots (2011)</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240312192500 +0530" stop="20240312213000 +0530" channel="HBOHits.my">
+    <title lang="mg">NOTTING HILL</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240312213000 +0530" stop="20240312225500 +0530" channel="HBOHits.my">
+    <title lang="mg">The Enforcer</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240312225500 +0530" stop="20240313002500 +0530" channel="HBOHits.my">
+    <title lang="mg">Bee Movie</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240313002500 +0530" stop="20240313024000 +0530" channel="HBOHits.my">
+    <title lang="mg">FAST X</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240313024000 +0530" stop="20240313043500 +0530" channel="HBOHits.my">
+    <title lang="mg">Lansky</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240313043500 +0530" stop="20240313061500 +0530" channel="HBOHits.my">
+    <title lang="mg">CLUELESS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240313061500 +0530" stop="20240313084000 +0530" channel="HBOHits.my">
+    <title lang="mg">Man on Fire</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240313084000 +0530" stop="20240313104500 +0530" channel="HBOHits.my">
+    <title lang="mg">Black Adam</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240313104500 +0530" stop="20240313121500 +0530" channel="HBOHits.my">
+    <title lang="mg">Bee Movie</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240313121500 +0530" stop="20240313135500 +0530" channel="HBOHits.my">
+    <title lang="mg">CLUELESS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240313135500 +0530" stop="20240313160000 +0530" channel="HBOHits.my">
+    <title lang="mg">DOWNTON ABBEY</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240313160000 +0530" stop="20240313173000 +0530" channel="HBOHits.my">
+    <title lang="mg">Puss in Boots (2011)</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240313173000 +0530" stop="20240313190000 +0530" channel="HBOHits.my">
+    <title lang="mg">The Enforcer</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240313190000 +0530" stop="20240313213000 +0530" channel="HBOHits.my">
+    <title lang="mg">TRANSFORMERS: DARK of the MOON</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240313213000 +0530" stop="20240313233000 +0530" channel="HBOHits.my">
+    <title lang="mg">DOWNTON ABBEY</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240313233000 +0530" stop="20240314022500 +0530" channel="HBOHits.my">
+    <title lang="mg">BABYLON</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240314022500 +0530" stop="20240314043000 +0530" channel="HBOHits.my">
+    <title lang="mg">Black Adam</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240314043000 +0530" stop="20240314060000 +0530" channel="HBOHits.my">
+    <title lang="mg">Bee Movie</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240314060000 +0530" stop="20240314080000 +0530" channel="HBOHits.my">
+    <title lang="mg">CHAMPIONS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240314080000 +0530" stop="20240314105000 +0530" channel="HBOHits.my">
+    <title lang="mg">INTERSTELLAR</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240314105000 +0530" stop="20240314112000 +0530" channel="HBOHits.my">
+    <title lang="mg">HOLLYWOOD on SET</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240314112000 +0530" stop="20240314140500 +0530" channel="HBOHits.my">
+    <title lang="mg">THE CURIOUS CASE of BENJAMIN BUTTON</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240314140500 +0530" stop="20240314154500 +0530" channel="HBOHits.my">
+    <title lang="mg">THE BAD GUYS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240314154500 +0530" stop="20240314172000 +0530" channel="HBOHits.my">
+    <title lang="mg">Spy Kids</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240314172000 +0530" stop="20240314192500 +0530" channel="HBOHits.my">
+    <title lang="mg">DOWNTON ABBEY: A NEW ERA</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240314192500 +0530" stop="20240314213000 +0530" channel="HBOHits.my">
+    <title lang="mg">CHAMPIONS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+</tv>

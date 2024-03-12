@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="SONYSPORTSTEN1HD.in">
+    <display-name lang="en">SONY SPORTS TEN 1 HD</display-name>
+  </channel>
+  <programme start="20240312003000 +0530" stop="20240312013000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">FORMULA E 2024 HLs</title>
+    <desc lang="en">Round 1, 2024 Mexico City ePrix- Autodromo Hermanos Rodriguez, Mexico City, Mexico</desc>
+    <category lang="en">Racing</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E63CBE2E0CBD066389D94FAA0C9D0512AF92169B.jpg"/>
+  </programme>
+  <programme start="20240312013000 +0530" stop="20240312020000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">PVL 2024 HLs</title>
+    <desc lang="en">Super 5: Highlights of teams competing in the Super 5 of the 2024 Prime Volleyball League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E868776FA5551D18C023C5C7B6341403AB29465DG.jpg"/>
+  </programme>
+  <programme start="20240312020000 +0530" stop="20240312030000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">FORMULA E 2024 HLs</title>
+    <desc lang="en">Round 2, 2024 Diriyah E Prix- Riyadh Street Circuit, Riyadh, Saudi Arabia</desc>
+    <category lang="en">Racing</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E63CBE2E0CBD066389D94FAA0C9D0512AF92169B.jpg"/>
+  </programme>
+  <programme start="20240312030000 +0530" stop="20240312033000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Manchester City FC vs. FC Copenhagen- City of Manchester Stadium, Manchester, UK</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240312033000 +0530" stop="20240312040000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">FC Bayern Munich vs. SS Lazio- Allianz Arena, Munich, Germany</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240312040000 +0530" stop="20240312050000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">FORMULA E 2024 HLs</title>
+    <desc lang="en">Round 2, 2024 Diriyah E Prix- Riyadh Street Circuit, Riyadh, Saudi Arabia</desc>
+    <category lang="en">Racing</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E63CBE2E0CBD066389D94FAA0C9D0512AF92169B.jpg"/>
+  </programme>
+  <programme start="20240312050000 +0530" stop="20240312053000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">The People's Champion</title>
+    <desc lang="en">A comprehensive compilation of some of the greatest matches and achievements of former professional wrestler Dwayne Johnson.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C0806835E00EA8EAC83F8C74BE4396B3179CB6E3Z.jpg"/>
+  </programme>
+  <programme start="20240312053000 +0530" stop="20240312083000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WWE Raw Live</title>
+    <desc lang="en">Professional wrestlers compete against each other in a prestigious tournament to emerge victorious and win the coveted title, live.</desc>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DCDD123D5359D5BCEB133E781CB928C0D50563CD2.jpg"/>
+  </programme>
+  <programme start="20240312083000 +0530" stop="20240312090000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">RAW Talk Live</title>
+    <desc lang="en">The hosts talk to the superstars of WWE Raw about their performances and their preparations for the upcoming matches, live.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBDE975DDE5FF8265A1F2CA0D9E0286E76C2BF66B.jpg"/>
+  </programme>
+  <programme start="20240312090000 +0530" stop="20240312093000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Indian Street Premier League 2024 HLs</title>
+    <desc lang="en">Tiigers of Kolkata vs. Bangalore Strikers- Dadoji Kondadev Stadium, Thane, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D34498AF10DF620CBA62F916A565A7F065B983999.jpg"/>
+  </programme>
+  <programme start="20240312093000 +0530" stop="20240312123000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Professional wrestlers compete against each other in the ring in order to win the championship and become the undisputed winner.</desc>
+    <credits>
+      <actor>Vince McMahon</actor>
+      <actor>Paul Levesque</actor>
+      <actor>Glenn Jacobs</actor>
+      <actor>John Cena</actor>
+      <actor>Paul Wight</actor>
+      <actor>Randy Orton</actor>
+    </credits>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/642041848F2D1D901659C6DBF55EBFFDAE57E92FM.jpg"/>
+  </programme>
+  <programme start="20240312123000 +0530" stop="20240312151500 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Professional wrestlers compete against each other in the ring in order to win the championship and become the undisputed winner.</desc>
+    <credits>
+      <actor>Vince McMahon</actor>
+      <actor>Paul Levesque</actor>
+      <actor>Glenn Jacobs</actor>
+      <actor>John Cena</actor>
+      <actor>Paul Wight</actor>
+      <actor>Randy Orton</actor>
+    </credits>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/642041848F2D1D901659C6DBF55EBFFDAE57E92FM.jpg"/>
+  </programme>
+  <programme start="20240312151500 +0530" stop="20240312180000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Professional wrestlers compete against each other in the ring in order to win the championship and become the undisputed winner.</desc>
+    <credits>
+      <actor>Vince McMahon</actor>
+      <actor>Paul Levesque</actor>
+      <actor>Glenn Jacobs</actor>
+      <actor>John Cena</actor>
+      <actor>Paul Wight</actor>
+      <actor>Randy Orton</actor>
+    </credits>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/642041848F2D1D901659C6DBF55EBFFDAE57E92FM.jpg"/>
+  </programme>
+  <programme start="20240312180000 +0530" stop="20240312183000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">PVL 2024 HLs</title>
+    <desc lang="en">Super 5: Highlights of teams competing in the Super 5 of the 2024 Prime Volleyball League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E868776FA5551D18C023C5C7B6341403AB29465DG.jpg"/>
+  </programme>
+  <programme start="20240312183000 +0530" stop="20240312203000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Prime Volleyball League 2024 Live</title>
+    <desc lang="en">Super 5: Professional volleyball teams compete against each other in the 2024 edition of Prime Volleyball League in order to emerge victorious, live.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47F388FECB3ADBB3356CBAD61037A7844B4ACF330.jpg"/>
+  </programme>
+  <programme start="20240312203000 +0530" stop="20240312233000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Professional wrestlers compete against each other in the ring in order to win the championship and become the undisputed winner.</desc>
+    <credits>
+      <actor>Vince McMahon</actor>
+      <actor>Paul Levesque</actor>
+      <actor>Glenn Jacobs</actor>
+      <actor>John Cena</actor>
+      <actor>Paul Wight</actor>
+      <actor>Randy Orton</actor>
+    </credits>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/642041848F2D1D901659C6DBF55EBFFDAE57E92FM.jpg"/>
+  </programme>
+  <programme start="20240312233000 +0530" stop="20240313000000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">PVL 2024 HLs</title>
+    <desc lang="en">Super 5: Highlights of teams competing in the Super 5 of the 2024 Prime Volleyball League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E868776FA5551D18C023C5C7B6341403AB29465DG.jpg"/>
+  </programme>
+  <programme start="20240313000000 +0530" stop="20240313003000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Porto vs Arsenal, R16-Leg 1: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240313003000 +0530" stop="20240313013000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Studio Show Live</title>
+    <desc lang="en">A panel of experts engages in a discussion regarding the composition of the teams and the strategies likely to be adopted by them, live.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7565B40F71ED912D7AEBD8E8C8019DDC383ECEB1T.jpg"/>
+  </programme>
+  <programme start="20240313013000 +0530" stop="20240313033000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">UEFA Champions League 2023/24 Live</title>
+    <desc lang="en">Arsenal FC vs. FC Porto- Emirates Stadium, London, UK</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EE4037F31927DF22313DA00C5F5A3E9B9C56370CF.jpg"/>
+  </programme>
+  <programme start="20240313033000 +0530" stop="20240313040000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Manchester City FC vs. FC Copenhagen- City of Manchester Stadium, Manchester, UK</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240313040000 +0530" stop="20240313050000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">FORMULA E 2024 HLs</title>
+    <desc lang="en">Round 3, 2024 Diriyah E Prix- Riyadh Street Circuit, Riyadh, Saudi Arabia</desc>
+    <category lang="en">Racing</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E63CBE2E0CBD066389D94FAA0C9D0512AF92169B.jpg"/>
+  </programme>
+  <programme start="20240313050000 +0530" stop="20240313053000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">The People's Champion</title>
+    <desc lang="en">A comprehensive compilation of some of the greatest matches and achievements of former professional wrestler Dwayne Johnson.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C0806835E00EA8EAC83F8C74BE4396B3179CB6E3Z.jpg"/>
+  </programme>
+  <programme start="20240313053000 +0530" stop="20240313073000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WWE NXT Live</title>
+    <desc lang="en">Professionals from all over the world compete against each other in the NXT, a prominent wrestling competition, to win the title, live.</desc>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/096C1BFD03547B5CB972621441DC547033074209V.jpg"/>
+  </programme>
+  <programme start="20240313073000 +0530" stop="20240313080000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Indian Street Premier League 2024 HLs</title>
+    <desc lang="en">Srinagar Ke Veer vs. Chennai Singams- Dadoji Kondadev Stadium, Thane, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D34498AF10DF620CBA62F916A565A7F065B983999.jpg"/>
+  </programme>
+  <programme start="20240313080000 +0530" stop="20240313090000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WrestleMania Rewind</title>
+    <desc lang="en">The Austin Era Begins: Some of the best matches and inside stories of wrestlers that take place in the WrestleMania, a competition where professional fighters battle to win.</desc>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F6D50A7980CCCD3A5D7F37A18A3FC52FCC4526F1.jpg"/>
+  </programme>
+  <programme start="20240313090000 +0530" stop="20240313093000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">PVL 2024 HLs</title>
+    <desc lang="en">Super 5: Highlights of teams competing in the Super 5 of the 2024 Prime Volleyball League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E868776FA5551D18C023C5C7B6341403AB29465DG.jpg"/>
+  </programme>
+  <programme start="20240313093000 +0530" stop="20240313113000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">With the help of mentors from WWE's Raw and SmackDown, amateur male and female wrestlers compete against each other to become WWE's next breakout star.</desc>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5A2AC273F127D02BFC25AC65D3415AFC4B6B3U.jpg"/>
+  </programme>
+  <programme start="20240313113000 +0530" stop="20240313120000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">PVL 2024 HLs</title>
+    <desc lang="en">Super 5: Highlights of teams competing in the Super 5 of the 2024 Prime Volleyball League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E868776FA5551D18C023C5C7B6341403AB29465DG.jpg"/>
+  </programme>
+  <programme start="20240313120000 +0530" stop="20240313123000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Indian Street Premier League 2024 HLs</title>
+    <desc lang="en">Falcon Risers Hyderabad vs Chennai Singams: Highlights of the 2024 edition of the Indian Street Premier League, wherein teams compete against each other to win the prestigious title and emerge victorious.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D34498AF10DF620CBA62F916A565A7F065B983999.jpg"/>
+  </programme>
+  <programme start="20240313123000 +0530" stop="20240313143000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">With the help of mentors from WWE's Raw and SmackDown, amateur male and female wrestlers compete against each other to become WWE's next breakout star.</desc>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5A2AC273F127D02BFC25AC65D3415AFC4B6B3U.jpg"/>
+  </programme>
+  <programme start="20240313143000 +0530" stop="20240313150000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">PVL 2024 HLs</title>
+    <desc lang="en">Super 5: Highlights of teams competing in the Super 5 of the 2024 Prime Volleyball League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E868776FA5551D18C023C5C7B6341403AB29465DG.jpg"/>
+  </programme>
+  <programme start="20240313150000 +0530" stop="20240313153000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Indian Street Premier League 2024 HLs</title>
+    <desc lang="en">Srinagar Ke Veer vs. Chennai Singams- Dadoji Kondadev Stadium, Thane, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D34498AF10DF620CBA62F916A565A7F065B983999.jpg"/>
+  </programme>
+  <programme start="20240313153000 +0530" stop="20240313160000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Indian Street Premier League 2024 HLs</title>
+    <desc lang="en">Bangalore Strikers vs. Majhi Mumbai- Dadoji Kondadev Stadium, Thane, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D34498AF10DF620CBA62F916A565A7F065B983999.jpg"/>
+  </programme>
+  <programme start="20240313160000 +0530" stop="20240313180000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">With the help of mentors from WWE's Raw and SmackDown, amateur male and female wrestlers compete against each other to become WWE's next breakout star.</desc>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5A2AC273F127D02BFC25AC65D3415AFC4B6B3U.jpg"/>
+  </programme>
+  <programme start="20240313180000 +0530" stop="20240313183000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">PVL 2024 HLs</title>
+    <desc lang="en">Super 5: Highlights of teams competing in the Super 5 of the 2024 Prime Volleyball League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E868776FA5551D18C023C5C7B6341403AB29465DG.jpg"/>
+  </programme>
+  <programme start="20240313183000 +0530" stop="20240313203000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Prime Volleyball League 2024 Live</title>
+    <desc lang="en">Super 5: Professional volleyball teams compete against each other in the 2024 edition of Prime Volleyball League in order to emerge victorious, live.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47F388FECB3ADBB3356CBAD61037A7844B4ACF330.jpg"/>
+  </programme>
+  <programme start="20240313203000 +0530" stop="20240313223000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">With the help of mentors from WWE's Raw and SmackDown, amateur male and female wrestlers compete against each other to become WWE's next breakout star.</desc>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5A2AC273F127D02BFC25AC65D3415AFC4B6B3U.jpg"/>
+  </programme>
+  <programme start="20240313223000 +0530" stop="20240313230000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">PVL 2024 HLs</title>
+    <desc lang="en">Super 5: Highlights of teams competing in the Super 5 of the 2024 Prime Volleyball League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E868776FA5551D18C023C5C7B6341403AB29465DG.jpg"/>
+  </programme>
+  <programme start="20240313230000 +0530" stop="20240314000000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WWE SmackDown</title>
+    <desc lang="en">A professional wrestling tournament, wherein the world's best wrestlers compete against each other to win the coveted title.</desc>
+    <credits>
+      <actor>Michael Cole</actor>
+      <actor>Nic Nemeth</actor>
+      <actor>Glenn Jacobs</actor>
+      <actor>Paul Wight</actor>
+    </credits>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F24EC393D1807C7B7FA3C2FEBE524E7EF06D0333V.jpg"/>
+  </programme>
+  <programme start="20240314000000 +0530" stop="20240314003000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">PSV Eindhoven vs Borussia Dortmund, R16-Leg 1: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240314003000 +0530" stop="20240314013000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Studio Show Live</title>
+    <desc lang="en">A panel of experts engages in a discussion regarding the composition of the teams and the strategies likely to be adopted by them, live.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7565B40F71ED912D7AEBD8E8C8019DDC383ECEB1T.jpg"/>
+  </programme>
+  <programme start="20240314013000 +0530" stop="20240314033000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">UEFA Champions League 2023/24 Live</title>
+    <desc lang="en">Borussia Dortmund vs PSV Eindhoven, Round of 16 Leg 2: Professional football teams compete against each other to emerge victorious in the 2023-24 edition of the UEFA Champions League, live.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EE4037F31927DF22313DA00C5F5A3E9B9C56370CF.jpg"/>
+  </programme>
+  <programme start="20240314033000 +0530" stop="20240314040000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Round Of 16, 2Nd Leg - Md 8B - Mn: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240314040000 +0530" stop="20240314050000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Extreme E 2024 HLs</title>
+    <desc lang="en">Round 1, 2024 Desert X Prix- Jeddah, Saudi Arabia</desc>
+    <category lang="en">Racing</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B6ABA3EF3FBD19AEAC427250F5A174009DD4441J.jpg"/>
+  </programme>
+  <programme start="20240314050000 +0530" stop="20240314053000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">The People's Champion</title>
+    <desc lang="en">A comprehensive compilation of some of the greatest matches and achievements of former professional wrestler Dwayne Johnson.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C0806835E00EA8EAC83F8C74BE4396B3179CB6E3Z.jpg"/>
+  </programme>
+  <programme start="20240314053000 +0530" stop="20240314064500 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Crown Jewels Racing Series 2024 HLs</title>
+    <desc lang="en">Pegasus World Cup (Usa): Highlights of the 2024 horse racing events, where professional jockeys compete against each other in a bid to win the title.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F625FC932DF8E0F8C2C91C7B5FF2520EB9DBC69EP.jpg"/>
+  </programme>
+  <programme start="20240314064500 +0530" stop="20240314071500 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Round Of 16, 2Nd Leg - Md 8B - Mn: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240314071500 +0530" stop="20240314074500 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Indian Street Premier League 2024 HLs</title>
+    <desc lang="en">Srinagar Ke Veer vs Tiigers of Kolkata: Highlights of the 2024 edition of the Indian Street Premier League, wherein teams compete against each other to win the prestigious title and emerge victorious.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D34498AF10DF620CBA62F916A565A7F065B983999.jpg"/>
+  </programme>
+  <programme start="20240314074500 +0530" stop="20240314090000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WrestleMania Rewind</title>
+    <desc lang="en">The Champ Is Here: Some of the best matches and inside stories of wrestlers that take place in the WrestleMania, a competition where professional fighters battle to win.</desc>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F6D50A7980CCCD3A5D7F37A18A3FC52FCC4526F1.jpg"/>
+  </programme>
+  <programme start="20240314090000 +0530" stop="20240314093000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">PVL 2024 HLs</title>
+    <desc lang="en">Super 5: Highlights of teams competing in the Super 5 of the 2024 Prime Volleyball League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E868776FA5551D18C023C5C7B6341403AB29465DG.jpg"/>
+  </programme>
+  <programme start="20240314093000 +0530" stop="20240314113000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Professional wrestlers compete against each other in the ring in order to win the championship and become the undisputed winner.</desc>
+    <credits>
+      <actor>Vince McMahon</actor>
+      <actor>Paul Levesque</actor>
+      <actor>Glenn Jacobs</actor>
+      <actor>John Cena</actor>
+      <actor>Paul Wight</actor>
+      <actor>Randy Orton</actor>
+    </credits>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/642041848F2D1D901659C6DBF55EBFFDAE57E92FM.jpg"/>
+  </programme>
+  <programme start="20240314113000 +0530" stop="20240314120000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">PVL 2024 HLs</title>
+    <desc lang="en">Super 5: Highlights of teams competing in the Super 5 of the 2024 Prime Volleyball League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E868776FA5551D18C023C5C7B6341403AB29465DG.jpg"/>
+  </programme>
+  <programme start="20240314120000 +0530" stop="20240314123000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Indian Street Premier League 2024 HLs</title>
+    <desc lang="en">Falcon Risers Hyderabad vs Chennai Singams: Highlights of the 2024 edition of the Indian Street Premier League, wherein teams compete against each other to win the prestigious title and emerge victorious.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D34498AF10DF620CBA62F916A565A7F065B983999.jpg"/>
+  </programme>
+  <programme start="20240314123000 +0530" stop="20240314143000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Professional wrestlers compete against each other in the ring in order to win the championship and become the undisputed winner.</desc>
+    <credits>
+      <actor>Vince McMahon</actor>
+      <actor>Paul Levesque</actor>
+      <actor>Glenn Jacobs</actor>
+      <actor>John Cena</actor>
+      <actor>Paul Wight</actor>
+      <actor>Randy Orton</actor>
+    </credits>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/642041848F2D1D901659C6DBF55EBFFDAE57E92FM.jpg"/>
+  </programme>
+  <programme start="20240314143000 +0530" stop="20240314150000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">PVL 2024 HLs</title>
+    <desc lang="en">Super 5: Highlights of teams competing in the Super 5 of the 2024 Prime Volleyball League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E868776FA5551D18C023C5C7B6341403AB29465DG.jpg"/>
+  </programme>
+  <programme start="20240314150000 +0530" stop="20240314153000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Indian Street Premier League 2024 HLs</title>
+    <desc lang="en">Srinagar Ke Veer vs Tiigers of Kolkata: Highlights of the 2024 edition of the Indian Street Premier League, wherein teams compete against each other to win the prestigious title and emerge victorious.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D34498AF10DF620CBA62F916A565A7F065B983999.jpg"/>
+  </programme>
+  <programme start="20240314153000 +0530" stop="20240314160000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Indian Street Premier League 2024 HLs</title>
+    <desc lang="en">Falcon Risers Hyderabad vs Chennai Singams: Highlights of the 2024 edition of the Indian Street Premier League, wherein teams compete against each other to win the prestigious title and emerge victorious.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D34498AF10DF620CBA62F916A565A7F065B983999.jpg"/>
+  </programme>
+  <programme start="20240314160000 +0530" stop="20240314180000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Professional wrestlers compete against each other in the ring in order to win the championship and become the undisputed winner.</desc>
+    <credits>
+      <actor>Vince McMahon</actor>
+      <actor>Paul Levesque</actor>
+      <actor>Glenn Jacobs</actor>
+      <actor>John Cena</actor>
+      <actor>Paul Wight</actor>
+      <actor>Randy Orton</actor>
+    </credits>
+    <category lang="en">Wrestling</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/642041848F2D1D901659C6DBF55EBFFDAE57E92FM.jpg"/>
+  </programme>
+  <programme start="20240314180000 +0530" stop="20240314183000 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">PVL 2024 HLs</title>
+    <desc lang="en">Super 5: Highlights of teams competing in the Super 5 of the 2024 Prime Volleyball League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E868776FA5551D18C023C5C7B6341403AB29465DG.jpg"/>
+  </programme>
+  <programme start="20240314183000 +0530" stop="20240314231500 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">Prime Volleyball League 2024 Live</title>
+    <desc lang="en">Super 5: Professional volleyball teams compete against each other in the 2024 edition of Prime Volleyball League in order to emerge victorious, live.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47F388FECB3ADBB3356CBAD61037A7844B4ACF330.jpg"/>
+  </programme>
+  <programme start="20240314231500 +0530" stop="20240315011500 +0530" channel="SONYSPORTSTEN1HD.in">
+    <title lang="en">UEFA Europa League 2023/24 Live</title>
+    <desc lang="en">Slavia Praha vs AC Milan, Round 16 Leg 1 &amp; Leg 2: Professional football teams compete against each other in the 2023-24 UEFA Europa League in order to emerge victorious, live.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7022D0ACAD395B064F9B0E53739407BF799CDCE1.jpg"/>
+  </programme>
+</tv>

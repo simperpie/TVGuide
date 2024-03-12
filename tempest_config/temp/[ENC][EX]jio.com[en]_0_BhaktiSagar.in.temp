@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="BhaktiSagar.in">
+    <display-name lang="en">Bhakti Sagar</display-name>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_Sagar.png"/>
+  </channel>
+  <programme start="20240312000000 +0530" stop="20240312060000 +0530" channel="BhaktiSagar.in">
+    <title lang="en">Bhakti aur Bhajan</title>
+    <desc lang="en">Bhajans &amp; Aartis</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122041000_s.jpg"/>
+    <previously-shown/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240312060000 +0530" stop="20240312080000 +0530" channel="BhaktiSagar.in">
+    <title lang="en">Prarthana</title>
+    <desc lang="en">Bhajans &amp; Aartis</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122041001_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240312080000 +0530" stop="20240312090000 +0530" channel="BhaktiSagar.in">
+    <title lang="en">Ganesh Bhakti</title>
+    <desc lang="en">Ganesh Bhajans &amp; Aartis</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122041002_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240312090000 +0530" stop="20240312180000 +0530" channel="BhaktiSagar.in">
+    <title lang="en">Bhakti aur Bhajan</title>
+    <desc lang="en">Bhajans &amp; Aartis</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122041003_s.jpg"/>
+    <previously-shown/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240312180000 +0530" stop="20240312235959 +0530" channel="BhaktiSagar.in">
+    <title lang="en">Shraddha</title>
+    <desc lang="en">Bhajans &amp; Aartis</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122041004_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240313000000 +0530" stop="20240313060000 +0530" channel="BhaktiSagar.in">
+    <title lang="en">Bhakti aur Bhajan</title>
+    <desc lang="en">Bhajans &amp; Aartis</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132041000_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240313060000 +0530" stop="20240313080000 +0530" channel="BhaktiSagar.in">
+    <title lang="en">Prarthana</title>
+    <desc lang="en">Bhajans &amp; Aartis</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132041001_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240313080000 +0530" stop="20240313090000 +0530" channel="BhaktiSagar.in">
+    <title lang="en">Krishna Bhakti</title>
+    <desc lang="en">Krishna Bhajans &amp; Aartis</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132041002_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240313090000 +0530" stop="20240313180000 +0530" channel="BhaktiSagar.in">
+    <title lang="en">Bhakti aur Bhajan</title>
+    <desc lang="en">Bhajans &amp; Aartis</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132041003_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240313180000 +0530" stop="20240313235959 +0530" channel="BhaktiSagar.in">
+    <title lang="en">Shraddha</title>
+    <desc lang="en">Bhajans &amp; Aartis</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132041004_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240314000000 +0530" stop="20240314060000 +0530" channel="BhaktiSagar.in">
+    <title lang="en">Bhakti aur Bhajan</title>
+    <desc lang="en">Bhajans &amp; Aartis</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142041000_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240314060000 +0530" stop="20240314080000 +0530" channel="BhaktiSagar.in">
+    <title lang="en">Prarthana</title>
+    <desc lang="en">Bhajans &amp; Aartis</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142041001_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240314080000 +0530" stop="20240314090000 +0530" channel="BhaktiSagar.in">
+    <title lang="en">Sai Bhakti</title>
+    <desc lang="en">Sai Bhajans &amp; Aartis</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142041002_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240314090000 +0530" stop="20240314180000 +0530" channel="BhaktiSagar.in">
+    <title lang="en">Bhakti aur Bhajan</title>
+    <desc lang="en">Bhajans &amp; Aartis</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142041003_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240314180000 +0530" stop="20240314235959 +0530" channel="BhaktiSagar.in">
+    <title lang="en">Shraddha</title>
+    <desc lang="en">Bhajans &amp; Aartis</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142041004_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+</tv>

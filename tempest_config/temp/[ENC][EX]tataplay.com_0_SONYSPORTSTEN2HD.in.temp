@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="SONYSPORTSTEN2HD.in">
+    <display-name lang="en">SONY SPORTS TEN 2 HD</display-name>
+  </channel>
+  <programme start="20240312000000 +0530" stop="20240312010000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Bundesliga 2023/24 HLs</title>
+    <desc lang="en">MD25: Highlights of professional German football clubs competing against each other on Matchday 25 in the 2023/24 season of the Bundesliga.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DDF96A87CA96874430D935DFE87AB057C9F19E5Q.jpg"/>
+  </programme>
+  <programme start="20240312010000 +0530" stop="20240312020000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UFC 299</title>
+    <desc lang="en">UFC 299, UFC Bantamweight Championship, Sean O'Malley vs. Marlon Vera- Kaseya Center, Miami, USA</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EBCA64ABF61C218DBA3C76D721C33FB6CEC185456.jpg"/>
+  </programme>
+  <programme start="20240312020000 +0530" stop="20240312030000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UEL/UECL 2023/24 Magazine Programme</title>
+    <desc lang="en">Experts review key facets of the 2023/24 UEFA Europa Conference League and UEFA Europa League and present significant off-field initiatives undertaken by the tournament organisers.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4598A781ADE54752181249C27CD7D69572F5D45FE.jpg"/>
+  </programme>
+  <programme start="20240312030000 +0530" stop="20240312040000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Bundesliga 2023/24 HLs</title>
+    <desc lang="en">MD25: Highlights of professional German football clubs competing against each other on Matchday 25 in the 2023/24 season of the Bundesliga.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DDF96A87CA96874430D935DFE87AB057C9F19E5Q.jpg"/>
+  </programme>
+  <programme start="20240312040000 +0530" stop="20240312060000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Bundesliga 2023/24</title>
+    <desc lang="en">Bayer 04 Leverkusen vs. VfL Wolfsburg- BayArena, Leverkusen, Germany</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD23515355483DADCA06F6D00481509215125AE9E.jpg"/>
+  </programme>
+  <programme start="20240312060000 +0530" stop="20240312070000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UFC 299</title>
+    <desc lang="en">UFC 299, UFC Bantamweight Championship, Sean O'Malley vs. Marlon Vera- Kaseya Center, Miami, USA</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EBCA64ABF61C218DBA3C76D721C33FB6CEC185456.jpg"/>
+  </programme>
+  <programme start="20240312070000 +0530" stop="20240312073000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Kick-Off!</title>
+    <desc lang="en">Hosts Manas Singh and Arpit Sharma get into a conversation with experts to discuss the performances of various football clubs and players.</desc>
+    <credits>
+      <actor>Manas Singh</actor>
+      <actor>Arpit Sharma</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A6A3008EB602D3637889BE41761E5ABFBB3C81FP.jpg"/>
+  </programme>
+  <programme start="20240312073000 +0530" stop="20240312083000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Bundesliga 2023/24 HLs</title>
+    <desc lang="en">MD25: Highlights of professional German football clubs competing against each other on Matchday 25 in the 2023/24 season of the Bundesliga.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DDF96A87CA96874430D935DFE87AB057C9F19E5Q.jpg"/>
+  </programme>
+  <programme start="20240312083000 +0530" stop="20240312090000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Kick-Off!</title>
+    <desc lang="en">Hosts Manas Singh and Arpit Sharma get into a conversation with experts to discuss the performances of various football clubs and players.</desc>
+    <credits>
+      <actor>Manas Singh</actor>
+      <actor>Arpit Sharma</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A6A3008EB602D3637889BE41761E5ABFBB3C81FP.jpg"/>
+  </programme>
+  <programme start="20240312090000 +0530" stop="20240312110000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Bundesliga 2023/24</title>
+    <desc lang="en">Bayer 04 Leverkusen vs. VfL Wolfsburg- BayArena, Leverkusen, Germany</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD23515355483DADCA06F6D00481509215125AE9E.jpg"/>
+  </programme>
+  <programme start="20240312110000 +0530" stop="20240312113000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Rd16, 2nd leg- MN: Highlights of teams competing in the second leg match of Round 16 of the 2023-24 UEFA Champions League.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240312113000 +0530" stop="20240312120000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">ISPL 2024 HLs</title>
+    <desc lang="en">Tiigers of Kolkata vs Bangalore Strikers: Highlights of the Indian Street Premier League held in 2024 wherein cricket teams compete against each other to win the coveted title.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9342571CAE6ADD9933F1F57A80AAE07E285219A70.jpg"/>
+  </programme>
+  <programme start="20240312120000 +0530" stop="20240312150000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UFC Fight Night</title>
+    <desc lang="en">Rozenstruik vs Gaziev: Jairzinho Rozenstruik faces Shamil Gaziev in the UFC final night to emerge victorious.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD1F83B8F01AEB357CAADC112F9212D35ED47C4EL.jpg"/>
+  </programme>
+  <programme start="20240312150000 +0530" stop="20240312160000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UFC 299</title>
+    <desc lang="en">UFC 299, UFC Bantamweight Championship, Sean O'Malley vs. Marlon Vera- Kaseya Center, Miami, USA</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EBCA64ABF61C218DBA3C76D721C33FB6CEC185456.jpg"/>
+  </programme>
+  <programme start="20240312160000 +0530" stop="20240312163000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Kick-Off!</title>
+    <desc lang="en">Hosts Manas Singh and Arpit Sharma get into a conversation with experts to discuss the performances of various football clubs and players.</desc>
+    <credits>
+      <actor>Manas Singh</actor>
+      <actor>Arpit Sharma</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A6A3008EB602D3637889BE41761E5ABFBB3C81FP.jpg"/>
+  </programme>
+  <programme start="20240312163000 +0530" stop="20240312170000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">ISPL 2024 HLs</title>
+    <desc lang="en">Falcon Risers Hyderabad vs Srinagar Ke Veer: Highlights of the Indian Street Premier League held in 2024 wherein cricket teams compete against each other to win the coveted title.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9342571CAE6ADD9933F1F57A80AAE07E285219A70.jpg"/>
+  </programme>
+  <programme start="20240312170000 +0530" stop="20240312191500 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Indian Street Premier League 2024 Live</title>
+    <desc lang="en">Srinagar Ke Veer vs. Chennai Singams- Dadoji Kondadev Stadium, Thane, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B10488C0E6E45F26C8D95BCDD30A2ECB109C69B49.jpg"/>
+  </programme>
+  <programme start="20240312191500 +0530" stop="20240312220000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Indian Street Premier League 2024 Live</title>
+    <desc lang="en">Bangalore Strikers vs. Majhi Mumbai- Dadoji Kondadev Stadium, Thane, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B10488C0E6E45F26C8D95BCDD30A2ECB109C69B49.jpg"/>
+  </programme>
+  <programme start="20240312220000 +0530" stop="20240312223000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 Magazine Programme</title>
+    <desc lang="en">The host presents match reviews, highlights, interviews, best moments and player profiles from the 2023/24 UEFA Champions League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D937314757619A33D3BC5E3790C0D1E6E2B1F4949.jpg"/>
+  </programme>
+  <programme start="20240312223000 +0530" stop="20240313003000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UEFA Youth League 2023/24 Live</title>
+    <desc lang="en">2nd Quarterfinal, FC Nantes vs. FC Copenhagen- Stade de la Beaujoire Louis Fonteneau, Nantes, France</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/318801B7E44E2C9EB64849B6661DBE8F59F9A6A00.jpg"/>
+  </programme>
+  <programme start="20240313003000 +0530" stop="20240313013000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Studio Show Live</title>
+    <desc lang="en">A panel of experts engages in a discussion regarding the composition of the teams and the strategies likely to be adopted by them, live.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7565B40F71ED912D7AEBD8E8C8019DDC383ECEB1T.jpg"/>
+  </programme>
+  <programme start="20240313013000 +0530" stop="20240313031500 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UEFA Champions League 2023/24 Live</title>
+    <desc lang="en">FC Barcelona vs. SSC Napoli- Estadi Olimpic Lluis Companys, Barcelona, Spain</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EE4037F31927DF22313DA00C5F5A3E9B9C56370CF.jpg"/>
+  </programme>
+  <programme start="20240313031500 +0530" stop="20240313040000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Studio Show Live</title>
+    <desc lang="en">A panel of experts engages in a discussion regarding the composition of the teams and the strategies likely to be adopted by them, live.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7565B40F71ED912D7AEBD8E8C8019DDC383ECEB1T.jpg"/>
+  </programme>
+  <programme start="20240313040000 +0530" stop="20240313060000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UEFA Youth League 2023/24</title>
+    <desc lang="en">Bayern Munich vs Olympiacos, QF 1: Professional teams compete against each other in the 2023-24 edition of the UEFA Youth League to win the coveted title.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1C82770BB66A7123057E0E945D85922BD9569BCU.jpg"/>
+  </programme>
+  <programme start="20240313060000 +0530" stop="20240313063000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UFC Connected</title>
+    <desc lang="en">The host, Joe Ferraro, talks about the UFC and other mixed martial arts news, interviews and event highlights.</desc>
+    <credits>
+      <actor>Joe Ferraro</actor>
+    </credits>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ACA6F29F21E2A104276AA8B2C916825284B84038W.jpg"/>
+  </programme>
+  <programme start="20240313063000 +0530" stop="20240313070000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UFC Ultimate Knockouts 2023</title>
+    <desc lang="en">Best Of 2022: A compilation of some of the most impressive knockouts from matches held during the 2022 UFC events.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5CA915B19EAC32162397FC16B02D8673F6521D6I.jpg"/>
+  </programme>
+  <programme start="20240313070000 +0530" stop="20240313073000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Barcelona vs Napoli, RD16 Leg 2: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240313073000 +0530" stop="20240313080000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Arsenal vs Porto, RD16 Leg 2: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240313080000 +0530" stop="20240313083000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Barcelona vs Napoli, RD16 Leg 2: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240313083000 +0530" stop="20240313090000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Arsenal vs Porto, RD16 Leg 2: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240313090000 +0530" stop="20240313110000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UEFA Champions League 2023/24</title>
+    <desc lang="en">Barcelona vs Napoli, RD 16 Leg 2: Professional football teams compete against each other to emerge victorious in the 2023-24 edition of the UEFA Champions League.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2E845B7D364A4FE5B90049552971722CB062B1DDX.jpg"/>
+  </programme>
+  <programme start="20240313110000 +0530" stop="20240313113000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Rd16, 2nd leg- MN: Highlights of teams competing in the second leg match of Round 16 of the 2023-24 UEFA Champions League.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240313113000 +0530" stop="20240313120000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Indian Street Premier League 2024 HLs</title>
+    <desc lang="en">Srinagar Ke Veer vs. Chennai Singams- Dadoji Kondadev Stadium, Thane, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D34498AF10DF620CBA62F916A565A7F065B983999.jpg"/>
+  </programme>
+  <programme start="20240313120000 +0530" stop="20240313123000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Barcelona vs Napoli, RD16 Leg 2: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240313123000 +0530" stop="20240313130000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Arsenal vs Porto, RD16 Leg 2: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240313130000 +0530" stop="20240313150000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UEFA Champions League 2023/24</title>
+    <desc lang="en">Arsenal vs Porto, RD 16 Leg 2: Professional football teams compete against each other to emerge victorious in the 2023-24 edition of the UEFA Champions League.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2E845B7D364A4FE5B90049552971722CB062B1DDX.jpg"/>
+  </programme>
+  <programme start="20240313150000 +0530" stop="20240313153000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Rd16, 2nd leg- MN: Highlights of teams competing in the second leg match of Round 16 of the 2023-24 UEFA Champions League.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240313153000 +0530" stop="20240313160000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Bundesliga Special</title>
+    <desc lang="en">Experts and sports analysts review and discuss the strategies and performances of all the German football clubs competing in the Bundesliga.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/79279157BE02374EB3BA5C8E5C30FFF11A5EFEBBC.jpg"/>
+  </programme>
+  <programme start="20240313160000 +0530" stop="20240313163000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">DFB Pokal 2023/24 HLs</title>
+    <desc lang="en">Quarter Final, 1 FC Saarbrucken vs. Borussia Monchengladbach- Ludwigsparkstadion, Saarbrucken, Germany</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/191A2B0CDC5839DE334F894BC3D580249B0869FD8.jpg"/>
+  </programme>
+  <programme start="20240313163000 +0530" stop="20240313170000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Indian Street Premier League 2024 HLs</title>
+    <desc lang="en">Bangalore Strikers vs. Majhi Mumbai- Dadoji Kondadev Stadium, Thane, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D34498AF10DF620CBA62F916A565A7F065B983999.jpg"/>
+  </programme>
+  <programme start="20240313170000 +0530" stop="20240313191500 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Indian Street Premier League 2024 Live</title>
+    <desc lang="en">Srinagar Ke Veer vs. Tiigers of Kolkata- Dadoji Kondadev Stadium, Thane, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B10488C0E6E45F26C8D95BCDD30A2ECB109C69B49.jpg"/>
+  </programme>
+  <programme start="20240313191500 +0530" stop="20240313220000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Indian Street Premier League 2024 Live</title>
+    <desc lang="en">Falcon Risers Hyderabad vs. Chennai Singams- Dadoji Kondadev Stadium, Thane, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B10488C0E6E45F26C8D95BCDD30A2ECB109C69B49.jpg"/>
+  </programme>
+  <programme start="20240313220000 +0530" stop="20240313223000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Rd16, 2nd leg- MN: Highlights of teams competing in the second leg match of Round 16 of the 2023-24 UEFA Champions League.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240313223000 +0530" stop="20240314003000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UEFA Youth League 2023/24 Live</title>
+    <desc lang="en">4th Quarterfinal, 1 FSV Mainz 05 vs. FC Porto- Bruchwegstadion, Mainz, Germany</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/318801B7E44E2C9EB64849B6661DBE8F59F9A6A00.jpg"/>
+  </programme>
+  <programme start="20240314003000 +0530" stop="20240314013000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Studio Show Live</title>
+    <desc lang="en">A panel of experts engages in a discussion regarding the composition of the teams and the strategies likely to be adopted by them, live.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7565B40F71ED912D7AEBD8E8C8019DDC383ECEB1T.jpg"/>
+  </programme>
+  <programme start="20240314013000 +0530" stop="20240314031500 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UEFA Champions League 2023/24 Live</title>
+    <desc lang="en">Atletico Madrid vs Internazionale, RD 16 Leg 2: Professional football teams compete against each other to emerge victorious in the 2023-24 edition of the UEFA Champions League, live.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EE4037F31927DF22313DA00C5F5A3E9B9C56370CF.jpg"/>
+  </programme>
+  <programme start="20240314031500 +0530" stop="20240314040000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Studio Show Live</title>
+    <desc lang="en">A panel of experts engages in a discussion regarding the composition of the teams and the strategies likely to be adopted by them, live.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7565B40F71ED912D7AEBD8E8C8019DDC383ECEB1T.jpg"/>
+  </programme>
+  <programme start="20240314040000 +0530" stop="20240314060000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UEFA Youth League 2023/24</title>
+    <desc lang="en">AC Milan vs Real Madrid, QF 3: Professional teams compete against each other in the 2023-24 edition of the UEFA Youth League to win the coveted title.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1C82770BB66A7123057E0E945D85922BD9569BCU.jpg"/>
+  </programme>
+  <programme start="20240314060000 +0530" stop="20240314063000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UFC Connected</title>
+    <desc lang="en">The host, Joe Ferraro, talks about the UFC and other mixed martial arts news, interviews and event highlights.</desc>
+    <credits>
+      <actor>Joe Ferraro</actor>
+    </credits>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ACA6F29F21E2A104276AA8B2C916825284B84038W.jpg"/>
+  </programme>
+  <programme start="20240314063000 +0530" stop="20240314070000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UFC Ultimate Knockouts 2023</title>
+    <desc lang="en">Welterweights: A compilation of some of the most impressive knockouts from welterweight matches held during the 2023 UFC events.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D5CA915B19EAC32162397FC16B02D8673F6521D6I.jpg"/>
+  </programme>
+  <programme start="20240314070000 +0530" stop="20240314073000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Atletico Madrid vs Internazionale, RD16 Leg 2: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240314073000 +0530" stop="20240314080000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Borussia Dortmund vs PSV Eindhoven, RD16 Leg 2: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240314080000 +0530" stop="20240314083000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Atletico Madrid vs Internazionale, RD16 Leg 2: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240314083000 +0530" stop="20240314090000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Borussia Dortmund vs PSV Eindhoven, RD16 Leg 2: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240314090000 +0530" stop="20240314110000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UEFA Champions League 2023/24</title>
+    <desc lang="en">Atletico Madrid vs Internazionale, RD 16 Leg 2: Professional football teams compete against each other to emerge victorious in the 2023-24 edition of the UEFA Champions League.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2E845B7D364A4FE5B90049552971722CB062B1DDX.jpg"/>
+  </programme>
+  <programme start="20240314110000 +0530" stop="20240314113000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Rd16, 2nd leg- MN: Highlights of teams competing in the second leg match of Round 16 of the 2023-24 UEFA Champions League.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240314113000 +0530" stop="20240314120000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Indian Street Premier League 2024 HLs</title>
+    <desc lang="en">Srinagar Ke Veer vs Tiigers of Kolkata: Highlights of the 2024 edition of the Indian Street Premier League, wherein teams compete against each other to win the prestigious title and emerge victorious.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D34498AF10DF620CBA62F916A565A7F065B983999.jpg"/>
+  </programme>
+  <programme start="20240314120000 +0530" stop="20240314123000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Atletico Madrid vs Internazionale, RD16 Leg 2: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240314123000 +0530" stop="20240314130000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Borussia Dortmund vs PSV Eindhoven, RD16 Leg 2: Highlights from the 2023-24 UEFA Champions League, wherein professional football teams compete against each other in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240314130000 +0530" stop="20240314150000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UEFA Champions League 2023/24</title>
+    <desc lang="en">Borussia Dortmund vs PSV Eindhoven, RD 16 Leg 2: Professional football teams compete against each other to emerge victorious in the 2023-24 edition of the UEFA Champions League.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2E845B7D364A4FE5B90049552971722CB062B1DDX.jpg"/>
+  </programme>
+  <programme start="20240314150000 +0530" stop="20240314153000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Rd16, 2nd leg- MN: Highlights of teams competing in the second leg match of Round 16 of the 2023-24 UEFA Champions League.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240314153000 +0530" stop="20240314160000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Bundesliga 2023/24</title>
+    <desc lang="en">Weekly Show: Professional German football clubs compete against each other in the 2023/24 season of the Bundesliga to win the prestigious competition.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD23515355483DADCA06F6D00481509215125AE9E.jpg"/>
+  </programme>
+  <programme start="20240314160000 +0530" stop="20240314163000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Saudi Pro League 2023/24 Magazine</title>
+    <desc lang="en">Experts discuss the goings-on from the 2023/24 edition of the Saudi Pro League, wherein football clubs compete to win the coveted title.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3EAC70CBD34DCAF611B24EBB56ACC7D25A2FB49A9.jpg"/>
+  </programme>
+  <programme start="20240314163000 +0530" stop="20240314170000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Indian Street Premier League 2024 HLs</title>
+    <desc lang="en">Falcon Risers Hyderabad vs Chennai Singams: Highlights of the 2024 edition of the Indian Street Premier League, wherein teams compete against each other to win the prestigious title and emerge victorious.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D34498AF10DF620CBA62F916A565A7F065B983999.jpg"/>
+  </programme>
+  <programme start="20240314170000 +0530" stop="20240314191500 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Indian Street Premier League 2024 Live</title>
+    <desc lang="en">SF 1: Teams compete against each other in the 2024 edition of the Indian Street Premier League to win the prestigious title and emerge victorious, live.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B10488C0E6E45F26C8D95BCDD30A2ECB109C69B49.jpg"/>
+  </programme>
+  <programme start="20240314191500 +0530" stop="20240314220000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Indian Street Premier League 2024 Live</title>
+    <desc lang="en">SF 2: Teams compete against each other in the 2024 edition of the Indian Street Premier League to win the prestigious title and emerge victorious, live.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B10488C0E6E45F26C8D95BCDD30A2ECB109C69B49.jpg"/>
+  </programme>
+  <programme start="20240314220000 +0530" stop="20240314223000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UCL 2023/24 HLs</title>
+    <desc lang="en">Rd16, 2nd leg- MN: Highlights of teams competing in the second leg match of Round 16 of the 2023-24 UEFA Champions League.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A672EF59D278F7B2E3EDEB9E86B99A3497468F.jpg"/>
+  </programme>
+  <programme start="20240314223000 +0530" stop="20240314230000 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Bundesliga Special</title>
+    <desc lang="en">Experts and sports analysts review and discuss the strategies and performances of all the German football clubs competing in the Bundesliga.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/79279157BE02374EB3BA5C8E5C30FFF11A5EFEBBC.jpg"/>
+  </programme>
+  <programme start="20240314230000 +0530" stop="20240314231500 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240314231500 +0530" stop="20240315011500 +0530" channel="SONYSPORTSTEN2HD.in">
+    <title lang="en">UEFA Europa League 2023/24 Live</title>
+    <desc lang="en">Villarreal vs Marseille, RD16 Leg 2: Professional football teams compete against each other in the 2023-24 UEFA Europa League in order to emerge victorious, live.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7022D0ACAD395B064F9B0E53739407BF799CDCE1.jpg"/>
+  </programme>
+</tv>

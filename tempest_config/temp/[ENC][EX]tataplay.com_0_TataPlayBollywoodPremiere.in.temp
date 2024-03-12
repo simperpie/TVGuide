@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="TataPlayBollywoodPremiere.in">
+    <display-name lang="en">Tata Play Bollywood Premiere</display-name>
+  </channel>
+  <programme start="20240312000000 +0530" stop="20240312022200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240312022200 +0530" stop="20240312022500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240312022500 +0530" stop="20240312042200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Is She Raju?</title>
+    <desc lang="en">Two Lovers, Three Haters, One Helpless Husband, And A Crazy Twist - It Is All About Having Those Embarassing Moments In Life At A Young Age And Looking Back Only To Laugh At Them.</desc>
+    <credits>
+      <actor>Aditi Bhagat</actor>
+      <actor>Ansh Gupta</actor>
+      <actor>Amit Behl</actor>
+      <actor>Saurabh Sharma</actor>
+      <actor>Yashpaal Saini</actor>
+      <actor>Abbas Khan</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A21473C4B495F5730CC4D90B3F953083391541132.jpg"/>
+  </programme>
+  <programme start="20240312042200 +0530" stop="20240312042500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240312042500 +0530" stop="20240312060000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Fuddu</title>
+    <desc lang="en">Unable to consumate his marriage, Mohan becomes a social pariah in Mumbai's cramped living conditions, where privacy is a luxury not everyone can afford.</desc>
+    <credits>
+      <actor>Shubham</actor>
+      <actor>Swati Kapoor</actor>
+      <actor>Uday Tikekar</actor>
+      <actor>Shalini Arora</actor>
+      <actor>Paritosh Sand</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/79C4E6D3B8ED2C963BE4CF6B4AF74A58CF9630068.jpg"/>
+  </programme>
+  <programme start="20240312060000 +0530" stop="20240312073600 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Josef - Born in Grace</title>
+    <desc lang="en">Josef - Born in Grace - 2019 - An orphan with abandonment issues is sent away to another parish by his guardian. A missionary doctor. He returns a talented cook, but also an alcoholic. Despite attempts to help him, he starts spiraling in his forsakenness.</desc>
+    <credits>
+      <actor>Victor Banerjee</actor>
+      <actor>Subrat Dutta</actor>
+      <actor>Sudarshan Juyal</actor>
+      <actor>Hitesh Bisht</actor>
+      <actor>Gautam Chatterjee</actor>
+      <actor>Anamika Goswami</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/880A763B6110BA7BEEE80FFBEA3D0C0EB4BE67FCF.jpg"/>
+  </programme>
+  <programme start="20240312073600 +0530" stop="20240312074000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240312074000 +0530" stop="20240312100200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240312100200 +0530" stop="20240312100500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240312100500 +0530" stop="20240312122700 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240312122700 +0530" stop="20240312123000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240312123000 +0530" stop="20240312141100 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Woh 3 Din</title>
+    <desc lang="en">Woh 3 Din - 2022 - an uncomplicated man with few uncomplicated dreams - Sanjay Mishra as Rikshaw Driver.</desc>
+    <credits>
+      <actor>Sanjay Mishra</actor>
+      <actor>Chandan Roy Sanyal</actor>
+      <actor>Rajesh Sharma</actor>
+      <actor>Purva Parag</actor>
+      <actor>Payel Mukherjee</actor>
+      <actor>Ram Singh Rajput</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9127FB0AE367DF99253912DA192E4CE13ED739AR.jpg"/>
+  </programme>
+  <programme start="20240312141100 +0530" stop="20240312141500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240312141500 +0530" stop="20240312163700 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240312163700 +0530" stop="20240312164000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240312164000 +0530" stop="20240312185700 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Bholaa</title>
+    <desc lang="en">Bholaa - 2023 - After getting out of prison with the desire to meet his daughter, Bholaa's plans are interrupted by a well-orchestrated drug bust.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Tabu</actor>
+      <actor>Sanjay Mishra</actor>
+      <actor>Deepak Dobriyal</actor>
+      <actor>Gajraj Rao</actor>
+      <actor>Vineet Kumar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7470A3BF41E597241559372E1543D3EBA68A818L.jpg"/>
+  </programme>
+  <programme start="20240312185700 +0530" stop="20240312190000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240312190000 +0530" stop="20240312212200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240312212200 +0530" stop="20240312212500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240312212500 +0530" stop="20240312234700 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240312234700 +0530" stop="20240313000000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240313000000 +0530" stop="20240313022200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240313022200 +0530" stop="20240313022500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240313022500 +0530" stop="20240313041900 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Luv Shv Pyar Vyar</title>
+    <desc lang="en">Rahul, a prizefighter who hails from a poor family, is smitten with Ruby, the daughter of a rich and powerful man. While their love blooms, her father opposes their union fiercely.</desc>
+    <credits>
+      <actor>Gaurav Ajay Kaura</actor>
+      <actor>Dolly Chawla</actor>
+      <actor>Gulshan Pandey</actor>
+      <actor>Kunal Sharma</actor>
+      <actor>Promita Banik</actor>
+      <actor>Pankaj Bali</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/01BE10184051F395C1CD10974700509EE7D8BA8DV.jpg"/>
+  </programme>
+  <programme start="20240313041900 +0530" stop="20240313042000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240313042000 +0530" stop="20240313053000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Angithee 2</title>
+    <desc lang="en">Angithee 2 - 2023 - Kavya, a married woman, lives a dull life with her husband Rajeev in a small town of Jammu. Sick of the monotonous routine, she seeks happiness and excitement. This is when a young boy enters her life and makes her feel liberated.</desc>
+    <credits>
+      <actor>Shafaq Naaz</actor>
+      <actor>Rishi Bhutani</actor>
+      <actor>Fezan Khan</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3D3E26C8FE34C92FB96295FA787AE6F8C0977BCJ.jpg"/>
+  </programme>
+  <programme start="20240313053000 +0530" stop="20240313073400 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Gaon</title>
+    <desc lang="en">A village kept secret for centuries receives a visitor at long last and finds the course of its destiny changed forever.</desc>
+    <credits>
+      <actor>Shadab Kamal</actor>
+      <actor>Neha Mahajan</actor>
+      <actor>Gopal Singh</actor>
+      <actor>Dibyendu Bhattacharya</actor>
+      <actor>Rohit Pathak</actor>
+      <actor>Omkar Das Manikpuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C3D385BDEC7F3239325B844FE57DFAA9796371DS.jpg"/>
+  </programme>
+  <programme start="20240313073400 +0530" stop="20240313073500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240313073500 +0530" stop="20240313095700 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240313095700 +0530" stop="20240313100000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240313100000 +0530" stop="20240313122200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240313122200 +0530" stop="20240313122500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240313122500 +0530" stop="20240313142000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Ammaa Ki Boli</title>
+    <desc lang="en">Ammaa Ki Boli revolves around an old-aged husband-less mother Ammaa (Faruk Zafar), her 5 grown-up children's and a second-rate two-seater scooter living in a small town. Ammaa's five grown-up children's, namely Parmu (Govind Namdev), Jeetu (Sitaram Panchal), Rukmi (Sanjay Mishra), Kalavati (Himani Shivpuri) and Hari (Zakir Hussain), are all well-settled</desc>
+    <credits>
+      <actor>Sanjay Mishra</actor>
+      <actor>Hrishitaa Bhatt</actor>
+      <actor>Zakir Hussain</actor>
+      <actor>Govind Namdeo</actor>
+      <actor>Farrukh Jaffar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/54C6752510721AE4E829B2E70F953C7DCFC44CD4R.jpg"/>
+  </programme>
+  <programme start="20240313142000 +0530" stop="20240313164200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240313164200 +0530" stop="20240313164500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240313164500 +0530" stop="20240313185100 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Mrs. Chatterjee vs Norway</title>
+    <desc lang="en">Mrs Chatterjee vs Norway - 2023 - An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.</desc>
+    <credits>
+      <actor>Rani Mukerji</actor>
+      <actor>Anirban Bhattacharya</actor>
+      <actor>Jim Sarbh</actor>
+      <actor>Neena Gupta</actor>
+      <actor>Kart Tammjarv</actor>
+      <actor>Britta Soll</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1DD826F1FAC658834ECB2655102A0699A3EC3E4AQ.jpg"/>
+  </programme>
+  <programme start="20240313185100 +0530" stop="20240313211300 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240313211300 +0530" stop="20240313212000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240313212000 +0530" stop="20240313234200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240313234200 +0530" stop="20240314000000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240314000000 +0530" stop="20240314022200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240314022200 +0530" stop="20240314042000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">JD</title>
+    <desc lang="en">Based on the life and hardships faced by a journalist JD. He faced rape charges from his fellow journalist. Film also shows how politician use media for their own benefit.</desc>
+    <credits>
+      <actor>Lalit Bisht</actor>
+      <actor>Vedita Pratap Singh</actor>
+      <actor>Govind Namdev</actor>
+      <actor>Aman Verma</actor>
+      <actor>Rina Charaniya</actor>
+      <actor>Surya Mohan Kulshrestha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/84A3A8E7C807775698FF6C7AFD3F0009E013BF9D2.jpg"/>
+  </programme>
+  <programme start="20240314042000 +0530" stop="20240314054400 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Jaggu Ki Lalten</title>
+    <desc lang="en">Jaggu Ki Lalten - 2022 - The film explores the life of a middle-class man who made his fortune creating successful deals as a scrap dealer. The sacrifices he made in his early age gave him the strength and will to fight and bring the difference in the lives of the people surrounding him.</desc>
+    <credits>
+      <actor>Raghubir Yadav</actor>
+      <actor>Neeraj Gupta</actor>
+      <actor>Rajgopal Iyer</actor>
+      <actor>Saleem Zaidi</actor>
+      <actor>Rambir Aryam</actor>
+      <actor>Aakriti Bharti</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/34EF81FDE4107B2303A48AB5AC8371B52BF172BCH.jpg"/>
+  </programme>
+  <programme start="20240314054400 +0530" stop="20240314074200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Love Shagun</title>
+    <desc lang="en">JD has several problems surrounding his marriage according to his horoscope. Unfortunately, his mother's constant nagging and friends' unwanted relationship advice only makes matters worse.</desc>
+    <credits>
+      <actor>Anuj Sachdeva</actor>
+      <actor>Nidhi Subbaiah</actor>
+      <actor>Shamin Mannan</actor>
+      <actor>Manit Joura</actor>
+      <actor>Vikram Kochhar</actor>
+      <actor>Taran Bajaj</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DA3F58B2C1E54D028735E65131DB7FC9F13DE6DC.jpg"/>
+  </programme>
+  <programme start="20240314074200 +0530" stop="20240314091100 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Mission Code</title>
+    <desc lang="en">Mission Code is real dramatical motivational story to showing in this movie.</desc>
+    <credits>
+      <actor>Shoib Nikash Shah</actor>
+      <actor>Karishma Thakur</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8B38DDFBA82335E54831B5E5C88F089A7CB2148D3.jpg"/>
+  </programme>
+  <programme start="20240314091100 +0530" stop="20240314091500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240314091500 +0530" stop="20240314113700 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240314113700 +0530" stop="20240314114000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240314114000 +0530" stop="20240314134700 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Marne Bhi Do Yaaron</title>
+    <desc lang="en">A young man makes failed suicide attempts until he meets a bystander who insists on helping him in return for money.</desc>
+    <credits>
+      <actor>Krishna Abhishek</actor>
+      <actor>Kashmira Shah</actor>
+      <actor>Kishwar Merchant</actor>
+      <actor>Rishaab Chauhaan</actor>
+      <actor>Pawan Singh</actor>
+      <actor>Rajesh Puri</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AC7412BD0DE1F38B8BAFA503C781A170CBCBC8F6P.jpg"/>
+  </programme>
+  <programme start="20240314134700 +0530" stop="20240314135000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240314135000 +0530" stop="20240314161200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240314161200 +0530" stop="20240314161500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240314161500 +0530" stop="20240314183100 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Satyaprem Ki Katha</title>
+    <desc lang="en">Satyaprem Ki Katha - 2023 - A Middle-class Boy In Ahmedabad, Satyaprem Falling In One-sided Love With Katha, Who Is Coping With Her Breakup With Tapan. Through The Journey, They Discover Each Other's Life And Complement In Accomplishing What Was Left Halfway.</desc>
+    <credits>
+      <actor>Kartik Aaryan</actor>
+      <actor>Kiara Advani</actor>
+      <actor>Gajraj Rao</actor>
+      <actor>Supriya Pathak</actor>
+      <actor>Siddharth Randeria</actor>
+      <actor>Anuradha Patel</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D4087CF6C3C359820B45C6EE9D5042ADF27E4426.jpg"/>
+  </programme>
+  <programme start="20240314183100 +0530" stop="20240314183500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240314183500 +0530" stop="20240314205700 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240314205700 +0530" stop="20240314210000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240314210000 +0530" stop="20240314232200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240314232200 +0530" stop="20240314232500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240314232500 +0530" stop="20240315000000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">The Bombay Journey With Pratik Gandhi</title>
+    <desc lang="en">The "Bombay Journey" is a talk show centering around Mumbai and its Bollywood superstars and their journey in the city of dreams.</desc>
+    <credits>
+      <actor>Siddharth Aalambayan</actor>
+      <actor>Pratik Gandhi</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg"/>
+  </programme>
+</tv>

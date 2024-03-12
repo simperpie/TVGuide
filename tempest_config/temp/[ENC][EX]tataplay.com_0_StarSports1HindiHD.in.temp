@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="StarSports1HindiHD.in">
+    <display-name lang="en">Star Sports 1 Hindi HD</display-name>
+  </channel>
+  <programme start="20240312000000 +0530" stop="20240312003000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2018 Highlights</title>
+    <desc lang="en">Match 50, Mumbai Indians vs. Kings XI Punjab- Wankhede Stadium, Mumbai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE66B4BC676C3DBC887AECA3F5957C85500211A7P.jpg"/>
+  </programme>
+  <programme start="20240312003000 +0530" stop="20240312010000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2019 Hlts KKR v SRH</title>
+    <desc lang="en">Match 2, Kolkata Knight Riders vs. Sunrisers Hyderabad- Eden Gardens, Kolkata, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EE360004974B221C75D8929843D7143711C42BBH.jpg"/>
+  </programme>
+  <programme start="20240312010000 +0530" stop="20240312013000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2020 H/L's RR v KXIP</title>
+    <desc lang="en">Match 9, Rajasthan Royals vs. Kings XI Punjab- Sharjah Cricket Stadium, Sharjah, UAE</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CED328572746BB8F839426E14327C3317A327BCEQ.jpg"/>
+  </programme>
+  <programme start="20240312013000 +0530" stop="20240312020000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Vivo IPL 2021 Hlts. SRH v RCB</title>
+    <desc lang="en">Match 6, Sunrisers Hyderabad vs. Royal Challengers Bangalore- M. A. Chidambaram Stadium, Chennai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D34B7FEFBFA31821A302016B7E8B5E5B0088791FG.jpg"/>
+  </programme>
+  <programme start="20240312020000 +0530" stop="20240312023000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">TATA IPL Highlights RR v LSG</title>
+    <desc lang="en">Rajasthan Royals vs. Lucknow Super Giants- Wankhede Stadium, Mumbai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D2789537A26FDB377C89CECEF0171C6C94035053.jpg"/>
+  </programme>
+  <programme start="20240312023000 +0530" stop="20240312030000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">TATA IPL 2023 HIGHLIGHTS LSG v MI</title>
+    <desc lang="en">Lucknow Super Giants vs. Mumbai Indians- BRSABV Ekana Cricket Stadium, Lucknow, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BB0D54C737F6D55F488EDE9EAFB1F4EE947B5F.jpg"/>
+  </programme>
+  <programme start="20240312030000 +0530" stop="20240312033000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2018 Highlights</title>
+    <desc lang="en">Match 1, Mumbai Indians vs. Chennai Super Kings- Wankhede Stadium, Mumbai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE66B4BC676C3DBC887AECA3F5957C85500211A7P.jpg"/>
+  </programme>
+  <programme start="20240312033000 +0530" stop="20240312040000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2019 Hlts</title>
+    <desc lang="en">Match 7, Royal Challengers Bangalore vs. Mumbai Indians- M. Chinnaswamy Stadium, Bengaluru, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EE360004974B221C75D8929843D7143711C42BBH.jpg"/>
+  </programme>
+  <programme start="20240312040000 +0530" stop="20240312043000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2020 H/L's RCB v MI</title>
+    <desc lang="en">Match 10, Royal Challengers Bangalore vs. Mumbai Indians- Dubai International Stadium, Dubai, UAE</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A548792813C58A0F4C5199FD7A8429A164C2AF15B.jpg"/>
+  </programme>
+  <programme start="20240312043000 +0530" stop="20240312050000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Vivo IPL 2021 Hlts. SRH v DC</title>
+    <desc lang="en">Match 20, Sunrisers Hyderabad vs. Delhi Capitals- M. A. Chidambaram Stadium, Chennai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5ED7DC63CEE209ED711F52887178D27B8A05AB9DB.jpg"/>
+  </programme>
+  <programme start="20240312050000 +0530" stop="20240312053000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">TATA IPL Highlights RR v KKR</title>
+    <desc lang="en">Rajasthan Royals vs. Kolkata Knight Riders- Brabourne Stadium, Mumbai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93C94F831483A2D2570671EF09738936A87A2F07Y.jpg"/>
+  </programme>
+  <programme start="20240312053000 +0530" stop="20240312060000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">TATA IPL 2023 HIGHLIGHTS KKR v LSG</title>
+    <desc lang="en">Kolkata Knight Riders vs. Lucknow Super Giants- Eden Gardens, Kolkata, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B7FE7EB1C31EBE2A618BE2241E21D18C2FD20F3Z.jpg"/>
+  </programme>
+  <programme start="20240312060000 +0530" stop="20240312063000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2018 Highlights</title>
+    <desc lang="en">Match 5, Chennai Super Kings vs. Kolkata Knight Riders- M.A. Chidambaram Stadium, Chennai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE66B4BC676C3DBC887AECA3F5957C85500211A7P.jpg"/>
+  </programme>
+  <programme start="20240312063000 +0530" stop="20240312070000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2019 Hlts</title>
+    <desc lang="en">Match 10, Delhi Capitals vs. Kolkata Knight Riders- Feroz Shah Kotla Ground, Delhi, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EE360004974B221C75D8929843D7143711C42BBH.jpg"/>
+  </programme>
+  <programme start="20240312070000 +0530" stop="20240312071500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Legends Cricket Trophy Hlts 2024 Devils v Strikers</title>
+    <desc lang="en">Delhi Devils vs. NY Superstar Strikers- Pallekele International Cricket Stadium, Kandy, Sri Lanka</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C698BAB6BF60C8E97098A4549F1F5E50AD7931E5.jpg"/>
+  </programme>
+  <programme start="20240312071500 +0530" stop="20240312073000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Legends Cricket Trophy Hlts 2024 Army v Lions</title>
+    <desc lang="en">Kandy Samp Army vs. Colombo Lions- Pallekele International Cricket Stadium, Kandy, Sri Lanka</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C698BAB6BF60C8E97098A4549F1F5E50AD7931E5.jpg"/>
+  </programme>
+  <programme start="20240312073000 +0530" stop="20240312074500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Today</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
+  </programme>
+  <programme start="20240312074500 +0530" stop="20240312080000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Incredible Shades Of Virat</title>
+    <desc lang="en">The presenter provides an insight into multiple facets of the personal and professional lives of celebrated Indian cricketer Virat Kohli.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/721C4CFDBDDF0420509661FD7045A3992D680E4AW.jpg"/>
+  </programme>
+  <programme start="20240312080000 +0530" stop="20240312083000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL:Incredible Finals</title>
+    <desc lang="en">A comprehensive compilation of incredible finals played between various rival teams in the Indian Premier League, a prestigious tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E475A481428E3473767B21CFF948C8356316B1CA6.jpg"/>
+  </programme>
+  <programme start="20240312083000 +0530" stop="20240312090000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL:Incredible Finals</title>
+    <desc lang="en">A comprehensive compilation of incredible finals played between various rival teams in the Indian Premier League, a prestigious tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E475A481428E3473767B21CFF948C8356316B1CA6.jpg"/>
+  </programme>
+  <programme start="20240312090000 +0530" stop="20240312093000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL:Incredible Finals</title>
+    <desc lang="en">A comprehensive compilation of incredible finals played between various rival teams in the Indian Premier League, a prestigious tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E475A481428E3473767B21CFF948C8356316B1CA6.jpg"/>
+  </programme>
+  <programme start="20240312093000 +0530" stop="20240312100000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL:Incredible Finals</title>
+    <desc lang="en">A comprehensive compilation of incredible finals played between various rival teams in the Indian Premier League, a prestigious tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E475A481428E3473767B21CFF948C8356316B1CA6.jpg"/>
+  </programme>
+  <programme start="20240312100000 +0530" stop="20240312103000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL's BEST BROMANCES</title>
+    <desc lang="en">The host sheds light on some of the best friendship moments among cricket players competing in the 2024 edition of the IPL.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3F56E88307FBD6A8A88E48F422EB0105DD0082A3M.jpg"/>
+  </programme>
+  <programme start="20240312103000 +0530" stop="20240312104500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Incredible Shades Of Virat</title>
+    <desc lang="en">The presenter provides an insight into multiple facets of the personal and professional lives of celebrated Indian cricketer Virat Kohli.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/721C4CFDBDDF0420509661FD7045A3992D680E4AW.jpg"/>
+  </programme>
+  <programme start="20240312104500 +0530" stop="20240312111500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+  <programme start="20240312111500 +0530" stop="20240312113000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Incredible Shades Of Virat</title>
+    <desc lang="en">The presenter provides an insight into multiple facets of the personal and professional lives of celebrated Indian cricketer Virat Kohli.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/721C4CFDBDDF0420509661FD7045A3992D680E4AW.jpg"/>
+  </programme>
+  <programme start="20240312113000 +0530" stop="20240312114500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Today</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
+  </programme>
+  <programme start="20240312114500 +0530" stop="20240312121500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+  <programme start="20240312121500 +0530" stop="20240312123000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">16 INCREDIBLE YEARS - BEST OF CSK</title>
+    <desc lang="en">Best Of CSK: The host presents a compilation of the top 16 moments of the team Chennai Super Kings, a professional cricket franchise based in Chennai.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A69FFF3667618435120107F9B04E51F14B0E528Y.jpg"/>
+  </programme>
+  <programme start="20240312123000 +0530" stop="20240312130000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Game Plan:IPL 2024</title>
+    <desc lang="en">Experts discuss the possible team and player strategies and player profiles for the 2024 edition of the Indian Premier League.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A8F4B8FC0E900ABF0C20D5CD2A5A8D7C636BC03L.jpg"/>
+  </programme>
+  <programme start="20240312130000 +0530" stop="20240312133000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL:Incredible Finals</title>
+    <desc lang="en">A comprehensive compilation of incredible finals played between various rival teams in the Indian Premier League, a prestigious tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E475A481428E3473767B21CFF948C8356316B1CA6.jpg"/>
+  </programme>
+  <programme start="20240312133000 +0530" stop="20240312140000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL:Incredible Finals</title>
+    <desc lang="en">A comprehensive compilation of incredible finals played between various rival teams in the Indian Premier League, a prestigious tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E475A481428E3473767B21CFF948C8356316B1CA6.jpg"/>
+  </programme>
+  <programme start="20240312140000 +0530" stop="20240312143000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL:Incredible Finals</title>
+    <desc lang="en">A comprehensive compilation of incredible finals played between various rival teams in the Indian Premier League, a prestigious tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E475A481428E3473767B21CFF948C8356316B1CA6.jpg"/>
+  </programme>
+  <programme start="20240312143000 +0530" stop="20240312150000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL:Incredible Finals</title>
+    <desc lang="en">A comprehensive compilation of incredible finals played between various rival teams in the Indian Premier League, a prestigious tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E475A481428E3473767B21CFF948C8356316B1CA6.jpg"/>
+  </programme>
+  <programme start="20240312150000 +0530" stop="20240312150500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Cricket Fillers - Others Hindi</title>
+    <desc lang="en">Others Hindi: Take a look at some of the most memorable cricket matches and other interesting moments.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD442FE00A76CFE44D2967C546653E5C6E94AEC57.jpg"/>
+  </programme>
+  <programme start="20240312150500 +0530" stop="20240312152000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL's Incredible Leap</title>
+    <desc lang="en">The host provides insights into some of the incredible leaps and performances of various cricketers in the Indian Premier League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BA556027040FAFB5BA460AE1E2680E1B9C06D484.jpg"/>
+  </programme>
+  <programme start="20240312152000 +0530" stop="20240312155000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+  <programme start="20240312155000 +0530" stop="20240312183000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Live Legends Cricket Trophy Strikers v Royal</title>
+    <desc lang="en">NY Superstar Strikers vs. Punjab Royals- Pallekele International Cricket Stadium, Kandy, Sri Lanka</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/264C9A6F2C54821F8B6470BC501BEB3CE71D6D7CU.jpg"/>
+  </programme>
+  <programme start="20240312183000 +0530" stop="20240312184500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Today</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
+  </programme>
+  <programme start="20240312184500 +0530" stop="20240312185000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Cricket Fillers - Others Hindi</title>
+    <desc lang="en">Others Hindi: Take a look at some of the most memorable cricket matches and other interesting moments.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD442FE00A76CFE44D2967C546653E5C6E94AEC57.jpg"/>
+  </programme>
+  <programme start="20240312185000 +0530" stop="20240312213000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Live Legends Cricket Trophy Kings v Lions</title>
+    <desc lang="en">Rajasthan Kings vs. Colombo Lions- Pallekele International Cricket Stadium, Kandy, Sri Lanka</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/264C9A6F2C54821F8B6470BC501BEB3CE71D6D7CU.jpg"/>
+  </programme>
+  <programme start="20240312213000 +0530" stop="20240312220000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL on Star:Action Replay 2023</title>
+    <desc lang="en">The host sheds light on some of the most exciting moments and highlights from the 2023 edition of the Indian Premier League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9BB4ECCD4A6B06F24241901B51D51B9B91D3D162.jpg"/>
+  </programme>
+  <programme start="20240312220000 +0530" stop="20240312221500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Today</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
+  </programme>
+  <programme start="20240312221500 +0530" stop="20240312224500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+  <programme start="20240312224500 +0530" stop="20240312231500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+  <programme start="20240312231500 +0530" stop="20240312234500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">The King's Quest</title>
+    <desc lang="en">The presenter brings attention to the journey of renowned Indian cricketer Virat Kohli over the years and highlights his career achievements.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E500E1779288D9CAFF9F7AC3C4BBCA5E5A2C35BB.jpg"/>
+  </programme>
+  <programme start="20240312234500 +0530" stop="20240313000000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Incredible Shades Of Virat</title>
+    <desc lang="en">The presenter provides an insight into multiple facets of the personal and professional lives of celebrated Indian cricketer Virat Kohli.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/721C4CFDBDDF0420509661FD7045A3992D680E4AW.jpg"/>
+  </programme>
+  <programme start="20240313000000 +0530" stop="20240313003000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL on Star:Action Replay 2023</title>
+    <desc lang="en">IPL on Star:Action Replay 2023</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9BB4ECCD4A6B06F24241901B51D51B9B91D3D162.jpg"/>
+  </programme>
+  <programme start="20240313003000 +0530" stop="20240313010000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2019 Hlts</title>
+    <desc lang="en">Match 7, Royal Challengers Bangalore vs. Mumbai Indians- M. Chinnaswamy Stadium, Bengaluru, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EE360004974B221C75D8929843D7143711C42BBH.jpg"/>
+  </programme>
+  <programme start="20240313010000 +0530" stop="20240313013000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2020 H/L's RCB v MI</title>
+    <desc lang="en">Match 10, Royal Challengers Bangalore vs. Mumbai Indians- Dubai International Stadium, Dubai, UAE</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A548792813C58A0F4C5199FD7A8429A164C2AF15B.jpg"/>
+  </programme>
+  <programme start="20240313013000 +0530" stop="20240313020000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Vivo IPL 2021 Hlts. SRH v DC</title>
+    <desc lang="en">Match 20, Sunrisers Hyderabad vs. Delhi Capitals- M. A. Chidambaram Stadium, Chennai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5ED7DC63CEE209ED711F52887178D27B8A05AB9DB.jpg"/>
+  </programme>
+  <programme start="20240313020000 +0530" stop="20240313023000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">TATA IPL Highlights RR v KKR</title>
+    <desc lang="en">Rajasthan Royals vs. Kolkata Knight Riders- Brabourne Stadium, Mumbai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/93C94F831483A2D2570671EF09738936A87A2F07Y.jpg"/>
+  </programme>
+  <programme start="20240313023000 +0530" stop="20240313030000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">TATA IPL 2023 HIGHLIGHTS KKR v LSG</title>
+    <desc lang="en">Kolkata Knight Riders vs. Lucknow Super Giants- Eden Gardens, Kolkata, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B7FE7EB1C31EBE2A618BE2241E21D18C2FD20F3Z.jpg"/>
+  </programme>
+  <programme start="20240313030000 +0530" stop="20240313033000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2018 Highlights</title>
+    <desc lang="en">Match 5, Chennai Super Kings vs. Kolkata Knight Riders- M.A. Chidambaram Stadium, Chennai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE66B4BC676C3DBC887AECA3F5957C85500211A7P.jpg"/>
+  </programme>
+  <programme start="20240313033000 +0530" stop="20240313040000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2019 Hlts</title>
+    <desc lang="en">Match 10, Delhi Capitals vs. Kolkata Knight Riders- Feroz Shah Kotla Ground, Delhi, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EE360004974B221C75D8929843D7143711C42BBH.jpg"/>
+  </programme>
+  <programme start="20240313040000 +0530" stop="20240313043000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2020 H/L's KXIP v KKR</title>
+    <desc lang="en">Match 24, Kings XI Punjab vs. Kolkata Knight Riders- Sheikh Zayed Stadium, Abu Dhabi, UAE</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62C20EBF1B0608EA3948EF3DB485EAE90141B9FBV.jpg"/>
+  </programme>
+  <programme start="20240313043000 +0530" stop="20240313050000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Vivo IPL 2021 Hlts. DC v RCB</title>
+    <desc lang="en">Match 22, Delhi Capitals vs. Royal Challengers Bangalore- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1E47A67EDA81BE8FEABB0287C87796B1B7CA1CFW.jpg"/>
+  </programme>
+  <programme start="20240313050000 +0530" stop="20240313053000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">TATA IPL Highlights MI v CSK</title>
+    <desc lang="en">Mumbai Indians vs. Chennai Super Kings- DY Patil Stadium, Navi Mumbai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/093F007C48B5048A7B5FA951545118E775F0BE271.jpg"/>
+  </programme>
+  <programme start="20240313053000 +0530" stop="20240313060000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">TATA IPL 2023 HIGHLIGHTS RCB v GT</title>
+    <desc lang="en">Royal Challengers Bangalore vs. Gujarat Titans- M Chinnaswamy Stadium, Bengaluru, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/66B2787D0DD010DBFC9377A94E7B6FC9B6EEE6BBW.jpg"/>
+  </programme>
+  <programme start="20240313060000 +0530" stop="20240313063000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2018 Highlights</title>
+    <desc lang="en">Match 7, Sunrisers Hyderabad vs. Mumbai Indians- Rajiv Gandhi International Cricket Stadium, Hyderabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE66B4BC676C3DBC887AECA3F5957C85500211A7P.jpg"/>
+  </programme>
+  <programme start="20240313063000 +0530" stop="20240313070000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2019 Hlts KXIP v SRH</title>
+    <desc lang="en">Match 22, Kings XI Punjab vs. Sunrisers Hyderabad- Punjab Cricket Association Inderjit Singh Bindra Stadium, Mohali, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EE360004974B221C75D8929843D7143711C42BBH.jpg"/>
+  </programme>
+  <programme start="20240313070000 +0530" stop="20240313071500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Legends Cricket Trophy Hlts 2024 Strikers v Royal</title>
+    <desc lang="en">NY Superstar Strikers vs. Punjab Royals- Pallekele International Cricket Stadium, Kandy, Sri Lanka</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C698BAB6BF60C8E97098A4549F1F5E50AD7931E5.jpg"/>
+  </programme>
+  <programme start="20240313071500 +0530" stop="20240313073000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Legends Cricket Trophy Hlts 2024 Kings v Lions</title>
+    <desc lang="en">Rajasthan Kings vs. Colombo Lions- Pallekele International Cricket Stadium, Kandy, Sri Lanka</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C698BAB6BF60C8E97098A4549F1F5E50AD7931E5.jpg"/>
+  </programme>
+  <programme start="20240313073000 +0530" stop="20240313074500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 360</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
+  </programme>
+  <programme start="20240313074500 +0530" stop="20240313080000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Incredible Shades Of Virat</title>
+    <desc lang="en">The presenter provides an insight into multiple facets of the personal and professional lives of celebrated Indian cricketer Virat Kohli.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/721C4CFDBDDF0420509661FD7045A3992D680E4AW.jpg"/>
+  </programme>
+  <programme start="20240313080000 +0530" stop="20240313083000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Vivo IPL 2021 Hlts. MI v CSK</title>
+    <desc lang="en">Match 27, Mumbai Indians vs. Chennai Super Kings- Arun Jaitley Stadium, New Delhi, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/59817087201BBA5ADC71B2680E1D6D30467EE9AAV.jpg"/>
+  </programme>
+  <programme start="20240313083000 +0530" stop="20240313090000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">TATA IPL Highlights PBKS v RCB</title>
+    <desc lang="en">Punjab Kings vs. Royal Challengers Bangalore- DY Patil Stadium, Navi Mumbai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B96D895177AA68E04C71EF7697444328A71E9B212.jpg"/>
+  </programme>
+  <programme start="20240313090000 +0530" stop="20240313093000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Cricket Countdown</title>
+    <desc lang="en">A countdown of some of the best moments from various professional cricket matches played around the world by various teams in 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/37325B6522846F1D5550ED9F700D731D478B9DC17.jpg"/>
+  </programme>
+  <programme start="20240313093000 +0530" stop="20240313094500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 360</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
+  </programme>
+  <programme start="20240313094500 +0530" stop="20240313101500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Game Plan:IPL 2024</title>
+    <desc lang="en">Experts discuss the possible team and player strategies and player profiles for the 2024 edition of the Indian Premier League.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A8F4B8FC0E900ABF0C20D5CD2A5A8D7C636BC03L.jpg"/>
+  </programme>
+  <programme start="20240313101500 +0530" stop="20240313103000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">16 INCREDIBLE YEARS - BEST OF MI</title>
+    <desc lang="en">Best Of MI: The host presents a compilation of the top 16 moments of the team Mumbai Indians, a professional franchise cricket team based in Mumbai.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A69FFF3667618435120107F9B04E51F14B0E528Y.jpg"/>
+  </programme>
+  <programme start="20240313103000 +0530" stop="20240313104500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Incredible Shades Of Virat</title>
+    <desc lang="en">The presenter provides an insight into multiple facets of the personal and professional lives of celebrated Indian cricketer Virat Kohli.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/721C4CFDBDDF0420509661FD7045A3992D680E4AW.jpg"/>
+  </programme>
+  <programme start="20240313104500 +0530" stop="20240313111500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+  <programme start="20240313111500 +0530" stop="20240313113000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Incredible 3 2024</title>
+    <desc lang="en">The host shares career journeys and incredible life stories of notable players from the cricket team ahead of the prestigious Indian Premier League of 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/23FD594989F21EE5347657C3D2D539C3B3648F2DB.jpg"/>
+  </programme>
+  <programme start="20240313113000 +0530" stop="20240313114500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL's Incredible Leap</title>
+    <desc lang="en">The host provides insights into some of the incredible leaps and performances of various cricketers in the Indian Premier League.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BA556027040FAFB5BA460AE1E2680E1B9C06D484.jpg"/>
+  </programme>
+  <programme start="20240313114500 +0530" stop="20240313120000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 360</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
+  </programme>
+  <programme start="20240313120000 +0530" stop="20240313123000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+  <programme start="20240313123000 +0530" stop="20240313130000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Game Plan:IPL 2024</title>
+    <desc lang="en">Experts discuss the possible team and player strategies and player profiles for the 2024 edition of the Indian Premier League.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A8F4B8FC0E900ABF0C20D5CD2A5A8D7C636BC03L.jpg"/>
+  </programme>
+  <programme start="20240313130000 +0530" stop="20240313133000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2019 Hlts</title>
+    <desc lang="en">Match 60, Final, Mumbai Indians vs. Chennai Super Kings- Rajiv Gandhi International Cricket Stadium, Hyderabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EE360004974B221C75D8929843D7143711C42BBH.jpg"/>
+  </programme>
+  <programme start="20240313133000 +0530" stop="20240313140000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Cricket Countdown</title>
+    <desc lang="en">A countdown of some of the best moments from various professional cricket matches played around the world by various teams in 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/37325B6522846F1D5550ED9F700D731D478B9DC17.jpg"/>
+  </programme>
+  <programme start="20240313140000 +0530" stop="20240313143000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">The King's Quest</title>
+    <desc lang="en">The King's Quest</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E500E1779288D9CAFF9F7AC3C4BBCA5E5A2C35BB.jpg"/>
+  </programme>
+  <programme start="20240313143000 +0530" stop="20240313150000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+  <programme start="20240313150000 +0530" stop="20240313150500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Cricket Fillers - Others Hindi</title>
+    <desc lang="en">Others Hindi: Take a look at some of the most memorable cricket matches and other interesting moments.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD442FE00A76CFE44D2967C546653E5C6E94AEC57.jpg"/>
+  </programme>
+  <programme start="20240313150500 +0530" stop="20240313152000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Incredible Shades Of Virat</title>
+    <desc lang="en">The presenter provides an insight into multiple facets of the personal and professional lives of celebrated Indian cricketer Virat Kohli.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/721C4CFDBDDF0420509661FD7045A3992D680E4AW.jpg"/>
+  </programme>
+  <programme start="20240313152000 +0530" stop="20240313155000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Cricket Countdown</title>
+    <desc lang="en">A countdown of some of the best moments from various professional cricket matches played around the world by various teams in 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/37325B6522846F1D5550ED9F700D731D478B9DC17.jpg"/>
+  </programme>
+  <programme start="20240313155000 +0530" stop="20240313183000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Live Legends Cricket Trophy Devils v Royal</title>
+    <desc lang="en">Delhi Devils vs. Punjab Royal- Pallekele International Cricket Stadium, Kandy, Sri Lanka</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/264C9A6F2C54821F8B6470BC501BEB3CE71D6D7CU.jpg"/>
+  </programme>
+  <programme start="20240313183000 +0530" stop="20240313184500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 360</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
+  </programme>
+  <programme start="20240313184500 +0530" stop="20240313185000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Cricket Fillers - Others Hindi</title>
+    <desc lang="en">Others Hindi: Take a look at some of the most memorable cricket matches and other interesting moments.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD442FE00A76CFE44D2967C546653E5C6E94AEC57.jpg"/>
+  </programme>
+  <programme start="20240313185000 +0530" stop="20240313213000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Legends Cricket Trophy</title>
+    <desc lang="en">Prominent Cricketers from across the world participate to emerge victorious in the seven-team tournament of the 2024 Legends Cricket Trophy, live.</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/264C9A6F2C54821F8B6470BC501BEB3CE71D6D7CU.jpg"/>
+  </programme>
+  <programme start="20240313213000 +0530" stop="20240313220000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+  <programme start="20240313220000 +0530" stop="20240313221500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 360</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
+  </programme>
+  <programme start="20240313221500 +0530" stop="20240313224500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+  <programme start="20240313224500 +0530" stop="20240313230000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">16 INCREDIBLE YEARS - BEST OF RCB</title>
+    <desc lang="en">Best Of RCB: The host presents a compilation of the top 16 moments of the team Royal Challengers Bangalore, a professional franchise cricket team based in Bengaluru.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A69FFF3667618435120107F9B04E51F14B0E528Y.jpg"/>
+  </programme>
+  <programme start="20240313230000 +0530" stop="20240313233000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL on Star:Action Replay 2023</title>
+    <desc lang="en">IPL on Star:Action Replay 2023</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9BB4ECCD4A6B06F24241901B51D51B9B91D3D162.jpg"/>
+  </programme>
+  <programme start="20240313233000 +0530" stop="20240314000000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">The King's Quest</title>
+    <desc lang="en">The King's Quest</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E500E1779288D9CAFF9F7AC3C4BBCA5E5A2C35BB.jpg"/>
+  </programme>
+  <programme start="20240314000000 +0530" stop="20240314003000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2018 Highlights</title>
+    <desc lang="en">Match 5, Chennai Super Kings vs. Kolkata Knight Riders- M.A. Chidambaram Stadium, Chennai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE66B4BC676C3DBC887AECA3F5957C85500211A7P.jpg"/>
+  </programme>
+  <programme start="20240314003000 +0530" stop="20240314010000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2019 Hlts</title>
+    <desc lang="en">Match 10, Delhi Capitals vs. Kolkata Knight Riders- Feroz Shah Kotla Ground, Delhi, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EE360004974B221C75D8929843D7143711C42BBH.jpg"/>
+  </programme>
+  <programme start="20240314010000 +0530" stop="20240314013000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2020 H/L's KXIP v KKR</title>
+    <desc lang="en">Match 24, Kings XI Punjab vs. Kolkata Knight Riders- Sheikh Zayed Stadium, Abu Dhabi, UAE</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62C20EBF1B0608EA3948EF3DB485EAE90141B9FBV.jpg"/>
+  </programme>
+  <programme start="20240314013000 +0530" stop="20240314020000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Vivo IPL 2021 Hlts. DC v RCB</title>
+    <desc lang="en">Match 22, Delhi Capitals vs. Royal Challengers Bangalore- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1E47A67EDA81BE8FEABB0287C87796B1B7CA1CFW.jpg"/>
+  </programme>
+  <programme start="20240314020000 +0530" stop="20240314023000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">TATA IPL Highlights MI v CSK</title>
+    <desc lang="en">Mumbai Indians vs. Chennai Super Kings- DY Patil Stadium, Navi Mumbai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/093F007C48B5048A7B5FA951545118E775F0BE271.jpg"/>
+  </programme>
+  <programme start="20240314023000 +0530" stop="20240314030000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">TATA IPL 2023 HIGHLIGHTS RCB v GT</title>
+    <desc lang="en">Royal Challengers Bangalore vs. Gujarat Titans- M Chinnaswamy Stadium, Bengaluru, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/66B2787D0DD010DBFC9377A94E7B6FC9B6EEE6BBW.jpg"/>
+  </programme>
+  <programme start="20240314030000 +0530" stop="20240314033000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2018 Highlights</title>
+    <desc lang="en">Match 7, Sunrisers Hyderabad vs. Mumbai Indians- Rajiv Gandhi International Cricket Stadium, Hyderabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE66B4BC676C3DBC887AECA3F5957C85500211A7P.jpg"/>
+  </programme>
+  <programme start="20240314033000 +0530" stop="20240314040000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2019 Hlts KXIP v SRH</title>
+    <desc lang="en">Match 22, Kings XI Punjab vs. Sunrisers Hyderabad- Punjab Cricket Association Inderjit Singh Bindra Stadium, Mohali, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EE360004974B221C75D8929843D7143711C42BBH.jpg"/>
+  </programme>
+  <programme start="20240314040000 +0530" stop="20240314043000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2020 H/L's SRH v RR</title>
+    <desc lang="en">Match 26, Sunrisers Hyderabad vs. Rajasthan Royals- Dubai International Stadium, Dubai, UAE</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3438C7C1180E847BD898B76D96480BA9AFA8EA7C6.jpg"/>
+  </programme>
+  <programme start="20240314043000 +0530" stop="20240314050000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Vivo IPL 2021 Hlts. MI v CSK</title>
+    <desc lang="en">Match 27, Mumbai Indians vs. Chennai Super Kings- Arun Jaitley Stadium, New Delhi, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/59817087201BBA5ADC71B2680E1D6D30467EE9AAV.jpg"/>
+  </programme>
+  <programme start="20240314050000 +0530" stop="20240314053000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">TATA IPL Highlights GT v SRH</title>
+    <desc lang="en">Gujarat Titans vs. Sunrisers Hyderabad- Wankhede Stadium, Mumbai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/633FC87CCEDA0F1580766C3FF69CDA99F055B931J.jpg"/>
+  </programme>
+  <programme start="20240314053000 +0530" stop="20240314060000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">TATA IPL 2023 HIGHLIGHTS CSK v GT</title>
+    <desc lang="en">Chennai Super Kings vs. Gujarat Titans- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BCF70F323C869DF4490C6D431977F9AD3C13387ET.jpg"/>
+  </programme>
+  <programme start="20240314060000 +0530" stop="20240314063000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2018 Highlights</title>
+    <desc lang="en">Match 9, Mumbai Indians vs. Delhi Daredevils- Wankhede Stadium, Mumbai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE66B4BC676C3DBC887AECA3F5957C85500211A7P.jpg"/>
+  </programme>
+  <programme start="20240314063000 +0530" stop="20240314070000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2019 Hlts</title>
+    <desc lang="en">Match 24, Mumbai Indians vs. Kings XI Punjab- Wankhede Stadium, Mumbai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EE360004974B221C75D8929843D7143711C42BBH.jpg"/>
+  </programme>
+  <programme start="20240314070000 +0530" stop="20240314073000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2009 Highlights</title>
+    <desc lang="en">Match 10, Kolkata Knight Riders vs. Rajasthan Royals- Newlands Cricket Ground, Cape Town, South Africa</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/98FF704AC0910AC880BA0C4BB242240E890B88EDX.jpg"/>
+  </programme>
+  <programme start="20240314073000 +0530" stop="20240314074500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 360</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
+  </programme>
+  <programme start="20240314074500 +0530" stop="20240314080000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Know Your Team</title>
+    <desc lang="en">Experts analyses the strengths, weaknesses, opportunities and threats of each cricket team in the Indian Premier League ahead of its 2023 edition.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/202F0384DA519421F7FECCDE744D8E61929D13CDI.jpg"/>
+  </programme>
+  <programme start="20240314080000 +0530" stop="20240314083000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 2019 Hlts RCB v KKR</title>
+    <desc lang="en">Match 17, Royal Challengers Bangalore vs. Kolkata Knight Riders- M. Chinnaswamy Stadium, Bengaluru, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EE360004974B221C75D8929843D7143711C42BBH.jpg"/>
+  </programme>
+  <programme start="20240314083000 +0530" stop="20240314090000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">TATA IPL Highlights PBKS v GT</title>
+    <desc lang="en">Punjab Kings vs. Gujarat Titans- Brabourne Stadium, Mumbai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07C55B6B9CC0B092CA7D4A4D00B135F598B325F2Z.jpg"/>
+  </programme>
+  <programme start="20240314090000 +0530" stop="20240314093000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">The King's Quest</title>
+    <desc lang="en">The King's Quest</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E500E1779288D9CAFF9F7AC3C4BBCA5E5A2C35BB.jpg"/>
+  </programme>
+  <programme start="20240314093000 +0530" stop="20240314094500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 360</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
+  </programme>
+  <programme start="20240314094500 +0530" stop="20240314101500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Game Plan:IPL 2024</title>
+    <desc lang="en">Experts discuss the possible team and player strategies and player profiles for the 2024 edition of the Indian Premier League.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A8F4B8FC0E900ABF0C20D5CD2A5A8D7C636BC03L.jpg"/>
+  </programme>
+  <programme start="20240314101500 +0530" stop="20240314103000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">16 INCREDIBLE YEARS - BEST OF RCB</title>
+    <desc lang="en">Best Of RCB: The host presents a compilation of the top 16 moments of the team Royal Challengers Bangalore, a professional franchise cricket team based in Bengaluru.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A69FFF3667618435120107F9B04E51F14B0E528Y.jpg"/>
+  </programme>
+  <programme start="20240314103000 +0530" stop="20240314104500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Incredible Shades Of Virat</title>
+    <desc lang="en">The presenter provides an insight into multiple facets of the personal and professional lives of celebrated Indian cricketer Virat Kohli.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/721C4CFDBDDF0420509661FD7045A3992D680E4AW.jpg"/>
+  </programme>
+  <programme start="20240314104500 +0530" stop="20240314111500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+  <programme start="20240314111500 +0530" stop="20240314113000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Incredible 3 2024</title>
+    <desc lang="en">The host shares career journeys and incredible life stories of notable players from the cricket team ahead of the prestigious Indian Premier League of 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/23FD594989F21EE5347657C3D2D539C3B3648F2DB.jpg"/>
+  </programme>
+  <programme start="20240314113000 +0530" stop="20240314114500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 360</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
+  </programme>
+  <programme start="20240314114500 +0530" stop="20240314121500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+  <programme start="20240314121500 +0530" stop="20240314123000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">16 INCREDIBLE YEARS - BEST OF KKR</title>
+    <desc lang="en">Best Of KKR: The host presents a compilation of the top 16 moments of the team Kolkata Knight Riders, a professional franchise cricket team representing the city of Kolkata.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A69FFF3667618435120107F9B04E51F14B0E528Y.jpg"/>
+  </programme>
+  <programme start="20240314123000 +0530" stop="20240314130000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Game Plan:IPL 2024</title>
+    <desc lang="en">Experts discuss the possible team and player strategies and player profiles for the 2024 edition of the Indian Premier League.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A8F4B8FC0E900ABF0C20D5CD2A5A8D7C636BC03L.jpg"/>
+  </programme>
+  <programme start="20240314130000 +0530" stop="20240314154500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">The Incredible Match 2024</title>
+    <desc lang="en">The Incredible Match 2024</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/58EB97DCB2DFF4574F7C30E8161571BC88CA04CAE.jpg"/>
+  </programme>
+  <programme start="20240314154500 +0530" stop="20240314155000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Cricket Fillers - Others Hindi</title>
+    <desc lang="en">Others Hindi: Take a look at some of the most memorable cricket matches and other interesting moments.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD442FE00A76CFE44D2967C546653E5C6E94AEC57.jpg"/>
+  </programme>
+  <programme start="20240314155000 +0530" stop="20240314183000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Live Legends Cricket Trophy Giants v Royal</title>
+    <desc lang="en">Dubai Giants vs. Punjab Royal- Pallekele International Cricket Stadium, Kandy, Sri Lanka</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/264C9A6F2C54821F8B6470BC501BEB3CE71D6D7CU.jpg"/>
+  </programme>
+  <programme start="20240314183000 +0530" stop="20240314184500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 360</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
+  </programme>
+  <programme start="20240314184500 +0530" stop="20240314185000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Cricket Fillers - Others Hindi</title>
+    <desc lang="en">Others Hindi: Take a look at some of the most memorable cricket matches and other interesting moments.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD442FE00A76CFE44D2967C546653E5C6E94AEC57.jpg"/>
+  </programme>
+  <programme start="20240314185000 +0530" stop="20240314213000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Live Legends Cricket Trophy Devils v Kings</title>
+    <desc lang="en">Delhi Devils vs. Rajasthan Kings- Pallekele International Cricket Stadium, Kandy, Sri Lanka</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/264C9A6F2C54821F8B6470BC501BEB3CE71D6D7CU.jpg"/>
+  </programme>
+  <programme start="20240314213000 +0530" stop="20240314220000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+  <programme start="20240314220000 +0530" stop="20240314221500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL 360</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
+  </programme>
+  <programme start="20240314221500 +0530" stop="20240314224500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+  <programme start="20240314224500 +0530" stop="20240314230000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">16 INCREDIBLE YEARS - BEST OF MI</title>
+    <desc lang="en">Best Of MI: The host presents a compilation of the top 16 moments of the team Mumbai Indians, a professional franchise cricket team based in Mumbai.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A69FFF3667618435120107F9B04E51F14B0E528Y.jpg"/>
+  </programme>
+  <programme start="20240314230000 +0530" stop="20240314233000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">The King's Quest</title>
+    <desc lang="en">The King's Quest</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E500E1779288D9CAFF9F7AC3C4BBCA5E5A2C35BB.jpg"/>
+  </programme>
+  <programme start="20240314233000 +0530" stop="20240315000000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+</tv>

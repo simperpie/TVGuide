@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="TataPlayTheatreHD.in">
+    <display-name lang="en">Tata Play Theatre HD</display-name>
+  </channel>
+  <programme start="20240312003000 +0530" stop="20240312013000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Koi Baat Chale - Hatak</title>
+    <desc lang="en">When, Sungandhi, who is in an unrespected profession, gets humiliated by a rich client sets out to reevaluate her dignity.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C750785C60FBBFFEB724828963394BF84BD0A38T.jpg"/>
+  </programme>
+  <programme start="20240312013000 +0530" stop="20240312033000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Sandhya Chhaya</title>
+    <desc lang="en">Nana and Nani, an elderly couple live away from their children and feel deprived of their love. Despite the loneliness, they courageously fight the desolation and sadness in their lives.</desc>
+    <credits>
+      <actor>Uttara Baokar</actor>
+      <actor>Deepak Qazir</actor>
+      <actor>Vinnay Vishwa</actor>
+      <actor>Saroj Parida</actor>
+      <actor>Niraj Sah</actor>
+      <actor>Edward Sonnenblick</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AC9998243BA28FD5707EA1528547B5A32893A974.jpg"/>
+  </programme>
+  <programme start="20240312033000 +0530" stop="20240312040000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Theatre Tales - M. S. Sathyu</title>
+    <desc lang="en">The host highlights the life and works of renowned theatre personality M S Sathyu and engages in an insightful conversation with him.</desc>
+    <credits>
+      <actor>M S Sathyu</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F908ED7204DC2AA5404448236B43793AC550294E.jpg"/>
+    <episode-num system="xmltv_ns">.203.</episode-num>
+  </programme>
+  <programme start="20240312040000 +0530" stop="20240312063000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Doll's House</title>
+    <desc lang="en">A married woman spares no effort to protect a secret that might ruin her marriage while she longs for her husband's love rather than just being showcased as his prized possession.</desc>
+    <credits>
+      <actor>Ratnabali Bhattacharjee</actor>
+      <actor>Shubraojyoti Barat</actor>
+      <actor>Swastika Mukherjee</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F343B471B7EBC6A06527E5C724B11EADC6EF6194N.jpg"/>
+  </programme>
+  <programme start="20240312063000 +0530" stop="20240312080000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Panchi Aise Aate Hain</title>
+    <desc lang="en">Arun, a young traveller, meets the Shuklas, a middle-class and tradition-bound family that is trying hard to get its daughter married. However, the prospective bride seems to have some other plans.</desc>
+    <credits>
+      <actor>Ratan Rajput</actor>
+      <actor>Amol Parasher</actor>
+      <actor>Deepak Qazir</actor>
+      <actor>Vibha Chibber</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A63F335F33516809484217FD4D38560A6BAEA896H.jpg"/>
+  </programme>
+  <programme start="20240312080000 +0530" stop="20240312103000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Agnipankh</title>
+    <desc lang="en">Durgeshwari, a bold and fierce Brahmin matriarch who is proud of her upper-caste roots, leaves no stone unturned to maintain her place in her family as well as the society.</desc>
+    <credits>
+      <actor>Mita Vashisht</actor>
+      <actor>Satyajit Sharma</actor>
+      <actor>Raksha Shetty</actor>
+      <actor>Prasad Jawade</actor>
+      <actor>Gulki Joshi</actor>
+      <actor>Dinkar Gavande</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ED2EC9CA9A6662EED978E22E8BBE18335608DA7D1.jpg"/>
+  </programme>
+  <programme start="20240312103000 +0530" stop="20240312123000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Ok Tata Bye Bye</title>
+    <desc lang="en">A filmmaker couple sets out to prepare a documentary on a small village where prostitution is part of their tradition. However, they end up getting entangled in a web of lies and deceit.</desc>
+    <credits>
+      <actor>Jim Sarbh</actor>
+      <actor>Ahlam Khan Karachiwala</actor>
+      <actor>Geetika Tyagi</actor>
+      <actor>Prerna Chawla</actor>
+      <actor>Nishi Doshi</actor>
+      <actor>Gagan Riar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/225DC4756F270E866579FD1D819BEADDABDBA63EW.jpg"/>
+  </programme>
+  <programme start="20240312123000 +0530" stop="20240312143000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Jhaanjar Di Paanwaan Chhankaar</title>
+    <desc lang="en">Hamza, an aspiring musician who is visually impaired, maintains distance from his overprotective mother. He meets his new neighbour Zaman, an upcoming actor, and the two soon develop a strong bond.</desc>
+    <credits>
+      <actor>Zain Afzal</actor>
+      <actor>Sarmad Khoosat</actor>
+      <actor>Samiya Mumtaz</actor>
+      <actor>Iman Shahid</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F5D918F3EBC22F497E5C8FE22369E594AC7D09C4R.jpg"/>
+  </programme>
+  <programme start="20240312143000 +0530" stop="20240312163000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Gudiya Ki Shaadi</title>
+    <desc lang="en">On the eve of her wedding, Gudiya loses her eyebrows and some hair due to a mix-up in a shampoo and hair removal solution. As a result, chaos ensues in her family.</desc>
+    <credits>
+      <actor>Shweta Basu Prasad</actor>
+      <actor>Virendra Saxena</actor>
+      <actor>Samta Sagar</actor>
+      <actor>Ishtiyak Khan</actor>
+      <actor>Saroj Sharma</actor>
+      <actor>Neha Saraf</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DADFAAF76C7ACE2DC1836E2B0175680265B86C3D1.jpg"/>
+  </programme>
+  <programme start="20240312163000 +0530" stop="20240312173000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Koi Baat Chale - Hatak</title>
+    <desc lang="en">When, Sungandhi, who is in an unrespected profession, gets humiliated by a rich client sets out to reevaluate her dignity.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C750785C60FBBFFEB724828963394BF84BD0A38T.jpg"/>
+  </programme>
+  <programme start="20240312173000 +0530" stop="20240312193000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Sandhya Chhaya</title>
+    <desc lang="en">Nana and Nani, an elderly couple live away from their children and feel deprived of their love. Despite the loneliness, they courageously fight the desolation and sadness in their lives.</desc>
+    <credits>
+      <actor>Uttara Baokar</actor>
+      <actor>Deepak Qazir</actor>
+      <actor>Vinnay Vishwa</actor>
+      <actor>Saroj Parida</actor>
+      <actor>Niraj Sah</actor>
+      <actor>Edward Sonnenblick</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AC9998243BA28FD5707EA1528547B5A32893A974.jpg"/>
+  </programme>
+  <programme start="20240312193000 +0530" stop="20240312200000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Theatre Tales - M. S. Sathyu</title>
+    <desc lang="en">The host highlights the life and works of renowned theatre personality M S Sathyu and engages in an insightful conversation with him.</desc>
+    <credits>
+      <actor>M S Sathyu</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F908ED7204DC2AA5404448236B43793AC550294E.jpg"/>
+    <episode-num system="xmltv_ns">.203.</episode-num>
+  </programme>
+  <programme start="20240312200000 +0530" stop="20240312223000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Doll's House</title>
+    <desc lang="en">A married woman spares no effort to protect a secret that might ruin her marriage while she longs for her husband's love rather than just being showcased as his prized possession.</desc>
+    <credits>
+      <actor>Ratnabali Bhattacharjee</actor>
+      <actor>Shubraojyoti Barat</actor>
+      <actor>Swastika Mukherjee</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F343B471B7EBC6A06527E5C724B11EADC6EF6194N.jpg"/>
+  </programme>
+  <programme start="20240312223000 +0530" stop="20240313000000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Panchi Aise Aate Hain</title>
+    <desc lang="en">Arun, a young traveller, meets the Shuklas, a middle-class and tradition-bound family that is trying hard to get its daughter married. However, the prospective bride seems to have some other plans.</desc>
+    <credits>
+      <actor>Ratan Rajput</actor>
+      <actor>Amol Parasher</actor>
+      <actor>Deepak Qazir</actor>
+      <actor>Vibha Chibber</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A63F335F33516809484217FD4D38560A6BAEA896H.jpg"/>
+  </programme>
+  <programme start="20240313000000 +0530" stop="20240313023000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Agnipankh</title>
+    <desc lang="en">Durgeshwari, a bold and fierce Brahmin matriarch who is proud of her upper-caste roots, leaves no stone unturned to maintain her place in her family as well as the society.</desc>
+    <credits>
+      <actor>Mita Vashisht</actor>
+      <actor>Satyajit Sharma</actor>
+      <actor>Raksha Shetty</actor>
+      <actor>Prasad Jawade</actor>
+      <actor>Gulki Joshi</actor>
+      <actor>Dinkar Gavande</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ED2EC9CA9A6662EED978E22E8BBE18335608DA7D1.jpg"/>
+  </programme>
+  <programme start="20240313023000 +0530" stop="20240313043000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Ok Tata Bye Bye</title>
+    <desc lang="en">A filmmaker couple sets out to prepare a documentary on a small village where prostitution is part of their tradition. However, they end up getting entangled in a web of lies and deceit.</desc>
+    <credits>
+      <actor>Jim Sarbh</actor>
+      <actor>Ahlam Khan Karachiwala</actor>
+      <actor>Geetika Tyagi</actor>
+      <actor>Prerna Chawla</actor>
+      <actor>Nishi Doshi</actor>
+      <actor>Gagan Riar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/225DC4756F270E866579FD1D819BEADDABDBA63EW.jpg"/>
+  </programme>
+  <programme start="20240313043000 +0530" stop="20240313063000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Jhaanjar Di Paanwaan Chhankaar</title>
+    <desc lang="en">Hamza, an aspiring musician who is visually impaired, maintains distance from his overprotective mother. He meets his new neighbour Zaman, an upcoming actor, and the two soon develop a strong bond.</desc>
+    <credits>
+      <actor>Zain Afzal</actor>
+      <actor>Sarmad Khoosat</actor>
+      <actor>Samiya Mumtaz</actor>
+      <actor>Iman Shahid</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F5D918F3EBC22F497E5C8FE22369E594AC7D09C4R.jpg"/>
+  </programme>
+  <programme start="20240313063000 +0530" stop="20240313083000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Gudiya Ki Shaadi</title>
+    <desc lang="en">On the eve of her wedding, Gudiya loses her eyebrows and some hair due to a mix-up in a shampoo and hair removal solution. As a result, chaos ensues in her family.</desc>
+    <credits>
+      <actor>Shweta Basu Prasad</actor>
+      <actor>Virendra Saxena</actor>
+      <actor>Samta Sagar</actor>
+      <actor>Ishtiyak Khan</actor>
+      <actor>Saroj Sharma</actor>
+      <actor>Neha Saraf</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DADFAAF76C7ACE2DC1836E2B0175680265B86C3D1.jpg"/>
+  </programme>
+  <programme start="20240313083000 +0530" stop="20240313093000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Koi Baat Chale - Hatak</title>
+    <desc lang="en">When, Sungandhi, who is in an unrespected profession, gets humiliated by a rich client sets out to reevaluate her dignity.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C750785C60FBBFFEB724828963394BF84BD0A38T.jpg"/>
+  </programme>
+  <programme start="20240313093000 +0530" stop="20240313113000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Sandhya Chhaya</title>
+    <desc lang="en">Nana and Nani, an elderly couple live away from their children and feel deprived of their love. Despite the loneliness, they courageously fight the desolation and sadness in their lives.</desc>
+    <credits>
+      <actor>Uttara Baokar</actor>
+      <actor>Deepak Qazir</actor>
+      <actor>Vinnay Vishwa</actor>
+      <actor>Saroj Parida</actor>
+      <actor>Niraj Sah</actor>
+      <actor>Edward Sonnenblick</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AC9998243BA28FD5707EA1528547B5A32893A974.jpg"/>
+  </programme>
+  <programme start="20240313113000 +0530" stop="20240313120000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Theatre Tales - M. S. Sathyu</title>
+    <desc lang="en">The host highlights the life and works of renowned theatre personality M S Sathyu and engages in an insightful conversation with him.</desc>
+    <credits>
+      <actor>M S Sathyu</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F908ED7204DC2AA5404448236B43793AC550294E.jpg"/>
+    <episode-num system="xmltv_ns">.203.</episode-num>
+  </programme>
+  <programme start="20240313120000 +0530" stop="20240313143000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Doll's House</title>
+    <desc lang="en">A married woman spares no effort to protect a secret that might ruin her marriage while she longs for her husband's love rather than just being showcased as his prized possession.</desc>
+    <credits>
+      <actor>Ratnabali Bhattacharjee</actor>
+      <actor>Shubraojyoti Barat</actor>
+      <actor>Swastika Mukherjee</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F343B471B7EBC6A06527E5C724B11EADC6EF6194N.jpg"/>
+  </programme>
+  <programme start="20240313143000 +0530" stop="20240313160000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Panchi Aise Aate Hain</title>
+    <desc lang="en">Arun, a young traveller, meets the Shuklas, a middle-class and tradition-bound family that is trying hard to get its daughter married. However, the prospective bride seems to have some other plans.</desc>
+    <credits>
+      <actor>Ratan Rajput</actor>
+      <actor>Amol Parasher</actor>
+      <actor>Deepak Qazir</actor>
+      <actor>Vibha Chibber</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A63F335F33516809484217FD4D38560A6BAEA896H.jpg"/>
+  </programme>
+  <programme start="20240313160000 +0530" stop="20240313183000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Agnipankh</title>
+    <desc lang="en">Durgeshwari, a bold and fierce Brahmin matriarch who is proud of her upper-caste roots, leaves no stone unturned to maintain her place in her family as well as the society.</desc>
+    <credits>
+      <actor>Mita Vashisht</actor>
+      <actor>Satyajit Sharma</actor>
+      <actor>Raksha Shetty</actor>
+      <actor>Prasad Jawade</actor>
+      <actor>Gulki Joshi</actor>
+      <actor>Dinkar Gavande</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ED2EC9CA9A6662EED978E22E8BBE18335608DA7D1.jpg"/>
+  </programme>
+  <programme start="20240313183000 +0530" stop="20240313203000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Ok Tata Bye Bye</title>
+    <desc lang="en">A filmmaker couple sets out to prepare a documentary on a small village where prostitution is part of their tradition. However, they end up getting entangled in a web of lies and deceit.</desc>
+    <credits>
+      <actor>Jim Sarbh</actor>
+      <actor>Ahlam Khan Karachiwala</actor>
+      <actor>Geetika Tyagi</actor>
+      <actor>Prerna Chawla</actor>
+      <actor>Nishi Doshi</actor>
+      <actor>Gagan Riar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/225DC4756F270E866579FD1D819BEADDABDBA63EW.jpg"/>
+  </programme>
+  <programme start="20240313203000 +0530" stop="20240313223000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Jhaanjar Di Paanwaan Chhankaar</title>
+    <desc lang="en">Hamza, an aspiring musician who is visually impaired, maintains distance from his overprotective mother. He meets his new neighbour Zaman, an upcoming actor, and the two soon develop a strong bond.</desc>
+    <credits>
+      <actor>Zain Afzal</actor>
+      <actor>Sarmad Khoosat</actor>
+      <actor>Samiya Mumtaz</actor>
+      <actor>Iman Shahid</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F5D918F3EBC22F497E5C8FE22369E594AC7D09C4R.jpg"/>
+  </programme>
+  <programme start="20240313223000 +0530" stop="20240314003000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Gudiya Ki Shaadi</title>
+    <desc lang="en">On the eve of her wedding, Gudiya loses her eyebrows and some hair due to a mix-up in a shampoo and hair removal solution. As a result, chaos ensues in her family.</desc>
+    <credits>
+      <actor>Shweta Basu Prasad</actor>
+      <actor>Virendra Saxena</actor>
+      <actor>Samta Sagar</actor>
+      <actor>Ishtiyak Khan</actor>
+      <actor>Saroj Sharma</actor>
+      <actor>Neha Saraf</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DADFAAF76C7ACE2DC1836E2B0175680265B86C3D1.jpg"/>
+  </programme>
+  <programme start="20240314003000 +0530" stop="20240314013000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Koi Baat Chale - Hatak</title>
+    <desc lang="en">When, Sungandhi, who is in an unrespected profession, gets humiliated by a rich client sets out to reevaluate her dignity.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C750785C60FBBFFEB724828963394BF84BD0A38T.jpg"/>
+  </programme>
+  <programme start="20240314013000 +0530" stop="20240314033000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Sandhya Chhaya</title>
+    <desc lang="en">Nana and Nani, an elderly couple live away from their children and feel deprived of their love. Despite the loneliness, they courageously fight the desolation and sadness in their lives.</desc>
+    <credits>
+      <actor>Uttara Baokar</actor>
+      <actor>Deepak Qazir</actor>
+      <actor>Vinnay Vishwa</actor>
+      <actor>Saroj Parida</actor>
+      <actor>Niraj Sah</actor>
+      <actor>Edward Sonnenblick</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AC9998243BA28FD5707EA1528547B5A32893A974.jpg"/>
+  </programme>
+  <programme start="20240314033000 +0530" stop="20240314040000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Theatre Tales - M. S. Sathyu</title>
+    <desc lang="en">The host highlights the life and works of renowned theatre personality M S Sathyu and engages in an insightful conversation with him.</desc>
+    <credits>
+      <actor>M S Sathyu</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F908ED7204DC2AA5404448236B43793AC550294E.jpg"/>
+    <episode-num system="xmltv_ns">.203.</episode-num>
+  </programme>
+  <programme start="20240314040000 +0530" stop="20240314063000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Doll's House</title>
+    <desc lang="en">A married woman spares no effort to protect a secret that might ruin her marriage while she longs for her husband's love rather than just being showcased as his prized possession.</desc>
+    <credits>
+      <actor>Ratnabali Bhattacharjee</actor>
+      <actor>Shubraojyoti Barat</actor>
+      <actor>Swastika Mukherjee</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F343B471B7EBC6A06527E5C724B11EADC6EF6194N.jpg"/>
+  </programme>
+  <programme start="20240314063000 +0530" stop="20240314080000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Panchi Aise Aate Hain</title>
+    <desc lang="en">Arun, a young traveller, meets the Shuklas, a middle-class and tradition-bound family that is trying hard to get its daughter married. However, the prospective bride seems to have some other plans.</desc>
+    <credits>
+      <actor>Ratan Rajput</actor>
+      <actor>Amol Parasher</actor>
+      <actor>Deepak Qazir</actor>
+      <actor>Vibha Chibber</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A63F335F33516809484217FD4D38560A6BAEA896H.jpg"/>
+  </programme>
+  <programme start="20240314080000 +0530" stop="20240314103000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Agnipankh</title>
+    <desc lang="en">Durgeshwari, a bold and fierce Brahmin matriarch who is proud of her upper-caste roots, leaves no stone unturned to maintain her place in her family as well as the society.</desc>
+    <credits>
+      <actor>Mita Vashisht</actor>
+      <actor>Satyajit Sharma</actor>
+      <actor>Raksha Shetty</actor>
+      <actor>Prasad Jawade</actor>
+      <actor>Gulki Joshi</actor>
+      <actor>Dinkar Gavande</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ED2EC9CA9A6662EED978E22E8BBE18335608DA7D1.jpg"/>
+  </programme>
+  <programme start="20240314103000 +0530" stop="20240314123000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Ok Tata Bye Bye</title>
+    <desc lang="en">A filmmaker couple sets out to prepare a documentary on a small village where prostitution is part of their tradition. However, they end up getting entangled in a web of lies and deceit.</desc>
+    <credits>
+      <actor>Jim Sarbh</actor>
+      <actor>Ahlam Khan Karachiwala</actor>
+      <actor>Geetika Tyagi</actor>
+      <actor>Prerna Chawla</actor>
+      <actor>Nishi Doshi</actor>
+      <actor>Gagan Riar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/225DC4756F270E866579FD1D819BEADDABDBA63EW.jpg"/>
+  </programme>
+  <programme start="20240314123000 +0530" stop="20240314143000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Jhaanjar Di Paanwaan Chhankaar</title>
+    <desc lang="en">Hamza, an aspiring musician who is visually impaired, maintains distance from his overprotective mother. He meets his new neighbour Zaman, an upcoming actor, and the two soon develop a strong bond.</desc>
+    <credits>
+      <actor>Zain Afzal</actor>
+      <actor>Sarmad Khoosat</actor>
+      <actor>Samiya Mumtaz</actor>
+      <actor>Iman Shahid</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F5D918F3EBC22F497E5C8FE22369E594AC7D09C4R.jpg"/>
+  </programme>
+  <programme start="20240314143000 +0530" stop="20240314163000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Gudiya Ki Shaadi</title>
+    <desc lang="en">On the eve of her wedding, Gudiya loses her eyebrows and some hair due to a mix-up in a shampoo and hair removal solution. As a result, chaos ensues in her family.</desc>
+    <credits>
+      <actor>Shweta Basu Prasad</actor>
+      <actor>Virendra Saxena</actor>
+      <actor>Samta Sagar</actor>
+      <actor>Ishtiyak Khan</actor>
+      <actor>Saroj Sharma</actor>
+      <actor>Neha Saraf</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DADFAAF76C7ACE2DC1836E2B0175680265B86C3D1.jpg"/>
+  </programme>
+  <programme start="20240314163000 +0530" stop="20240314173000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Koi Baat Chale - Hatak</title>
+    <desc lang="en">When, Sungandhi, who is in an unrespected profession, gets humiliated by a rich client sets out to reevaluate her dignity.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C750785C60FBBFFEB724828963394BF84BD0A38T.jpg"/>
+  </programme>
+  <programme start="20240314173000 +0530" stop="20240314193000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Sandhya Chhaya</title>
+    <desc lang="en">Nana and Nani, an elderly couple live away from their children and feel deprived of their love. Despite the loneliness, they courageously fight the desolation and sadness in their lives.</desc>
+    <credits>
+      <actor>Uttara Baokar</actor>
+      <actor>Deepak Qazir</actor>
+      <actor>Vinnay Vishwa</actor>
+      <actor>Saroj Parida</actor>
+      <actor>Niraj Sah</actor>
+      <actor>Edward Sonnenblick</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AC9998243BA28FD5707EA1528547B5A32893A974.jpg"/>
+  </programme>
+  <programme start="20240314193000 +0530" stop="20240314200000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Theatre Tales - M. S. Sathyu</title>
+    <desc lang="en">The host highlights the life and works of renowned theatre personality M S Sathyu and engages in an insightful conversation with him.</desc>
+    <credits>
+      <actor>M S Sathyu</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F908ED7204DC2AA5404448236B43793AC550294E.jpg"/>
+    <episode-num system="xmltv_ns">.203.</episode-num>
+  </programme>
+  <programme start="20240314200000 +0530" stop="20240314223000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Doll's House</title>
+    <desc lang="en">A married woman spares no effort to protect a secret that might ruin her marriage while she longs for her husband's love rather than just being showcased as his prized possession.</desc>
+    <credits>
+      <actor>Ratnabali Bhattacharjee</actor>
+      <actor>Shubraojyoti Barat</actor>
+      <actor>Swastika Mukherjee</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F343B471B7EBC6A06527E5C724B11EADC6EF6194N.jpg"/>
+  </programme>
+  <programme start="20240314223000 +0530" stop="20240315000000 +0530" channel="TataPlayTheatreHD.in">
+    <title lang="en">Panchi Aise Aate Hain</title>
+    <desc lang="en">Arun, a young traveller, meets the Shuklas, a middle-class and tradition-bound family that is trying hard to get its daughter married. However, the prospective bride seems to have some other plans.</desc>
+    <credits>
+      <actor>Ratan Rajput</actor>
+      <actor>Amol Parasher</actor>
+      <actor>Deepak Qazir</actor>
+      <actor>Vibha Chibber</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A63F335F33516809484217FD4D38560A6BAEA896H.jpg"/>
+  </programme>
+</tv>

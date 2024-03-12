@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="BOOHD.my">
+    <display-name lang="mg">BOO 🄼</display-name>
+    <icon src="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png"/>
+  </channel>
+  <programme start="20240311213000 +0530" stop="20240311233000 +0530" channel="BOOHD.my">
+    <title lang="mg">Super Deep</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240311233000 +0530" stop="20240312010000 +0530" channel="BOOHD.my">
+    <title lang="mg">Villa Angker Lembang</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240312010000 +0530" stop="20240312024500 +0530" channel="BOOHD.my">
+    <title lang="mg">Memoir</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240312024500 +0530" stop="20240312041500 +0530" channel="BOOHD.my">
+    <title lang="mg">Blok 404</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240312041500 +0530" stop="20240312054500 +0530" channel="BOOHD.my">
+    <title lang="mg">Busut Bonang</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240312054500 +0530" stop="20240312073000 +0530" channel="BOOHD.my">
+    <title lang="mg">76 Horror Bookstore: Tin Can of Fear</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240312073000 +0530" stop="20240312094500 +0530" channel="BOOHD.my">
+    <title lang="mg">Mandy</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240312094500 +0530" stop="20240312111500 +0530" channel="BOOHD.my">
+    <title lang="mg">Ku Tak Percaya Kamu Mati</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240312111500 +0530" stop="20240312124500 +0530" channel="BOOHD.my">
+    <title lang="mg">Bekas Rumah Sakit</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240312124500 +0530" stop="20240312144500 +0530" channel="BOOHD.my">
+    <title lang="mg">The Intruder</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240312144500 +0530" stop="20240312161500 +0530" channel="BOOHD.my">
+    <title lang="mg">LAIN</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240312161500 +0530" stop="20240312183000 +0530" channel="BOOHD.my">
+    <title lang="mg">Close My Eyes</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240312183000 +0530" stop="20240312200000 +0530" channel="BOOHD.my">
+    <title lang="mg">Queen of Spades:Through Looking Glass</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240312200000 +0530" stop="20240312214500 +0530" channel="BOOHD.my">
+    <title lang="mg">Mereka Yang Tak Terlihat</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240312214500 +0530" stop="20240312231500 +0530" channel="BOOHD.my">
+    <title lang="mg">Don't Talk To Strangers</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240312231500 +0530" stop="20240313011500 +0530" channel="BOOHD.my">
+    <title lang="mg">The Devil Conspiracy</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240313011500 +0530" stop="20240313024500 +0530" channel="BOOHD.my">
+    <title lang="mg">Ku Tak Percaya Kamu Mati</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240313024500 +0530" stop="20240313041500 +0530" channel="BOOHD.my">
+    <title lang="mg">Dead Again</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240313041500 +0530" stop="20240313054500 +0530" channel="BOOHD.my">
+    <title lang="mg">Awoken</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240313054500 +0530" stop="20240313071500 +0530" channel="BOOHD.my">
+    <title lang="mg">Villa Angker Lembang</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240313071500 +0530" stop="20240313090000 +0530" channel="BOOHD.my">
+    <title lang="mg">The Exorcist Nurse</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240313090000 +0530" stop="20240313104500 +0530" channel="BOOHD.my">
+    <title lang="mg">Patients of a Saint</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240313104500 +0530" stop="20240313130000 +0530" channel="BOOHD.my">
+    <title lang="mg">Low Season</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240313130000 +0530" stop="20240313143000 +0530" channel="BOOHD.my">
+    <title lang="mg">The Sonata</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240313143000 +0530" stop="20240313163000 +0530" channel="BOOHD.my">
+    <title lang="mg">Dabbe 1</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240313163000 +0530" stop="20240313180000 +0530" channel="BOOHD.my">
+    <title lang="mg">Dabbe 2</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240313180000 +0530" stop="20240313200000 +0530" channel="BOOHD.my">
+    <title lang="mg">Dabbe 3</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240313200000 +0530" stop="20240313213000 +0530" channel="BOOHD.my">
+    <title lang="mg">Siccin 5</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240313213000 +0530" stop="20240313233000 +0530" channel="BOOHD.my">
+    <title lang="mg">The Intruder</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240313233000 +0530" stop="20240314013000 +0530" channel="BOOHD.my">
+    <title lang="mg">Necromancer 2020</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240314013000 +0530" stop="20240314031500 +0530" channel="BOOHD.my">
+    <title lang="mg">Mereka Yang Tak Terlihat</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240314031500 +0530" stop="20240314033000 +0530" channel="BOOHD.my">
+    <title lang="mg">Jenny</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240314033000 +0530" stop="20240314050000 +0530" channel="BOOHD.my">
+    <title lang="mg">Gui</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240314050000 +0530" stop="20240314070000 +0530" channel="BOOHD.my">
+    <title lang="mg">Necromancer 2020</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240314070000 +0530" stop="20240314090000 +0530" channel="BOOHD.my">
+    <title lang="mg">The Devil Conspiracy</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240314090000 +0530" stop="20240314091500 +0530" channel="BOOHD.my">
+    <title lang="mg">The Room</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240314091500 +0530" stop="20240314111500 +0530" channel="BOOHD.my">
+    <title lang="mg">Office</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240314111500 +0530" stop="20240314131500 +0530" channel="BOOHD.my">
+    <title lang="mg">Rumah</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240314131500 +0530" stop="20240314144500 +0530" channel="BOOHD.my">
+    <title lang="mg">Busut Bonang</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240314144500 +0530" stop="20240314161500 +0530" channel="BOOHD.my">
+    <title lang="mg">The Sonata</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240314161500 +0530" stop="20240314181500 +0530" channel="BOOHD.my">
+    <title lang="mg">Super Deep</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240314181500 +0530" stop="20240314200000 +0530" channel="BOOHD.my">
+    <title lang="mg">Memoir</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240314200000 +0530" stop="20240314220000 +0530" channel="BOOHD.my">
+    <title lang="mg">Coma</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000291_IVP_LAND_448x252.jpg"/>
+  </programme>
+</tv>

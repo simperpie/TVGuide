@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="RBharat.in">
+    <display-name lang="en">R Bharat</display-name>
+  </channel>
+  <programme start="20240312000000 +0530" stop="20240312003000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240312003000 +0530" stop="20240312010000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240312010000 +0530" stop="20240312013000 +0530" channel="RBharat.in">
+    <title lang="en">Yeh Bharat Ki Baat Hai</title>
+    <desc lang="en">Yeh Bharat Ki Baat Hai</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3CA752430A569573DF37E80D2AAB37584F52FA8P.jpg"/>
+  </programme>
+  <programme start="20240312013000 +0530" stop="20240312020000 +0530" channel="RBharat.in">
+    <title lang="en">Yeh Bharat Ki Baat Hai</title>
+    <desc lang="en">Yeh Bharat Ki Baat Hai</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3CA752430A569573DF37E80D2AAB37584F52FA8P.jpg"/>
+  </programme>
+  <programme start="20240312020000 +0530" stop="20240312023000 +0530" channel="RBharat.in">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Mahabharat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DE928626B9C5CFA00A0357BF611F7CF7BD971C16.jpg"/>
+  </programme>
+  <programme start="20240312023000 +0530" stop="20240312030000 +0530" channel="RBharat.in">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Mahabharat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DE928626B9C5CFA00A0357BF611F7CF7BD971C16.jpg"/>
+  </programme>
+  <programme start="20240312030000 +0530" stop="20240312033000 +0530" channel="RBharat.in">
+    <title lang="en">Andar Ki Khabar</title>
+    <desc lang="en">Andar Ki Khabar</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D82806BEB8DCF9C2DB3CDEC0B88129EC49B49700.jpg"/>
+  </programme>
+  <programme start="20240312033000 +0530" stop="20240312040000 +0530" channel="RBharat.in">
+    <title lang="en">Andar Ki Khabar</title>
+    <desc lang="en">Andar Ki Khabar</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D82806BEB8DCF9C2DB3CDEC0B88129EC49B49700.jpg"/>
+  </programme>
+  <programme start="20240312040000 +0530" stop="20240312043000 +0530" channel="RBharat.in">
+    <title lang="en">10 Mein Hai Dum</title>
+    <desc lang="en">10 Mein Hai Dum</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/673C5C14249D3F829AE954773DD925A9128BAFBEX.jpg"/>
+  </programme>
+  <programme start="20240312043000 +0530" stop="20240312050000 +0530" channel="RBharat.in">
+    <title lang="en">Jaagte Raho</title>
+    <desc lang="en">Jaagte Raho</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E3DFA1A7ABF12EB9C27D54FC8A221EDFB3F673ES.jpg"/>
+  </programme>
+  <programme start="20240312050000 +0530" stop="20240312053000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240312053000 +0530" stop="20240312060000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240312060000 +0530" stop="20240312063000 +0530" channel="RBharat.in">
+    <title lang="en">Namaste Bharat</title>
+    <desc lang="en">Namaste Bharat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0E37B729C546C05552E843CF22DB393859A68C9K.jpg"/>
+  </programme>
+  <programme start="20240312063000 +0530" stop="20240312070000 +0530" channel="RBharat.in">
+    <title lang="en">Sheher Raftaar</title>
+    <desc lang="en">Sheher Raftaar</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12ACFF05BED7F9202530A4C57C451EB9D92BCD5E3.jpg"/>
+  </programme>
+  <programme start="20240312070000 +0530" stop="20240312073000 +0530" channel="RBharat.in">
+    <title lang="en">Superfast 100</title>
+    <desc lang="en">Superfast 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3589E5AC12E65800A251B2BBD191FBFACAA6A4F14.jpg"/>
+  </programme>
+  <programme start="20240312073000 +0530" stop="20240312080000 +0530" channel="RBharat.in">
+    <title lang="en">Morning Special</title>
+    <desc lang="en">Morning Special</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5299FC4AEEB09D98F568BD375D8865D0CB175F5EG.jpg"/>
+  </programme>
+  <programme start="20240312080000 +0530" stop="20240312083000 +0530" channel="RBharat.in">
+    <title lang="en">Maha Super Fast 100</title>
+    <desc lang="en">Maha Super Fast 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F70E8C46F8346AB8B23505167E13EF4EB2F5AC4BU.jpg"/>
+  </programme>
+  <programme start="20240312083000 +0530" stop="20240312090000 +0530" channel="RBharat.in">
+    <title lang="en">Maha Super Fast 100</title>
+    <desc lang="en">Maha Super Fast 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F70E8C46F8346AB8B23505167E13EF4EB2F5AC4BU.jpg"/>
+  </programme>
+  <programme start="20240312090000 +0530" stop="20240312093000 +0530" channel="RBharat.in">
+    <title lang="en">9 Ka Nishaana</title>
+    <desc lang="en">9 Ka Nishaana</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE41476B7DC18E2A244BA50734E22236BEBA258AH.jpg"/>
+  </programme>
+  <programme start="20240312093000 +0530" stop="20240312100000 +0530" channel="RBharat.in">
+    <title lang="en">Bullet 100</title>
+    <desc lang="en">Bullet 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1554ACBBA37B5F5C428BC2EC4DBAFA5B5EB84D5BD.jpg"/>
+  </programme>
+  <programme start="20240312100000 +0530" stop="20240312103000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240312103000 +0530" stop="20240312110000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240312110000 +0530" stop="20240312113000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240312113000 +0530" stop="20240312120000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240312120000 +0530" stop="20240312123000 +0530" channel="RBharat.in">
+    <title lang="en">100% News / 5 Me 25</title>
+    <desc lang="en">100% News / 5 Me 25</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C16D03A4B113C3960A0D96E0F77A2F4976D7961N.jpg"/>
+  </programme>
+  <programme start="20240312123000 +0530" stop="20240312130000 +0530" channel="RBharat.in">
+    <title lang="en">100% News/ 7 Me 70</title>
+    <desc lang="en">100% News/ 7 Me 70</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A3BF638AA7A423F2377BEB1F8029EA9DE46C98T.jpg"/>
+  </programme>
+  <programme start="20240312130000 +0530" stop="20240312133000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240312133000 +0530" stop="20240312140000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240312140000 +0530" stop="20240312143000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240312143000 +0530" stop="20240312150000 +0530" channel="RBharat.in">
+    <title lang="en">100% News/ 7 Me 70</title>
+    <desc lang="en">100% News/ 7 Me 70</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A3BF638AA7A423F2377BEB1F8029EA9DE46C98T.jpg"/>
+  </programme>
+  <programme start="20240312150000 +0530" stop="20240312153000 +0530" channel="RBharat.in">
+    <title lang="en">100% News / 5 Me 25</title>
+    <desc lang="en">100% News / 5 Me 25</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C16D03A4B113C3960A0D96E0F77A2F4976D7961N.jpg"/>
+  </programme>
+  <programme start="20240312153000 +0530" stop="20240312160000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240312160000 +0530" stop="20240312163000 +0530" channel="RBharat.in">
+    <title lang="en">Raftaar 100</title>
+    <desc lang="en">Raftaar 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57D0C4DFA5BD9ADAAB117E47DF471D0F92A5F7A61.jpg"/>
+  </programme>
+  <programme start="20240312163000 +0530" stop="20240312170000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240312170000 +0530" stop="20240312173000 +0530" channel="RBharat.in">
+    <title lang="en">5 Ka Prahar</title>
+    <desc lang="en">5 Ka Prahar</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FE57FBE05D034C09752E1D2806F990F3B2CD4934G.jpg"/>
+  </programme>
+  <programme start="20240312173000 +0530" stop="20240312180000 +0530" channel="RBharat.in">
+    <title lang="en">5 Ka Prahar</title>
+    <desc lang="en">5 Ka Prahar</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FE57FBE05D034C09752E1D2806F990F3B2CD4934G.jpg"/>
+  </programme>
+  <programme start="20240312180000 +0530" stop="20240312183000 +0530" channel="RBharat.in">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Mahabharat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DE928626B9C5CFA00A0357BF611F7CF7BD971C16.jpg"/>
+  </programme>
+  <programme start="20240312183000 +0530" stop="20240312190000 +0530" channel="RBharat.in">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Mahabharat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DE928626B9C5CFA00A0357BF611F7CF7BD971C16.jpg"/>
+  </programme>
+  <programme start="20240312190000 +0530" stop="20240312193000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240312193000 +0530" stop="20240312200000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240312200000 +0530" stop="20240312203000 +0530" channel="RBharat.in">
+    <title lang="en">Andar Ki Khabar</title>
+    <desc lang="en">Andar Ki Khabar</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D82806BEB8DCF9C2DB3CDEC0B88129EC49B49700.jpg"/>
+  </programme>
+  <programme start="20240312203000 +0530" stop="20240312210000 +0530" channel="RBharat.in">
+    <title lang="en">Andar Ki Khabar</title>
+    <desc lang="en">Andar Ki Khabar</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D82806BEB8DCF9C2DB3CDEC0B88129EC49B49700.jpg"/>
+  </programme>
+  <programme start="20240312210000 +0530" stop="20240312213000 +0530" channel="RBharat.in">
+    <title lang="en">Yeh Bharat Ki Baat Hai</title>
+    <desc lang="en">Yeh Bharat Ki Baat Hai</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3CA752430A569573DF37E80D2AAB37584F52FA8P.jpg"/>
+  </programme>
+  <programme start="20240312213000 +0530" stop="20240312220000 +0530" channel="RBharat.in">
+    <title lang="en">Yeh Bharat Ki Baat Hai</title>
+    <desc lang="en">Yeh Bharat Ki Baat Hai</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3CA752430A569573DF37E80D2AAB37584F52FA8P.jpg"/>
+  </programme>
+  <programme start="20240312220000 +0530" stop="20240312223000 +0530" channel="RBharat.in">
+    <title lang="en">10 Mein Hai Dum</title>
+    <desc lang="en">10 Mein Hai Dum</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/673C5C14249D3F829AE954773DD925A9128BAFBEX.jpg"/>
+  </programme>
+  <programme start="20240312223000 +0530" stop="20240312230000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240312230000 +0530" stop="20240312233000 +0530" channel="RBharat.in">
+    <title lang="en">Jaagte Raho</title>
+    <desc lang="en">Jaagte Raho</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E3DFA1A7ABF12EB9C27D54FC8A221EDFB3F673ES.jpg"/>
+  </programme>
+  <programme start="20240312233000 +0530" stop="20240313000000 +0530" channel="RBharat.in">
+    <title lang="en">Raftaar 100</title>
+    <desc lang="en">Raftaar 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57D0C4DFA5BD9ADAAB117E47DF471D0F92A5F7A61.jpg"/>
+  </programme>
+  <programme start="20240313000000 +0530" stop="20240313003000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240313003000 +0530" stop="20240313010000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240313010000 +0530" stop="20240313013000 +0530" channel="RBharat.in">
+    <title lang="en">Yeh Bharat Ki Baat Hai</title>
+    <desc lang="en">Yeh Bharat Ki Baat Hai</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3CA752430A569573DF37E80D2AAB37584F52FA8P.jpg"/>
+  </programme>
+  <programme start="20240313013000 +0530" stop="20240313020000 +0530" channel="RBharat.in">
+    <title lang="en">Yeh Bharat Ki Baat Hai</title>
+    <desc lang="en">Yeh Bharat Ki Baat Hai</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3CA752430A569573DF37E80D2AAB37584F52FA8P.jpg"/>
+  </programme>
+  <programme start="20240313020000 +0530" stop="20240313023000 +0530" channel="RBharat.in">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Mahabharat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DE928626B9C5CFA00A0357BF611F7CF7BD971C16.jpg"/>
+  </programme>
+  <programme start="20240313023000 +0530" stop="20240313030000 +0530" channel="RBharat.in">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Mahabharat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DE928626B9C5CFA00A0357BF611F7CF7BD971C16.jpg"/>
+  </programme>
+  <programme start="20240313030000 +0530" stop="20240313033000 +0530" channel="RBharat.in">
+    <title lang="en">Andar Ki Khabar</title>
+    <desc lang="en">Andar Ki Khabar</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D82806BEB8DCF9C2DB3CDEC0B88129EC49B49700.jpg"/>
+  </programme>
+  <programme start="20240313033000 +0530" stop="20240313040000 +0530" channel="RBharat.in">
+    <title lang="en">Andar Ki Khabar</title>
+    <desc lang="en">Andar Ki Khabar</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D82806BEB8DCF9C2DB3CDEC0B88129EC49B49700.jpg"/>
+  </programme>
+  <programme start="20240313040000 +0530" stop="20240313043000 +0530" channel="RBharat.in">
+    <title lang="en">10 Mein Hai Dum</title>
+    <desc lang="en">10 Mein Hai Dum</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/673C5C14249D3F829AE954773DD925A9128BAFBEX.jpg"/>
+  </programme>
+  <programme start="20240313043000 +0530" stop="20240313050000 +0530" channel="RBharat.in">
+    <title lang="en">Jaagte Raho</title>
+    <desc lang="en">Jaagte Raho</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E3DFA1A7ABF12EB9C27D54FC8A221EDFB3F673ES.jpg"/>
+  </programme>
+  <programme start="20240313050000 +0530" stop="20240313053000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240313053000 +0530" stop="20240313060000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240313060000 +0530" stop="20240313063000 +0530" channel="RBharat.in">
+    <title lang="en">Namaste Bharat</title>
+    <desc lang="en">Namaste Bharat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0E37B729C546C05552E843CF22DB393859A68C9K.jpg"/>
+  </programme>
+  <programme start="20240313063000 +0530" stop="20240313070000 +0530" channel="RBharat.in">
+    <title lang="en">Sheher Raftaar</title>
+    <desc lang="en">Sheher Raftaar</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12ACFF05BED7F9202530A4C57C451EB9D92BCD5E3.jpg"/>
+  </programme>
+  <programme start="20240313070000 +0530" stop="20240313073000 +0530" channel="RBharat.in">
+    <title lang="en">Superfast 100</title>
+    <desc lang="en">Superfast 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3589E5AC12E65800A251B2BBD191FBFACAA6A4F14.jpg"/>
+  </programme>
+  <programme start="20240313073000 +0530" stop="20240313080000 +0530" channel="RBharat.in">
+    <title lang="en">Morning Special</title>
+    <desc lang="en">Morning Special</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5299FC4AEEB09D98F568BD375D8865D0CB175F5EG.jpg"/>
+  </programme>
+  <programme start="20240313080000 +0530" stop="20240313083000 +0530" channel="RBharat.in">
+    <title lang="en">Maha Super Fast 100</title>
+    <desc lang="en">Maha Super Fast 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F70E8C46F8346AB8B23505167E13EF4EB2F5AC4BU.jpg"/>
+  </programme>
+  <programme start="20240313083000 +0530" stop="20240313090000 +0530" channel="RBharat.in">
+    <title lang="en">Maha Super Fast 100</title>
+    <desc lang="en">Maha Super Fast 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F70E8C46F8346AB8B23505167E13EF4EB2F5AC4BU.jpg"/>
+  </programme>
+  <programme start="20240313090000 +0530" stop="20240313093000 +0530" channel="RBharat.in">
+    <title lang="en">9 Ka Nishaana</title>
+    <desc lang="en">9 Ka Nishaana</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE41476B7DC18E2A244BA50734E22236BEBA258AH.jpg"/>
+  </programme>
+  <programme start="20240313093000 +0530" stop="20240313100000 +0530" channel="RBharat.in">
+    <title lang="en">Bullet 100</title>
+    <desc lang="en">Bullet 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1554ACBBA37B5F5C428BC2EC4DBAFA5B5EB84D5BD.jpg"/>
+  </programme>
+  <programme start="20240313100000 +0530" stop="20240313103000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240313103000 +0530" stop="20240313110000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240313110000 +0530" stop="20240313113000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240313113000 +0530" stop="20240313120000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240313120000 +0530" stop="20240313123000 +0530" channel="RBharat.in">
+    <title lang="en">100% News / 5 Me 25</title>
+    <desc lang="en">100% News / 5 Me 25</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C16D03A4B113C3960A0D96E0F77A2F4976D7961N.jpg"/>
+  </programme>
+  <programme start="20240313123000 +0530" stop="20240313130000 +0530" channel="RBharat.in">
+    <title lang="en">100% News/ 7 Me 70</title>
+    <desc lang="en">100% News/ 7 Me 70</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A3BF638AA7A423F2377BEB1F8029EA9DE46C98T.jpg"/>
+  </programme>
+  <programme start="20240313130000 +0530" stop="20240313133000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240313133000 +0530" stop="20240313140000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240313140000 +0530" stop="20240313143000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240313143000 +0530" stop="20240313150000 +0530" channel="RBharat.in">
+    <title lang="en">100% News/ 7 Me 70</title>
+    <desc lang="en">100% News/ 7 Me 70</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A3BF638AA7A423F2377BEB1F8029EA9DE46C98T.jpg"/>
+  </programme>
+  <programme start="20240313150000 +0530" stop="20240313153000 +0530" channel="RBharat.in">
+    <title lang="en">100% News / 5 Me 25</title>
+    <desc lang="en">100% News / 5 Me 25</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C16D03A4B113C3960A0D96E0F77A2F4976D7961N.jpg"/>
+  </programme>
+  <programme start="20240313153000 +0530" stop="20240313160000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240313160000 +0530" stop="20240313163000 +0530" channel="RBharat.in">
+    <title lang="en">Raftaar 100</title>
+    <desc lang="en">Raftaar 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57D0C4DFA5BD9ADAAB117E47DF471D0F92A5F7A61.jpg"/>
+  </programme>
+  <programme start="20240313163000 +0530" stop="20240313170000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240313170000 +0530" stop="20240313173000 +0530" channel="RBharat.in">
+    <title lang="en">5 Ka Prahar</title>
+    <desc lang="en">5 Ka Prahar</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FE57FBE05D034C09752E1D2806F990F3B2CD4934G.jpg"/>
+  </programme>
+  <programme start="20240313173000 +0530" stop="20240313180000 +0530" channel="RBharat.in">
+    <title lang="en">5 Ka Prahar</title>
+    <desc lang="en">5 Ka Prahar</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FE57FBE05D034C09752E1D2806F990F3B2CD4934G.jpg"/>
+  </programme>
+  <programme start="20240313180000 +0530" stop="20240313183000 +0530" channel="RBharat.in">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Mahabharat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DE928626B9C5CFA00A0357BF611F7CF7BD971C16.jpg"/>
+  </programme>
+  <programme start="20240313183000 +0530" stop="20240313190000 +0530" channel="RBharat.in">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Mahabharat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DE928626B9C5CFA00A0357BF611F7CF7BD971C16.jpg"/>
+  </programme>
+  <programme start="20240313190000 +0530" stop="20240313193000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240313193000 +0530" stop="20240313200000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240313200000 +0530" stop="20240313203000 +0530" channel="RBharat.in">
+    <title lang="en">Andar Ki Khabar</title>
+    <desc lang="en">Andar Ki Khabar</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D82806BEB8DCF9C2DB3CDEC0B88129EC49B49700.jpg"/>
+  </programme>
+  <programme start="20240313203000 +0530" stop="20240313210000 +0530" channel="RBharat.in">
+    <title lang="en">Andar Ki Khabar</title>
+    <desc lang="en">Andar Ki Khabar</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D82806BEB8DCF9C2DB3CDEC0B88129EC49B49700.jpg"/>
+  </programme>
+  <programme start="20240313210000 +0530" stop="20240313213000 +0530" channel="RBharat.in">
+    <title lang="en">Yeh Bharat Ki Baat Hai</title>
+    <desc lang="en">Yeh Bharat Ki Baat Hai</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3CA752430A569573DF37E80D2AAB37584F52FA8P.jpg"/>
+  </programme>
+  <programme start="20240313213000 +0530" stop="20240313220000 +0530" channel="RBharat.in">
+    <title lang="en">Yeh Bharat Ki Baat Hai</title>
+    <desc lang="en">Yeh Bharat Ki Baat Hai</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3CA752430A569573DF37E80D2AAB37584F52FA8P.jpg"/>
+  </programme>
+  <programme start="20240313220000 +0530" stop="20240313223000 +0530" channel="RBharat.in">
+    <title lang="en">10 Mein Hai Dum</title>
+    <desc lang="en">10 Mein Hai Dum</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/673C5C14249D3F829AE954773DD925A9128BAFBEX.jpg"/>
+  </programme>
+  <programme start="20240313223000 +0530" stop="20240313230000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240313230000 +0530" stop="20240313233000 +0530" channel="RBharat.in">
+    <title lang="en">Jaagte Raho</title>
+    <desc lang="en">Jaagte Raho</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E3DFA1A7ABF12EB9C27D54FC8A221EDFB3F673ES.jpg"/>
+  </programme>
+  <programme start="20240313233000 +0530" stop="20240314000000 +0530" channel="RBharat.in">
+    <title lang="en">Raftaar 100</title>
+    <desc lang="en">Raftaar 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57D0C4DFA5BD9ADAAB117E47DF471D0F92A5F7A61.jpg"/>
+  </programme>
+  <programme start="20240314000000 +0530" stop="20240314003000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240314003000 +0530" stop="20240314010000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240314010000 +0530" stop="20240314013000 +0530" channel="RBharat.in">
+    <title lang="en">Yeh Bharat Ki Baat Hai</title>
+    <desc lang="en">Yeh Bharat Ki Baat Hai</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3CA752430A569573DF37E80D2AAB37584F52FA8P.jpg"/>
+  </programme>
+  <programme start="20240314013000 +0530" stop="20240314020000 +0530" channel="RBharat.in">
+    <title lang="en">Yeh Bharat Ki Baat Hai</title>
+    <desc lang="en">Yeh Bharat Ki Baat Hai</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3CA752430A569573DF37E80D2AAB37584F52FA8P.jpg"/>
+  </programme>
+  <programme start="20240314020000 +0530" stop="20240314023000 +0530" channel="RBharat.in">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Mahabharat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DE928626B9C5CFA00A0357BF611F7CF7BD971C16.jpg"/>
+  </programme>
+  <programme start="20240314023000 +0530" stop="20240314030000 +0530" channel="RBharat.in">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Mahabharat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DE928626B9C5CFA00A0357BF611F7CF7BD971C16.jpg"/>
+  </programme>
+  <programme start="20240314030000 +0530" stop="20240314033000 +0530" channel="RBharat.in">
+    <title lang="en">Andar Ki Khabar</title>
+    <desc lang="en">Andar Ki Khabar</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D82806BEB8DCF9C2DB3CDEC0B88129EC49B49700.jpg"/>
+  </programme>
+  <programme start="20240314033000 +0530" stop="20240314040000 +0530" channel="RBharat.in">
+    <title lang="en">Andar Ki Khabar</title>
+    <desc lang="en">Andar Ki Khabar</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D82806BEB8DCF9C2DB3CDEC0B88129EC49B49700.jpg"/>
+  </programme>
+  <programme start="20240314040000 +0530" stop="20240314043000 +0530" channel="RBharat.in">
+    <title lang="en">10 Mein Hai Dum</title>
+    <desc lang="en">10 Mein Hai Dum</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/673C5C14249D3F829AE954773DD925A9128BAFBEX.jpg"/>
+  </programme>
+  <programme start="20240314043000 +0530" stop="20240314050000 +0530" channel="RBharat.in">
+    <title lang="en">Jaagte Raho</title>
+    <desc lang="en">Jaagte Raho</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E3DFA1A7ABF12EB9C27D54FC8A221EDFB3F673ES.jpg"/>
+  </programme>
+  <programme start="20240314050000 +0530" stop="20240314053000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240314053000 +0530" stop="20240314060000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240314060000 +0530" stop="20240314063000 +0530" channel="RBharat.in">
+    <title lang="en">Namaste Bharat</title>
+    <desc lang="en">Namaste Bharat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0E37B729C546C05552E843CF22DB393859A68C9K.jpg"/>
+  </programme>
+  <programme start="20240314063000 +0530" stop="20240314070000 +0530" channel="RBharat.in">
+    <title lang="en">Sheher Raftaar</title>
+    <desc lang="en">Sheher Raftaar</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12ACFF05BED7F9202530A4C57C451EB9D92BCD5E3.jpg"/>
+  </programme>
+  <programme start="20240314070000 +0530" stop="20240314073000 +0530" channel="RBharat.in">
+    <title lang="en">Superfast 100</title>
+    <desc lang="en">Superfast 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3589E5AC12E65800A251B2BBD191FBFACAA6A4F14.jpg"/>
+  </programme>
+  <programme start="20240314073000 +0530" stop="20240314080000 +0530" channel="RBharat.in">
+    <title lang="en">Morning Special</title>
+    <desc lang="en">Morning Special</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5299FC4AEEB09D98F568BD375D8865D0CB175F5EG.jpg"/>
+  </programme>
+  <programme start="20240314080000 +0530" stop="20240314083000 +0530" channel="RBharat.in">
+    <title lang="en">Maha Super Fast 100</title>
+    <desc lang="en">Maha Super Fast 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F70E8C46F8346AB8B23505167E13EF4EB2F5AC4BU.jpg"/>
+  </programme>
+  <programme start="20240314083000 +0530" stop="20240314090000 +0530" channel="RBharat.in">
+    <title lang="en">Maha Super Fast 100</title>
+    <desc lang="en">Maha Super Fast 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F70E8C46F8346AB8B23505167E13EF4EB2F5AC4BU.jpg"/>
+  </programme>
+  <programme start="20240314090000 +0530" stop="20240314093000 +0530" channel="RBharat.in">
+    <title lang="en">9 Ka Nishaana</title>
+    <desc lang="en">9 Ka Nishaana</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE41476B7DC18E2A244BA50734E22236BEBA258AH.jpg"/>
+  </programme>
+  <programme start="20240314093000 +0530" stop="20240314100000 +0530" channel="RBharat.in">
+    <title lang="en">Bullet 100</title>
+    <desc lang="en">Bullet 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1554ACBBA37B5F5C428BC2EC4DBAFA5B5EB84D5BD.jpg"/>
+  </programme>
+  <programme start="20240314100000 +0530" stop="20240314103000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240314103000 +0530" stop="20240314110000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240314110000 +0530" stop="20240314113000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240314113000 +0530" stop="20240314120000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240314120000 +0530" stop="20240314123000 +0530" channel="RBharat.in">
+    <title lang="en">100% News / 5 Me 25</title>
+    <desc lang="en">100% News / 5 Me 25</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C16D03A4B113C3960A0D96E0F77A2F4976D7961N.jpg"/>
+  </programme>
+  <programme start="20240314123000 +0530" stop="20240314130000 +0530" channel="RBharat.in">
+    <title lang="en">100% News/ 7 Me 70</title>
+    <desc lang="en">100% News/ 7 Me 70</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A3BF638AA7A423F2377BEB1F8029EA9DE46C98T.jpg"/>
+  </programme>
+  <programme start="20240314130000 +0530" stop="20240314133000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240314133000 +0530" stop="20240314140000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240314140000 +0530" stop="20240314143000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240314143000 +0530" stop="20240314150000 +0530" channel="RBharat.in">
+    <title lang="en">100% News/ 7 Me 70</title>
+    <desc lang="en">100% News/ 7 Me 70</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21A3BF638AA7A423F2377BEB1F8029EA9DE46C98T.jpg"/>
+  </programme>
+  <programme start="20240314150000 +0530" stop="20240314153000 +0530" channel="RBharat.in">
+    <title lang="en">100% News / 5 Me 25</title>
+    <desc lang="en">100% News / 5 Me 25</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C16D03A4B113C3960A0D96E0F77A2F4976D7961N.jpg"/>
+  </programme>
+  <programme start="20240314153000 +0530" stop="20240314160000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240314160000 +0530" stop="20240314163000 +0530" channel="RBharat.in">
+    <title lang="en">Raftaar 100</title>
+    <desc lang="en">Raftaar 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57D0C4DFA5BD9ADAAB117E47DF471D0F92A5F7A61.jpg"/>
+  </programme>
+  <programme start="20240314163000 +0530" stop="20240314170000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240314170000 +0530" stop="20240314173000 +0530" channel="RBharat.in">
+    <title lang="en">5 Ka Prahar</title>
+    <desc lang="en">5 Ka Prahar</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FE57FBE05D034C09752E1D2806F990F3B2CD4934G.jpg"/>
+  </programme>
+  <programme start="20240314173000 +0530" stop="20240314180000 +0530" channel="RBharat.in">
+    <title lang="en">5 Ka Prahar</title>
+    <desc lang="en">5 Ka Prahar</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FE57FBE05D034C09752E1D2806F990F3B2CD4934G.jpg"/>
+  </programme>
+  <programme start="20240314180000 +0530" stop="20240314183000 +0530" channel="RBharat.in">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Mahabharat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DE928626B9C5CFA00A0357BF611F7CF7BD971C16.jpg"/>
+  </programme>
+  <programme start="20240314183000 +0530" stop="20240314190000 +0530" channel="RBharat.in">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">Mahabharat</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DE928626B9C5CFA00A0357BF611F7CF7BD971C16.jpg"/>
+  </programme>
+  <programme start="20240314190000 +0530" stop="20240314193000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240314193000 +0530" stop="20240314200000 +0530" channel="RBharat.in">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">Poochta Hai Bharat</desc>
+    <category lang="en">Debate Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ACC2A8C078F9B9EDC00F2CEA555372907C508112.jpg"/>
+  </programme>
+  <programme start="20240314200000 +0530" stop="20240314203000 +0530" channel="RBharat.in">
+    <title lang="en">Andar Ki Khabar</title>
+    <desc lang="en">Andar Ki Khabar</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D82806BEB8DCF9C2DB3CDEC0B88129EC49B49700.jpg"/>
+  </programme>
+  <programme start="20240314203000 +0530" stop="20240314210000 +0530" channel="RBharat.in">
+    <title lang="en">Andar Ki Khabar</title>
+    <desc lang="en">Andar Ki Khabar</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D82806BEB8DCF9C2DB3CDEC0B88129EC49B49700.jpg"/>
+  </programme>
+  <programme start="20240314210000 +0530" stop="20240314213000 +0530" channel="RBharat.in">
+    <title lang="en">Yeh Bharat Ki Baat Hai</title>
+    <desc lang="en">Yeh Bharat Ki Baat Hai</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3CA752430A569573DF37E80D2AAB37584F52FA8P.jpg"/>
+  </programme>
+  <programme start="20240314213000 +0530" stop="20240314220000 +0530" channel="RBharat.in">
+    <title lang="en">Yeh Bharat Ki Baat Hai</title>
+    <desc lang="en">Yeh Bharat Ki Baat Hai</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3CA752430A569573DF37E80D2AAB37584F52FA8P.jpg"/>
+  </programme>
+  <programme start="20240314220000 +0530" stop="20240314223000 +0530" channel="RBharat.in">
+    <title lang="en">10 Mein Hai Dum</title>
+    <desc lang="en">10 Mein Hai Dum</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/673C5C14249D3F829AE954773DD925A9128BAFBEX.jpg"/>
+  </programme>
+  <programme start="20240314223000 +0530" stop="20240314230000 +0530" channel="RBharat.in">
+    <title lang="en">100% News</title>
+    <desc lang="en">100% News</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBEEB792FFC025E8C287D2B00957FBB9C5241ECBQ.jpg"/>
+  </programme>
+  <programme start="20240314230000 +0530" stop="20240314233000 +0530" channel="RBharat.in">
+    <title lang="en">Jaagte Raho</title>
+    <desc lang="en">Jaagte Raho</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E3DFA1A7ABF12EB9C27D54FC8A221EDFB3F673ES.jpg"/>
+  </programme>
+  <programme start="20240314233000 +0530" stop="20240315000000 +0530" channel="RBharat.in">
+    <title lang="en">Raftaar 100</title>
+    <desc lang="en">Raftaar 100</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57D0C4DFA5BD9ADAAB117E47DF471D0F92A5F7A61.jpg"/>
+  </programme>
+</tv>

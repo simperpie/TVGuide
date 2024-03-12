@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ZeeCafeHD.in">
+    <display-name lang="en">Zee Cafe HD</display-name>
+  </channel>
+  <programme start="20240312004100 +0530" stop="20240312015500 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Cheer Up!</title>
+    <desc lang="en">As Soo Ah continues to bully Yeon Doo, Principal Choi attempts to bring together the two clubs for Soo Ah. Meanwhile, Ha Joon attempts to die by suicide.</desc>
+    <credits>
+      <actor>Jung Eun-ji</actor>
+      <actor>Lee Won Geun</actor>
+      <actor>Chae Soo Bin</actor>
+      <actor>Cha Hak Yeon</actor>
+      <actor>Ji Soo</actor>
+      <actor>Kim Min Ho</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DB84A1074CC76BE066D81A7A6CBEE2363EB7060M.jpg"/>
+  </programme>
+  <programme start="20240312015500 +0530" stop="20240312024000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Pinocchio</title>
+    <desc lang="en">Dal-po, a man whose family was ruined by a news channel, and In-ha, his friend who has the Pinocchio Syndrome forbidding her from speaking lies, become journalists and strive to fight for justice.</desc>
+    <credits>
+      <actor>Jong Suk Lee</actor>
+      <actor>Shin Hye Park</actor>
+      <actor>Kim Young-Kwang</actor>
+      <actor>Lee Yu bi</actor>
+      <actor>Jin Kyung</actor>
+      <actor>Byun Hee Bong</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EB91FFF680CBABF6E67B9D49329DB2B7511A119B4.jpg"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20240312024000 +0530" stop="20240312032500 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">School 2017</title>
+    <desc lang="en">A group of students, who go through several ups and downs, try to cope with their personal problems as well as deal with a corrupt system at school.</desc>
+    <credits>
+      <actor>Kim Jung Hyun</actor>
+      <actor>Kim Hee Jung</actor>
+      <actor>Jang Dong yoon</actor>
+      <actor>Han Joo wan</actor>
+      <actor>Han Sun-hwa</actor>
+      <actor>Kim Se Jeong</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1A4FC2B74EE6A24EAF6B05F8FF1A10C15E5AD0EY.jpg"/>
+  </programme>
+  <programme start="20240312032500 +0530" stop="20240312041000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Cheer Up!</title>
+    <desc lang="en">As Soo Ah continues to bully Yeon Doo, Principal Choi attempts to bring together the two clubs for Soo Ah. Meanwhile, Ha Joon attempts to die by suicide.</desc>
+    <credits>
+      <actor>Jung Eun-ji</actor>
+      <actor>Lee Won Geun</actor>
+      <actor>Chae Soo Bin</actor>
+      <actor>Cha Hak Yeon</actor>
+      <actor>Ji Soo</actor>
+      <actor>Kim Min Ho</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DB84A1074CC76BE066D81A7A6CBEE2363EB7060M.jpg"/>
+  </programme>
+  <programme start="20240312041000 +0530" stop="20240312050000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Pinocchio</title>
+    <desc lang="en">Dal-po, a man whose family was ruined by a news channel, and In-ha, his friend who has the Pinocchio Syndrome forbidding her from speaking lies, become journalists and strive to fight for justice.</desc>
+    <credits>
+      <actor>Jong Suk Lee</actor>
+      <actor>Shin Hye Park</actor>
+      <actor>Kim Young-Kwang</actor>
+      <actor>Lee Yu bi</actor>
+      <actor>Jin Kyung</actor>
+      <actor>Byun Hee Bong</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EB91FFF680CBABF6E67B9D49329DB2B7511A119B4.jpg"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20240312050000 +0530" stop="20240312060000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">School 2017</title>
+    <desc lang="en">A group of students, who go through several ups and downs, try to cope with their personal problems as well as deal with a corrupt system at school.</desc>
+    <credits>
+      <actor>Kim Jung Hyun</actor>
+      <actor>Kim Hee Jung</actor>
+      <actor>Jang Dong yoon</actor>
+      <actor>Han Joo wan</actor>
+      <actor>Han Sun-hwa</actor>
+      <actor>Kim Se Jeong</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1A4FC2B74EE6A24EAF6B05F8FF1A10C15E5AD0EY.jpg"/>
+  </programme>
+  <programme start="20240312060000 +0530" stop="20240312070000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Cheer Up!</title>
+    <desc lang="en">As Soo Ah continues to bully Yeon Doo, Principal Choi attempts to bring together the two clubs for Soo Ah. Meanwhile, Ha Joon attempts to die by suicide.</desc>
+    <credits>
+      <actor>Jung Eun-ji</actor>
+      <actor>Lee Won Geun</actor>
+      <actor>Chae Soo Bin</actor>
+      <actor>Cha Hak Yeon</actor>
+      <actor>Ji Soo</actor>
+      <actor>Kim Min Ho</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DB84A1074CC76BE066D81A7A6CBEE2363EB7060M.jpg"/>
+  </programme>
+  <programme start="20240312070000 +0530" stop="20240312073000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Murray makes the decision that it is high time for Adam to learn to drive while Erica is grappling with a deep sense of loneliness and a lack of excitement during her college experience.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240312073000 +0530" stop="20240312080000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">In an attempt to emulate the style of 'Parents Just Do not Understand' by DJ Jazzy Jeff and The Fresh Prince, Adam and Barry produce a video named 'Dads Just Do not Care'.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240312080000 +0530" stop="20240312090000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Art Of More</title>
+    <desc lang="en">Davenport organizes a fundraiser for MoMA, leading to heightened tensions as both friends and foes find themselves in the same space.</desc>
+    <credits>
+      <actor>Christian Cooke</actor>
+      <actor>Kate Bosworth</actor>
+      <actor>Cary Elwes</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Cristina Rosato</actor>
+      <actor>Joe Cobden</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/694D98D5D4160EF9B49BF764155C891B12D08A7FH.jpg"/>
+  </programme>
+  <programme start="20240312090000 +0530" stop="20240312100000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Absentia</title>
+    <desc lang="en">In the cabin tunnel, Emily panics when she is shot by the masked person. Later, she wakes in a room with Alice and the masked person reveals her past.</desc>
+    <credits>
+      <actor>Stana Katic</actor>
+      <actor>Patrick Heusinger</actor>
+      <actor>Cara Theobold</actor>
+      <actor>Neil Jackson</actor>
+      <actor>Angel Bonanni</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE6AC89AC0E061C35263CFE46CC97AF31EBEBD4CO.jpg"/>
+  </programme>
+  <programme start="20240312100000 +0530" stop="20240312110000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Grey's Anatomy</title>
+    <desc lang="en">As Maggie's last day at Grey Sloan approaches, emotions run high as her colleagues bid her farewell while Amelia's relationship with Kai faces a test, challenging the strength of their bond.</desc>
+    <credits>
+      <actor>Ellen Pompeo</actor>
+      <actor>Chandra Wilson</actor>
+      <actor>James Pickens Jr</actor>
+      <actor>Justin Chambers</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>Jesse Williams</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E92D9D8F0CF618BFE72386EC496A8A9C8A60595O.jpg"/>
+  </programme>
+  <programme start="20240312110000 +0530" stop="20240312120000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Suspicious Partner</title>
+    <desc lang="en">Handsome prosecutor Noh Ji-wook crosses paths with trainee solicitor Eun Bong-hee. They team up to solve a serial killing case and love blossoms between them.</desc>
+    <credits>
+      <actor>Ji Chang Wook</actor>
+      <actor>Nam Ji Hyun</actor>
+      <actor>Choi Tae Joon</actor>
+      <actor>Lee Deok hwa</actor>
+      <actor>Kwon Na-ra</actor>
+      <actor>Nam Gi ae</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBC0ACBDA0F7472ACA27C15E7D2CF9FF9A241EF9Y.jpg"/>
+    <episode-num system="xmltv_ns">.18.</episode-num>
+  </programme>
+  <programme start="20240312120000 +0530" stop="20240312123000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Adam lands the solo role in the school production of 'A Chorus Line' while inspired by the Milli Vanilli scandal, Beverly suggests the idea of lip-syncing the school musical.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240312123000 +0530" stop="20240312130100 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">In a plot reminiscent of 'Short Circuit', Adam expresses his desire for a robot, pitching it as a 'learning-based project'.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240312130100 +0530" stop="20240312140000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Art Of More</title>
+    <desc lang="en">Davenport organizes a fundraiser for MoMA, leading to heightened tensions as both friends and foes find themselves in the same space.</desc>
+    <credits>
+      <actor>Christian Cooke</actor>
+      <actor>Kate Bosworth</actor>
+      <actor>Cary Elwes</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Cristina Rosato</actor>
+      <actor>Joe Cobden</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/694D98D5D4160EF9B49BF764155C891B12D08A7FH.jpg"/>
+  </programme>
+  <programme start="20240312140000 +0530" stop="20240312150000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Grey's Anatomy</title>
+    <desc lang="en">As Maggie's last day at Grey Sloan approaches, emotions run high as her colleagues bid her farewell while Amelia's relationship with Kai faces a test, challenging the strength of their bond.</desc>
+    <credits>
+      <actor>Ellen Pompeo</actor>
+      <actor>Chandra Wilson</actor>
+      <actor>James Pickens Jr</actor>
+      <actor>Justin Chambers</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>Jesse Williams</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E92D9D8F0CF618BFE72386EC496A8A9C8A60595O.jpg"/>
+  </programme>
+  <programme start="20240312150000 +0530" stop="20240312160100 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Suspicious Partner</title>
+    <desc lang="en">Handsome prosecutor Noh Ji-wook crosses paths with trainee solicitor Eun Bong-hee. They team up to solve a serial killing case and love blossoms between them.</desc>
+    <credits>
+      <actor>Ji Chang Wook</actor>
+      <actor>Nam Ji Hyun</actor>
+      <actor>Choi Tae Joon</actor>
+      <actor>Lee Deok hwa</actor>
+      <actor>Kwon Na-ra</actor>
+      <actor>Nam Gi ae</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBC0ACBDA0F7472ACA27C15E7D2CF9FF9A241EF9Y.jpg"/>
+    <episode-num system="xmltv_ns">.18.</episode-num>
+  </programme>
+  <programme start="20240312160100 +0530" stop="20240312170000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Absentia</title>
+    <desc lang="en">In the cabin tunnel, Emily panics when she is shot by the masked person. Later, she wakes in a room with Alice and the masked person reveals her past.</desc>
+    <credits>
+      <actor>Stana Katic</actor>
+      <actor>Patrick Heusinger</actor>
+      <actor>Cara Theobold</actor>
+      <actor>Neil Jackson</actor>
+      <actor>Angel Bonanni</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE6AC89AC0E061C35263CFE46CC97AF31EBEBD4CO.jpg"/>
+  </programme>
+  <programme start="20240312170000 +0530" stop="20240312180100 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Grey's Anatomy</title>
+    <desc lang="en">As Maggie's last day at Grey Sloan approaches, emotions run high as her colleagues bid her farewell while Amelia's relationship with Kai faces a test, challenging the strength of their bond.</desc>
+    <credits>
+      <actor>Ellen Pompeo</actor>
+      <actor>Chandra Wilson</actor>
+      <actor>James Pickens Jr</actor>
+      <actor>Justin Chambers</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>Jesse Williams</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E92D9D8F0CF618BFE72386EC496A8A9C8A60595O.jpg"/>
+  </programme>
+  <programme start="20240312180100 +0530" stop="20240312183000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Schooled</title>
+    <desc lang="en">While Lainey and CB support a student radio club, a DJ begins to badmouth them. Meanwhile, Glascott attempts to change the school's mascot.</desc>
+    <credits>
+      <actor>AJ Michalka</actor>
+      <actor>Tim Meadows</actor>
+      <actor>Bryan Callen</actor>
+      <actor>Brett Dier</actor>
+      <actor>Israel Johnson</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFFBA1AFE6B3A3CD97B5A61272B911F2B2556EBDK.jpg"/>
+  </programme>
+  <programme start="20240312183000 +0530" stop="20240312190100 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Schooled</title>
+    <desc lang="en">As CB is set to confess his feelings for Lainey, Barry stands in his way. Meanwhile, Glascott's plans to create harmony go in vain.</desc>
+    <credits>
+      <actor>AJ Michalka</actor>
+      <actor>Tim Meadows</actor>
+      <actor>Bryan Callen</actor>
+      <actor>Brett Dier</actor>
+      <actor>Israel Johnson</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFFBA1AFE6B3A3CD97B5A61272B911F2B2556EBDK.jpg"/>
+  </programme>
+  <programme start="20240312190100 +0530" stop="20240312200100 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Suspicious Partner</title>
+    <desc lang="en">Handsome prosecutor Noh Ji-wook crosses paths with trainee solicitor Eun Bong-hee. They team up to solve a serial killing case and love blossoms between them.</desc>
+    <credits>
+      <actor>Ji Chang Wook</actor>
+      <actor>Nam Ji Hyun</actor>
+      <actor>Choi Tae Joon</actor>
+      <actor>Lee Deok hwa</actor>
+      <actor>Kwon Na-ra</actor>
+      <actor>Nam Gi ae</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBC0ACBDA0F7472ACA27C15E7D2CF9FF9A241EF9Y.jpg"/>
+    <episode-num system="xmltv_ns">.19.</episode-num>
+  </programme>
+  <programme start="20240312200100 +0530" stop="20240312210000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Absentia</title>
+    <desc lang="en">Nick accuses Emily of kidnapping Alice and Flynn and makes an emotional plea in front of the media while she, shaken by her son's abduction, seeks refuge in a homeless camp.</desc>
+    <credits>
+      <actor>Stana Katic</actor>
+      <actor>Patrick Heusinger</actor>
+      <actor>Cara Theobold</actor>
+      <actor>Neil Jackson</actor>
+      <actor>Angel Bonanni</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE6AC89AC0E061C35263CFE46CC97AF31EBEBD4CO.jpg"/>
+  </programme>
+  <programme start="20240312210000 +0530" stop="20240312220100 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Grey's Anatomy</title>
+    <desc lang="en">Jo grapples with a challenging diagnosis. Meanwhile, Maggie and Winston face an important decision about their future together.</desc>
+    <credits>
+      <actor>Ellen Pompeo</actor>
+      <actor>Chandra Wilson</actor>
+      <actor>James Pickens Jr</actor>
+      <actor>Justin Chambers</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>Jesse Williams</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E92D9D8F0CF618BFE72386EC496A8A9C8A60595O.jpg"/>
+  </programme>
+  <programme start="20240312220100 +0530" stop="20240312230000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">FBI</title>
+    <desc lang="en">After a senator's daughter goes missing in Brownsville, a stalker becomes the prime suspect as the FBI investigates her whereabouts.</desc>
+    <credits>
+      <actor>Missy Peregrym</actor>
+      <actor>Zeeko Zaki</actor>
+      <actor>Jeremy Sisto</actor>
+      <actor>Ebonee Noel</actor>
+      <actor>Connie Nielsen</actor>
+      <actor>Sela Ward</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8452E05D480210C45DD3023491B9F3BAE5EEA4C5V.jpg"/>
+  </programme>
+  <programme start="20240312230000 +0530" stop="20240312233000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Barry and the JTP invade Erica's bedroom in search of clues in order to understand girls, despite her warning to stay away.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240312233000 +0530" stop="20240312235600 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Beverly hosts a Thanksgiving potluck with neighbours and friends. Meanwhile, Erica confesses to accumulating three thousand dollars in debt.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240312235600 +0530" stop="20240313004000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">School 2017</title>
+    <desc lang="en">Eun-ho, Tae-woon, and Dae-hwi accept an unofficial punishment for their actions. Meanwhile, Mr Shim tries to stop the tattling through a new approach.</desc>
+    <credits>
+      <actor>Kim Jung Hyun</actor>
+      <actor>Kim Hee Jung</actor>
+      <actor>Jang Dong yoon</actor>
+      <actor>Han Joo wan</actor>
+      <actor>Han Sun-hwa</actor>
+      <actor>Kim Se Jeong</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1A4FC2B74EE6A24EAF6B05F8FF1A10C15E5AD0EY.jpg"/>
+  </programme>
+  <programme start="20240313010000 +0530" stop="20240313015500 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Cheer Up!</title>
+    <desc lang="en">The cheerleading instructor has a lot on her plate as she gets the club moving. Meanwhile, Yeon Doo saves Soo Ah from getting caught smoking.</desc>
+    <credits>
+      <actor>Jung Eun-ji</actor>
+      <actor>Lee Won Geun</actor>
+      <actor>Chae Soo Bin</actor>
+      <actor>Cha Hak Yeon</actor>
+      <actor>Ji Soo</actor>
+      <actor>Kim Min Ho</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DB84A1074CC76BE066D81A7A6CBEE2363EB7060M.jpg"/>
+  </programme>
+  <programme start="20240313015500 +0530" stop="20240313024000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Pinocchio</title>
+    <desc lang="en">Dal-po, a man whose family was ruined by a news channel, and In-ha, his friend who has the Pinocchio Syndrome forbidding her from speaking lies, become journalists and strive to fight for justice.</desc>
+    <credits>
+      <actor>Jong Suk Lee</actor>
+      <actor>Shin Hye Park</actor>
+      <actor>Kim Young-Kwang</actor>
+      <actor>Lee Yu bi</actor>
+      <actor>Jin Kyung</actor>
+      <actor>Byun Hee Bong</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EB91FFF680CBABF6E67B9D49329DB2B7511A119B4.jpg"/>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20240313024000 +0530" stop="20240313032500 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">School 2017</title>
+    <desc lang="en">Eun-ho, Tae-woon, and Dae-hwi accept an unofficial punishment for their actions. Meanwhile, Mr Shim tries to stop the tattling through a new approach.</desc>
+    <credits>
+      <actor>Kim Jung Hyun</actor>
+      <actor>Kim Hee Jung</actor>
+      <actor>Jang Dong yoon</actor>
+      <actor>Han Joo wan</actor>
+      <actor>Han Sun-hwa</actor>
+      <actor>Kim Se Jeong</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1A4FC2B74EE6A24EAF6B05F8FF1A10C15E5AD0EY.jpg"/>
+  </programme>
+  <programme start="20240313032500 +0530" stop="20240313041000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Cheer Up!</title>
+    <desc lang="en">The cheerleading instructor has a lot on her plate as she gets the club moving. Meanwhile, Yeon Doo saves Soo Ah from getting caught smoking.</desc>
+    <credits>
+      <actor>Jung Eun-ji</actor>
+      <actor>Lee Won Geun</actor>
+      <actor>Chae Soo Bin</actor>
+      <actor>Cha Hak Yeon</actor>
+      <actor>Ji Soo</actor>
+      <actor>Kim Min Ho</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DB84A1074CC76BE066D81A7A6CBEE2363EB7060M.jpg"/>
+  </programme>
+  <programme start="20240313041000 +0530" stop="20240313050000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Pinocchio</title>
+    <desc lang="en">Dal-po, a man whose family was ruined by a news channel, and In-ha, his friend who has the Pinocchio Syndrome forbidding her from speaking lies, become journalists and strive to fight for justice.</desc>
+    <credits>
+      <actor>Jong Suk Lee</actor>
+      <actor>Shin Hye Park</actor>
+      <actor>Kim Young-Kwang</actor>
+      <actor>Lee Yu bi</actor>
+      <actor>Jin Kyung</actor>
+      <actor>Byun Hee Bong</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EB91FFF680CBABF6E67B9D49329DB2B7511A119B4.jpg"/>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20240313050000 +0530" stop="20240313060000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">School 2017</title>
+    <desc lang="en">Eun-ho, Tae-woon, and Dae-hwi accept an unofficial punishment for their actions. Meanwhile, Mr Shim tries to stop the tattling through a new approach.</desc>
+    <credits>
+      <actor>Kim Jung Hyun</actor>
+      <actor>Kim Hee Jung</actor>
+      <actor>Jang Dong yoon</actor>
+      <actor>Han Joo wan</actor>
+      <actor>Han Sun-hwa</actor>
+      <actor>Kim Se Jeong</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1A4FC2B74EE6A24EAF6B05F8FF1A10C15E5AD0EY.jpg"/>
+  </programme>
+  <programme start="20240313060000 +0530" stop="20240313070000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Cheer Up!</title>
+    <desc lang="en">The cheerleading instructor has a lot on her plate as she gets the club moving. Meanwhile, Yeon Doo saves Soo Ah from getting caught smoking.</desc>
+    <credits>
+      <actor>Jung Eun-ji</actor>
+      <actor>Lee Won Geun</actor>
+      <actor>Chae Soo Bin</actor>
+      <actor>Cha Hak Yeon</actor>
+      <actor>Ji Soo</actor>
+      <actor>Kim Min Ho</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DB84A1074CC76BE066D81A7A6CBEE2363EB7060M.jpg"/>
+  </programme>
+  <programme start="20240313070000 +0530" stop="20240313073000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Beverly competes with Lou Schwartz over who can stage the best Hannukah celebrations. Meanwhile, a jealous Barry steals Adam's song for the holiday talent show.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240313073000 +0530" stop="20240313080000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Inspired by the television show 'The Golden Girls', Beverly forms a friend group with other mothers in the neighbourhood. Meanwhile, Erica is tired of Geoff's romantic gestures.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240313080000 +0530" stop="20240313090000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Art Of More</title>
+    <desc lang="en">Parke-Mason pursue the account of an NFL legend. Hassan's attempt to get in touch with his family jeopardises his freedom.</desc>
+    <credits>
+      <actor>Christian Cooke</actor>
+      <actor>Kate Bosworth</actor>
+      <actor>Cary Elwes</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Cristina Rosato</actor>
+      <actor>Joe Cobden</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/694D98D5D4160EF9B49BF764155C891B12D08A7FH.jpg"/>
+  </programme>
+  <programme start="20240313090000 +0530" stop="20240313100000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Absentia</title>
+    <desc lang="en">Emily investigates Barrett House and Dr Shen. Meanwhile, Flynn undergoes therapy after his captivity and Alice faces a miscarriage.</desc>
+    <credits>
+      <actor>Stana Katic</actor>
+      <actor>Patrick Heusinger</actor>
+      <actor>Cara Theobold</actor>
+      <actor>Neil Jackson</actor>
+      <actor>Angel Bonanni</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE6AC89AC0E061C35263CFE46CC97AF31EBEBD4CO.jpg"/>
+  </programme>
+  <programme start="20240313100000 +0530" stop="20240313110000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Grey's Anatomy</title>
+    <desc lang="en">Jo grapples with a challenging diagnosis. Meanwhile, Maggie and Winston face an important decision about their future together.</desc>
+    <credits>
+      <actor>Ellen Pompeo</actor>
+      <actor>Chandra Wilson</actor>
+      <actor>James Pickens Jr</actor>
+      <actor>Justin Chambers</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>Jesse Williams</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E92D9D8F0CF618BFE72386EC496A8A9C8A60595O.jpg"/>
+  </programme>
+  <programme start="20240313110000 +0530" stop="20240313120000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Suspicious Partner</title>
+    <desc lang="en">Handsome prosecutor Noh Ji-wook crosses paths with trainee solicitor Eun Bong-hee. They team up to solve a serial killing case and love blossoms between them.</desc>
+    <credits>
+      <actor>Ji Chang Wook</actor>
+      <actor>Nam Ji Hyun</actor>
+      <actor>Choi Tae Joon</actor>
+      <actor>Lee Deok hwa</actor>
+      <actor>Kwon Na-ra</actor>
+      <actor>Nam Gi ae</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBC0ACBDA0F7472ACA27C15E7D2CF9FF9A241EF9Y.jpg"/>
+    <episode-num system="xmltv_ns">.19.</episode-num>
+  </programme>
+  <programme start="20240313120000 +0530" stop="20240313123000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Uncomfortable about their changing bodies, Adam comes up with a plan to stay out of the swimming pool. Meanwhile, Erica starts a club.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240313123000 +0530" stop="20240313130000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Erica's advice triggers a new personality in Barry as he attempts to maintain his relationship with Lainey. Plus, Murray gets closer to Bill Lewis.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240313130000 +0530" stop="20240313140000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Art Of More</title>
+    <desc lang="en">Parke-Mason pursue the account of an NFL legend. Hassan's attempt to get in touch with his family jeopardises his freedom.</desc>
+    <credits>
+      <actor>Christian Cooke</actor>
+      <actor>Kate Bosworth</actor>
+      <actor>Cary Elwes</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Cristina Rosato</actor>
+      <actor>Joe Cobden</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/694D98D5D4160EF9B49BF764155C891B12D08A7FH.jpg"/>
+  </programme>
+  <programme start="20240313140000 +0530" stop="20240313150000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Grey's Anatomy</title>
+    <desc lang="en">Jo grapples with a challenging diagnosis. Meanwhile, Maggie and Winston face an important decision about their future together.</desc>
+    <credits>
+      <actor>Ellen Pompeo</actor>
+      <actor>Chandra Wilson</actor>
+      <actor>James Pickens Jr</actor>
+      <actor>Justin Chambers</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>Jesse Williams</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E92D9D8F0CF618BFE72386EC496A8A9C8A60595O.jpg"/>
+  </programme>
+  <programme start="20240313150000 +0530" stop="20240313160000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Suspicious Partner</title>
+    <desc lang="en">Handsome prosecutor Noh Ji-wook crosses paths with trainee solicitor Eun Bong-hee. They team up to solve a serial killing case and love blossoms between them.</desc>
+    <credits>
+      <actor>Ji Chang Wook</actor>
+      <actor>Nam Ji Hyun</actor>
+      <actor>Choi Tae Joon</actor>
+      <actor>Lee Deok hwa</actor>
+      <actor>Kwon Na-ra</actor>
+      <actor>Nam Gi ae</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBC0ACBDA0F7472ACA27C15E7D2CF9FF9A241EF9Y.jpg"/>
+    <episode-num system="xmltv_ns">.19.</episode-num>
+  </programme>
+  <programme start="20240313160000 +0530" stop="20240313170000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Absentia</title>
+    <desc lang="en">Emily investigates Barrett House and Dr Shen. Meanwhile, Flynn undergoes therapy after his captivity and Alice faces a miscarriage.</desc>
+    <credits>
+      <actor>Stana Katic</actor>
+      <actor>Patrick Heusinger</actor>
+      <actor>Cara Theobold</actor>
+      <actor>Neil Jackson</actor>
+      <actor>Angel Bonanni</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE6AC89AC0E061C35263CFE46CC97AF31EBEBD4CO.jpg"/>
+  </programme>
+  <programme start="20240313170000 +0530" stop="20240313180000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Grey's Anatomy</title>
+    <desc lang="en">Jo grapples with a challenging diagnosis. Meanwhile, Maggie and Winston face an important decision about their future together.</desc>
+    <credits>
+      <actor>Ellen Pompeo</actor>
+      <actor>Chandra Wilson</actor>
+      <actor>James Pickens Jr</actor>
+      <actor>Justin Chambers</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>Jesse Williams</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E92D9D8F0CF618BFE72386EC496A8A9C8A60595O.jpg"/>
+  </programme>
+  <programme start="20240313180000 +0530" stop="20240313183000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Schooled</title>
+    <desc lang="en">Lainey returns to William Penn Academy as the new music teacher after her dream of rock 'n' roll remains unfulfilled. Despite the faculty's strangeness, the students look up to them.</desc>
+    <credits>
+      <actor>AJ Michalka</actor>
+      <actor>Tim Meadows</actor>
+      <actor>Bryan Callen</actor>
+      <actor>Brett Dier</actor>
+      <actor>Israel Johnson</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFFBA1AFE6B3A3CD97B5A61272B911F2B2556EBDK.jpg"/>
+  </programme>
+  <programme start="20240313183000 +0530" stop="20240313190000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Schooled</title>
+    <desc lang="en">Lainey returns to William Penn Academy as the new music teacher after her dream of rock 'n' roll remains unfulfilled. Despite the faculty's strangeness, the students look up to them.</desc>
+    <credits>
+      <actor>AJ Michalka</actor>
+      <actor>Tim Meadows</actor>
+      <actor>Bryan Callen</actor>
+      <actor>Brett Dier</actor>
+      <actor>Israel Johnson</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFFBA1AFE6B3A3CD97B5A61272B911F2B2556EBDK.jpg"/>
+  </programme>
+  <programme start="20240313190000 +0530" stop="20240313200000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Suspicious Partner</title>
+    <desc lang="en">Handsome prosecutor Noh Ji-wook crosses paths with trainee solicitor Eun Bong-hee. They team up to solve a serial killing case and love blossoms between them.</desc>
+    <credits>
+      <actor>Ji Chang Wook</actor>
+      <actor>Nam Ji Hyun</actor>
+      <actor>Choi Tae Joon</actor>
+      <actor>Lee Deok hwa</actor>
+      <actor>Kwon Na-ra</actor>
+      <actor>Nam Gi ae</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBC0ACBDA0F7472ACA27C15E7D2CF9FF9A241EF9Y.jpg"/>
+    <episode-num system="xmltv_ns">.20.</episode-num>
+  </programme>
+  <programme start="20240313200000 +0530" stop="20240313210000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Absentia</title>
+    <desc lang="en">While Gibbs chases Emily, she swiftly escapes on a train with the book she stole from Charles. Later, she finds recognises a unique symbol in a restaurant.</desc>
+    <credits>
+      <actor>Stana Katic</actor>
+      <actor>Patrick Heusinger</actor>
+      <actor>Cara Theobold</actor>
+      <actor>Neil Jackson</actor>
+      <actor>Angel Bonanni</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE6AC89AC0E061C35263CFE46CC97AF31EBEBD4CO.jpg"/>
+  </programme>
+  <programme start="20240313210000 +0530" stop="20240313220000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Grey's Anatomy</title>
+    <desc lang="en">Amelia finds herself taking out her frustrations on her work colleagues. Meanwhile, Lucas and Jules make a daring decision in an attempt to save a life.</desc>
+    <credits>
+      <actor>Ellen Pompeo</actor>
+      <actor>Chandra Wilson</actor>
+      <actor>James Pickens Jr</actor>
+      <actor>Justin Chambers</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>Jesse Williams</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E92D9D8F0CF618BFE72386EC496A8A9C8A60595O.jpg"/>
+  </programme>
+  <programme start="20240313220000 +0530" stop="20240313230000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">FBI</title>
+    <desc lang="en">Special agents Maggie Bell and Zidan from the New York branch of the FBI work together to keep the city and country safe.</desc>
+    <credits>
+      <actor>Missy Peregrym</actor>
+      <actor>Zeeko Zaki</actor>
+      <actor>Jeremy Sisto</actor>
+      <actor>Ebonee Noel</actor>
+      <actor>Connie Nielsen</actor>
+      <actor>Sela Ward</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8452E05D480210C45DD3023491B9F3BAE5EEA4C5V.jpg"/>
+  </programme>
+  <programme start="20240313230000 +0530" stop="20240313233000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Murray makes the decision that it is high time for Adam to learn to drive while Erica is grappling with a deep sense of loneliness and a lack of excitement during her college experience.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240313233000 +0530" stop="20240313235500 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">In an attempt to emulate the style of 'Parents Just Do not Understand' by DJ Jazzy Jeff and The Fresh Prince, Adam and Barry produce a video named 'Dads Just Do not Care'.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240313235500 +0530" stop="20240314010000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">School 2017</title>
+    <desc lang="en">Eun-ho learns the identity of X while Dae-hwi is stressed about the possibility that his accomplishments may not be good enough for his goals.</desc>
+    <credits>
+      <actor>Kim Jung Hyun</actor>
+      <actor>Kim Hee Jung</actor>
+      <actor>Jang Dong yoon</actor>
+      <actor>Han Joo wan</actor>
+      <actor>Han Sun-hwa</actor>
+      <actor>Kim Se Jeong</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1A4FC2B74EE6A24EAF6B05F8FF1A10C15E5AD0EY.jpg"/>
+  </programme>
+  <programme start="20240314010000 +0530" stop="20240314015500 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Cheer Up!</title>
+    <desc lang="en">Yeon Doo feels guilty about Dong Jae's removal from the team. Later, on their way back, Yeon Doo and Kim Yeol get closer.</desc>
+    <credits>
+      <actor>Jung Eun-ji</actor>
+      <actor>Lee Won Geun</actor>
+      <actor>Chae Soo Bin</actor>
+      <actor>Cha Hak Yeon</actor>
+      <actor>Ji Soo</actor>
+      <actor>Kim Min Ho</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DB84A1074CC76BE066D81A7A6CBEE2363EB7060M.jpg"/>
+  </programme>
+  <programme start="20240314015500 +0530" stop="20240314024000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Pinocchio</title>
+    <desc lang="en">Dal-po, a man whose family was ruined by a news channel, and In-ha, his friend who has the Pinocchio Syndrome forbidding her from speaking lies, become journalists and strive to fight for justice.</desc>
+    <credits>
+      <actor>Jong Suk Lee</actor>
+      <actor>Shin Hye Park</actor>
+      <actor>Kim Young-Kwang</actor>
+      <actor>Lee Yu bi</actor>
+      <actor>Jin Kyung</actor>
+      <actor>Byun Hee Bong</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EB91FFF680CBABF6E67B9D49329DB2B7511A119B4.jpg"/>
+    <episode-num system="xmltv_ns">.5.</episode-num>
+  </programme>
+  <programme start="20240314024000 +0530" stop="20240314032500 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">School 2017</title>
+    <desc lang="en">Eun-ho learns the identity of X while Dae-hwi is stressed about the possibility that his accomplishments may not be good enough for his goals.</desc>
+    <credits>
+      <actor>Kim Jung Hyun</actor>
+      <actor>Kim Hee Jung</actor>
+      <actor>Jang Dong yoon</actor>
+      <actor>Han Joo wan</actor>
+      <actor>Han Sun-hwa</actor>
+      <actor>Kim Se Jeong</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1A4FC2B74EE6A24EAF6B05F8FF1A10C15E5AD0EY.jpg"/>
+  </programme>
+  <programme start="20240314032500 +0530" stop="20240314041000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Cheer Up!</title>
+    <desc lang="en">Yeon Doo feels guilty about Dong Jae's removal from the team. Later, on their way back, Yeon Doo and Kim Yeol get closer.</desc>
+    <credits>
+      <actor>Jung Eun-ji</actor>
+      <actor>Lee Won Geun</actor>
+      <actor>Chae Soo Bin</actor>
+      <actor>Cha Hak Yeon</actor>
+      <actor>Ji Soo</actor>
+      <actor>Kim Min Ho</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DB84A1074CC76BE066D81A7A6CBEE2363EB7060M.jpg"/>
+  </programme>
+  <programme start="20240314041000 +0530" stop="20240314050000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Pinocchio</title>
+    <desc lang="en">Dal-po, a man whose family was ruined by a news channel, and In-ha, his friend who has the Pinocchio Syndrome forbidding her from speaking lies, become journalists and strive to fight for justice.</desc>
+    <credits>
+      <actor>Jong Suk Lee</actor>
+      <actor>Shin Hye Park</actor>
+      <actor>Kim Young-Kwang</actor>
+      <actor>Lee Yu bi</actor>
+      <actor>Jin Kyung</actor>
+      <actor>Byun Hee Bong</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EB91FFF680CBABF6E67B9D49329DB2B7511A119B4.jpg"/>
+    <episode-num system="xmltv_ns">.5.</episode-num>
+  </programme>
+  <programme start="20240314050000 +0530" stop="20240314060000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">School 2017</title>
+    <desc lang="en">Eun-ho learns the identity of X while Dae-hwi is stressed about the possibility that his accomplishments may not be good enough for his goals.</desc>
+    <credits>
+      <actor>Kim Jung Hyun</actor>
+      <actor>Kim Hee Jung</actor>
+      <actor>Jang Dong yoon</actor>
+      <actor>Han Joo wan</actor>
+      <actor>Han Sun-hwa</actor>
+      <actor>Kim Se Jeong</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1A4FC2B74EE6A24EAF6B05F8FF1A10C15E5AD0EY.jpg"/>
+  </programme>
+  <programme start="20240314060000 +0530" stop="20240314070000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Cheer Up!</title>
+    <desc lang="en">Yeon Doo feels guilty about Dong Jae's removal from the team. Later, on their way back, Yeon Doo and Kim Yeol get closer.</desc>
+    <credits>
+      <actor>Jung Eun-ji</actor>
+      <actor>Lee Won Geun</actor>
+      <actor>Chae Soo Bin</actor>
+      <actor>Cha Hak Yeon</actor>
+      <actor>Ji Soo</actor>
+      <actor>Kim Min Ho</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DB84A1074CC76BE066D81A7A6CBEE2363EB7060M.jpg"/>
+  </programme>
+  <programme start="20240314070000 +0530" stop="20240314073000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Geoff surprises Erica by inviting her family to join them for her birthday dinner. However, Erica is less than enthusiastic as they behave poorly at restaurants.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240314073000 +0530" stop="20240314080000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Geoff and Beverly adjust to Erica's attempts to be a more refined and cultured person. Meanwhile, Adam causes an accident while trying to be funny in his woodworking class.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240314080000 +0530" stop="20240314090000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Art Of More</title>
+    <desc lang="en">Brukner faces the consequences of his past as evidence of recent wrongdoing comes to light just before his auction. Meanwhile, Roxanna discovers incriminating information about Graham.</desc>
+    <credits>
+      <actor>Christian Cooke</actor>
+      <actor>Kate Bosworth</actor>
+      <actor>Cary Elwes</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Cristina Rosato</actor>
+      <actor>Joe Cobden</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/694D98D5D4160EF9B49BF764155C891B12D08A7FH.jpg"/>
+  </programme>
+  <programme start="20240314090000 +0530" stop="20240314100000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Absentia</title>
+    <desc lang="en">Emily questions Valerie's claim of being her mother but finds proof in her camper. Meanwhile, Valerie reveals that she is being followed and her amnesia experiences.</desc>
+    <credits>
+      <actor>Stana Katic</actor>
+      <actor>Patrick Heusinger</actor>
+      <actor>Cara Theobold</actor>
+      <actor>Neil Jackson</actor>
+      <actor>Angel Bonanni</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE6AC89AC0E061C35263CFE46CC97AF31EBEBD4CO.jpg"/>
+  </programme>
+  <programme start="20240314100000 +0530" stop="20240314110000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Grey's Anatomy</title>
+    <desc lang="en">Amelia finds herself taking out her frustrations on her work colleagues. Meanwhile, Lucas and Jules make a daring decision in an attempt to save a life.</desc>
+    <credits>
+      <actor>Ellen Pompeo</actor>
+      <actor>Chandra Wilson</actor>
+      <actor>James Pickens Jr</actor>
+      <actor>Justin Chambers</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>Jesse Williams</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E92D9D8F0CF618BFE72386EC496A8A9C8A60595O.jpg"/>
+  </programme>
+  <programme start="20240314110000 +0530" stop="20240314120000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Suspicious Partner</title>
+    <desc lang="en">Handsome prosecutor Noh Ji-wook crosses paths with trainee solicitor Eun Bong-hee. They team up to solve a serial killing case and love blossoms between them.</desc>
+    <credits>
+      <actor>Ji Chang Wook</actor>
+      <actor>Nam Ji Hyun</actor>
+      <actor>Choi Tae Joon</actor>
+      <actor>Lee Deok hwa</actor>
+      <actor>Kwon Na-ra</actor>
+      <actor>Nam Gi ae</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBC0ACBDA0F7472ACA27C15E7D2CF9FF9A241EF9Y.jpg"/>
+    <episode-num system="xmltv_ns">.20.</episode-num>
+  </programme>
+  <programme start="20240314120000 +0530" stop="20240314123000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">With Dana's return, Adam, now more mature, chooses to go trick-or-treating with her rather than Beverly wherein they fall into Erica and Barry's prank.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240314123000 +0530" stop="20240314130000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">When Barry realises he is not allergic to dogs as he initially thought, he demands to have one so Murray visits a shelter and brings home a small white dog named Lucky.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240314130000 +0530" stop="20240314140000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Art Of More</title>
+    <desc lang="en">Brukner faces the consequences of his past as evidence of recent wrongdoing comes to light just before his auction. Meanwhile, Roxanna discovers incriminating information about Graham.</desc>
+    <credits>
+      <actor>Christian Cooke</actor>
+      <actor>Kate Bosworth</actor>
+      <actor>Cary Elwes</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Cristina Rosato</actor>
+      <actor>Joe Cobden</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/694D98D5D4160EF9B49BF764155C891B12D08A7FH.jpg"/>
+  </programme>
+  <programme start="20240314140000 +0530" stop="20240314150000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Grey's Anatomy</title>
+    <desc lang="en">Amelia finds herself taking out her frustrations on her work colleagues. Meanwhile, Lucas and Jules make a daring decision in an attempt to save a life.</desc>
+    <credits>
+      <actor>Ellen Pompeo</actor>
+      <actor>Chandra Wilson</actor>
+      <actor>James Pickens Jr</actor>
+      <actor>Justin Chambers</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>Jesse Williams</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E92D9D8F0CF618BFE72386EC496A8A9C8A60595O.jpg"/>
+  </programme>
+  <programme start="20240314150000 +0530" stop="20240314160000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Suspicious Partner</title>
+    <desc lang="en">Handsome prosecutor Noh Ji-wook crosses paths with trainee solicitor Eun Bong-hee. They team up to solve a serial killing case and love blossoms between them.</desc>
+    <credits>
+      <actor>Ji Chang Wook</actor>
+      <actor>Nam Ji Hyun</actor>
+      <actor>Choi Tae Joon</actor>
+      <actor>Lee Deok hwa</actor>
+      <actor>Kwon Na-ra</actor>
+      <actor>Nam Gi ae</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBC0ACBDA0F7472ACA27C15E7D2CF9FF9A241EF9Y.jpg"/>
+    <episode-num system="xmltv_ns">.20.</episode-num>
+  </programme>
+  <programme start="20240314160000 +0530" stop="20240314170000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Absentia</title>
+    <desc lang="en">Emily questions Valerie's claim of being her mother but finds proof in her camper. Meanwhile, Valerie reveals that she is being followed and her amnesia experiences.</desc>
+    <credits>
+      <actor>Stana Katic</actor>
+      <actor>Patrick Heusinger</actor>
+      <actor>Cara Theobold</actor>
+      <actor>Neil Jackson</actor>
+      <actor>Angel Bonanni</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE6AC89AC0E061C35263CFE46CC97AF31EBEBD4CO.jpg"/>
+  </programme>
+  <programme start="20240314170000 +0530" stop="20240314180000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Grey's Anatomy</title>
+    <desc lang="en">Amelia finds herself taking out her frustrations on her work colleagues. Meanwhile, Lucas and Jules make a daring decision in an attempt to save a life.</desc>
+    <credits>
+      <actor>Ellen Pompeo</actor>
+      <actor>Chandra Wilson</actor>
+      <actor>James Pickens Jr</actor>
+      <actor>Justin Chambers</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>Jesse Williams</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E92D9D8F0CF618BFE72386EC496A8A9C8A60595O.jpg"/>
+  </programme>
+  <programme start="20240314180000 +0530" stop="20240314183000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Schooled</title>
+    <desc lang="en">Lainey returns to William Penn Academy as the new music teacher after her dream of rock 'n' roll remains unfulfilled. Despite the faculty's strangeness, the students look up to them.</desc>
+    <credits>
+      <actor>AJ Michalka</actor>
+      <actor>Tim Meadows</actor>
+      <actor>Bryan Callen</actor>
+      <actor>Brett Dier</actor>
+      <actor>Israel Johnson</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFFBA1AFE6B3A3CD97B5A61272B911F2B2556EBDK.jpg"/>
+  </programme>
+  <programme start="20240314183000 +0530" stop="20240314190000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Schooled</title>
+    <desc lang="en">Lainey returns to William Penn Academy as the new music teacher after her dream of rock 'n' roll remains unfulfilled. Despite the faculty's strangeness, the students look up to them.</desc>
+    <credits>
+      <actor>AJ Michalka</actor>
+      <actor>Tim Meadows</actor>
+      <actor>Bryan Callen</actor>
+      <actor>Brett Dier</actor>
+      <actor>Israel Johnson</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFFBA1AFE6B3A3CD97B5A61272B911F2B2556EBDK.jpg"/>
+  </programme>
+  <programme start="20240314190000 +0530" stop="20240314200000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Suspicious Partner</title>
+    <desc lang="en">Handsome prosecutor Noh Ji-wook crosses paths with trainee solicitor Eun Bong-hee. They team up to solve a serial killing case and love blossoms between them.</desc>
+    <credits>
+      <actor>Ji Chang Wook</actor>
+      <actor>Nam Ji Hyun</actor>
+      <actor>Choi Tae Joon</actor>
+      <actor>Lee Deok hwa</actor>
+      <actor>Kwon Na-ra</actor>
+      <actor>Nam Gi ae</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBC0ACBDA0F7472ACA27C15E7D2CF9FF9A241EF9Y.jpg"/>
+    <episode-num system="xmltv_ns">.21.</episode-num>
+  </programme>
+  <programme start="20240314200000 +0530" stop="20240314210000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Absentia</title>
+    <desc lang="en">In the cabin tunnel, Emily panics when she is shot by the masked person. Later, she wakes in a room with Alice and the masked person reveals her past.</desc>
+    <credits>
+      <actor>Stana Katic</actor>
+      <actor>Patrick Heusinger</actor>
+      <actor>Cara Theobold</actor>
+      <actor>Neil Jackson</actor>
+      <actor>Angel Bonanni</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE6AC89AC0E061C35263CFE46CC97AF31EBEBD4CO.jpg"/>
+  </programme>
+  <programme start="20240314210000 +0530" stop="20240314220000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">Grey's Anatomy</title>
+    <desc lang="en">Link finds himself questioning his capabilities as he prepares for a high-stake surgery. Meanwhile, Nick provides support to a troubled Lucas.</desc>
+    <credits>
+      <actor>Ellen Pompeo</actor>
+      <actor>Chandra Wilson</actor>
+      <actor>James Pickens Jr</actor>
+      <actor>Justin Chambers</actor>
+      <actor>Kevin McKidd</actor>
+      <actor>Jesse Williams</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E92D9D8F0CF618BFE72386EC496A8A9C8A60595O.jpg"/>
+  </programme>
+  <programme start="20240314220000 +0530" stop="20240314230000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">FBI</title>
+    <desc lang="en">Special agents Maggie Bell and Zidan from the New York branch of the FBI work together to keep the city and country safe.</desc>
+    <credits>
+      <actor>Missy Peregrym</actor>
+      <actor>Zeeko Zaki</actor>
+      <actor>Jeremy Sisto</actor>
+      <actor>Ebonee Noel</actor>
+      <actor>Connie Nielsen</actor>
+      <actor>Sela Ward</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8452E05D480210C45DD3023491B9F3BAE5EEA4C5V.jpg"/>
+  </programme>
+  <programme start="20240314230000 +0530" stop="20240314233000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Beverly competes with Lou Schwartz over who can stage the best Hannukah celebrations. Meanwhile, a jealous Barry steals Adam's song for the holiday talent show.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240314233000 +0530" stop="20240314235500 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Inspired by the television show 'The Golden Girls', Beverly forms a friend group with other mothers in the neighbourhood. Meanwhile, Erica is tired of Geoff's romantic gestures.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/388178D11A55E70F7B0CF3388A748289B02BDCBCG.jpg"/>
+  </programme>
+  <programme start="20240314235500 +0530" stop="20240315000000 +0530" channel="ZeeCafeHD.in">
+    <title lang="en">School 2017</title>
+    <desc lang="en">Eun-ho feels conflicted after coming across Dae-hwi. Meanwhile, Mr Shim is pressured to go against the rules.</desc>
+    <credits>
+      <actor>Kim Jung Hyun</actor>
+      <actor>Kim Hee Jung</actor>
+      <actor>Jang Dong yoon</actor>
+      <actor>Han Joo wan</actor>
+      <actor>Han Sun-hwa</actor>
+      <actor>Kim Se Jeong</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1A4FC2B74EE6A24EAF6B05F8FF1A10C15E5AD0EY.jpg"/>
+  </programme>
+</tv>

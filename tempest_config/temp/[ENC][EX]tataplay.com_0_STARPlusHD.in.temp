@@ -1,0 +1,1457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="STARPlusHD.in">
+    <display-name lang="en">STAR Plus HD</display-name>
+  </channel>
+  <programme start="20240312000000 +0530" stop="20240312003000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Anupamaa</title>
+    <desc lang="en">Anupamaa is arrested for jewelry theft. Subsequently, Yashdeep and Anuj race to her rescue, determined to clear her name.</desc>
+    <credits>
+      <actor>Rupali Ganguly</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Madalsa Sharma</actor>
+      <actor>Aashish Mehrotra</actor>
+      <actor>Sagar Parekh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/563E3F853D8EBB63288F0144020BA532464CA1DF7.jpg"/>
+    <episode-num system="xmltv_ns">.1220.</episode-num>
+  </programme>
+  <programme start="20240312003000 +0530" stop="20240312010000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Chhoo Kar Mere Mann Ko</title>
+    <desc lang="en">Deepa escapes Kumar and Parijat's scheme but ends up injured. Later, Suraj's shock is palpable as he discovers her in the hospital.</desc>
+    <credits>
+      <actor>Swastika Ghosh</actor>
+      <actor>Dibyojyoti Dutta</actor>
+      <actor>Rupanjana Mitra</actor>
+      <actor>Ahona Dutta</actor>
+      <actor>Soumily Chakraborty</actor>
+      <actor>Prarabdhi Singha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85F5EFF5DFDFC32E183304C73B318CA613CC95918.jpg"/>
+    <episode-num system="xmltv_ns">.160.</episode-num>
+  </programme>
+  <programme start="20240312010000 +0530" stop="20240312024500 +0530" channel="STARPlusHD.in">
+    <title lang="en">Grihapravesh- Ek Nayi Shuruwat</title>
+    <desc lang="en">Oli grapples with guilt over mistreating Kanak and trusting Jhilmil. Meanwhile, Shikha reveals Kanak's secret to Teesta, leading to a shocking demand for money.</desc>
+    <credits>
+      <actor>Promita Chakraborty</actor>
+      <actor>Gourab Chatterjee</actor>
+      <actor>Anjana Basu</actor>
+      <actor>Sreetama Roy Chowdhury</actor>
+      <actor>Suman Dey</actor>
+      <actor>Suranjana Roy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CAAAB02A95953696282EA5834CC2260A8EDA4F10O.jpg"/>
+    <episode-num system="xmltv_ns">.25.</episode-num>
+  </programme>
+  <programme start="20240312024500 +0530" stop="20240312043000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Akshara decides to fast for 'Gangaur' while the other women make an idol; Dadi and Gopi Dadi talk about the sacrifices they made for the family.</desc>
+    <credits>
+      <actor>Harshad Chopda</actor>
+      <actor>Pranali Rathod</actor>
+      <actor>Karishma Sawant</actor>
+      <actor>Shivangi Joshi</actor>
+      <actor>Mohsin Khan</actor>
+      <actor>Vishal Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3059C592AAF6610708C82DF46085930E8DD801480.jpg"/>
+    <episode-num system="xmltv_ns">.10.</episode-num>
+  </programme>
+  <programme start="20240312043000 +0530" stop="20240312051500 +0530" channel="STARPlusHD.in">
+    <title lang="en">Maa</title>
+    <desc lang="en">As Anu's wedding plans progress, Pratima raises concerns. Meanwhile, Jhilli and her friends embark on a mysterious midnight visit to Hira Amma's house.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6007044922C87A35910249E7668F6B53578E86D08.jpg"/>
+    <episode-num system="xmltv_ns">.9.</episode-num>
+  </programme>
+  <programme start="20240312051500 +0530" stop="20240312054000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Jhanak</title>
+    <desc lang="en">Arshi stands her ground and rejects Aniruddha's pleas. Meanwhile, Jhanak remains resolute against Tejas' attempt to whisk her away.</desc>
+    <credits>
+      <actor>Krushal Ahuja</actor>
+      <actor>Hiba Nawab</actor>
+      <actor>Chandani Sharma</actor>
+      <actor>Rishi Kaushik</actor>
+      <actor>Ekta Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B9E0703DFBF96EAEF87B7E23F41AA74B1D6044C6J.jpg"/>
+    <episode-num system="xmltv_ns">.111.</episode-num>
+  </programme>
+  <programme start="20240312054000 +0530" stop="20240312060000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Imlie</title>
+    <desc lang="en">Imlie's attempt to expose Binni is thwarted as Surya burns her wedding photo. Later, Surya's announcement to marry Binni rattles the Choudhary family.</desc>
+    <credits>
+      <actor>Sumbul Touqeer</actor>
+      <actor>Manasvi Vashist</actor>
+      <actor>Fahmaan Khan</actor>
+      <actor>Gashmeer Mahajani</actor>
+      <actor>Mayuri Deshmukh</actor>
+      <actor>Jyoti Gauba</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B37F21EF1BD05FA9B1CDC03ED5EE8258BF6C3BA51.jpg"/>
+    <episode-num system="xmltv_ns">.1114.</episode-num>
+  </programme>
+  <programme start="20240312060000 +0530" stop="20240312063000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Teri Meri Doriyaann</title>
+    <desc lang="en">Angad outwits Seerat to uncover her motives and plan his escape. Meanwhile, Sahiba and the Brars anxiously scour for Angad, fearing the worst.</desc>
+    <credits>
+      <actor>Himanshi Parashar</actor>
+      <actor>Vijayendra Kumeria</actor>
+      <actor>Roopam Sharma</actor>
+      <actor>Tushar Dhembla</actor>
+      <actor>Prachi Hada</actor>
+      <actor>Jatin Arora</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/79A4D3C126ED949B0B1AF5FB2D023FBA3C7E1F91I.jpg"/>
+    <episode-num system="xmltv_ns">.436.</episode-num>
+  </programme>
+  <programme start="20240312063000 +0530" stop="20240312070000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Ghum Hai Kisikey Pyaar Meiin</title>
+    <desc lang="en">Savi faces a harrowing incident as a man injures her and behaves inappropriately. Subsequently, she confronts him and realizes that he is Suerkha's brother.</desc>
+    <credits>
+      <actor>Neil Bhatt</actor>
+      <actor>Ayesha Singh</actor>
+      <actor>Aishwarya Sharma</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Adish Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B6C37416F98692F3BBF3FDFBFF2FD25D8E4ADC31Q.jpg"/>
+    <episode-num system="xmltv_ns">.1149.</episode-num>
+  </programme>
+  <programme start="20240312070000 +0530" stop="20240312073000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Anupamaa</title>
+    <desc lang="en">Anupamaa is arrested for jewelry theft. Subsequently, Yashdeep and Anuj race to her rescue, determined to clear her name.</desc>
+    <credits>
+      <actor>Rupali Ganguly</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Madalsa Sharma</actor>
+      <actor>Aashish Mehrotra</actor>
+      <actor>Sagar Parekh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/563E3F853D8EBB63288F0144020BA532464CA1DF7.jpg"/>
+    <episode-num system="xmltv_ns">.1220.</episode-num>
+  </programme>
+  <programme start="20240312073000 +0530" stop="20240312080000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Abhira heads to meet Manav and Armaan rejects Ruhi's marriage proposal. Later, Armaan rushes to the hospital upon hearing about Abhira's accident.</desc>
+    <credits>
+      <actor>Harshad Chopda</actor>
+      <actor>Pranali Rathod</actor>
+      <actor>Karishma Sawant</actor>
+      <actor>Shivangi Joshi</actor>
+      <actor>Mohsin Khan</actor>
+      <actor>Vishal Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F2A6E51858669C45A57F4849DB0F307B7CD086BO.jpg"/>
+    <episode-num system="xmltv_ns">.4366.</episode-num>
+  </programme>
+  <programme start="20240312080000 +0530" stop="20240312083000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Teri Meri Doriyaann</title>
+    <desc lang="en">Angad outwits Seerat to uncover her motives and plan his escape. Meanwhile, Sahiba and the Brars anxiously scour for Angad, fearing the worst.</desc>
+    <credits>
+      <actor>Himanshi Parashar</actor>
+      <actor>Vijayendra Kumeria</actor>
+      <actor>Roopam Sharma</actor>
+      <actor>Tushar Dhembla</actor>
+      <actor>Prachi Hada</actor>
+      <actor>Jatin Arora</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/79A4D3C126ED949B0B1AF5FB2D023FBA3C7E1F91I.jpg"/>
+    <episode-num system="xmltv_ns">.436.</episode-num>
+  </programme>
+  <programme start="20240312083000 +0530" stop="20240312090000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Ghum Hai Kisikey Pyaar Meiin</title>
+    <desc lang="en">Savi faces a harrowing incident as a man injures her and behaves inappropriately. Subsequently, she confronts him and realizes that he is Suerkha's brother.</desc>
+    <credits>
+      <actor>Neil Bhatt</actor>
+      <actor>Ayesha Singh</actor>
+      <actor>Aishwarya Sharma</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Adish Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B6C37416F98692F3BBF3FDFBFF2FD25D8E4ADC31Q.jpg"/>
+    <episode-num system="xmltv_ns">.1149.</episode-num>
+  </programme>
+  <programme start="20240312090000 +0530" stop="20240312093000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Anupamaa</title>
+    <desc lang="en">Anupamaa is arrested for jewelry theft. Subsequently, Yashdeep and Anuj race to her rescue, determined to clear her name.</desc>
+    <credits>
+      <actor>Rupali Ganguly</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Madalsa Sharma</actor>
+      <actor>Aashish Mehrotra</actor>
+      <actor>Sagar Parekh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/563E3F853D8EBB63288F0144020BA532464CA1DF7.jpg"/>
+    <episode-num system="xmltv_ns">.1220.</episode-num>
+  </programme>
+  <programme start="20240312093000 +0530" stop="20240312100000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Jhanak</title>
+    <desc lang="en">Arshi stands her ground and rejects Aniruddha's pleas. Meanwhile, Jhanak remains resolute against Tejas' attempt to whisk her away.</desc>
+    <credits>
+      <actor>Krushal Ahuja</actor>
+      <actor>Hiba Nawab</actor>
+      <actor>Chandani Sharma</actor>
+      <actor>Rishi Kaushik</actor>
+      <actor>Ekta Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B9E0703DFBF96EAEF87B7E23F41AA74B1D6044C6J.jpg"/>
+    <episode-num system="xmltv_ns">.111.</episode-num>
+  </programme>
+  <programme start="20240312100000 +0530" stop="20240312103000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Abhira heads to meet Manav and Armaan rejects Ruhi's marriage proposal. Later, Armaan rushes to the hospital upon hearing about Abhira's accident.</desc>
+    <credits>
+      <actor>Harshad Chopda</actor>
+      <actor>Pranali Rathod</actor>
+      <actor>Karishma Sawant</actor>
+      <actor>Shivangi Joshi</actor>
+      <actor>Mohsin Khan</actor>
+      <actor>Vishal Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F2A6E51858669C45A57F4849DB0F307B7CD086BO.jpg"/>
+    <episode-num system="xmltv_ns">.4366.</episode-num>
+  </programme>
+  <programme start="20240312103000 +0530" stop="20240312110000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Ghum Hai Kisikey Pyaar Meiin</title>
+    <desc lang="en">Savi faces a harrowing incident as a man injures her and behaves inappropriately. Subsequently, she confronts him and realizes that he is Suerkha's brother.</desc>
+    <credits>
+      <actor>Neil Bhatt</actor>
+      <actor>Ayesha Singh</actor>
+      <actor>Aishwarya Sharma</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Adish Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B6C37416F98692F3BBF3FDFBFF2FD25D8E4ADC31Q.jpg"/>
+    <episode-num system="xmltv_ns">.1149.</episode-num>
+  </programme>
+  <programme start="20240312110000 +0530" stop="20240312113000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Anupamaa</title>
+    <desc lang="en">Anupamaa is arrested for jewelry theft. Subsequently, Yashdeep and Anuj race to her rescue, determined to clear her name.</desc>
+    <credits>
+      <actor>Rupali Ganguly</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Madalsa Sharma</actor>
+      <actor>Aashish Mehrotra</actor>
+      <actor>Sagar Parekh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/563E3F853D8EBB63288F0144020BA532464CA1DF7.jpg"/>
+    <episode-num system="xmltv_ns">.1220.</episode-num>
+  </programme>
+  <programme start="20240312113000 +0530" stop="20240312120000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Chhoo Kar Mere Mann Ko</title>
+    <desc lang="en">Deepa escapes Kumar and Parijat's scheme but ends up injured.</desc>
+    <credits>
+      <actor>Swastika Ghosh</actor>
+      <actor>Dibyojyoti Dutta</actor>
+      <actor>Rupanjana Mitra</actor>
+      <actor>Ahona Dutta</actor>
+      <actor>Soumily Chakraborty</actor>
+      <actor>Prarabdhi Singha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/248D2D5EF0DC947AC5E396E26DFA95EFCF8ADA58C.jpg"/>
+    <episode-num system="xmltv_ns">.161.</episode-num>
+  </programme>
+  <programme start="20240312120000 +0530" stop="20240312140000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Grihapravesh- Ek Nayi Shuruwat</title>
+    <desc lang="en">Oli grapples with guilt over mistreating Kanak and trusting Jhilmil.</desc>
+    <credits>
+      <actor>Promita Chakraborty</actor>
+      <actor>Gourab Chatterjee</actor>
+      <actor>Anjana Basu</actor>
+      <actor>Sreetama Roy Chowdhury</actor>
+      <actor>Suman Dey</actor>
+      <actor>Suranjana Roy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8B813FEA3DCFF8A7FE30F4480F2DC08929DBE87CI.jpg"/>
+    <episode-num system="xmltv_ns">.26.</episode-num>
+  </programme>
+  <programme start="20240312140000 +0530" stop="20240312160000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Akshara tells the family that she is ready to get married and they get happy; Varsha tells Akshara that she is in love with Shaurya and wants to marry him.</desc>
+    <credits>
+      <actor>Harshad Chopda</actor>
+      <actor>Pranali Rathod</actor>
+      <actor>Karishma Sawant</actor>
+      <actor>Shivangi Joshi</actor>
+      <actor>Mohsin Khan</actor>
+      <actor>Vishal Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/832D5B8AB404D4D86272B0F9F8303E948A98016FH.jpg"/>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20240312160000 +0530" stop="20240312170000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Maa</title>
+    <desc lang="en">Jhilli and her friends embark on a mysterious midnight visit to Hira Amma's house.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF1E87EDD49D79ABE6AB23E78FA553FF480933132.jpg"/>
+    <episode-num system="xmltv_ns">.10.</episode-num>
+  </programme>
+  <programme start="20240312170000 +0530" stop="20240312180000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Mann Chala Teri Ore...</title>
+    <desc lang="en">Mann Chala Teri Ore...</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1D4AA01772AE00077F2AF1FF9DAEB60F5612A197.jpg"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20240312180000 +0530" stop="20240312183000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Jhanak</title>
+    <desc lang="en">Arshi stands her ground and rejects Aniruddha's pleas. Meanwhile, Jhanak remains resolute against Tejas' attempt to whisk her away.</desc>
+    <credits>
+      <actor>Krushal Ahuja</actor>
+      <actor>Hiba Nawab</actor>
+      <actor>Chandani Sharma</actor>
+      <actor>Rishi Kaushik</actor>
+      <actor>Ekta Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B9E0703DFBF96EAEF87B7E23F41AA74B1D6044C6J.jpg"/>
+    <episode-num system="xmltv_ns">.111.</episode-num>
+  </programme>
+  <programme start="20240312183000 +0530" stop="20240312190000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Aankh Micholi</title>
+    <desc lang="en">Malhar's arrival at the venue takes a tragic turn with a sudden accident.</desc>
+    <credits>
+      <actor>Khushi Dubey</actor>
+      <actor>Navneet Malik</actor>
+      <actor>Bhakti Rathod</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B5391BE5737615BF50867BF0783FC580541E254B5.jpg"/>
+    <episode-num system="xmltv_ns">.38.</episode-num>
+  </programme>
+  <programme start="20240312190000 +0530" stop="20240312193000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Teri Meri Doriyaann</title>
+    <desc lang="en">Angad outwits Seerat to uncover her motives and plan his escape. Repeat - Mon - Sun 8:00 am.</desc>
+    <credits>
+      <actor>Himanshi Parashar</actor>
+      <actor>Vijayendra Kumeria</actor>
+      <actor>Roopam Sharma</actor>
+      <actor>Tushar Dhembla</actor>
+      <actor>Prachi Hada</actor>
+      <actor>Jatin Arora</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CCA7FF41EE9AF216311C1613318E984AFBE05D8C0.jpg"/>
+    <episode-num system="xmltv_ns">.437.</episode-num>
+  </programme>
+  <programme start="20240312193000 +0530" stop="20240312200000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Pandya Store</title>
+    <desc lang="en">The Makwanas face adversity and so Natasha takes charge while Hetal stands by Amresh.</desc>
+    <credits>
+      <actor>Kinshuk Mahajan</actor>
+      <actor>Shiny Doshi</actor>
+      <actor>Jovian Fernandes</actor>
+      <actor>Swarnim</actor>
+      <actor>Harminder</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/201575255F1684FB4F38910884A958A733A7A8113.jpg"/>
+    <episode-num system="xmltv_ns">.1061.</episode-num>
+  </programme>
+  <programme start="20240312200000 +0530" stop="20240312203000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Ghum Hai Kisikey Pyaar Meiin</title>
+    <desc lang="en">Savi faces a harrowing incident as a man injures her and behaves inappropriately. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Neil Bhatt</actor>
+      <actor>Ayesha Singh</actor>
+      <actor>Aishwarya Sharma</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Adish Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF0F9141B45E64D9986B801E669A239A768B181BT.jpg"/>
+    <episode-num system="xmltv_ns">.1150.</episode-num>
+  </programme>
+  <programme start="20240312203000 +0530" stop="20240312210000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Imlie</title>
+    <desc lang="en">Imlie's attempt to expose Binni is thwarted as Surya burns her wedding photo. Repeat - Mon - Sun 5:40 am.</desc>
+    <credits>
+      <actor>Sumbul Touqeer</actor>
+      <actor>Manasvi Vashist</actor>
+      <actor>Fahmaan Khan</actor>
+      <actor>Gashmeer Mahajani</actor>
+      <actor>Mayuri Deshmukh</actor>
+      <actor>Jyoti Gauba</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3589E940272E0445D4F59F74BD969438DC49EFC4E.jpg"/>
+    <episode-num system="xmltv_ns">.1115.</episode-num>
+  </programme>
+  <programme start="20240312210000 +0530" stop="20240312213000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Udne Ki Aasha</title>
+    <desc lang="en">Though they get off to a bad start, aspirational Saili and unmotivated Sachin wind up getting married. Saili attempts to turn her husband into a competent and capable person.</desc>
+    <credits>
+      <actor>Kanwar Dhillon</actor>
+      <actor>Neha Harsora</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Puru Chibber</actor>
+      <actor>Ravi Mahashabde</actor>
+      <actor>Devashish Chandiramani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3E80ACEE28F510BCD21EFA493B9AE0F10B2DD7442.jpg"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20240312213000 +0530" stop="20240312220000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Abhira heads to meet Manav and Armaan rejects Ruhi's marriage proposal. Repeat - Mon - Sun 10:00 am.</desc>
+    <credits>
+      <actor>Harshad Chopda</actor>
+      <actor>Pranali Rathod</actor>
+      <actor>Karishma Sawant</actor>
+      <actor>Shivangi Joshi</actor>
+      <actor>Mohsin Khan</actor>
+      <actor>Vishal Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C31E5B513BF9ED5327533EB0B9926F16810F4C1EA.jpg"/>
+    <episode-num system="xmltv_ns">.4367.</episode-num>
+  </programme>
+  <programme start="20240312220000 +0530" stop="20240312223000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Anupamaa</title>
+    <desc lang="en">Yashdeep and Anuj race to her rescue, determined to clear her name. Repeat - Mon - Sun 11:00 am.</desc>
+    <credits>
+      <actor>Rupali Ganguly</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Madalsa Sharma</actor>
+      <actor>Aashish Mehrotra</actor>
+      <actor>Sagar Parekh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/01D5500192452B0BF40C4DC0F75662462DD22B852.jpg"/>
+    <episode-num system="xmltv_ns">.1221.</episode-num>
+  </programme>
+  <programme start="20240312223000 +0530" stop="20240312230000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Jhanak</title>
+    <desc lang="en">Jhanak remains resolute against Tejas' attempt to whisk her away.</desc>
+    <credits>
+      <actor>Krushal Ahuja</actor>
+      <actor>Hiba Nawab</actor>
+      <actor>Chandani Sharma</actor>
+      <actor>Rishi Kaushik</actor>
+      <actor>Ekta Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3C833528CE053927D17A0F4AAEF4D59607E9DD9R.jpg"/>
+    <episode-num system="xmltv_ns">.112.</episode-num>
+  </programme>
+  <programme start="20240312230000 +0530" stop="20240312233000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Hai Chahatein</title>
+    <desc lang="en">Karun's encounter with a mysterious figure prompts a sudden confrontation.</desc>
+    <credits>
+      <actor>Sargun Kaur</actor>
+      <actor>Abrar Qazi</actor>
+      <actor>Siddharth Shivpuri</actor>
+      <actor>Indira Krishnan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11C463C2EAE2A054B92BDB4415E6EDF6BBBA89A3O.jpg"/>
+    <episode-num system="xmltv_ns">.1295.</episode-num>
+  </programme>
+  <programme start="20240312233000 +0530" stop="20240313000000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Ghum Hai Kisikey Pyaar Meiin</title>
+    <desc lang="en">Savi faces a harrowing incident as a man injures her and behaves inappropriately.</desc>
+    <credits>
+      <actor>Neil Bhatt</actor>
+      <actor>Ayesha Singh</actor>
+      <actor>Aishwarya Sharma</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Adish Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF0F9141B45E64D9986B801E669A239A768B181BT.jpg"/>
+    <episode-num system="xmltv_ns">.1150.</episode-num>
+  </programme>
+  <programme start="20240313000000 +0530" stop="20240313003000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Anupamaa</title>
+    <desc lang="en">Paritosh is left startled when he finds out that Ron has kidnapped Pari.</desc>
+    <credits>
+      <actor>Rupali Ganguly</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Madalsa Sharma</actor>
+      <actor>Aashish Mehrotra</actor>
+      <actor>Sagar Parekh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/01D5500192452B0BF40C4DC0F75662462DD22B852.jpg"/>
+    <episode-num system="xmltv_ns">.1221.</episode-num>
+  </programme>
+  <programme start="20240313003000 +0530" stop="20240313010000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Chhoo Kar Mere Mann Ko</title>
+    <desc lang="en">Labanya and Urmi try to accompany Deepa to the event but to no avail.</desc>
+    <credits>
+      <actor>Swastika Ghosh</actor>
+      <actor>Dibyojyoti Dutta</actor>
+      <actor>Rupanjana Mitra</actor>
+      <actor>Ahona Dutta</actor>
+      <actor>Soumily Chakraborty</actor>
+      <actor>Prarabdhi Singha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/248D2D5EF0DC947AC5E396E26DFA95EFCF8ADA58C.jpg"/>
+    <episode-num system="xmltv_ns">.161.</episode-num>
+  </programme>
+  <programme start="20240313010000 +0530" stop="20240313024500 +0530" channel="STARPlusHD.in">
+    <title lang="en">Grihapravesh- Ek Nayi Shuruwat</title>
+    <desc lang="en">When Sriparna and Parth part ways, Brishti remains inconsolable.</desc>
+    <credits>
+      <actor>Promita Chakraborty</actor>
+      <actor>Gourab Chatterjee</actor>
+      <actor>Anjana Basu</actor>
+      <actor>Sreetama Roy Chowdhury</actor>
+      <actor>Suman Dey</actor>
+      <actor>Suranjana Roy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8B813FEA3DCFF8A7FE30F4480F2DC08929DBE87CI.jpg"/>
+    <episode-num system="xmltv_ns">.26.</episode-num>
+  </programme>
+  <programme start="20240313024500 +0530" stop="20240313043000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Akshara tells the family that she is ready to get married and they get happy; Varsha tells Akshara that she is in love with Shaurya and wants to marry him.</desc>
+    <credits>
+      <actor>Harshad Chopda</actor>
+      <actor>Pranali Rathod</actor>
+      <actor>Karishma Sawant</actor>
+      <actor>Shivangi Joshi</actor>
+      <actor>Mohsin Khan</actor>
+      <actor>Vishal Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/832D5B8AB404D4D86272B0F9F8303E948A98016FH.jpg"/>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20240313043000 +0530" stop="20240313051500 +0530" channel="STARPlusHD.in">
+    <title lang="en">Maa</title>
+    <desc lang="en">When Pratima is about to arrive, Manish's elder brother sends his wife to the theatre.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF1E87EDD49D79ABE6AB23E78FA553FF480933132.jpg"/>
+    <episode-num system="xmltv_ns">.10.</episode-num>
+  </programme>
+  <programme start="20240313051500 +0530" stop="20240313054000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Jhanak</title>
+    <desc lang="en">Things get intense when Tejas reveals Jhanak and Aniruddha's video at the party.</desc>
+    <credits>
+      <actor>Krushal Ahuja</actor>
+      <actor>Hiba Nawab</actor>
+      <actor>Chandani Sharma</actor>
+      <actor>Rishi Kaushik</actor>
+      <actor>Ekta Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3C833528CE053927D17A0F4AAEF4D59607E9DD9R.jpg"/>
+    <episode-num system="xmltv_ns">.112.</episode-num>
+  </programme>
+  <programme start="20240313054000 +0530" stop="20240313060000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Imlie</title>
+    <desc lang="en">When Binni searches Imlie's room, she finds out about the stolen diamonds.</desc>
+    <credits>
+      <actor>Sumbul Touqeer</actor>
+      <actor>Manasvi Vashist</actor>
+      <actor>Fahmaan Khan</actor>
+      <actor>Gashmeer Mahajani</actor>
+      <actor>Mayuri Deshmukh</actor>
+      <actor>Jyoti Gauba</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3589E940272E0445D4F59F74BD969438DC49EFC4E.jpg"/>
+    <episode-num system="xmltv_ns">.1115.</episode-num>
+  </programme>
+  <programme start="20240313060000 +0530" stop="20240313063000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Teri Meri Doriyaann</title>
+    <desc lang="en">In a bid to find out about Seerat's plan, Angad manages to retrieve the basement key.</desc>
+    <credits>
+      <actor>Himanshi Parashar</actor>
+      <actor>Vijayendra Kumeria</actor>
+      <actor>Roopam Sharma</actor>
+      <actor>Tushar Dhembla</actor>
+      <actor>Prachi Hada</actor>
+      <actor>Jatin Arora</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CCA7FF41EE9AF216311C1613318E984AFBE05D8C0.jpg"/>
+    <episode-num system="xmltv_ns">.437.</episode-num>
+  </programme>
+  <programme start="20240313063000 +0530" stop="20240313070000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Ghum Hai Kisikey Pyaar Meiin</title>
+    <desc lang="en">Saavi is taken aback when Preeti approaches her with an unexpected request.</desc>
+    <credits>
+      <actor>Neil Bhatt</actor>
+      <actor>Ayesha Singh</actor>
+      <actor>Aishwarya Sharma</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Adish Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF0F9141B45E64D9986B801E669A239A768B181BT.jpg"/>
+    <episode-num system="xmltv_ns">.1150.</episode-num>
+  </programme>
+  <programme start="20240313070000 +0530" stop="20240313073000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Anupamaa</title>
+    <desc lang="en">Paritosh is left startled when he finds out that Ron has kidnapped Pari.</desc>
+    <credits>
+      <actor>Rupali Ganguly</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Madalsa Sharma</actor>
+      <actor>Aashish Mehrotra</actor>
+      <actor>Sagar Parekh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/01D5500192452B0BF40C4DC0F75662462DD22B852.jpg"/>
+    <episode-num system="xmltv_ns">.1221.</episode-num>
+  </programme>
+  <programme start="20240313073000 +0530" stop="20240313080000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Abhira finds herself in a fix when Kaveri puts forth an unexpected challenge.</desc>
+    <credits>
+      <actor>Harshad Chopda</actor>
+      <actor>Pranali Rathod</actor>
+      <actor>Karishma Sawant</actor>
+      <actor>Shivangi Joshi</actor>
+      <actor>Mohsin Khan</actor>
+      <actor>Vishal Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C31E5B513BF9ED5327533EB0B9926F16810F4C1EA.jpg"/>
+    <episode-num system="xmltv_ns">.4367.</episode-num>
+  </programme>
+  <programme start="20240313080000 +0530" stop="20240313083000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Teri Meri Doriyaann</title>
+    <desc lang="en">In a bid to find out about Seerat's plan, Angad manages to retrieve the basement key.</desc>
+    <credits>
+      <actor>Himanshi Parashar</actor>
+      <actor>Vijayendra Kumeria</actor>
+      <actor>Roopam Sharma</actor>
+      <actor>Tushar Dhembla</actor>
+      <actor>Prachi Hada</actor>
+      <actor>Jatin Arora</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CCA7FF41EE9AF216311C1613318E984AFBE05D8C0.jpg"/>
+    <episode-num system="xmltv_ns">.437.</episode-num>
+  </programme>
+  <programme start="20240313083000 +0530" stop="20240313090000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Ghum Hai Kisikey Pyaar Meiin</title>
+    <desc lang="en">Saavi is taken aback when Preeti approaches her with an unexpected request.</desc>
+    <credits>
+      <actor>Neil Bhatt</actor>
+      <actor>Ayesha Singh</actor>
+      <actor>Aishwarya Sharma</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Adish Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF0F9141B45E64D9986B801E669A239A768B181BT.jpg"/>
+    <episode-num system="xmltv_ns">.1150.</episode-num>
+  </programme>
+  <programme start="20240313090000 +0530" stop="20240313093000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Anupamaa</title>
+    <desc lang="en">Paritosh is left startled when he finds out that Ron has kidnapped Pari.</desc>
+    <credits>
+      <actor>Rupali Ganguly</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Madalsa Sharma</actor>
+      <actor>Aashish Mehrotra</actor>
+      <actor>Sagar Parekh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/01D5500192452B0BF40C4DC0F75662462DD22B852.jpg"/>
+    <episode-num system="xmltv_ns">.1221.</episode-num>
+  </programme>
+  <programme start="20240313093000 +0530" stop="20240313100000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Jhanak</title>
+    <desc lang="en">Things get intense when Tejas reveals Jhanak and Aniruddha's video at the party.</desc>
+    <credits>
+      <actor>Krushal Ahuja</actor>
+      <actor>Hiba Nawab</actor>
+      <actor>Chandani Sharma</actor>
+      <actor>Rishi Kaushik</actor>
+      <actor>Ekta Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3C833528CE053927D17A0F4AAEF4D59607E9DD9R.jpg"/>
+    <episode-num system="xmltv_ns">.112.</episode-num>
+  </programme>
+  <programme start="20240313100000 +0530" stop="20240313103000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Abhira finds herself in a fix when Kaveri puts forth an unexpected challenge.</desc>
+    <credits>
+      <actor>Harshad Chopda</actor>
+      <actor>Pranali Rathod</actor>
+      <actor>Karishma Sawant</actor>
+      <actor>Shivangi Joshi</actor>
+      <actor>Mohsin Khan</actor>
+      <actor>Vishal Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C31E5B513BF9ED5327533EB0B9926F16810F4C1EA.jpg"/>
+    <episode-num system="xmltv_ns">.4367.</episode-num>
+  </programme>
+  <programme start="20240313103000 +0530" stop="20240313110000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Ghum Hai Kisikey Pyaar Meiin</title>
+    <desc lang="en">Saavi is taken aback when Preeti approaches her with an unexpected request.</desc>
+    <credits>
+      <actor>Neil Bhatt</actor>
+      <actor>Ayesha Singh</actor>
+      <actor>Aishwarya Sharma</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Adish Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF0F9141B45E64D9986B801E669A239A768B181BT.jpg"/>
+    <episode-num system="xmltv_ns">.1150.</episode-num>
+  </programme>
+  <programme start="20240313110000 +0530" stop="20240313113000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Anupamaa</title>
+    <desc lang="en">Paritosh is left startled when he finds out that Ron has kidnapped Pari.</desc>
+    <credits>
+      <actor>Rupali Ganguly</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Madalsa Sharma</actor>
+      <actor>Aashish Mehrotra</actor>
+      <actor>Sagar Parekh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/01D5500192452B0BF40C4DC0F75662462DD22B852.jpg"/>
+    <episode-num system="xmltv_ns">.1221.</episode-num>
+  </programme>
+  <programme start="20240313113000 +0530" stop="20240313120000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Chhoo Kar Mere Mann Ko</title>
+    <desc lang="en">Labanya and Urmi try to accompany Deepa to the event but to no avail.</desc>
+    <credits>
+      <actor>Swastika Ghosh</actor>
+      <actor>Dibyojyoti Dutta</actor>
+      <actor>Rupanjana Mitra</actor>
+      <actor>Ahona Dutta</actor>
+      <actor>Soumily Chakraborty</actor>
+      <actor>Prarabdhi Singha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6EDCFF83330735CF1A33E1072C39617D89F0C88EH.jpg"/>
+    <episode-num system="xmltv_ns">.162.</episode-num>
+  </programme>
+  <programme start="20240313120000 +0530" stop="20240313140000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Grihapravesh- Ek Nayi Shuruwat</title>
+    <desc lang="en">When Sriparna and Parth part ways, Brishti remains inconsolable.</desc>
+    <credits>
+      <actor>Promita Chakraborty</actor>
+      <actor>Gourab Chatterjee</actor>
+      <actor>Anjana Basu</actor>
+      <actor>Sreetama Roy Chowdhury</actor>
+      <actor>Suman Dey</actor>
+      <actor>Suranjana Roy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3B6550534093E27F6E140C91E94DA5E1EE5E38EE7.jpg"/>
+    <episode-num system="xmltv_ns">.27.</episode-num>
+  </programme>
+  <programme start="20240313140000 +0530" stop="20240313160000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Akshara gets shocked when she learns Varsha loves Shaurya and asks her to talk to him about marriage; Varsha tells her fiance that she is in love with someone else.</desc>
+    <credits>
+      <actor>Harshad Chopda</actor>
+      <actor>Pranali Rathod</actor>
+      <actor>Karishma Sawant</actor>
+      <actor>Shivangi Joshi</actor>
+      <actor>Mohsin Khan</actor>
+      <actor>Vishal Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70D1EEE7BC0FB58F9407BB187D03DEA53C6E755AI.jpg"/>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  </programme>
+  <programme start="20240313160000 +0530" stop="20240313170000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Maa</title>
+    <desc lang="en">When Pratima is about to arrive, Manish's elder brother sends his wife to the theatre.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C75213785B5BB95E31A2DECADF93F812775F297AQ.jpg"/>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20240313170000 +0530" stop="20240313180000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Mann Chala Teri Ore...</title>
+    <desc lang="en">Mann Chala Teri Ore...</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0533281A4941898DBD92E399165EA3D12CFE5C0DR.jpg"/>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20240313180000 +0530" stop="20240313183000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Jhanak</title>
+    <desc lang="en">Things get intense when Tejas reveals Jhanak and Aniruddha's video at the party.</desc>
+    <credits>
+      <actor>Krushal Ahuja</actor>
+      <actor>Hiba Nawab</actor>
+      <actor>Chandani Sharma</actor>
+      <actor>Rishi Kaushik</actor>
+      <actor>Ekta Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3C833528CE053927D17A0F4AAEF4D59607E9DD9R.jpg"/>
+    <episode-num system="xmltv_ns">.112.</episode-num>
+  </programme>
+  <programme start="20240313183000 +0530" stop="20240313190000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Aankh Micholi</title>
+    <desc lang="en">Rukmini gets emotional when her father arrives at the wedding venue.</desc>
+    <credits>
+      <actor>Khushi Dubey</actor>
+      <actor>Navneet Malik</actor>
+      <actor>Bhakti Rathod</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C85E04132827CEFA53DE7E5B0EFDE749F95EEE6G.jpg"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20240313190000 +0530" stop="20240313193000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Teri Meri Doriyaann</title>
+    <desc lang="en">In a bid to find out about Seerat's plan, Angad manages to retrieve the basement key. Repeat - Mon - Sat 8:00 am.</desc>
+    <credits>
+      <actor>Himanshi Parashar</actor>
+      <actor>Vijayendra Kumeria</actor>
+      <actor>Roopam Sharma</actor>
+      <actor>Tushar Dhembla</actor>
+      <actor>Prachi Hada</actor>
+      <actor>Jatin Arora</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/92D04F47B8CD45D40267BAF7EB367F5B6605748FO.jpg"/>
+    <episode-num system="xmltv_ns">.438.</episode-num>
+  </programme>
+  <programme start="20240313193000 +0530" stop="20240313200000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Pandya Store</title>
+    <desc lang="en">Things get out of control when Shesh arrives at the Makhwana house and supports Chiku.</desc>
+    <credits>
+      <actor>Kinshuk Mahajan</actor>
+      <actor>Shiny Doshi</actor>
+      <actor>Jovian Fernandes</actor>
+      <actor>Swarnim</actor>
+      <actor>Harminder</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76B5BF7F127A721EFBA88F8E81D6E2C9DCC6D293U.jpg"/>
+    <episode-num system="xmltv_ns">.1062.</episode-num>
+  </programme>
+  <programme start="20240313200000 +0530" stop="20240313203000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Ghum Hai Kisikey Pyaar Meiin</title>
+    <desc lang="en">Saavi is taken aback when Preeti approaches her with an unexpected request. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Neil Bhatt</actor>
+      <actor>Ayesha Singh</actor>
+      <actor>Aishwarya Sharma</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Adish Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEA1B783FB4D5A773913F4B5CEA9FA76665FFC49C.jpg"/>
+    <episode-num system="xmltv_ns">.1151.</episode-num>
+  </programme>
+  <programme start="20240313203000 +0530" stop="20240313210000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Imlie</title>
+    <desc lang="en">When Binni searches Imlie's room, she finds out about the stolen diamonds. Repeat - Mon - Sun 5:40 am.</desc>
+    <credits>
+      <actor>Sumbul Touqeer</actor>
+      <actor>Manasvi Vashist</actor>
+      <actor>Fahmaan Khan</actor>
+      <actor>Gashmeer Mahajani</actor>
+      <actor>Mayuri Deshmukh</actor>
+      <actor>Jyoti Gauba</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F30877B4E0698EDA6CCE071C3164A41FBED6E7B3.jpg"/>
+    <episode-num system="xmltv_ns">.1116.</episode-num>
+  </programme>
+  <programme start="20240313210000 +0530" stop="20240313213000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Udne Ki Aasha</title>
+    <desc lang="en">Though they get off to a bad start, aspirational Saili and unmotivated Sachin wind up getting married. Saili attempts to turn her husband into a competent and capable person.</desc>
+    <credits>
+      <actor>Kanwar Dhillon</actor>
+      <actor>Neha Harsora</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Puru Chibber</actor>
+      <actor>Ravi Mahashabde</actor>
+      <actor>Devashish Chandiramani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BAFCDCFC9ED563C1475E813FF6C2E8E03F5825C0T.jpg"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20240313213000 +0530" stop="20240313220000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Abhira finds herself in a fix when Kaveri puts forth an unexpected challenge. Repeat - Mon - Sun 10:00 am.</desc>
+    <credits>
+      <actor>Harshad Chopda</actor>
+      <actor>Pranali Rathod</actor>
+      <actor>Karishma Sawant</actor>
+      <actor>Shivangi Joshi</actor>
+      <actor>Mohsin Khan</actor>
+      <actor>Vishal Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CEE0645AD91C707B06C17128759B8C414646ED94E.jpg"/>
+    <episode-num system="xmltv_ns">.4368.</episode-num>
+  </programme>
+  <programme start="20240313220000 +0530" stop="20240313223000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Anupamaa</title>
+    <desc lang="en">Paritosh is left startled when he finds out that Ron has kidnapped Pari. Repeat - Mon - Sun 11:00 am.</desc>
+    <credits>
+      <actor>Rupali Ganguly</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Madalsa Sharma</actor>
+      <actor>Aashish Mehrotra</actor>
+      <actor>Sagar Parekh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8AE7EF62D07355CDB906B5D758C8DA5884AFF2625.jpg"/>
+    <episode-num system="xmltv_ns">.1222.</episode-num>
+  </programme>
+  <programme start="20240313223000 +0530" stop="20240313230000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Jhanak</title>
+    <desc lang="en">Things get intense when Tejas reveals Jhanak and Aniruddha's video at the party.</desc>
+    <credits>
+      <actor>Krushal Ahuja</actor>
+      <actor>Hiba Nawab</actor>
+      <actor>Chandani Sharma</actor>
+      <actor>Rishi Kaushik</actor>
+      <actor>Ekta Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FAF4008E01D1E019C06AECB1E40CD85638D3EDA4D.jpg"/>
+    <episode-num system="xmltv_ns">.113.</episode-num>
+  </programme>
+  <programme start="20240313230000 +0530" stop="20240313233000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Hai Chahatein</title>
+    <desc lang="en">Kaashvi makes a promise to Arjun that the former will stay with Karun.</desc>
+    <credits>
+      <actor>Sargun Kaur</actor>
+      <actor>Abrar Qazi</actor>
+      <actor>Siddharth Shivpuri</actor>
+      <actor>Indira Krishnan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C44CF862BB2D68D7C993122785FFB98E5422DBB8B.jpg"/>
+    <episode-num system="xmltv_ns">.1296.</episode-num>
+  </programme>
+  <programme start="20240313233000 +0530" stop="20240314000000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Ghum Hai Kisikey Pyaar Meiin</title>
+    <desc lang="en">Saavi is taken aback when Preeti approaches her with an unexpected request.</desc>
+    <credits>
+      <actor>Neil Bhatt</actor>
+      <actor>Ayesha Singh</actor>
+      <actor>Aishwarya Sharma</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Adish Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEA1B783FB4D5A773913F4B5CEA9FA76665FFC49C.jpg"/>
+    <episode-num system="xmltv_ns">.1151.</episode-num>
+  </programme>
+  <programme start="20240314000000 +0530" stop="20240314003000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Anupamaa</title>
+    <desc lang="en">Anupamaa frets over seeing Vanraj and Leela together at the food festival.</desc>
+    <credits>
+      <actor>Rupali Ganguly</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Madalsa Sharma</actor>
+      <actor>Aashish Mehrotra</actor>
+      <actor>Sagar Parekh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AE6F356672DF3DAD90B5F69326E3D59FA462AB3I.jpg"/>
+    <episode-num system="xmltv_ns">.1222.</episode-num>
+  </programme>
+  <programme start="20240314003000 +0530" stop="20240314010000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Chhoo Kar Mere Mann Ko</title>
+    <desc lang="en">Parijat threatens Deepa to free Mishka or otherwise, he will kill her.</desc>
+    <credits>
+      <actor>Swastika Ghosh</actor>
+      <actor>Dibyojyoti Dutta</actor>
+      <actor>Rupanjana Mitra</actor>
+      <actor>Ahona Dutta</actor>
+      <actor>Soumily Chakraborty</actor>
+      <actor>Prarabdhi Singha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4DA89664EDC2BAECECCC711D7BE381D2823D669V.jpg"/>
+    <episode-num system="xmltv_ns">.162.</episode-num>
+  </programme>
+  <programme start="20240314010000 +0530" stop="20240314024500 +0530" channel="STARPlusHD.in">
+    <title lang="en">Grihapravesh- Ek Nayi Shuruwat</title>
+    <desc lang="en">Shikha tries to trick Kanak into performing odd talks to solve her marital problems.</desc>
+    <credits>
+      <actor>Promita Chakraborty</actor>
+      <actor>Gourab Chatterjee</actor>
+      <actor>Anjana Basu</actor>
+      <actor>Sreetama Roy Chowdhury</actor>
+      <actor>Suman Dey</actor>
+      <actor>Suranjana Roy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3B6EC71897BC238021EF672AE07DD6C8F99CBE77J.jpg"/>
+    <episode-num system="xmltv_ns">.27.</episode-num>
+  </programme>
+  <programme start="20240314024500 +0530" stop="20240314043000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Akshara gets shocked when she learns Varsha loves Shaurya and asks her to talk to him about marriage; Varsha tells her fiance that she is in love with someone else.</desc>
+    <credits>
+      <actor>Harshad Chopda</actor>
+      <actor>Pranali Rathod</actor>
+      <actor>Karishma Sawant</actor>
+      <actor>Shivangi Joshi</actor>
+      <actor>Mohsin Khan</actor>
+      <actor>Vishal Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70D1EEE7BC0FB58F9407BB187D03DEA53C6E755AI.jpg"/>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  </programme>
+  <programme start="20240314043000 +0530" stop="20240314051500 +0530" channel="STARPlusHD.in">
+    <title lang="en">Maa</title>
+    <desc lang="en">Phool, in gratitude, demands that Pari never return to Pratima ever again.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDC06A6B953C2DD1395F6BA066EE422C0FB8C062H.jpg"/>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme start="20240314051500 +0530" stop="20240314054000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Jhanak</title>
+    <desc lang="en">Arshi confronts Aniruddha with a photo taken of him with Jhanak at a restaurant.</desc>
+    <credits>
+      <actor>Krushal Ahuja</actor>
+      <actor>Hiba Nawab</actor>
+      <actor>Chandani Sharma</actor>
+      <actor>Rishi Kaushik</actor>
+      <actor>Ekta Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B1AA11E48F3DE7B4F62653C975FDCC4A2AF23B97X.jpg"/>
+    <episode-num system="xmltv_ns">.113.</episode-num>
+  </programme>
+  <programme start="20240314054000 +0530" stop="20240314060000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Imlie</title>
+    <desc lang="en">Imlie brings Laxmi home and urges Binni to confess the truth to the Choudharys.</desc>
+    <credits>
+      <actor>Sumbul Touqeer</actor>
+      <actor>Manasvi Vashist</actor>
+      <actor>Fahmaan Khan</actor>
+      <actor>Gashmeer Mahajani</actor>
+      <actor>Mayuri Deshmukh</actor>
+      <actor>Jyoti Gauba</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7EEBD326BE9B043B51410EDF8FD78D21CA44C7B76.jpg"/>
+    <episode-num system="xmltv_ns">.1116.</episode-num>
+  </programme>
+  <programme start="20240314060000 +0530" stop="20240314063000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Teri Meri Doriyaann</title>
+    <desc lang="en">Angad alerts the Brars from the basement, but Seerat's ally intervenes.</desc>
+    <credits>
+      <actor>Himanshi Parashar</actor>
+      <actor>Vijayendra Kumeria</actor>
+      <actor>Roopam Sharma</actor>
+      <actor>Tushar Dhembla</actor>
+      <actor>Prachi Hada</actor>
+      <actor>Jatin Arora</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE0BCAE763DE00F59BE8A7AD57FF87D8D764C8077.jpg"/>
+    <episode-num system="xmltv_ns">.438.</episode-num>
+  </programme>
+  <programme start="20240314063000 +0530" stop="20240314070000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Ghum Hai Kisikey Pyaar Meiin</title>
+    <desc lang="en">Savi tries to discuss Surekha and Yashwant with Ishaan, but he refuses to do so.</desc>
+    <credits>
+      <actor>Neil Bhatt</actor>
+      <actor>Ayesha Singh</actor>
+      <actor>Aishwarya Sharma</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Adish Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D40DD5C26BCE087C4FC3F319033DE03C6E7C9112.jpg"/>
+    <episode-num system="xmltv_ns">.1151.</episode-num>
+  </programme>
+  <programme start="20240314070000 +0530" stop="20240314073000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Anupamaa</title>
+    <desc lang="en">Anupamaa frets over seeing Vanraj and Leela together at the food festival.</desc>
+    <credits>
+      <actor>Rupali Ganguly</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Madalsa Sharma</actor>
+      <actor>Aashish Mehrotra</actor>
+      <actor>Sagar Parekh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AE6F356672DF3DAD90B5F69326E3D59FA462AB3I.jpg"/>
+    <episode-num system="xmltv_ns">.1222.</episode-num>
+  </programme>
+  <programme start="20240314073000 +0530" stop="20240314080000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Armaan, angered by Abhira's tactics, opts to confront her in the courtroom.</desc>
+    <credits>
+      <actor>Harshad Chopda</actor>
+      <actor>Pranali Rathod</actor>
+      <actor>Karishma Sawant</actor>
+      <actor>Shivangi Joshi</actor>
+      <actor>Mohsin Khan</actor>
+      <actor>Vishal Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAE1FB85699364D826F9007A9E835123D67CF5A2R.jpg"/>
+    <episode-num system="xmltv_ns">.4368.</episode-num>
+  </programme>
+  <programme start="20240314080000 +0530" stop="20240314083000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Teri Meri Doriyaann</title>
+    <desc lang="en">Angad alerts the Brars from the basement, but Seerat's ally intervenes.</desc>
+    <credits>
+      <actor>Himanshi Parashar</actor>
+      <actor>Vijayendra Kumeria</actor>
+      <actor>Roopam Sharma</actor>
+      <actor>Tushar Dhembla</actor>
+      <actor>Prachi Hada</actor>
+      <actor>Jatin Arora</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE0BCAE763DE00F59BE8A7AD57FF87D8D764C8077.jpg"/>
+    <episode-num system="xmltv_ns">.438.</episode-num>
+  </programme>
+  <programme start="20240314083000 +0530" stop="20240314090000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Ghum Hai Kisikey Pyaar Meiin</title>
+    <desc lang="en">Savi tries to discuss Surekha and Yashwant with Ishaan, but he refuses to do so.</desc>
+    <credits>
+      <actor>Neil Bhatt</actor>
+      <actor>Ayesha Singh</actor>
+      <actor>Aishwarya Sharma</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Adish Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D40DD5C26BCE087C4FC3F319033DE03C6E7C9112.jpg"/>
+    <episode-num system="xmltv_ns">.1151.</episode-num>
+  </programme>
+  <programme start="20240314090000 +0530" stop="20240314093000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Anupamaa</title>
+    <desc lang="en">Anupamaa frets over seeing Vanraj and Leela together at the food festival.</desc>
+    <credits>
+      <actor>Rupali Ganguly</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Madalsa Sharma</actor>
+      <actor>Aashish Mehrotra</actor>
+      <actor>Sagar Parekh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AE6F356672DF3DAD90B5F69326E3D59FA462AB3I.jpg"/>
+    <episode-num system="xmltv_ns">.1222.</episode-num>
+  </programme>
+  <programme start="20240314093000 +0530" stop="20240314100000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Jhanak</title>
+    <desc lang="en">Arshi confronts Aniruddha with a photo taken of him with Jhanak at a restaurant.</desc>
+    <credits>
+      <actor>Krushal Ahuja</actor>
+      <actor>Hiba Nawab</actor>
+      <actor>Chandani Sharma</actor>
+      <actor>Rishi Kaushik</actor>
+      <actor>Ekta Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B1AA11E48F3DE7B4F62653C975FDCC4A2AF23B97X.jpg"/>
+    <episode-num system="xmltv_ns">.113.</episode-num>
+  </programme>
+  <programme start="20240314100000 +0530" stop="20240314103000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Armaan, angered by Abhira's tactics, opts to confront her in the courtroom.</desc>
+    <credits>
+      <actor>Harshad Chopda</actor>
+      <actor>Pranali Rathod</actor>
+      <actor>Karishma Sawant</actor>
+      <actor>Shivangi Joshi</actor>
+      <actor>Mohsin Khan</actor>
+      <actor>Vishal Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAE1FB85699364D826F9007A9E835123D67CF5A2R.jpg"/>
+    <episode-num system="xmltv_ns">.4368.</episode-num>
+  </programme>
+  <programme start="20240314103000 +0530" stop="20240314110000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Ghum Hai Kisikey Pyaar Meiin</title>
+    <desc lang="en">Savi tries to discuss Surekha and Yashwant with Ishaan, but he refuses to do so.</desc>
+    <credits>
+      <actor>Neil Bhatt</actor>
+      <actor>Ayesha Singh</actor>
+      <actor>Aishwarya Sharma</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Adish Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D40DD5C26BCE087C4FC3F319033DE03C6E7C9112.jpg"/>
+    <episode-num system="xmltv_ns">.1151.</episode-num>
+  </programme>
+  <programme start="20240314110000 +0530" stop="20240314113000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Anupamaa</title>
+    <desc lang="en">Anupamaa frets over seeing Vanraj and Leela together at the food festival.</desc>
+    <credits>
+      <actor>Rupali Ganguly</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Madalsa Sharma</actor>
+      <actor>Aashish Mehrotra</actor>
+      <actor>Sagar Parekh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AE6F356672DF3DAD90B5F69326E3D59FA462AB3I.jpg"/>
+    <episode-num system="xmltv_ns">.1222.</episode-num>
+  </programme>
+  <programme start="20240314113000 +0530" stop="20240314120000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Chhoo Kar Mere Mann Ko</title>
+    <desc lang="en">Parijat threatens Deepa to free Mishka or otherwise, he will kill her.</desc>
+    <credits>
+      <actor>Swastika Ghosh</actor>
+      <actor>Dibyojyoti Dutta</actor>
+      <actor>Rupanjana Mitra</actor>
+      <actor>Ahona Dutta</actor>
+      <actor>Soumily Chakraborty</actor>
+      <actor>Prarabdhi Singha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4DA89664EDC2BAECECCC711D7BE381D2823D669V.jpg"/>
+    <episode-num system="xmltv_ns">.163.</episode-num>
+  </programme>
+  <programme start="20240314120000 +0530" stop="20240314140000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Grihapravesh- Ek Nayi Shuruwat</title>
+    <desc lang="en">Shikha tries to trick Kanak into performing odd talks to solve her marital problems.</desc>
+    <credits>
+      <actor>Promita Chakraborty</actor>
+      <actor>Gourab Chatterjee</actor>
+      <actor>Anjana Basu</actor>
+      <actor>Sreetama Roy Chowdhury</actor>
+      <actor>Suman Dey</actor>
+      <actor>Suranjana Roy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3B6EC71897BC238021EF672AE07DD6C8F99CBE77J.jpg"/>
+    <episode-num system="xmltv_ns">.28.</episode-num>
+  </programme>
+  <programme start="20240314140000 +0530" stop="20240314160000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Shankari informs the family that Varsha is hurt that her fiance refused to marry her; Akshara tells Dadi that Varsha told her finacee she loves another man.</desc>
+    <credits>
+      <actor>Harshad Chopda</actor>
+      <actor>Pranali Rathod</actor>
+      <actor>Karishma Sawant</actor>
+      <actor>Shivangi Joshi</actor>
+      <actor>Mohsin Khan</actor>
+      <actor>Vishal Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B4965D833DD1B0CDC6E3B91B0BDA163258E9595FE.jpg"/>
+    <episode-num system="xmltv_ns">.13.</episode-num>
+  </programme>
+  <programme start="20240314160000 +0530" stop="20240314180000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Maa</title>
+    <desc lang="en">Phool, in gratitude, demands that Pari never return to Pratima ever again.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDC06A6B953C2DD1395F6BA066EE422C0FB8C062H.jpg"/>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  </programme>
+  <programme start="20240314180000 +0530" stop="20240314183000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Jhanak</title>
+    <desc lang="en">Arshi confronts Aniruddha with a photo taken of him with Jhanak at a restaurant.</desc>
+    <credits>
+      <actor>Krushal Ahuja</actor>
+      <actor>Hiba Nawab</actor>
+      <actor>Chandani Sharma</actor>
+      <actor>Rishi Kaushik</actor>
+      <actor>Ekta Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B1AA11E48F3DE7B4F62653C975FDCC4A2AF23B97X.jpg"/>
+    <episode-num system="xmltv_ns">.113.</episode-num>
+  </programme>
+  <programme start="20240314183000 +0530" stop="20240314190000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Aankh Micholi</title>
+    <desc lang="en">Rukmini fears the red saree crafted by Kesar and discards it.</desc>
+    <credits>
+      <actor>Khushi Dubey</actor>
+      <actor>Navneet Malik</actor>
+      <actor>Bhakti Rathod</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F753FD642CBB7922C89CEFF5E876A329B083849EN.jpg"/>
+    <episode-num system="xmltv_ns">.40.</episode-num>
+  </programme>
+  <programme start="20240314190000 +0530" stop="20240314193000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Teri Meri Doriyaann</title>
+    <desc lang="en">Angad alerts the Brars from the basement, but Seerat's ally intervenes. Repeat - Mon - Sat 8:00 am.</desc>
+    <credits>
+      <actor>Himanshi Parashar</actor>
+      <actor>Vijayendra Kumeria</actor>
+      <actor>Roopam Sharma</actor>
+      <actor>Tushar Dhembla</actor>
+      <actor>Prachi Hada</actor>
+      <actor>Jatin Arora</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE0BCAE763DE00F59BE8A7AD57FF87D8D764C8077.jpg"/>
+    <episode-num system="xmltv_ns">.439.</episode-num>
+  </programme>
+  <programme start="20240314193000 +0530" stop="20240314200000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Pandya Store</title>
+    <desc lang="en">Dhawal extends a helping hand by offering refuge to the Makwana family.</desc>
+    <credits>
+      <actor>Kinshuk Mahajan</actor>
+      <actor>Shiny Doshi</actor>
+      <actor>Jovian Fernandes</actor>
+      <actor>Swarnim</actor>
+      <actor>Harminder</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/43023E4EBFB81352DAE1453C412E53AD23186B97N.jpg"/>
+    <episode-num system="xmltv_ns">.1063.</episode-num>
+  </programme>
+  <programme start="20240314200000 +0530" stop="20240314203000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Ghum Hai Kisikey Pyaar Meiin</title>
+    <desc lang="en">Savi tries to discuss Surekha and Yashwant with Ishaan, but he refuses to do so. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Neil Bhatt</actor>
+      <actor>Ayesha Singh</actor>
+      <actor>Aishwarya Sharma</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Adish Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D40DD5C26BCE087C4FC3F319033DE03C6E7C9112.jpg"/>
+    <episode-num system="xmltv_ns">.1152.</episode-num>
+  </programme>
+  <programme start="20240314203000 +0530" stop="20240314210000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Imlie</title>
+    <desc lang="en">Imlie brings Laxmi home and urges Binni to confess the truth to the Choudharys. Repeat - Mon - Sun 5:40 am.</desc>
+    <credits>
+      <actor>Sumbul Touqeer</actor>
+      <actor>Manasvi Vashist</actor>
+      <actor>Fahmaan Khan</actor>
+      <actor>Gashmeer Mahajani</actor>
+      <actor>Mayuri Deshmukh</actor>
+      <actor>Jyoti Gauba</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7EEBD326BE9B043B51410EDF8FD78D21CA44C7B76.jpg"/>
+    <episode-num system="xmltv_ns">.1117.</episode-num>
+  </programme>
+  <programme start="20240314210000 +0530" stop="20240314213000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Udne Ki Aasha</title>
+    <desc lang="en">Though they get off to a bad start, aspirational Saili and unmotivated Sachin wind up getting married. Saili attempts to turn her husband into a competent and capable person.</desc>
+    <credits>
+      <actor>Kanwar Dhillon</actor>
+      <actor>Neha Harsora</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Puru Chibber</actor>
+      <actor>Ravi Mahashabde</actor>
+      <actor>Devashish Chandiramani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/75567BE80BD270BE384B7B040CC80FE91E183524P.jpg"/>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20240314213000 +0530" stop="20240314220000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Armaan, angered by Abhira's tactics, opts to confront her in the courtroom. Repeat - Mon - Sun 10:00 am.</desc>
+    <credits>
+      <actor>Harshad Chopda</actor>
+      <actor>Pranali Rathod</actor>
+      <actor>Karishma Sawant</actor>
+      <actor>Shivangi Joshi</actor>
+      <actor>Mohsin Khan</actor>
+      <actor>Vishal Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAE1FB85699364D826F9007A9E835123D67CF5A2R.jpg"/>
+    <episode-num system="xmltv_ns">.4369.</episode-num>
+  </programme>
+  <programme start="20240314220000 +0530" stop="20240314223000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Anupamaa</title>
+    <desc lang="en">Anupamaa frets over seeing Vanraj and Leela together at the food festival. Repeat - Mon - Sun 11:00 am.</desc>
+    <credits>
+      <actor>Rupali Ganguly</actor>
+      <actor>Gaurav Khanna</actor>
+      <actor>Sudhanshu Pandey</actor>
+      <actor>Madalsa Sharma</actor>
+      <actor>Aashish Mehrotra</actor>
+      <actor>Sagar Parekh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AE6F356672DF3DAD90B5F69326E3D59FA462AB3I.jpg"/>
+    <episode-num system="xmltv_ns">.1223.</episode-num>
+  </programme>
+  <programme start="20240314223000 +0530" stop="20240314230000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Jhanak</title>
+    <desc lang="en">Arshi confronts Aniruddha with a photo taken of him with Jhanak at a restaurant.</desc>
+    <credits>
+      <actor>Krushal Ahuja</actor>
+      <actor>Hiba Nawab</actor>
+      <actor>Chandani Sharma</actor>
+      <actor>Rishi Kaushik</actor>
+      <actor>Ekta Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B1AA11E48F3DE7B4F62653C975FDCC4A2AF23B97X.jpg"/>
+    <episode-num system="xmltv_ns">.114.</episode-num>
+  </programme>
+  <programme start="20240314230000 +0530" stop="20240314233000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Yeh Hai Chahatein</title>
+    <desc lang="en">Arjun accuses Aditya of Pallavi's murder and exposes Aman's secret.</desc>
+    <credits>
+      <actor>Sargun Kaur</actor>
+      <actor>Abrar Qazi</actor>
+      <actor>Siddharth Shivpuri</actor>
+      <actor>Indira Krishnan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52F685428DA28AA94E47E179CDCC708F1095D2204.jpg"/>
+    <episode-num system="xmltv_ns">.1297.</episode-num>
+  </programme>
+  <programme start="20240314233000 +0530" stop="20240315000000 +0530" channel="STARPlusHD.in">
+    <title lang="en">Ghum Hai Kisikey Pyaar Meiin</title>
+    <desc lang="en">Savi tries to discuss Surekha and Yashwant with Ishaan, but he refuses to do so.</desc>
+    <credits>
+      <actor>Neil Bhatt</actor>
+      <actor>Ayesha Singh</actor>
+      <actor>Aishwarya Sharma</actor>
+      <actor>Sanjay Narvekar</actor>
+      <actor>Adish Vaidya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D40DD5C26BCE087C4FC3F319033DE03C6E7C9112.jpg"/>
+    <episode-num system="xmltv_ns">.1152.</episode-num>
+  </programme>
+</tv>

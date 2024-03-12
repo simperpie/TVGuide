@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="TravelxpHD.in">
+    <display-name lang="en">Travelxp HD</display-name>
+  </channel>
+  <programme start="20240312000000 +0530" stop="20240312003000 +0530" channel="TravelxpHD.in">
+    <title lang="en">World Spas</title>
+    <desc lang="en">Maya Ubud, Bali: Besides getting spa treatments like the Green Coffee Body Wrap and River Escape Massage, Jamie sees Ubud through experiences like the monkey village.</desc>
+    <credits>
+      <actor>Jamie Srubis</actor>
+    </credits>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DD5E223D006E2EF440A4B8DC4B3120DB0D76D4CL.jpg"/>
+  </programme>
+  <programme start="20240312003000 +0530" stop="20240312010000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Sihanoukville 2: The host explores the beauty of the peaceful Kohrong island of Cambodia in the wilderness of the mangroves.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240312010000 +0530" stop="20240312013000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Gwalior, India: Krisann and Benafsha visit the palace of the Scindias who once ruled Gwalior and they realise that the royal-residence-turned-museum is an ode to opulence.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240312013000 +0530" stop="20240312020000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Amsterdam, Netherlands: Alex explores Amsterdam, popularly known as the Sin City, visits the world's oldest diamond polishing factory, and samples a cake infused with cannabis.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240312020000 +0530" stop="20240312023000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Great World Hotels</title>
+    <desc lang="en">Huvafen Fushi 1: The mesmerising Huvafen Fushi, located at the serene island of Maldives, promises a retreat from the stress of daily life and into a pristine heaven.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/19898FFAA2D76BFDB47231D5E7A3A6C69B38CFB1N.jpg"/>
+  </programme>
+  <programme start="20240312023000 +0530" stop="20240312030000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Kissed By The Sea</title>
+    <desc lang="en">Penghu Island, Taiwan: Alex visits Taiwan's Penghu Island, popular for its tropical weather and sun-kissed beaches, bundled with a host of water adventures.</desc>
+    <credits>
+      <actor>Sakshi Pradhan</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A571967AE13B512C245E6F58C8C1B473FE6D5FBF.jpg"/>
+  </programme>
+  <programme start="20240312030000 +0530" stop="20240312033000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Unwind</title>
+    <desc lang="en">Park Hyatt, Maldives: Indeya unwinds at a Maldivian luxury island resort with a dolphin watching session, snorkeling and learns a local recipe to prepare fish.</desc>
+    <credits>
+      <actor>Indeya Passfield</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A2A67C14DB90367ED0BE133B3FB211A4FEC7DB7B7.jpg"/>
+  </programme>
+  <programme start="20240312033000 +0530" stop="20240312040000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Phnom Penh: The host explores the historically rich city of Phnom Penh, the capital of Cambodia and the country's cultural hub.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240312040000 +0530" stop="20240312043000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Indore, India: On the last leg of their journey in Madhya Pradesh, Benafsha and Krisann visit the street food capital of central India, Indore.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240312043000 +0530" stop="20240312050000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">The Hague, Netherlands: From exploring a vintage car museum to scaling a five-metre long ice-wall and sampling a rich bread cookie, Alex thoroughly explores The Hague.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240312050000 +0530" stop="20240312053000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Great World Hotels</title>
+    <desc lang="en">Huvafen Fushi 2: The mesmerising Huvafen Fushi, located at the serene island of Maldives, promises a retreat from the stress of daily life.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/19898FFAA2D76BFDB47231D5E7A3A6C69B38CFB1N.jpg"/>
+  </programme>
+  <programme start="20240312053000 +0530" stop="20240312060000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Indore, India: On the last leg of their journey in Madhya Pradesh, Benafsha and Krisann visit the street food capital of central India, Indore.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240312060000 +0530" stop="20240312064500 +0530" channel="TravelxpHD.in">
+    <title lang="en">Bliss</title>
+    <desc lang="en">BA Atoll, Maldives: Dusit Thani is a five-star property secluded in the middle of the Indian Ocean and is the perfect place to stay on a holiday.</desc>
+    <credits>
+      <actor>Kirsty Nichol</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B49CA7F2B63AC9A346E16BAC2E066E02543ADAC15.jpg"/>
+  </programme>
+  <programme start="20240312064500 +0530" stop="20240312070000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Best From The Rest</title>
+    <desc lang="en">Indian Museums: Museums encapsulate glorious moments, which otherwise would have been lost in time. The team takes a trip down history's memory lane and explores the five museums across India.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A74B4CB9D6AE1A4197F2A69D7B678DA30BE430CC5.jpg"/>
+  </programme>
+  <programme start="20240312070000 +0530" stop="20240312071500 +0530" channel="TravelxpHD.in">
+    <title lang="en">Heritage</title>
+    <desc lang="en">Red Fort: The Red Fort is a reminder of the magnificent power and pomp of the Mughal emperors of India. It is named for its massive enclosing walls of red sandstone.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B9518533F5D7F5D27AFCC267D2FAF7CB68E70E536.jpg"/>
+  </programme>
+  <programme start="20240312071500 +0530" stop="20240312073000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Landmarks</title>
+    <desc lang="en">Nishat Bagh: The Garden of Bliss or Nishat Bagh is located on the banks of the picturesque Dal Lake and is a favourite among the locals as a picnic spot.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E748D91691C9C28056F492CCEF3B5B708643ECA3.jpg"/>
+  </programme>
+  <programme start="20240312073000 +0530" stop="20240312080000 +0530" channel="TravelxpHD.in">
+    <title lang="en">With Love, From Mauritius</title>
+    <desc lang="en">Krisann and Nathan's vacation in Mauritius begins in Le Morne, where an unexpected adventure awaits the latter.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/112239D814ACF547BE1E2B99400B705F7C13A75ES.jpg"/>
+  </programme>
+  <programme start="20240312080000 +0530" stop="20240312083000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Rotterdam, Netherlands: Alex explores the market hall building and visits the Tante Nel snack bar. He explores the ocean liner SS Rotterdam and the Erasmus bridge.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240312083000 +0530" stop="20240312090000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Kissed By The Sea</title>
+    <desc lang="en">Mauritius 2: Sakshi ziplines while enjoying the stunning landscapes and goes on a submarine ride. Later, she explores Port Louis and the Vanilla Crocodile Park.</desc>
+    <credits>
+      <actor>Sakshi Pradhan</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A571967AE13B512C245E6F58C8C1B473FE6D5FBF.jpg"/>
+  </programme>
+  <programme start="20240312090000 +0530" stop="20240312094500 +0530" channel="TravelxpHD.in">
+    <title lang="en">Bliss</title>
+    <desc lang="en">Budapest, Hungary: The Castle Hotel retains the architectural style of the Austro-Hungarian Empire era. It has 14 spacious rooms and suites designed to provide the utmost comfort.</desc>
+    <credits>
+      <actor>Kirsty Nichol</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B49CA7F2B63AC9A346E16BAC2E066E02543ADAC15.jpg"/>
+  </programme>
+  <programme start="20240312094500 +0530" stop="20240312100000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Best From The Rest</title>
+    <desc lang="en">Ethiopian Experiences: The host presents the top five enriching experiences in Ethiopia, the cradle of mankind, which nourishes one's soul.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A74B4CB9D6AE1A4197F2A69D7B678DA30BE430CC5.jpg"/>
+  </programme>
+  <programme start="20240312100000 +0530" stop="20240312101500 +0530" channel="TravelxpHD.in">
+    <title lang="en">Heritage</title>
+    <desc lang="en">Qutub Minar: The Qutub Minar is not just the pride of the delightful city of Delhi, but the whole of India. The monument is listed as one of the World Heritage Sites of UNESCO.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B9518533F5D7F5D27AFCC267D2FAF7CB68E70E536.jpg"/>
+  </programme>
+  <programme start="20240312101500 +0530" stop="20240312103000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Landmarks</title>
+    <desc lang="en">Royal Spring: A gem on India's tiara, Kashmir, Royal Springs is an exercise in class and sophistication. It is not just beauty, but also sophistication par excellence.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E748D91691C9C28056F492CCEF3B5B708643ECA3.jpg"/>
+  </programme>
+  <programme start="20240312103000 +0530" stop="20240312110000 +0530" channel="TravelxpHD.in">
+    <title lang="en">With Love, From Mauritius</title>
+    <desc lang="en">On an island-hopping adventure in Mauritius, Krisann and Nathan find out that time works differently on these islands.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/112239D814ACF547BE1E2B99400B705F7C13A75ES.jpg"/>
+  </programme>
+  <programme start="20240312110000 +0530" stop="20240312113000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Utrecht, Netherlands: Alex visits Stadskasteel Oudaen and tries Orange zest beer. He later visits the St Martin's Cathedral, Dom tower and tries go-karting.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240312113000 +0530" stop="20240312120000 +0530" channel="TravelxpHD.in">
+    <title lang="en">XP Guide</title>
+    <desc lang="en">Colombo: A place where sounds of the calming shores collide endlessly with that of an urbane environment and lives shuttle between the beaches and the high-rises of the city of Colombo in Sri Lanka.</desc>
+    <credits>
+      <actor>Elisha Kriis</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E10C024D88EC3B5565B74508B012CC7BC32148CAG.jpg"/>
+  </programme>
+  <programme start="20240312120000 +0530" stop="20240312123000 +0530" channel="TravelxpHD.in">
+    <title lang="en">City Breaks</title>
+    <desc lang="en">Narlai &amp; Jawai: The need for a short, refreshing break leads Asmita to a quaint hamlet in Rajasthan, where life has remained unchanged since the 15th century.</desc>
+    <credits>
+      <actor>Alexandra Outhwaite</actor>
+      <actor>Sabrina Chakici</actor>
+      <actor>Kristina Guberman</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03F3496698A78B134C7D4AECA8D3CBDC23BC6CED3.jpg"/>
+  </programme>
+  <programme start="20240312123000 +0530" stop="20240312130000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Siem Reap 1: The host travels via lakes, samples local Cambodian food and learns a few steps of the Apsara Dance, the traditional dance form of Cambodia.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240312130000 +0530" stop="20240312133000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Jabalpur, India: After more than a fortnight of travel, Benafsha and Krisann stop at Bhedaghat for some exciting adventures amid its marble cliffs.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240312133000 +0530" stop="20240312140000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Vancouver Island, canada: Alex tries some saffron salmon in Vancouver Island and explores Parksville beach which is known for its sand sculptures. He later explores a 50-year-old Symphony winery.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240312140000 +0530" stop="20240312143000 +0530" channel="TravelxpHD.in">
+    <title lang="en">XP Guide</title>
+    <desc lang="en">Vienna: Austria has been the stage on which histories have unfolded, destinies carved and stories rewritten and Vienna, its capital city, has been the centre of it all.</desc>
+    <credits>
+      <actor>Elisha Kriis</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E10C024D88EC3B5565B74508B012CC7BC32148CAG.jpg"/>
+  </programme>
+  <programme start="20240312143000 +0530" stop="20240312150000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Viajar Mexico</title>
+    <desc lang="en">El Tule, Mexico: Charlie shows the best ways to navigate the vibrant culinary scene of Mexico's gastronomic capital, Oaxaca.</desc>
+    <credits>
+      <actor>Charlie Rubio</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE0C63D270BCA161B0C8E19B22443ED347546637C.jpg"/>
+  </programme>
+  <programme start="20240312150000 +0530" stop="20240312153000 +0530" channel="TravelxpHD.in">
+    <title lang="en">City Breaks</title>
+    <desc lang="en">Bundi: Asmita finds herself soaking in the romance of Bundi, a charming 14th-century town in Rajasthan, which has stunning palaces and ornate stepwells.</desc>
+    <credits>
+      <actor>Alexandra Outhwaite</actor>
+      <actor>Sabrina Chakici</actor>
+      <actor>Kristina Guberman</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03F3496698A78B134C7D4AECA8D3CBDC23BC6CED3.jpg"/>
+  </programme>
+  <programme start="20240312153000 +0530" stop="20240312160000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Siem Reap 2: The host explores Siem Reap, the ancient city of Angkor, which is a UNESCO World Heritage Site, and tries her hand at firing M16 rifles.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240312160000 +0530" stop="20240312163000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Bandhavgarh, India: Krisann and Benafsha take a safari in Bandhavgarh National Park with the hope to get a chance to see the big striped cat in all its glory.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240312163000 +0530" stop="20240312170000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Whistler, Canada: Alex tries kangaroo meat pie in Whistler, Canada, before experiencing the world's highest cable car, Canada's highest zip line and the nation's Aboriginal culture.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240312170000 +0530" stop="20240312173000 +0530" channel="TravelxpHD.in">
+    <title lang="en">XP Guide</title>
+    <desc lang="en">Jerusalem: Embark on a religious journey to Jerusalem, a city of great spiritual importance, as it is considered holy by Judaism, Christianity and Islam.</desc>
+    <credits>
+      <actor>Elisha Kriis</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E10C024D88EC3B5565B74508B012CC7BC32148CAG.jpg"/>
+  </programme>
+  <programme start="20240312173000 +0530" stop="20240312180000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Viajar Mexico</title>
+    <desc lang="en">Villa del Carbon, Mexico: From greenery and culture to spiritual power, Charlie reveals the things that make some of Mexico's towns 'Pueblo Magicos'.</desc>
+    <credits>
+      <actor>Charlie Rubio</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE0C63D270BCA161B0C8E19B22443ED347546637C.jpg"/>
+  </programme>
+  <programme start="20240312180000 +0530" stop="20240312183000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Sihanoukville 1: From Siem Reap to Sihanoukville, the host explores foods that include spiders, crickets and cockroaches and experiences water sports.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240312183000 +0530" stop="20240312190000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Banff, Canada: Alex tries beer at Banff Avenue Brewing Company and visits Bow Valley Parkway to see some of its wildlife before heading to Banff Trail Riders for a cowboy experience.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240312190000 +0530" stop="20240312193000 +0530" channel="TravelxpHD.in">
+    <title lang="en">XP Guide</title>
+    <desc lang="en">Manila: Manila, the capital of Philippines, is a cultural potpourri which has a lot to offer. It is a modern city that values its cultural ethnicity.</desc>
+    <credits>
+      <actor>Elisha Kriis</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E10C024D88EC3B5565B74508B012CC7BC32148CAG.jpg"/>
+  </programme>
+  <programme start="20240312193000 +0530" stop="20240312200000 +0530" channel="TravelxpHD.in">
+    <title lang="en">World Spas</title>
+    <desc lang="en">Gaya Island Resort, Malaysia: Explore the Gaya Island Resort, Malaysia, a place known to help travellers recharge themselves both emotionally and physically.</desc>
+    <credits>
+      <actor>Jamie Srubis</actor>
+    </credits>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DD5E223D006E2EF440A4B8DC4B3120DB0D76D4CL.jpg"/>
+  </programme>
+  <programme start="20240312200000 +0530" stop="20240312203000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Orchha, India: Benafsha And Krisann's journey takes them back in time to the medieval town of Orchha, the erstwhile capital of the Bundelkhand empire.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240312203000 +0530" stop="20240312210000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Viajar Mexico</title>
+    <desc lang="en">Ciudad de Mexico, Mexico.: Charlie Rubio, a bona fide Mexican, reveals all the wonderful things that make Mexico his favourite place in the world.</desc>
+    <credits>
+      <actor>Charlie Rubio</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE0C63D270BCA161B0C8E19B22443ED347546637C.jpg"/>
+  </programme>
+  <programme start="20240312210000 +0530" stop="20240312213000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Sihanoukville 1: From Siem Reap to Sihanoukville, the host explores foods that include spiders, crickets and cockroaches and experiences water sports.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240312213000 +0530" stop="20240312220000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Banff, Canada: Alex tries beer at Banff Avenue Brewing Company and visits Bow Valley Parkway to see some of its wildlife before heading to Banff Trail Riders for a cowboy experience.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240312220000 +0530" stop="20240312223000 +0530" channel="TravelxpHD.in">
+    <title lang="en">XP Guide</title>
+    <desc lang="en">Manila: Manila, the capital of Philippines, is a cultural potpourri which has a lot to offer. It is a modern city that values its cultural ethnicity.</desc>
+    <credits>
+      <actor>Elisha Kriis</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E10C024D88EC3B5565B74508B012CC7BC32148CAG.jpg"/>
+  </programme>
+  <programme start="20240312223000 +0530" stop="20240312230000 +0530" channel="TravelxpHD.in">
+    <title lang="en">World Spas</title>
+    <desc lang="en">Gaya Island Resort, Malaysia: Explore the Gaya Island Resort, Malaysia, a place known to help travellers recharge themselves both emotionally and physically.</desc>
+    <credits>
+      <actor>Jamie Srubis</actor>
+    </credits>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DD5E223D006E2EF440A4B8DC4B3120DB0D76D4CL.jpg"/>
+  </programme>
+  <programme start="20240312230000 +0530" stop="20240312233000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Orchha, India: Benafsha And Krisann's journey takes them back in time to the medieval town of Orchha, the erstwhile capital of the Bundelkhand empire.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240312233000 +0530" stop="20240313000000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Viajar Mexico</title>
+    <desc lang="en">Ciudad de Mexico, Mexico.: Charlie Rubio, a bona fide Mexican, reveals all the wonderful things that make Mexico his favourite place in the world.</desc>
+    <credits>
+      <actor>Charlie Rubio</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE0C63D270BCA161B0C8E19B22443ED347546637C.jpg"/>
+  </programme>
+  <programme start="20240313000000 +0530" stop="20240313003000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">The Hague, Netherlands: From exploring a vintage car museum to scaling a five-metre long ice-wall and sampling a rich bread cookie, Alex thoroughly explores The Hague.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240313003000 +0530" stop="20240313010000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Unwind</title>
+    <desc lang="en">Park Hyatt, Maldives: Indeya unwinds at a Maldivian luxury island resort with a dolphin watching session, snorkeling and learns a local recipe to prepare fish.</desc>
+    <credits>
+      <actor>Indeya Passfield</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A2A67C14DB90367ED0BE133B3FB211A4FEC7DB7B7.jpg"/>
+  </programme>
+  <programme start="20240313010000 +0530" stop="20240313013000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Kissed By The Sea</title>
+    <desc lang="en">Mauritius 1: Sakshi visits an abandoned lighthouse and experiences water activities like snorkelling, undersea walking and underwater ecology.</desc>
+    <credits>
+      <actor>Sakshi Pradhan</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A571967AE13B512C245E6F58C8C1B473FE6D5FBF.jpg"/>
+  </programme>
+  <programme start="20240313013000 +0530" stop="20240313020000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Phnom Penh: The host explores the historically rich city of Phnom Penh, the capital of Cambodia and the country's cultural hub.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240313020000 +0530" stop="20240313023000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Unwind</title>
+    <desc lang="en">Park Hyatt, Maldives: Indeya unwinds at a Maldivian luxury island resort with a dolphin watching session, snorkeling and learns a local recipe to prepare fish.</desc>
+    <credits>
+      <actor>Indeya Passfield</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A2A67C14DB90367ED0BE133B3FB211A4FEC7DB7B7.jpg"/>
+  </programme>
+  <programme start="20240313023000 +0530" stop="20240313030000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Indore, India: On the last leg of their journey in Madhya Pradesh, Benafsha and Krisann visit the street food capital of central India, Indore.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240313030000 +0530" stop="20240313033000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Rotterdam, Netherlands: Alex explores the market hall building and visits the Tante Nel snack bar. He explores the ocean liner SS Rotterdam and the Erasmus bridge.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240313033000 +0530" stop="20240313040000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Kissed By The Sea</title>
+    <desc lang="en">Mauritius 2: Sakshi ziplines while enjoying the stunning landscapes and goes on a submarine ride. Later, she explores Port Louis and the Vanilla Crocodile Park.</desc>
+    <credits>
+      <actor>Sakshi Pradhan</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A571967AE13B512C245E6F58C8C1B473FE6D5FBF.jpg"/>
+  </programme>
+  <programme start="20240313040000 +0530" stop="20240313044500 +0530" channel="TravelxpHD.in">
+    <title lang="en">Bliss</title>
+    <desc lang="en">BA Atoll, Maldives: Dusit Thani is a five-star property secluded in the middle of the Indian Ocean and is the perfect place to stay on a holiday.</desc>
+    <credits>
+      <actor>Kirsty Nichol</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B49CA7F2B63AC9A346E16BAC2E066E02543ADAC15.jpg"/>
+  </programme>
+  <programme start="20240313044500 +0530" stop="20240313050000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Best From The Rest</title>
+    <desc lang="en">Indian Museums: Museums encapsulate glorious moments, which otherwise would have been lost in time. The team takes a trip down history's memory lane and explores the five museums across India.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A74B4CB9D6AE1A4197F2A69D7B678DA30BE430CC5.jpg"/>
+  </programme>
+  <programme start="20240313050000 +0530" stop="20240313051500 +0530" channel="TravelxpHD.in">
+    <title lang="en">Heritage</title>
+    <desc lang="en">Red Fort: The Red Fort is a reminder of the magnificent power and pomp of the Mughal emperors of India. It is named for its massive enclosing walls of red sandstone.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B9518533F5D7F5D27AFCC267D2FAF7CB68E70E536.jpg"/>
+  </programme>
+  <programme start="20240313051500 +0530" stop="20240313053000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Landmarks</title>
+    <desc lang="en">Nishat Bagh: The Garden of Bliss or Nishat Bagh is located on the banks of the picturesque Dal Lake and is a favourite among the locals as a picnic spot.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E748D91691C9C28056F492CCEF3B5B708643ECA3.jpg"/>
+  </programme>
+  <programme start="20240313053000 +0530" stop="20240313060000 +0530" channel="TravelxpHD.in">
+    <title lang="en">With Love, From Mauritius</title>
+    <desc lang="en">Krisann and Nathan's vacation in Mauritius begins in Le Morne, where an unexpected adventure awaits the latter.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/112239D814ACF547BE1E2B99400B705F7C13A75ES.jpg"/>
+  </programme>
+  <programme start="20240313060000 +0530" stop="20240313063000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Utrecht, Netherlands: Alex visits Stadskasteel Oudaen and tries Orange zest beer. He later visits the St Martin's Cathedral, Dom tower and tries go-karting.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240313063000 +0530" stop="20240313070000 +0530" channel="TravelxpHD.in">
+    <title lang="en">XP Guide</title>
+    <desc lang="en">Colombo: A place where sounds of the calming shores collide endlessly with that of an urbane environment and lives shuttle between the beaches and the high-rises of the city of Colombo in Sri Lanka.</desc>
+    <credits>
+      <actor>Elisha Kriis</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E10C024D88EC3B5565B74508B012CC7BC32148CAG.jpg"/>
+  </programme>
+  <programme start="20240313070000 +0530" stop="20240313074500 +0530" channel="TravelxpHD.in">
+    <title lang="en">Bliss</title>
+    <desc lang="en">Budapest, Hungary: The Castle Hotel retains the architectural style of the Austro-Hungarian Empire era. It has 14 spacious rooms and suites designed to provide the utmost comfort.</desc>
+    <credits>
+      <actor>Kirsty Nichol</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B49CA7F2B63AC9A346E16BAC2E066E02543ADAC15.jpg"/>
+  </programme>
+  <programme start="20240313074500 +0530" stop="20240313080000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Best From The Rest</title>
+    <desc lang="en">Ethiopian Experiences: The host presents the top five enriching experiences in Ethiopia, the cradle of mankind, which nourishes one's soul.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A74B4CB9D6AE1A4197F2A69D7B678DA30BE430CC5.jpg"/>
+  </programme>
+  <programme start="20240313080000 +0530" stop="20240313081500 +0530" channel="TravelxpHD.in">
+    <title lang="en">Heritage</title>
+    <desc lang="en">Qutub Minar: The Qutub Minar is not just the pride of the delightful city of Delhi, but the whole of India. The monument is listed as one of the World Heritage Sites of UNESCO.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B9518533F5D7F5D27AFCC267D2FAF7CB68E70E536.jpg"/>
+  </programme>
+  <programme start="20240313081500 +0530" stop="20240313083000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Landmarks</title>
+    <desc lang="en">Royal Spring: A gem on India's tiara, Kashmir, Royal Springs is an exercise in class and sophistication. It is not just beauty, but also sophistication par excellence.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E748D91691C9C28056F492CCEF3B5B708643ECA3.jpg"/>
+  </programme>
+  <programme start="20240313083000 +0530" stop="20240313090000 +0530" channel="TravelxpHD.in">
+    <title lang="en">With Love, From Mauritius</title>
+    <desc lang="en">On an island-hopping adventure in Mauritius, Krisann and Nathan find out that time works differently on these islands.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/112239D814ACF547BE1E2B99400B705F7C13A75ES.jpg"/>
+  </programme>
+  <programme start="20240313090000 +0530" stop="20240313093000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Vancouver, Canada: After visiting Bridges Restaurant and Richmond Night Market Alex explores sights like Olympic Village, Gastown and Capilano Suspension Bridge Park.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240313093000 +0530" stop="20240313100000 +0530" channel="TravelxpHD.in">
+    <title lang="en">City Breaks</title>
+    <desc lang="en">Narlai &amp; Jawai: The need for a short, refreshing break leads Asmita to a quaint hamlet in Rajasthan, where life has remained unchanged since the 15th century.</desc>
+    <credits>
+      <actor>Alexandra Outhwaite</actor>
+      <actor>Sabrina Chakici</actor>
+      <actor>Kristina Guberman</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03F3496698A78B134C7D4AECA8D3CBDC23BC6CED3.jpg"/>
+  </programme>
+  <programme start="20240313100000 +0530" stop="20240313103000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Viajar Mexico</title>
+    <desc lang="en">El Tule, Mexico: Charlie shows the best ways to navigate the vibrant culinary scene of Mexico's gastronomic capital, Oaxaca.</desc>
+    <credits>
+      <actor>Charlie Rubio</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE0C63D270BCA161B0C8E19B22443ED347546637C.jpg"/>
+  </programme>
+  <programme start="20240313103000 +0530" stop="20240313110000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Siem Reap 1: The host travels via lakes, samples local Cambodian food and learns a few steps of the Apsara Dance, the traditional dance form of Cambodia.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240313110000 +0530" stop="20240313113000 +0530" channel="TravelxpHD.in">
+    <title lang="en">City Breaks</title>
+    <desc lang="en">Narlai &amp; Jawai: The need for a short, refreshing break leads Asmita to a quaint hamlet in Rajasthan, where life has remained unchanged since the 15th century.</desc>
+    <credits>
+      <actor>Alexandra Outhwaite</actor>
+      <actor>Sabrina Chakici</actor>
+      <actor>Kristina Guberman</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03F3496698A78B134C7D4AECA8D3CBDC23BC6CED3.jpg"/>
+  </programme>
+  <programme start="20240313113000 +0530" stop="20240313120000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Jabalpur, India: After more than a fortnight of travel, Benafsha and Krisann stop at Bhedaghat for some exciting adventures amid its marble cliffs.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240313120000 +0530" stop="20240313123000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Whistler, Canada: Alex tries kangaroo meat pie in Whistler, Canada, before experiencing the world's highest cable car, Canada's highest zip line and the nation's Aboriginal culture.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240313123000 +0530" stop="20240313130000 +0530" channel="TravelxpHD.in">
+    <title lang="en">City Breaks</title>
+    <desc lang="en">Bundi: Asmita finds herself soaking in the romance of Bundi, a charming 14th-century town in Rajasthan, which has stunning palaces and ornate stepwells.</desc>
+    <credits>
+      <actor>Alexandra Outhwaite</actor>
+      <actor>Sabrina Chakici</actor>
+      <actor>Kristina Guberman</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03F3496698A78B134C7D4AECA8D3CBDC23BC6CED3.jpg"/>
+  </programme>
+  <programme start="20240313130000 +0530" stop="20240313133000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Viajar Mexico</title>
+    <desc lang="en">Villa del Carbon, Mexico: From greenery and culture to spiritual power, Charlie reveals the things that make some of Mexico's towns 'Pueblo Magicos'.</desc>
+    <credits>
+      <actor>Charlie Rubio</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE0C63D270BCA161B0C8E19B22443ED347546637C.jpg"/>
+  </programme>
+  <programme start="20240313133000 +0530" stop="20240313140000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Siem Reap 2: The host explores Siem Reap, the ancient city of Angkor, which is a UNESCO World Heritage Site, and tries her hand at firing M16 rifles.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240313140000 +0530" stop="20240313143000 +0530" channel="TravelxpHD.in">
+    <title lang="en">City Breaks</title>
+    <desc lang="en">Bundi: Asmita finds herself soaking in the romance of Bundi, a charming 14th-century town in Rajasthan, which has stunning palaces and ornate stepwells.</desc>
+    <credits>
+      <actor>Alexandra Outhwaite</actor>
+      <actor>Sabrina Chakici</actor>
+      <actor>Kristina Guberman</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03F3496698A78B134C7D4AECA8D3CBDC23BC6CED3.jpg"/>
+  </programme>
+  <programme start="20240313143000 +0530" stop="20240313150000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Bandhavgarh, India: Krisann and Benafsha take a safari in Bandhavgarh National Park with the hope to get a chance to see the big striped cat in all its glory.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240313150000 +0530" stop="20240313153000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Banff, Canada: Alex tries beer at Banff Avenue Brewing Company and visits Bow Valley Parkway to see some of its wildlife before heading to Banff Trail Riders for a cowboy experience.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240313153000 +0530" stop="20240313160000 +0530" channel="TravelxpHD.in">
+    <title lang="en">World Spas</title>
+    <desc lang="en">Gaya Island Resort, Malaysia: Explore the Gaya Island Resort, Malaysia, a place known to help travellers recharge themselves both emotionally and physically.</desc>
+    <credits>
+      <actor>Jamie Srubis</actor>
+    </credits>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DD5E223D006E2EF440A4B8DC4B3120DB0D76D4CL.jpg"/>
+  </programme>
+  <programme start="20240313160000 +0530" stop="20240313163000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Viajar Mexico</title>
+    <desc lang="en">Ciudad de Mexico, Mexico.: Charlie Rubio, a bona fide Mexican, reveals all the wonderful things that make Mexico his favourite place in the world.</desc>
+    <credits>
+      <actor>Charlie Rubio</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE0C63D270BCA161B0C8E19B22443ED347546637C.jpg"/>
+  </programme>
+  <programme start="20240313163000 +0530" stop="20240313170000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Sihanoukville 1: From Siem Reap to Sihanoukville, the host explores foods that include spiders, crickets and cockroaches and experiences water sports.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240313170000 +0530" stop="20240313173000 +0530" channel="TravelxpHD.in">
+    <title lang="en">World Spas</title>
+    <desc lang="en">Gaya Island Resort, Malaysia: Explore the Gaya Island Resort, Malaysia, a place known to help travellers recharge themselves both emotionally and physically.</desc>
+    <credits>
+      <actor>Jamie Srubis</actor>
+    </credits>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DD5E223D006E2EF440A4B8DC4B3120DB0D76D4CL.jpg"/>
+  </programme>
+  <programme start="20240313173000 +0530" stop="20240313180000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Orchha, India: Benafsha And Krisann's journey takes them back in time to the medieval town of Orchha, the erstwhile capital of the Bundelkhand empire.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240313180000 +0530" stop="20240313183000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Sihanoukville 2: The host explores the beauty of the peaceful Kohrong island of Cambodia in the wilderness of the mangroves.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240313183000 +0530" stop="20240313190000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Amsterdam, Netherlands: Alex explores Amsterdam, popularly known as the Sin City, visits the world's oldest diamond polishing factory, and samples a cake infused with cannabis.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240313190000 +0530" stop="20240313193000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Great World Hotels</title>
+    <desc lang="en">Huvafen Fushi 1: The mesmerising Huvafen Fushi, located at the serene island of Maldives, promises a retreat from the stress of daily life and into a pristine heaven.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/19898FFAA2D76BFDB47231D5E7A3A6C69B38CFB1N.jpg"/>
+  </programme>
+  <programme start="20240313193000 +0530" stop="20240313200000 +0530" channel="TravelxpHD.in">
+    <title lang="en">World Spas</title>
+    <desc lang="en">Maya Ubud, Bali: Besides getting spa treatments like the Green Coffee Body Wrap and River Escape Massage, Jamie sees Ubud through experiences like the monkey village.</desc>
+    <credits>
+      <actor>Jamie Srubis</actor>
+    </credits>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DD5E223D006E2EF440A4B8DC4B3120DB0D76D4CL.jpg"/>
+  </programme>
+  <programme start="20240313200000 +0530" stop="20240313203000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Gwalior, India: Krisann and Benafsha visit the palace of the Scindias who once ruled Gwalior and they realise that the royal-residence-turned-museum is an ode to opulence.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240313203000 +0530" stop="20240313210000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Kissed By The Sea</title>
+    <desc lang="en">Penghu Island, Taiwan: Alex visits Taiwan's Penghu Island, popular for its tropical weather and sun-kissed beaches, bundled with a host of water adventures.</desc>
+    <credits>
+      <actor>Sakshi Pradhan</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A571967AE13B512C245E6F58C8C1B473FE6D5FBF.jpg"/>
+  </programme>
+  <programme start="20240313210000 +0530" stop="20240313213000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Sihanoukville 2: The host explores the beauty of the peaceful Kohrong island of Cambodia in the wilderness of the mangroves.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240313213000 +0530" stop="20240313220000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Amsterdam, Netherlands: Alex explores Amsterdam, popularly known as the Sin City, visits the world's oldest diamond polishing factory, and samples a cake infused with cannabis.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240313220000 +0530" stop="20240313223000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Great World Hotels</title>
+    <desc lang="en">Huvafen Fushi 1: The mesmerising Huvafen Fushi, located at the serene island of Maldives, promises a retreat from the stress of daily life and into a pristine heaven.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/19898FFAA2D76BFDB47231D5E7A3A6C69B38CFB1N.jpg"/>
+  </programme>
+  <programme start="20240313223000 +0530" stop="20240313230000 +0530" channel="TravelxpHD.in">
+    <title lang="en">World Spas</title>
+    <desc lang="en">Maya Ubud, Bali: Besides getting spa treatments like the Green Coffee Body Wrap and River Escape Massage, Jamie sees Ubud through experiences like the monkey village.</desc>
+    <credits>
+      <actor>Jamie Srubis</actor>
+    </credits>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DD5E223D006E2EF440A4B8DC4B3120DB0D76D4CL.jpg"/>
+  </programme>
+  <programme start="20240313230000 +0530" stop="20240313233000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Gwalior, India: Krisann and Benafsha visit the palace of the Scindias who once ruled Gwalior and they realise that the royal-residence-turned-museum is an ode to opulence.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240313233000 +0530" stop="20240314000000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Kissed By The Sea</title>
+    <desc lang="en">Penghu Island, Taiwan: Alex visits Taiwan's Penghu Island, popular for its tropical weather and sun-kissed beaches, bundled with a host of water adventures.</desc>
+    <credits>
+      <actor>Sakshi Pradhan</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A571967AE13B512C245E6F58C8C1B473FE6D5FBF.jpg"/>
+  </programme>
+  <programme start="20240314000000 +0530" stop="20240314004500 +0530" channel="TravelxpHD.in">
+    <title lang="en">Bliss</title>
+    <desc lang="en">BA Atoll, Maldives: Dusit Thani is a five-star property secluded in the middle of the Indian Ocean and is the perfect place to stay on a holiday.</desc>
+    <credits>
+      <actor>Kirsty Nichol</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B49CA7F2B63AC9A346E16BAC2E066E02543ADAC15.jpg"/>
+  </programme>
+  <programme start="20240314004500 +0530" stop="20240314010000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Best From The Rest</title>
+    <desc lang="en">Indian Museums: Museums encapsulate glorious moments, which otherwise would have been lost in time. The team takes a trip down history's memory lane and explores the five museums across India.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A74B4CB9D6AE1A4197F2A69D7B678DA30BE430CC5.jpg"/>
+  </programme>
+  <programme start="20240314010000 +0530" stop="20240314013000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Kissed By The Sea</title>
+    <desc lang="en">Mauritius 2: Sakshi ziplines while enjoying the stunning landscapes and goes on a submarine ride. Later, she explores Port Louis and the Vanilla Crocodile Park.</desc>
+    <credits>
+      <actor>Sakshi Pradhan</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A571967AE13B512C245E6F58C8C1B473FE6D5FBF.jpg"/>
+  </programme>
+  <programme start="20240314013000 +0530" stop="20240314020000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Rotterdam, Netherlands: Alex explores the market hall building and visits the Tante Nel snack bar. He explores the ocean liner SS Rotterdam and the Erasmus bridge.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240314020000 +0530" stop="20240314023000 +0530" channel="TravelxpHD.in">
+    <title lang="en">With Love, From Mauritius</title>
+    <desc lang="en">Krisann and Nathan's vacation in Mauritius begins in Le Morne, where an unexpected adventure awaits the latter.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/112239D814ACF547BE1E2B99400B705F7C13A75ES.jpg"/>
+  </programme>
+  <programme start="20240314023000 +0530" stop="20240314024500 +0530" channel="TravelxpHD.in">
+    <title lang="en">Heritage</title>
+    <desc lang="en">Red Fort: The Red Fort is a reminder of the magnificent power and pomp of the Mughal emperors of India. It is named for its massive enclosing walls of red sandstone.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B9518533F5D7F5D27AFCC267D2FAF7CB68E70E536.jpg"/>
+  </programme>
+  <programme start="20240314024500 +0530" stop="20240314030000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Landmarks</title>
+    <desc lang="en">Nishat Bagh: The Garden of Bliss or Nishat Bagh is located on the banks of the picturesque Dal Lake and is a favourite among the locals as a picnic spot.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E748D91691C9C28056F492CCEF3B5B708643ECA3.jpg"/>
+  </programme>
+  <programme start="20240314030000 +0530" stop="20240314034500 +0530" channel="TravelxpHD.in">
+    <title lang="en">Bliss</title>
+    <desc lang="en">Budapest, Hungary: The Castle Hotel retains the architectural style of the Austro-Hungarian Empire era. It has 14 spacious rooms and suites designed to provide the utmost comfort.</desc>
+    <credits>
+      <actor>Kirsty Nichol</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B49CA7F2B63AC9A346E16BAC2E066E02543ADAC15.jpg"/>
+  </programme>
+  <programme start="20240314034500 +0530" stop="20240314040000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Best From The Rest</title>
+    <desc lang="en">Ethiopian Experiences: The host presents the top five enriching experiences in Ethiopia, the cradle of mankind, which nourishes one's soul.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A74B4CB9D6AE1A4197F2A69D7B678DA30BE430CC5.jpg"/>
+  </programme>
+  <programme start="20240314040000 +0530" stop="20240314043000 +0530" channel="TravelxpHD.in">
+    <title lang="en">XP Guide</title>
+    <desc lang="en">Colombo: A place where sounds of the calming shores collide endlessly with that of an urbane environment and lives shuttle between the beaches and the high-rises of the city of Colombo in Sri Lanka.</desc>
+    <credits>
+      <actor>Elisha Kriis</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E10C024D88EC3B5565B74508B012CC7BC32148CAG.jpg"/>
+  </programme>
+  <programme start="20240314043000 +0530" stop="20240314050000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Utrecht, Netherlands: Alex visits Stadskasteel Oudaen and tries Orange zest beer. He later visits the St Martin's Cathedral, Dom tower and tries go-karting.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240314050000 +0530" stop="20240314053000 +0530" channel="TravelxpHD.in">
+    <title lang="en">With Love, From Mauritius</title>
+    <desc lang="en">On an island-hopping adventure in Mauritius, Krisann and Nathan find out that time works differently on these islands.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/112239D814ACF547BE1E2B99400B705F7C13A75ES.jpg"/>
+  </programme>
+  <programme start="20240314053000 +0530" stop="20240314054500 +0530" channel="TravelxpHD.in">
+    <title lang="en">Heritage</title>
+    <desc lang="en">Qutub Minar: The Qutub Minar is not just the pride of the delightful city of Delhi, but the whole of India. The monument is listed as one of the World Heritage Sites of UNESCO.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B9518533F5D7F5D27AFCC267D2FAF7CB68E70E536.jpg"/>
+  </programme>
+  <programme start="20240314054500 +0530" stop="20240314060000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Landmarks</title>
+    <desc lang="en">Royal Spring: A gem on India's tiara, Kashmir, Royal Springs is an exercise in class and sophistication. It is not just beauty, but also sophistication par excellence.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E748D91691C9C28056F492CCEF3B5B708643ECA3.jpg"/>
+  </programme>
+  <programme start="20240314060000 +0530" stop="20240314063000 +0530" channel="TravelxpHD.in">
+    <title lang="en">XP Guide</title>
+    <desc lang="en">Vienna: Austria has been the stage on which histories have unfolded, destinies carved and stories rewritten and Vienna, its capital city, has been the centre of it all.</desc>
+    <credits>
+      <actor>Elisha Kriis</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E10C024D88EC3B5565B74508B012CC7BC32148CAG.jpg"/>
+  </programme>
+  <programme start="20240314063000 +0530" stop="20240314070000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Viajar Mexico</title>
+    <desc lang="en">El Tule, Mexico: Charlie shows the best ways to navigate the vibrant culinary scene of Mexico's gastronomic capital, Oaxaca.</desc>
+    <credits>
+      <actor>Charlie Rubio</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE0C63D270BCA161B0C8E19B22443ED347546637C.jpg"/>
+  </programme>
+  <programme start="20240314070000 +0530" stop="20240314073000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Vancouver Island, canada: Alex tries some saffron salmon in Vancouver Island and explores Parksville beach which is known for its sand sculptures. He later explores a 50-year-old Symphony winery.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240314073000 +0530" stop="20240314080000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Jabalpur, India: After more than a fortnight of travel, Benafsha and Krisann stop at Bhedaghat for some exciting adventures amid its marble cliffs.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240314080000 +0530" stop="20240314083000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Siem Reap 1: The host travels via lakes, samples local Cambodian food and learns a few steps of the Apsara Dance, the traditional dance form of Cambodia.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240314083000 +0530" stop="20240314090000 +0530" channel="TravelxpHD.in">
+    <title lang="en">City Breaks</title>
+    <desc lang="en">Narlai &amp; Jawai: The need for a short, refreshing break leads Asmita to a quaint hamlet in Rajasthan, where life has remained unchanged since the 15th century.</desc>
+    <credits>
+      <actor>Alexandra Outhwaite</actor>
+      <actor>Sabrina Chakici</actor>
+      <actor>Kristina Guberman</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03F3496698A78B134C7D4AECA8D3CBDC23BC6CED3.jpg"/>
+  </programme>
+  <programme start="20240314090000 +0530" stop="20240314093000 +0530" channel="TravelxpHD.in">
+    <title lang="en">XP Guide</title>
+    <desc lang="en">Jerusalem: Embark on a religious journey to Jerusalem, a city of great spiritual importance, as it is considered holy by Judaism, Christianity and Islam.</desc>
+    <credits>
+      <actor>Elisha Kriis</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E10C024D88EC3B5565B74508B012CC7BC32148CAG.jpg"/>
+  </programme>
+  <programme start="20240314093000 +0530" stop="20240314100000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Viajar Mexico</title>
+    <desc lang="en">Villa del Carbon, Mexico: From greenery and culture to spiritual power, Charlie reveals the things that make some of Mexico's towns 'Pueblo Magicos'.</desc>
+    <credits>
+      <actor>Charlie Rubio</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE0C63D270BCA161B0C8E19B22443ED347546637C.jpg"/>
+  </programme>
+  <programme start="20240314100000 +0530" stop="20240314103000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Whistler, Canada: Alex tries kangaroo meat pie in Whistler, Canada, before experiencing the world's highest cable car, Canada's highest zip line and the nation's Aboriginal culture.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240314103000 +0530" stop="20240314110000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Bandhavgarh, India: Krisann and Benafsha take a safari in Bandhavgarh National Park with the hope to get a chance to see the big striped cat in all its glory.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240314110000 +0530" stop="20240314113000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Siem Reap 2: The host explores Siem Reap, the ancient city of Angkor, which is a UNESCO World Heritage Site, and tries her hand at firing M16 rifles.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240314113000 +0530" stop="20240314120000 +0530" channel="TravelxpHD.in">
+    <title lang="en">City Breaks</title>
+    <desc lang="en">Bundi: Asmita finds herself soaking in the romance of Bundi, a charming 14th-century town in Rajasthan, which has stunning palaces and ornate stepwells.</desc>
+    <credits>
+      <actor>Alexandra Outhwaite</actor>
+      <actor>Sabrina Chakici</actor>
+      <actor>Kristina Guberman</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03F3496698A78B134C7D4AECA8D3CBDC23BC6CED3.jpg"/>
+  </programme>
+  <programme start="20240314120000 +0530" stop="20240314123000 +0530" channel="TravelxpHD.in">
+    <title lang="en">XP Guide</title>
+    <desc lang="en">Manila: Manila, the capital of Philippines, is a cultural potpourri which has a lot to offer. It is a modern city that values its cultural ethnicity.</desc>
+    <credits>
+      <actor>Elisha Kriis</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E10C024D88EC3B5565B74508B012CC7BC32148CAG.jpg"/>
+  </programme>
+  <programme start="20240314123000 +0530" stop="20240314130000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Viajar Mexico</title>
+    <desc lang="en">Ciudad de Mexico, Mexico.: Charlie Rubio, a bona fide Mexican, reveals all the wonderful things that make Mexico his favourite place in the world.</desc>
+    <credits>
+      <actor>Charlie Rubio</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE0C63D270BCA161B0C8E19B22443ED347546637C.jpg"/>
+  </programme>
+  <programme start="20240314130000 +0530" stop="20240314133000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Banff, Canada: Alex tries beer at Banff Avenue Brewing Company and visits Bow Valley Parkway to see some of its wildlife before heading to Banff Trail Riders for a cowboy experience.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240314133000 +0530" stop="20240314140000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Orchha, India: Benafsha And Krisann's journey takes them back in time to the medieval town of Orchha, the erstwhile capital of the Bundelkhand empire.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240314140000 +0530" stop="20240314143000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Sihanoukville 1: From Siem Reap to Sihanoukville, the host explores foods that include spiders, crickets and cockroaches and experiences water sports.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240314143000 +0530" stop="20240314150000 +0530" channel="TravelxpHD.in">
+    <title lang="en">World Spas</title>
+    <desc lang="en">Gaya Island Resort, Malaysia: Explore the Gaya Island Resort, Malaysia, a place known to help travellers recharge themselves both emotionally and physically.</desc>
+    <credits>
+      <actor>Jamie Srubis</actor>
+    </credits>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DD5E223D006E2EF440A4B8DC4B3120DB0D76D4CL.jpg"/>
+  </programme>
+  <programme start="20240314150000 +0530" stop="20240314153000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Great World Hotels</title>
+    <desc lang="en">Huvafen Fushi 1: The mesmerising Huvafen Fushi, located at the serene island of Maldives, promises a retreat from the stress of daily life and into a pristine heaven.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/19898FFAA2D76BFDB47231D5E7A3A6C69B38CFB1N.jpg"/>
+  </programme>
+  <programme start="20240314153000 +0530" stop="20240314160000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Kissed By The Sea</title>
+    <desc lang="en">Penghu Island, Taiwan: Alex visits Taiwan's Penghu Island, popular for its tropical weather and sun-kissed beaches, bundled with a host of water adventures.</desc>
+    <credits>
+      <actor>Sakshi Pradhan</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A571967AE13B512C245E6F58C8C1B473FE6D5FBF.jpg"/>
+  </programme>
+  <programme start="20240314160000 +0530" stop="20240314163000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">Amsterdam, Netherlands: Alex explores Amsterdam, popularly known as the Sin City, visits the world's oldest diamond polishing factory, and samples a cake infused with cannabis.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240314163000 +0530" stop="20240314170000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Gwalior, India: Krisann and Benafsha visit the palace of the Scindias who once ruled Gwalior and they realise that the royal-residence-turned-museum is an ode to opulence.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240314170000 +0530" stop="20240314173000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Sihanoukville 2: The host explores the beauty of the peaceful Kohrong island of Cambodia in the wilderness of the mangroves.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240314173000 +0530" stop="20240314180000 +0530" channel="TravelxpHD.in">
+    <title lang="en">World Spas</title>
+    <desc lang="en">Maya Ubud, Bali: Besides getting spa treatments like the Green Coffee Body Wrap and River Escape Massage, Jamie sees Ubud through experiences like the monkey village.</desc>
+    <credits>
+      <actor>Jamie Srubis</actor>
+    </credits>
+    <category lang="en">Lifestyle</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DD5E223D006E2EF440A4B8DC4B3120DB0D76D4CL.jpg"/>
+  </programme>
+  <programme start="20240314180000 +0530" stop="20240314183000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Phnom Penh: The host explores the historically rich city of Phnom Penh, the capital of Cambodia and the country's cultural hub.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240314183000 +0530" stop="20240314190000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">The Hague, Netherlands: From exploring a vintage car museum to scaling a five-metre long ice-wall and sampling a rich bread cookie, Alex thoroughly explores The Hague.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240314190000 +0530" stop="20240314193000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Great World Hotels</title>
+    <desc lang="en">Huvafen Fushi 2: The mesmerising Huvafen Fushi, located at the serene island of Maldives, promises a retreat from the stress of daily life.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/19898FFAA2D76BFDB47231D5E7A3A6C69B38CFB1N.jpg"/>
+  </programme>
+  <programme start="20240314193000 +0530" stop="20240314200000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Unwind</title>
+    <desc lang="en">Park Hyatt, Maldives: Indeya unwinds at a Maldivian luxury island resort with a dolphin watching session, snorkeling and learns a local recipe to prepare fish.</desc>
+    <credits>
+      <actor>Indeya Passfield</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A2A67C14DB90367ED0BE133B3FB211A4FEC7DB7B7.jpg"/>
+  </programme>
+  <programme start="20240314200000 +0530" stop="20240314203000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Indore, India: On the last leg of their journey in Madhya Pradesh, Benafsha and Krisann visit the street food capital of central India, Indore.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240314203000 +0530" stop="20240314210000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Kissed By The Sea</title>
+    <desc lang="en">Mauritius 1: Sakshi visits an abandoned lighthouse and experiences water activities like snorkelling, undersea walking and underwater ecology.</desc>
+    <credits>
+      <actor>Sakshi Pradhan</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A571967AE13B512C245E6F58C8C1B473FE6D5FBF.jpg"/>
+  </programme>
+  <programme start="20240314210000 +0530" stop="20240314213000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Xplore Cambodia</title>
+    <desc lang="en">Phnom Penh: The host explores the historically rich city of Phnom Penh, the capital of Cambodia and the country's cultural hub.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6808EEE11D9B725AA0726AAB3B085FAF8195CE97P.jpg"/>
+  </programme>
+  <programme start="20240314213000 +0530" stop="20240314220000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Food Fact Fun</title>
+    <desc lang="en">The Hague, Netherlands: From exploring a vintage car museum to scaling a five-metre long ice-wall and sampling a rich bread cookie, Alex thoroughly explores The Hague.</desc>
+    <credits>
+      <actor>Michael McKean</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB355124486DF09B1470083880910D6BADB66328O.jpg"/>
+  </programme>
+  <programme start="20240314220000 +0530" stop="20240314223000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Great World Hotels</title>
+    <desc lang="en">Huvafen Fushi 2: The mesmerising Huvafen Fushi, located at the serene island of Maldives, promises a retreat from the stress of daily life.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/19898FFAA2D76BFDB47231D5E7A3A6C69B38CFB1N.jpg"/>
+  </programme>
+  <programme start="20240314223000 +0530" stop="20240314230000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Unwind</title>
+    <desc lang="en">Park Hyatt, Maldives: Indeya unwinds at a Maldivian luxury island resort with a dolphin watching session, snorkeling and learns a local recipe to prepare fish.</desc>
+    <credits>
+      <actor>Indeya Passfield</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A2A67C14DB90367ED0BE133B3FB211A4FEC7DB7B7.jpg"/>
+  </programme>
+  <programme start="20240314230000 +0530" stop="20240314233000 +0530" channel="TravelxpHD.in">
+    <title lang="en">The Gypsies</title>
+    <desc lang="en">Indore, India: On the last leg of their journey in Madhya Pradesh, Benafsha and Krisann visit the street food capital of central India, Indore.</desc>
+    <credits>
+      <actor>Benafsha Soonawalla</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF977312A29392547316F3BD3F03E4690FBD0D69C.jpg"/>
+  </programme>
+  <programme start="20240314233000 +0530" stop="20240315000000 +0530" channel="TravelxpHD.in">
+    <title lang="en">Kissed By The Sea</title>
+    <desc lang="en">Mauritius 1: Sakshi visits an abandoned lighthouse and experiences water activities like snorkelling, undersea walking and underwater ecology.</desc>
+    <credits>
+      <actor>Sakshi Pradhan</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A571967AE13B512C245E6F58C8C1B473FE6D5FBF.jpg"/>
+  </programme>
+</tv>

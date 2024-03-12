@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ETNowSwadesh.in">
+    <display-name lang="en">ET Now Swadesh</display-name>
+  </channel>
+  <programme start="20240312000000 +0530" stop="20240312003000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Nivesh Ki Abcd</title>
+    <desc lang="en">Nivesh Ki Abcd</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/584A9D16CAF4FEDCB8E64304CEF913DA39A36ACCU.jpg"/>
+  </programme>
+  <programme start="20240312003000 +0530" stop="20240312010000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Tax Mantra</title>
+    <desc lang="en">Tax Mantra</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7BEF18A4017248859C4486F3067374B705E4B6BD2.jpg"/>
+  </programme>
+  <programme start="20240312010000 +0530" stop="20240312013000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Consumer Is King</title>
+    <desc lang="en">Consumer Is King</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46C4C600D3033D342C3B1C258F4302EAC21264B65.jpg"/>
+  </programme>
+  <programme start="20240312013000 +0530" stop="20240312020000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Consumer Is King</title>
+    <desc lang="en">Consumer Is King</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46C4C600D3033D342C3B1C258F4302EAC21264B65.jpg"/>
+  </programme>
+  <programme start="20240312020000 +0530" stop="20240312023000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Consumer Is King</title>
+    <desc lang="en">Consumer Is King</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46C4C600D3033D342C3B1C258F4302EAC21264B65.jpg"/>
+  </programme>
+  <programme start="20240312023000 +0530" stop="20240312030000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Commodity Vishesh</title>
+    <desc lang="en">Commodity Vishesh</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAC65739648AA42EE8E31582029C8B56A0054F429.jpg"/>
+  </programme>
+  <programme start="20240312030000 +0530" stop="20240312033000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Commodity Vishesh</title>
+    <desc lang="en">Commodity Vishesh</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAC65739648AA42EE8E31582029C8B56A0054F429.jpg"/>
+  </programme>
+  <programme start="20240312033000 +0530" stop="20240312040000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Swadesh Talkies</title>
+    <desc lang="en">Swadesh Talkies</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/98F11BA93DB957273768961FFAA47242D3C7FCC5R.jpg"/>
+  </programme>
+  <programme start="20240312040000 +0530" stop="20240312043000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Stocks World Cup</title>
+    <desc lang="en">Stocks World Cup</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BFCBAD4733B6F81124BB4F7801481D5CB88EC5AFF.jpg"/>
+  </programme>
+  <programme start="20240312043000 +0530" stop="20240312050000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Stocks World Cup</title>
+    <desc lang="en">Stocks World Cup</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BFCBAD4733B6F81124BB4F7801481D5CB88EC5AFF.jpg"/>
+  </programme>
+  <programme start="20240312050000 +0530" stop="20240312053000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Commodity Vishesh</title>
+    <desc lang="en">Commodity Vishesh</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAC65739648AA42EE8E31582029C8B56A0054F429.jpg"/>
+  </programme>
+  <programme start="20240312053000 +0530" stop="20240312060000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Commodity Vishesh</title>
+    <desc lang="en">Commodity Vishesh</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAC65739648AA42EE8E31582029C8B56A0054F429.jpg"/>
+  </programme>
+  <programme start="20240312060000 +0530" stop="20240312070000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Bano Apna Finance Minster</title>
+    <desc lang="en">Bano Apna Finance Minster</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC68077780B458F6D08151D89DE4FDDF8A851A11U.jpg"/>
+  </programme>
+  <programme start="20240312070000 +0530" stop="20240312073000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Consumer Is King</title>
+    <desc lang="en">Consumer Is King</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46C4C600D3033D342C3B1C258F4302EAC21264B65.jpg"/>
+  </programme>
+  <programme start="20240312073000 +0530" stop="20240312080000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Good Morning Swadesh</title>
+    <desc lang="en">Good Morning Swadesh</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCBB8C27A822FFF8E6E85AF134BC44B9EFFEF3FB9.jpg"/>
+  </programme>
+  <programme start="20240312080000 +0530" stop="20240312100000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Khara Sauda</title>
+    <desc lang="en">Khara Sauda</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2448177C1E0B3149A32E8D29751E191DCCDD1C8FT.jpg"/>
+  </programme>
+  <programme start="20240312100000 +0530" stop="20240312103000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">10 Ka Bazaar</title>
+    <desc lang="en">10 Ka Bazaar</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F9839BD67F56D73B09C8C3C7D48E17B8774F98D7.jpg"/>
+  </programme>
+  <programme start="20240312103000 +0530" stop="20240312113000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Your Stocks</title>
+    <desc lang="en">Your Stocks</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0131CEFD159075E0DAC7A5444B1A842F1603AA511.jpg"/>
+  </programme>
+  <programme start="20240312113000 +0530" stop="20240312120000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Munafe Ki Mandi</title>
+    <desc lang="en">Munafe Ki Mandi</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB9CCE1A799863723B39110E1FB39C88C8FB7707J.jpg"/>
+  </programme>
+  <programme start="20240312120000 +0530" stop="20240312123000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">F&amp;O Junction</title>
+    <desc lang="en">F&amp;O Junction</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/65504391FA72916DC8D3D59ADFE8DC6C4B20AE56Y.jpg"/>
+  </programme>
+  <programme start="20240312123000 +0530" stop="20240312130000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Midcap Masala</title>
+    <desc lang="en">Midcap Masala</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B928BFFE1D549335ACE4CC1E3BBFFA30840ECC5K.jpg"/>
+  </programme>
+  <programme start="20240312130000 +0530" stop="20240312133000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Corporate Connection</title>
+    <desc lang="en">Corporate Connection</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB7E0EF3829234B6AB9A584A4A2C2489A449082D7.jpg"/>
+  </programme>
+  <programme start="20240312133000 +0530" stop="20240312140000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Stocks Fatafat</title>
+    <desc lang="en">Stocks Fatafat</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D658C317E34A2C00971248935B3CC91EA16EA3C4S.jpg"/>
+  </programme>
+  <programme start="20240312140000 +0530" stop="20240312153000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Closing Calls</title>
+    <desc lang="en">Closing Calls</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/154F40E576D40100877300DD76CE644AA445EF46E.jpg"/>
+  </programme>
+  <programme start="20240312153000 +0530" stop="20240312160000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Kal Ki Taiyari</title>
+    <desc lang="en">Kal Ki Taiyari</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/555E8C76111B2FD12E3DC5E19E97D513DA0223906.jpg"/>
+  </programme>
+  <programme start="20240312160000 +0530" stop="20240312163000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Bano Apna Finance Minster</title>
+    <desc lang="en">Bano Apna Finance Minster</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC68077780B458F6D08151D89DE4FDDF8A851A11U.jpg"/>
+  </programme>
+  <programme start="20240312163000 +0530" stop="20240312170000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Bano Apna Finance Minster</title>
+    <desc lang="en">Bano Apna Finance Minster</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC68077780B458F6D08151D89DE4FDDF8A851A11U.jpg"/>
+  </programme>
+  <programme start="20240312170000 +0530" stop="20240312173000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Tax Mantra</title>
+    <desc lang="en">Tax Mantra</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7BEF18A4017248859C4486F3067374B705E4B6BD2.jpg"/>
+  </programme>
+  <programme start="20240312173000 +0530" stop="20240312180000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Commodity Vishesh</title>
+    <desc lang="en">Commodity Vishesh</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAC65739648AA42EE8E31582029C8B56A0054F429.jpg"/>
+  </programme>
+  <programme start="20240312180000 +0530" stop="20240312183000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Kal Ki Taiyari</title>
+    <desc lang="en">Kal Ki Taiyari</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/555E8C76111B2FD12E3DC5E19E97D513DA0223906.jpg"/>
+  </programme>
+  <programme start="20240312183000 +0530" stop="20240312190000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Consumer Is King</title>
+    <desc lang="en">Consumer Is King</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46C4C600D3033D342C3B1C258F4302EAC21264B65.jpg"/>
+  </programme>
+  <programme start="20240312190000 +0530" stop="20240312193000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Bazaar &amp; Business</title>
+    <desc lang="en">Bazaar &amp; Business</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/126184F0FC5ACE76C54CE29B9A890625468392A1M.jpg"/>
+  </programme>
+  <programme start="20240312193000 +0530" stop="20240312200000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Kal Ki Taiyari</title>
+    <desc lang="en">Kal Ki Taiyari</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/555E8C76111B2FD12E3DC5E19E97D513DA0223906.jpg"/>
+  </programme>
+  <programme start="20240312200000 +0530" stop="20240312210000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">ET Money Bano Apna Finance Minister</title>
+    <desc lang="en">ET Money Bano Apna Finance Minister</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7616BE795EC7FF5BF8D1C5E7B07BD88023DACF45W.jpg"/>
+  </programme>
+  <programme start="20240312210000 +0530" stop="20240312213000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240312213000 +0530" stop="20240312220000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240312220000 +0530" stop="20240312223000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Commodity Vishesh</title>
+    <desc lang="en">Commodity Vishesh</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAC65739648AA42EE8E31582029C8B56A0054F429.jpg"/>
+  </programme>
+  <programme start="20240312223000 +0530" stop="20240312230000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Kal Ki Taiyari</title>
+    <desc lang="en">Kal Ki Taiyari</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/555E8C76111B2FD12E3DC5E19E97D513DA0223906.jpg"/>
+  </programme>
+  <programme start="20240312230000 +0530" stop="20240312233000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Money Bano Apna Finance Minister</title>
+    <desc lang="en">Money Bano Apna Finance Minister</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D652C1E0904B9D53B906DF2B1FC10563795CA078X.jpg"/>
+  </programme>
+  <programme start="20240312233000 +0530" stop="20240313000000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Money Bano Apna Finance Minister</title>
+    <desc lang="en">Money Bano Apna Finance Minister</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D652C1E0904B9D53B906DF2B1FC10563795CA078X.jpg"/>
+  </programme>
+  <programme start="20240313000000 +0530" stop="20240313003000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240313003000 +0530" stop="20240313010000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240313010000 +0530" stop="20240313013000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Consumer Is King</title>
+    <desc lang="en">Consumer Is King</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46C4C600D3033D342C3B1C258F4302EAC21264B65.jpg"/>
+  </programme>
+  <programme start="20240313013000 +0530" stop="20240313020000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Kal Ki Taiyari</title>
+    <desc lang="en">Kal Ki Taiyari</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/555E8C76111B2FD12E3DC5E19E97D513DA0223906.jpg"/>
+  </programme>
+  <programme start="20240313020000 +0530" stop="20240313030000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">ET Money Bano Apna Finance Minister</title>
+    <desc lang="en">ET Money Bano Apna Finance Minister</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7616BE795EC7FF5BF8D1C5E7B07BD88023DACF45W.jpg"/>
+  </programme>
+  <programme start="20240313030000 +0530" stop="20240313033000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240313033000 +0530" stop="20240313040000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240313040000 +0530" stop="20240313043000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Consumer Is King</title>
+    <desc lang="en">Consumer Is King</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46C4C600D3033D342C3B1C258F4302EAC21264B65.jpg"/>
+  </programme>
+  <programme start="20240313043000 +0530" stop="20240313050000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Commodity Vishesh</title>
+    <desc lang="en">Commodity Vishesh</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAC65739648AA42EE8E31582029C8B56A0054F429.jpg"/>
+  </programme>
+  <programme start="20240313050000 +0530" stop="20240313060000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240313060000 +0530" stop="20240313070000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Bano Apna Finance Minster</title>
+    <desc lang="en">Bano Apna Finance Minster</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC68077780B458F6D08151D89DE4FDDF8A851A11U.jpg"/>
+  </programme>
+  <programme start="20240313070000 +0530" stop="20240313073000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Consumer Is King</title>
+    <desc lang="en">Consumer Is King</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46C4C600D3033D342C3B1C258F4302EAC21264B65.jpg"/>
+  </programme>
+  <programme start="20240313073000 +0530" stop="20240313080000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Good Morning Swadesh</title>
+    <desc lang="en">Good Morning Swadesh</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCBB8C27A822FFF8E6E85AF134BC44B9EFFEF3FB9.jpg"/>
+  </programme>
+  <programme start="20240313080000 +0530" stop="20240313100000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Khara Sauda</title>
+    <desc lang="en">Khara Sauda</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2448177C1E0B3149A32E8D29751E191DCCDD1C8FT.jpg"/>
+  </programme>
+  <programme start="20240313100000 +0530" stop="20240313103000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">10 Ka Bazaar</title>
+    <desc lang="en">10 Ka Bazaar</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F9839BD67F56D73B09C8C3C7D48E17B8774F98D7.jpg"/>
+  </programme>
+  <programme start="20240313103000 +0530" stop="20240313113000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Your Stocks</title>
+    <desc lang="en">Your Stocks</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0131CEFD159075E0DAC7A5444B1A842F1603AA511.jpg"/>
+  </programme>
+  <programme start="20240313113000 +0530" stop="20240313120000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Munafe Ki Mandi</title>
+    <desc lang="en">Munafe Ki Mandi</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB9CCE1A799863723B39110E1FB39C88C8FB7707J.jpg"/>
+  </programme>
+  <programme start="20240313120000 +0530" stop="20240313123000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">F&amp;O Junction</title>
+    <desc lang="en">F&amp;O Junction</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/65504391FA72916DC8D3D59ADFE8DC6C4B20AE56Y.jpg"/>
+  </programme>
+  <programme start="20240313123000 +0530" stop="20240313130000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Midcap Masala</title>
+    <desc lang="en">Midcap Masala</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B928BFFE1D549335ACE4CC1E3BBFFA30840ECC5K.jpg"/>
+  </programme>
+  <programme start="20240313130000 +0530" stop="20240313133000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Corporate Connection</title>
+    <desc lang="en">Corporate Connection</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB7E0EF3829234B6AB9A584A4A2C2489A449082D7.jpg"/>
+  </programme>
+  <programme start="20240313133000 +0530" stop="20240313140000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Stocks Fatafat</title>
+    <desc lang="en">Stocks Fatafat</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D658C317E34A2C00971248935B3CC91EA16EA3C4S.jpg"/>
+  </programme>
+  <programme start="20240313140000 +0530" stop="20240313153000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Closing Calls</title>
+    <desc lang="en">Closing Calls</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/154F40E576D40100877300DD76CE644AA445EF46E.jpg"/>
+  </programme>
+  <programme start="20240313153000 +0530" stop="20240313160000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Kal Ki Taiyari</title>
+    <desc lang="en">Kal Ki Taiyari</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/555E8C76111B2FD12E3DC5E19E97D513DA0223906.jpg"/>
+  </programme>
+  <programme start="20240313160000 +0530" stop="20240313163000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Bano Apna Finance Minster</title>
+    <desc lang="en">Bano Apna Finance Minster</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC68077780B458F6D08151D89DE4FDDF8A851A11U.jpg"/>
+  </programme>
+  <programme start="20240313163000 +0530" stop="20240313170000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Bano Apna Finance Minster</title>
+    <desc lang="en">Bano Apna Finance Minster</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC68077780B458F6D08151D89DE4FDDF8A851A11U.jpg"/>
+  </programme>
+  <programme start="20240313170000 +0530" stop="20240313173000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Startup Mantra</title>
+    <desc lang="en">Startup Mantra</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A80828A3119C4F4C59D986741BAF06A8F9DD5324V.jpg"/>
+  </programme>
+  <programme start="20240313173000 +0530" stop="20240313180000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Commodity Vishesh</title>
+    <desc lang="en">Commodity Vishesh</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAC65739648AA42EE8E31582029C8B56A0054F429.jpg"/>
+  </programme>
+  <programme start="20240313180000 +0530" stop="20240313183000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Kal Ki Taiyari</title>
+    <desc lang="en">Kal Ki Taiyari</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/555E8C76111B2FD12E3DC5E19E97D513DA0223906.jpg"/>
+  </programme>
+  <programme start="20240313183000 +0530" stop="20240313190000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Consumer Is King</title>
+    <desc lang="en">Consumer Is King</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46C4C600D3033D342C3B1C258F4302EAC21264B65.jpg"/>
+  </programme>
+  <programme start="20240313190000 +0530" stop="20240313193000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Bazaar &amp; Business</title>
+    <desc lang="en">Bazaar &amp; Business</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/126184F0FC5ACE76C54CE29B9A890625468392A1M.jpg"/>
+  </programme>
+  <programme start="20240313193000 +0530" stop="20240313200000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Kal Ki Taiyari</title>
+    <desc lang="en">Kal Ki Taiyari</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/555E8C76111B2FD12E3DC5E19E97D513DA0223906.jpg"/>
+  </programme>
+  <programme start="20240313200000 +0530" stop="20240313210000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">ET Money Bano Apna Finance Minister</title>
+    <desc lang="en">ET Money Bano Apna Finance Minister</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7616BE795EC7FF5BF8D1C5E7B07BD88023DACF45W.jpg"/>
+  </programme>
+  <programme start="20240313210000 +0530" stop="20240313213000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240313213000 +0530" stop="20240313220000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240313220000 +0530" stop="20240313223000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Commodity Vishesh</title>
+    <desc lang="en">Commodity Vishesh</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAC65739648AA42EE8E31582029C8B56A0054F429.jpg"/>
+  </programme>
+  <programme start="20240313223000 +0530" stop="20240313230000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Kal Ki Taiyari</title>
+    <desc lang="en">Kal Ki Taiyari</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/555E8C76111B2FD12E3DC5E19E97D513DA0223906.jpg"/>
+  </programme>
+  <programme start="20240313230000 +0530" stop="20240313233000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Money Bano Apna Finance Minister</title>
+    <desc lang="en">Money Bano Apna Finance Minister</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D652C1E0904B9D53B906DF2B1FC10563795CA078X.jpg"/>
+  </programme>
+  <programme start="20240313233000 +0530" stop="20240314000000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Money Bano Apna Finance Minister</title>
+    <desc lang="en">Money Bano Apna Finance Minister</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D652C1E0904B9D53B906DF2B1FC10563795CA078X.jpg"/>
+  </programme>
+  <programme start="20240314000000 +0530" stop="20240314003000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240314003000 +0530" stop="20240314010000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240314010000 +0530" stop="20240314013000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Consumer Is King</title>
+    <desc lang="en">Consumer Is King</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46C4C600D3033D342C3B1C258F4302EAC21264B65.jpg"/>
+  </programme>
+  <programme start="20240314013000 +0530" stop="20240314020000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Kal Ki Taiyari</title>
+    <desc lang="en">Kal Ki Taiyari</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/555E8C76111B2FD12E3DC5E19E97D513DA0223906.jpg"/>
+  </programme>
+  <programme start="20240314020000 +0530" stop="20240314030000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">ET Money Bano Apna Finance Minister</title>
+    <desc lang="en">ET Money Bano Apna Finance Minister</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7616BE795EC7FF5BF8D1C5E7B07BD88023DACF45W.jpg"/>
+  </programme>
+  <programme start="20240314030000 +0530" stop="20240314033000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240314033000 +0530" stop="20240314040000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240314040000 +0530" stop="20240314043000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Consumer Is King</title>
+    <desc lang="en">Consumer Is King</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46C4C600D3033D342C3B1C258F4302EAC21264B65.jpg"/>
+  </programme>
+  <programme start="20240314043000 +0530" stop="20240314050000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Commodity Vishesh</title>
+    <desc lang="en">Commodity Vishesh</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAC65739648AA42EE8E31582029C8B56A0054F429.jpg"/>
+  </programme>
+  <programme start="20240314050000 +0530" stop="20240314060000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240314060000 +0530" stop="20240314070000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Bano Apna Finance Minster</title>
+    <desc lang="en">Bano Apna Finance Minster</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC68077780B458F6D08151D89DE4FDDF8A851A11U.jpg"/>
+  </programme>
+  <programme start="20240314070000 +0530" stop="20240314073000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Consumer Is King</title>
+    <desc lang="en">Consumer Is King</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46C4C600D3033D342C3B1C258F4302EAC21264B65.jpg"/>
+  </programme>
+  <programme start="20240314073000 +0530" stop="20240314080000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Good Morning Swadesh</title>
+    <desc lang="en">Good Morning Swadesh</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCBB8C27A822FFF8E6E85AF134BC44B9EFFEF3FB9.jpg"/>
+  </programme>
+  <programme start="20240314080000 +0530" stop="20240314100000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Khara Sauda</title>
+    <desc lang="en">Khara Sauda</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2448177C1E0B3149A32E8D29751E191DCCDD1C8FT.jpg"/>
+  </programme>
+  <programme start="20240314100000 +0530" stop="20240314103000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">10 Ka Bazaar</title>
+    <desc lang="en">10 Ka Bazaar</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F9839BD67F56D73B09C8C3C7D48E17B8774F98D7.jpg"/>
+  </programme>
+  <programme start="20240314103000 +0530" stop="20240314113000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Your Stocks</title>
+    <desc lang="en">Your Stocks</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0131CEFD159075E0DAC7A5444B1A842F1603AA511.jpg"/>
+  </programme>
+  <programme start="20240314113000 +0530" stop="20240314120000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Munafe Ki Mandi</title>
+    <desc lang="en">Munafe Ki Mandi</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB9CCE1A799863723B39110E1FB39C88C8FB7707J.jpg"/>
+  </programme>
+  <programme start="20240314120000 +0530" stop="20240314123000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">F&amp;O Junction</title>
+    <desc lang="en">F&amp;O Junction</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/65504391FA72916DC8D3D59ADFE8DC6C4B20AE56Y.jpg"/>
+  </programme>
+  <programme start="20240314123000 +0530" stop="20240314130000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Midcap Masala</title>
+    <desc lang="en">Midcap Masala</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B928BFFE1D549335ACE4CC1E3BBFFA30840ECC5K.jpg"/>
+  </programme>
+  <programme start="20240314130000 +0530" stop="20240314133000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Corporate Connection</title>
+    <desc lang="en">Corporate Connection</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB7E0EF3829234B6AB9A584A4A2C2489A449082D7.jpg"/>
+  </programme>
+  <programme start="20240314133000 +0530" stop="20240314140000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Stocks Fatafat</title>
+    <desc lang="en">Stocks Fatafat</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D658C317E34A2C00971248935B3CC91EA16EA3C4S.jpg"/>
+  </programme>
+  <programme start="20240314140000 +0530" stop="20240314153000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Closing Calls</title>
+    <desc lang="en">Closing Calls</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/154F40E576D40100877300DD76CE644AA445EF46E.jpg"/>
+  </programme>
+  <programme start="20240314153000 +0530" stop="20240314160000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Kal Ki Taiyari</title>
+    <desc lang="en">Kal Ki Taiyari</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/555E8C76111B2FD12E3DC5E19E97D513DA0223906.jpg"/>
+  </programme>
+  <programme start="20240314160000 +0530" stop="20240314163000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Bano Apna Finance Minster</title>
+    <desc lang="en">Bano Apna Finance Minster</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC68077780B458F6D08151D89DE4FDDF8A851A11U.jpg"/>
+  </programme>
+  <programme start="20240314163000 +0530" stop="20240314170000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Bano Apna Finance Minster</title>
+    <desc lang="en">Bano Apna Finance Minster</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC68077780B458F6D08151D89DE4FDDF8A851A11U.jpg"/>
+  </programme>
+  <programme start="20240314170000 +0530" stop="20240314173000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Nikunj Ki Nazar</title>
+    <desc lang="en">Nikunj Ki Nazar</desc>
+    <credits>
+      <actor>Nikunj Dalmia</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F7B24AE328E64D167754A8DE78BAE3BD3DAB49BQ.jpg"/>
+  </programme>
+  <programme start="20240314173000 +0530" stop="20240314180000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Times Drive Show</title>
+    <desc lang="en">Times Drive Show</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B35AD36F35ED6960746E28133B284A1ADEB1C161.jpg"/>
+  </programme>
+  <programme start="20240314180000 +0530" stop="20240314183000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Kal Ki Taiyari</title>
+    <desc lang="en">Kal Ki Taiyari</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/555E8C76111B2FD12E3DC5E19E97D513DA0223906.jpg"/>
+  </programme>
+  <programme start="20240314183000 +0530" stop="20240314190000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Consumer Is King</title>
+    <desc lang="en">Consumer Is King</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46C4C600D3033D342C3B1C258F4302EAC21264B65.jpg"/>
+  </programme>
+  <programme start="20240314190000 +0530" stop="20240314193000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Bazaar &amp; Business</title>
+    <desc lang="en">Bazaar &amp; Business</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/126184F0FC5ACE76C54CE29B9A890625468392A1M.jpg"/>
+  </programme>
+  <programme start="20240314193000 +0530" stop="20240314200000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Kal Ki Taiyari</title>
+    <desc lang="en">Kal Ki Taiyari</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/555E8C76111B2FD12E3DC5E19E97D513DA0223906.jpg"/>
+  </programme>
+  <programme start="20240314200000 +0530" stop="20240314210000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">ET Money Bano Apna Finance Minister</title>
+    <desc lang="en">ET Money Bano Apna Finance Minister</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7616BE795EC7FF5BF8D1C5E7B07BD88023DACF45W.jpg"/>
+  </programme>
+  <programme start="20240314210000 +0530" stop="20240314213000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240314213000 +0530" stop="20240314220000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Sawal Public Ka</title>
+    <desc lang="en">Sawal Public Ka</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEE1CE82E26A522F01A2D60F9CD41A5645F8A390Q.jpg"/>
+  </programme>
+  <programme start="20240314220000 +0530" stop="20240314223000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Times Drive Show</title>
+    <desc lang="en">Times Drive Show</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B35AD36F35ED6960746E28133B284A1ADEB1C161.jpg"/>
+  </programme>
+  <programme start="20240314223000 +0530" stop="20240314230000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Kal Ki Taiyari</title>
+    <desc lang="en">Kal Ki Taiyari</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/555E8C76111B2FD12E3DC5E19E97D513DA0223906.jpg"/>
+  </programme>
+  <programme start="20240314230000 +0530" stop="20240314233000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Money Bano Apna Finance Minister</title>
+    <desc lang="en">Money Bano Apna Finance Minister</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D652C1E0904B9D53B906DF2B1FC10563795CA078X.jpg"/>
+  </programme>
+  <programme start="20240314233000 +0530" stop="20240315000000 +0530" channel="ETNowSwadesh.in">
+    <title lang="en">Money Bano Apna Finance Minister</title>
+    <desc lang="en">Money Bano Apna Finance Minister</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D652C1E0904B9D53B906DF2B1FC10563795CA078X.jpg"/>
+  </programme>
+</tv>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="NHStudioz.in">
+    <display-name lang="en">NH Studioz</display-name>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/NH_Studioz.png"/>
+  </channel>
+  <programme start="20240312000000 +0530" stop="20240312030000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122762000_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240312030000 +0530" stop="20240312060000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122762001_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240312060000 +0530" stop="20240312090000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122762002_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240312090000 +0530" stop="20240312120000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122762003_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240312120000 +0530" stop="20240312150000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122762004_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240312150000 +0530" stop="20240312180000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122762005_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240312180000 +0530" stop="20240312210000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122762006_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240312210000 +0530" stop="20240312235959 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403122762007_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240313000000 +0530" stop="20240313030000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132762000_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240313030000 +0530" stop="20240313060000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132762001_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240313060000 +0530" stop="20240313090000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132762002_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240313090000 +0530" stop="20240313120000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132762003_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240313120000 +0530" stop="20240313150000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132762004_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240313150000 +0530" stop="20240313180000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132762005_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240313180000 +0530" stop="20240313210000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132762006_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240313210000 +0530" stop="20240313235959 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403132762007_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240314000000 +0530" stop="20240314030000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142762000_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240314030000 +0530" stop="20240314060000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142762001_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240314060000 +0530" stop="20240314090000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142762002_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240314090000 +0530" stop="20240314120000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142762003_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240314120000 +0530" stop="20240314150000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142762004_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240314150000 +0530" stop="20240314180000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142762005_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240314180000 +0530" stop="20240314210000 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142762006_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240314210000 +0530" stop="20240314235959 +0530" channel="NHStudioz.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Drama</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403142762007_s.jpg"/>
+    <previously-shown/>
+  </programme>
+</tv>

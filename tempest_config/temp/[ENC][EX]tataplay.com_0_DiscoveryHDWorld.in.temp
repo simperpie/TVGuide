@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="DiscoveryHDWorld.in">
+    <display-name lang="en">Discovery HD World</display-name>
+  </channel>
+  <programme start="20240312002700 +0530" stop="20240312020000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Naked And Afraid XL</title>
+    <desc lang="en">Cold Grudges Die Hard: Sub-freezing temperatures descend on the swamp, putting two survivalists on the brink. Meanwhile, Rylie finally resolves lingering resentment from a past challenge.</desc>
+    <credits>
+      <actor>Michael Brown</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0CA643F3BF33F086C7A69C7D3C57FE8A27F5758FM.jpg"/>
+  </programme>
+  <programme start="20240312020000 +0530" stop="20240312025000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Bears Ultimate Survival Guide Part One: Bear Grylls reveals his secrets to find water in the baking salt flats of Mexico, skin snakes in Panama and battle Indonesian sharks.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240312025000 +0530" stop="20240312033400 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Bering Sea Gold</title>
+    <desc lang="en">Double Down: The miners hedge their bets when faced with the worst conditions in a decade. At the same time, Shawn and Ken go head-to-head with their largest ships ever.</desc>
+    <credits>
+      <actor>Mike Rowe</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2C0B66D352CA36C82D98508EDF4FA56564CB547L.jpg"/>
+  </programme>
+  <programme start="20240312033400 +0530" stop="20240312042200 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Gold Rush</title>
+    <desc lang="en">Gold At Last: Parker risks destroying Big Red to finally find Mud Mountain's gold. Later, Rick is forced to slow down his operation when massive rocks threaten to ruin Monster Red.</desc>
+    <credits>
+      <actor>Paul Christie</actor>
+      <actor>Dean Lennox Kelly</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D3651F1A16D375A1578A358FB00581F1FF13147X.jpg"/>
+  </programme>
+  <programme start="20240312042200 +0530" stop="20240312050700 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Ed Stafford: First Man Out</title>
+    <desc lang="en">Ed Vs Ky Furneaux: Ed takes on Hollywood stuntwoman Ky Furneaux in the Four Girls Mountain Range. They must survive in its icy valleys and snow-covered peaks.</desc>
+    <credits>
+      <actor>Ed Stafford</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/956D36381E476DFB29B25F4F2C602784CF988E93Z.jpg"/>
+  </programme>
+  <programme start="20240312050700 +0530" stop="20240312060000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Urban Survivor: Bear demonstrates how wilderness survival techniques can be applied in a post-disaster city where all the comforts of modern life have been destroyed.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240312060000 +0530" stop="20240312064700 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">River Monsters</title>
+    <desc lang="en">Alaskan Horror: Jeremy Wade explores the legend of a lake monster in Alaska and tries to succeed where other hunters have failed in catching the beast.</desc>
+    <credits>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF4E1343A99BEB4ECD1454F1AA72CFB1980772F3N.jpg"/>
+  </programme>
+  <programme start="20240312064700 +0530" stop="20240312073900 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man, Woman, Wild</title>
+    <desc lang="en">Tasmania: Shipwrecked on the remote coastline of Tasmania, Mykel and Ruth battle hypothermia, dehydration and hunger in the face of an approaching storm.</desc>
+    <credits>
+      <actor>Mykel Hawke</actor>
+      <actor>Ruth England</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5B43788198BBBD96E402B793298571685CF896C7G.jpg"/>
+  </programme>
+  <programme start="20240312073900 +0530" stop="20240312083500 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Dual Survival Brazil</title>
+    <desc lang="en">Vetas: Two people with drastically different backgrounds and survival strategies take on some of Latin America's most unforgiving terrain.</desc>
+    <credits>
+      <actor>Fernao Lacerda</actor>
+      <actor>Edmilson Leite</actor>
+      <actor>Leonardo Rocha</actor>
+      <actor>Luciano Tigre</actor>
+      <actor>Rene Murad</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/74EE906179AF29AF12F8EE6A85FDD01487A1592B8.jpg"/>
+  </programme>
+  <programme start="20240312083500 +0530" stop="20240312092800 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Scotland: Bear Grylls is in Scotland's Cairngorm Mountains where he has to face Arctic blizzards, use a deer skin for shelter and trap rabbits to eat.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240312092800 +0530" stop="20240312101700 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Running Wild With Bear Grylls</title>
+    <desc lang="en">Joseph Gordonlevitt: Survivalist Bear Grylls takes actor, writer and director Joseph Gordon-Levitt on a 48-hour trek through the rugged desert of Kenya's northern plains.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F353ED4DEFB6583364AA77EF01653BC37566BB790.jpg"/>
+  </programme>
+  <programme start="20240312101700 +0530" stop="20240312110800 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Expedition Unknown With Josh Gates</title>
+    <desc lang="en">The Vanished Empire: Josh Gates journeys to Greece to find out exactly how and why the mighty Minoan civilisation vanished from the ancient world.</desc>
+    <credits>
+      <actor>Josh Gates</actor>
+      <actor>Evan B Stone</actor>
+      <actor>Oren Gutfeld</actor>
+      <actor>Brian C Weed</actor>
+      <actor>Richard Hansen</actor>
+      <actor>Jessica Chobot</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91C18B342949C566FDCAF8C4AB95298DD9A16D770.jpg"/>
+  </programme>
+  <programme start="20240312110800 +0530" stop="20240312120000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Expedition Unknown With Josh Gates</title>
+    <desc lang="en">Journey To The Ice Age Part 2 Of 305: Josh treks deep into Siberia for a site where priceless mammoth bones are mined out of the permafrost. Then, he takes the DNA samples back to the laboratory.</desc>
+    <credits>
+      <actor>Josh Gates</actor>
+      <actor>Evan B Stone</actor>
+      <actor>Oren Gutfeld</actor>
+      <actor>Brian C Weed</actor>
+      <actor>Richard Hansen</actor>
+      <actor>Jessica Chobot</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91C18B342949C566FDCAF8C4AB95298DD9A16D770.jpg"/>
+  </programme>
+  <programme start="20240312120000 +0530" stop="20240312125400 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Kimberley Australia: Adventurer Bear Grylls demonstrates how to survive in the harsh Australian outback by taking extreme measures to avoid sunstroke, finding food and avoiding the saltwater crocodiles.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240312125400 +0530" stop="20240312132200 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">History Hunter</title>
+    <desc lang="en">Golconda Fort A Hitech Ancient Structure: The host sheds light on some of the most unheard and unexplored historically significant stories from India and tries to unravel the mystery behind the monuments in a detailed manner.</desc>
+    <credits>
+      <actor>Maniesh Paul</actor>
+    </credits>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B1D649B9C76D89DDEECAEC6B6E418B90D8E7A0AFZ.jpg"/>
+  </programme>
+  <programme start="20240312132200 +0530" stop="20240312135000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Worst Case Scenario With Bear Grylls</title>
+    <desc lang="en">Burning Vehicleboating Accident: Bear Grylls escapes a burning vehicle and rescues another driver. Later, he saves two men from drowning.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+      <actor>Nell Teare</actor>
+      <actor>Barbara Howlin</actor>
+      <actor>Clinton Ton Jones</actor>
+      <actor>Brady Romberg</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EA3326AC03A8B454D317EEDF8A3FB4D14832B314.jpg"/>
+  </programme>
+  <programme start="20240312135000 +0530" stop="20240312142600 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Bear Grylls How To Stay Alive</title>
+    <desc lang="en">Adventurer Bear Grylls heads on to some of the most excruciating adventures in harshest habitats and provides tips to the audience for survival.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C72F3C66F5AA49C660D623D069D2C2BDCDDED0F7L.jpg"/>
+  </programme>
+  <programme start="20240312142600 +0530" stop="20240312145200 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Food Factory</title>
+    <desc lang="en">Fantastic Flavours: The host explores Warheads candies that contain as much malic acid as allowed by law and how every batch of maple bacon chocolate pods starts with two kilograms of crispy bacon.</desc>
+    <credits>
+      <actor>Todd Schick</actor>
+      <actor>Colleen Rusholme</actor>
+      <actor>Ashley Chapman</actor>
+      <actor>Ellen Gordon</actor>
+      <actor>Nurith Jungreis</actor>
+      <actor>Ryan Martic</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B67A89AEC27635E6FCD0C60CC6B5F942F2C8CCFV.jpg"/>
+  </programme>
+  <programme start="20240312145200 +0530" stop="20240312151700 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Food Factory</title>
+    <desc lang="en">Sugar Apple Pastries Tortillas: The hosts explore some of the largest manufacturers of consumable products and explain the intricate process involved in the production of various food items.</desc>
+    <credits>
+      <actor>Todd Schick</actor>
+      <actor>Colleen Rusholme</actor>
+      <actor>Ashley Chapman</actor>
+      <actor>Ellen Gordon</actor>
+      <actor>Nurith Jungreis</actor>
+      <actor>Ryan Martic</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B67A89AEC27635E6FCD0C60CC6B5F942F2C8CCFV.jpg"/>
+  </programme>
+  <programme start="20240312151700 +0530" stop="20240312160500 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Arctic Circle: Bear fights the planet's coldest weather in the Arctic Circle as he tries to navigate the frozen waterfalls and find and feast on a reindeer.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240312160500 +0530" stop="20240312163300 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Engineering Wonders</title>
+    <desc lang="en">Transformation Of The Railway Stations: The host explores the initiative taken by the Railways to carry out significant redevelopment work across various stations.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B795877B3168A24B29CEF9C5729E3E749F3BD2DA9.jpg"/>
+  </programme>
+  <programme start="20240312163300 +0530" stop="20240312172300 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Carter's War</title>
+    <desc lang="en">Ivan delves into the ongoing war between the protectors of wildlife and the African black market bushmeat trade.</desc>
+    <credits>
+      <actor>Ivan Carter</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/953E3A511BAD16D5E91A7AAC63C0BCC010DF85B4E.jpg"/>
+  </programme>
+  <programme start="20240312172300 +0530" stop="20240312181600 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Dual Survival</title>
+    <desc lang="en">Out Of The Ashes Part One: On the slopes of a tropical volcano, Matt and Joe face roadblocks in their quest to reach the coast that include thick rainforest and gorges.</desc>
+    <credits>
+      <actor>Paul Christie</actor>
+      <actor>Cody Lundin</actor>
+      <actor>Dave Canterbury</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF97775DDF72C419F8552EB62E6687AB1A901A95X.jpg"/>
+  </programme>
+  <programme start="20240312181600 +0530" stop="20240312191100 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Behind The Wild: A dedicated team follows Bear Grylls and captures his struggles and challenges on camera as he skydives, climbs sheer cliffs and crosses shark-infested waters.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240312191100 +0530" stop="20240312200700 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man, Woman, Wild</title>
+    <desc lang="en">Louisiana Firestorm: When Mykel and Ruth are trapped in the burning woodlands of backcountry Louisiana, they must dodge falling trees, try to construct a fire shelter and dine on armadillo.</desc>
+    <credits>
+      <actor>Mykel Hawke</actor>
+      <actor>Ruth England</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5B43788198BBBD96E402B793298571685CF896C7G.jpg"/>
+  </programme>
+  <programme start="20240312200700 +0530" stop="20240312210200 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Patagonia: In the icy wilderness of Patagonia, Bear Grylls tackles extreme survival challenges and wild weather by eating bugs and worms and showing how to stay alive.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240312210200 +0530" stop="20240312215700 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Secrets Of The Buddha Relics</title>
+    <desc lang="en">The exploration of the history and importance of the artefacts of the Buddha, is presented, while focusing on the final days of Gautam Buddha.</desc>
+    <credits>
+      <actor>Manoj Bajpayee</actor>
+      <actor>Chandra Prakash Dwivedi</actor>
+      <actor>Anil Kumar</actor>
+      <actor>B R Mani</actor>
+      <actor>Tishyarakshita Nagarkar</actor>
+      <actor>Halle O Neal</actor>
+    </credits>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/82026432493617D7203FFE8C07E336AB361A9E20B.jpg"/>
+  </programme>
+  <programme start="20240312215700 +0530" stop="20240312224900 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Alabama: Bear is locked in the backwoods of Alabama where he navigates freezing white-water rapids, braves a raging forest fire and tries to get out of a deep limestone cave.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240312224900 +0530" stop="20240312234100 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Naked And Afraid: Latam</title>
+    <desc lang="en">Colombia Danos Un Respiro: Men and women pair up with each other and set out on a thrilling adventure where they experience extreme situations and an environment to survive.</desc>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C73E0BDFFF50839611A824C313638DC80EE62142.jpg"/>
+  </programme>
+  <programme start="20240312234100 +0530" stop="20240313003100 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Naked And Afraid</title>
+    <desc lang="en">Blood In The Water: Two survivalists battle starvation, swarms of tiny predators and accusations about a partner's survival abilities which may turn this partnership into a bad marriage.</desc>
+    <credits>
+      <actor>Michael Brown</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/408ABC951776410C3D2821FF338277522DBFDD94J.jpg"/>
+  </programme>
+  <programme start="20240313001600 +0530" stop="20240313015000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Naked And Afraid XL</title>
+    <desc lang="en">A group of survivalists undertake a challenge where they have to survive in a dangerous environment for forty days with limited resources.</desc>
+    <credits>
+      <actor>Michael Brown</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0CA643F3BF33F086C7A69C7D3C57FE8A27F5758FM.jpg"/>
+  </programme>
+  <programme start="20240313015000 +0530" stop="20240313024500 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Gold Rush</title>
+    <desc lang="en">Teams of miners face various obstacles and overcome several challenges as they dig for gold in the lesser-known regions across Canada and the United States.</desc>
+    <credits>
+      <actor>Paul Christie</actor>
+      <actor>Dean Lennox Kelly</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D3651F1A16D375A1578A358FB00581F1FF13147X.jpg"/>
+  </programme>
+  <programme start="20240313024500 +0530" stop="20240313034000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240313034000 +0530" stop="20240313044000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Gold Rush</title>
+    <desc lang="en">Teams of miners face various obstacles and overcome several challenges as they dig for gold in the lesser-known regions across Canada and the United States.</desc>
+    <credits>
+      <actor>Paul Christie</actor>
+      <actor>Dean Lennox Kelly</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D3651F1A16D375A1578A358FB00581F1FF13147X.jpg"/>
+  </programme>
+  <programme start="20240313044000 +0530" stop="20240313053500 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Unearthed</title>
+    <desc lang="en">Archaeologists examine places of historical significance and the artefacts they find inside them.</desc>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E6A23F25A72A8B0D9F54754CD857DA0EE5465BADL.jpg"/>
+  </programme>
+  <programme start="20240313053500 +0530" stop="20240313060000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Food Factory</title>
+    <desc lang="en">The hosts explore some of the largest manufacturers of consumable products and explain the intricate process involved in the production of various food items.</desc>
+    <credits>
+      <actor>Todd Schick</actor>
+      <actor>Colleen Rusholme</actor>
+      <actor>Ashley Chapman</actor>
+      <actor>Ellen Gordon</actor>
+      <actor>Nurith Jungreis</actor>
+      <actor>Ryan Martic</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B67A89AEC27635E6FCD0C60CC6B5F942F2C8CCFV.jpg"/>
+  </programme>
+  <programme start="20240313060000 +0530" stop="20240313065900 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">River Monsters</title>
+    <desc lang="en">The host, a biologist who is an extreme angler, explores freshwater mysteries and local folklore, to debunk fascinating myths and track down harrowing tales.</desc>
+    <credits>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF4E1343A99BEB4ECD1454F1AA72CFB1980772F3N.jpg"/>
+  </programme>
+  <programme start="20240313065900 +0530" stop="20240313075200 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Ed Stafford: First Man Out</title>
+    <desc lang="en">Explorer and adventurer Ed Stafford takes on various experts from around the world in a challenge to survive in extreme environments.</desc>
+    <credits>
+      <actor>Ed Stafford</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/956D36381E476DFB29B25F4F2C602784CF988E93Z.jpg"/>
+  </programme>
+  <programme start="20240313075200 +0530" stop="20240313084500 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Dual Survival</title>
+    <desc lang="en">Survival experts Cody Lundin and Dave Canterbury take on the planet's most unforgiving terrains and demonstrate valuable survival skills.</desc>
+    <credits>
+      <actor>Paul Christie</actor>
+      <actor>Cody Lundin</actor>
+      <actor>Dave Canterbury</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF97775DDF72C419F8552EB62E6687AB1A901A95X.jpg"/>
+  </programme>
+  <programme start="20240313084500 +0530" stop="20240313093800 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240313093800 +0530" stop="20240313103100 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">River Monsters</title>
+    <desc lang="en">The host, a biologist who is an extreme angler, explores freshwater mysteries and local folklore, to debunk fascinating myths and track down harrowing tales.</desc>
+    <credits>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF4E1343A99BEB4ECD1454F1AA72CFB1980772F3N.jpg"/>
+  </programme>
+  <programme start="20240313103100 +0530" stop="20240313112400 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Expedition Unknown With Josh Gates</title>
+    <desc lang="en">Josh Gates, an archaeologist, travels across the world in search of lost artefacts and investigates some of history's unsolved mysteries.</desc>
+    <credits>
+      <actor>Josh Gates</actor>
+      <actor>Evan B Stone</actor>
+      <actor>Oren Gutfeld</actor>
+      <actor>Brian C Weed</actor>
+      <actor>Richard Hansen</actor>
+      <actor>Jessica Chobot</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91C18B342949C566FDCAF8C4AB95298DD9A16D770.jpg"/>
+  </programme>
+  <programme start="20240313112400 +0530" stop="20240313121000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240313121000 +0530" stop="20240313130300 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240313130300 +0530" stop="20240313135600 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Expedition Unknown: Hunt For Extraterrestrials</title>
+    <desc lang="en">The host consults experts and travels across the US to learn about the possibility of the existence of extraterrestrials on other planets.</desc>
+    <credits>
+      <actor>Josh Gates</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C2E00CC77E548C92C78DD9DF8EE078220117182J.jpg"/>
+  </programme>
+  <programme start="20240313135600 +0530" stop="20240313142300 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Food Factory</title>
+    <desc lang="en">The hosts explore some of the largest manufacturers of consumable products and explain the intricate process involved in the production of various food items.</desc>
+    <credits>
+      <actor>Todd Schick</actor>
+      <actor>Colleen Rusholme</actor>
+      <actor>Ashley Chapman</actor>
+      <actor>Ellen Gordon</actor>
+      <actor>Nurith Jungreis</actor>
+      <actor>Ryan Martic</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B67A89AEC27635E6FCD0C60CC6B5F942F2C8CCFV.jpg"/>
+  </programme>
+  <programme start="20240313142300 +0530" stop="20240313144900 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Food Factory</title>
+    <desc lang="en">The hosts explore some of the largest manufacturers of consumable products and explain the intricate process involved in the production of various food items.</desc>
+    <credits>
+      <actor>Todd Schick</actor>
+      <actor>Colleen Rusholme</actor>
+      <actor>Ashley Chapman</actor>
+      <actor>Ellen Gordon</actor>
+      <actor>Nurith Jungreis</actor>
+      <actor>Ryan Martic</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B67A89AEC27635E6FCD0C60CC6B5F942F2C8CCFV.jpg"/>
+  </programme>
+  <programme start="20240313144900 +0530" stop="20240313154200 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240313154200 +0530" stop="20240313163500 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">I Should Have Stayed Home</title>
+    <desc lang="en">Two brothers go on adventures in rugged locations with limited resources. As they navigate difficult terrain, the journeys test their relationship and resilience.</desc>
+    <credits>
+      <actor>Sid Mewara</actor>
+      <actor>Shanky Jayakumar</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4DB5CB78FAAAC34BBC43FB36E0B913A4959DDF6P.jpg"/>
+  </programme>
+  <programme start="20240313163500 +0530" stop="20240313172800 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Expedition Unknown With Josh Gates</title>
+    <desc lang="en">Josh Gates, an archaeologist, travels across the world in search of lost artefacts and investigates some of history's unsolved mysteries.</desc>
+    <credits>
+      <actor>Josh Gates</actor>
+      <actor>Evan B Stone</actor>
+      <actor>Oren Gutfeld</actor>
+      <actor>Brian C Weed</actor>
+      <actor>Richard Hansen</actor>
+      <actor>Jessica Chobot</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91C18B342949C566FDCAF8C4AB95298DD9A16D770.jpg"/>
+  </programme>
+  <programme start="20240313172800 +0530" stop="20240313181400 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240313181400 +0530" stop="20240313190700 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240313190700 +0530" stop="20240313200000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Tracked</title>
+    <desc lang="en">Eight pairs of elite trackers use their survival instincts and face risky challenges across the harshest habitat on Earth.</desc>
+    <credits>
+      <actor>Vinnie Jones</actor>
+      <actor>Alia Bojilova</actor>
+      <actor>Dave Kassapian</actor>
+      <actor>Ryland Pearson McManus</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E760865E09C90D50D1536696F0F851227DB6C65F.jpg"/>
+  </programme>
+  <programme start="20240313200000 +0530" stop="20240313205300 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240313205300 +0530" stop="20240313214600 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Expedition Unknown With Josh Gates</title>
+    <desc lang="en">Josh Gates, an archaeologist, travels across the world in search of lost artefacts and investigates some of history's unsolved mysteries.</desc>
+    <credits>
+      <actor>Josh Gates</actor>
+      <actor>Evan B Stone</actor>
+      <actor>Oren Gutfeld</actor>
+      <actor>Brian C Weed</actor>
+      <actor>Richard Hansen</actor>
+      <actor>Jessica Chobot</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91C18B342949C566FDCAF8C4AB95298DD9A16D770.jpg"/>
+  </programme>
+  <programme start="20240313214600 +0530" stop="20240313223900 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240313223900 +0530" stop="20240313233200 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Naked And Afraid: Deadliest Challenges</title>
+    <desc lang="en">Several pairs of total strangers set out on a thrilling adventure where have to survive the extreme environment and dangers of the wilderness.</desc>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99C1CD3F6B29CC319D51562F8F94673D8731169DL.jpg"/>
+  </programme>
+  <programme start="20240313233200 +0530" stop="20240314010200 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Naked And Afraid XL</title>
+    <desc lang="en">A group of survivalists undertake a challenge where they have to survive in a dangerous environment for forty days with limited resources.</desc>
+    <credits>
+      <actor>Michael Brown</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0CA643F3BF33F086C7A69C7D3C57FE8A27F5758FM.jpg"/>
+  </programme>
+  <programme start="20240314010200 +0530" stop="20240314015700 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Naked And Afraid Brazil</title>
+    <desc lang="en">Men and women pair up with each other and set out on a thrilling adventure where they experience extreme situations and an environment to survive.</desc>
+    <credits>
+      <actor>Fernando Monezzi</actor>
+      <actor>Tais Teixeira</actor>
+      <actor>Kamilla Monteiro</actor>
+      <actor>Luis Destito</actor>
+      <actor>Aline Caravaggio</actor>
+      <actor>Itamar Charlie</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9874A6724049A1D5B6A55CD5D8CFDBFACEE8DA7EV.jpg"/>
+  </programme>
+  <programme start="20240314015700 +0530" stop="20240314025000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Gold Rush</title>
+    <desc lang="en">Teams of miners face various obstacles and overcome several challenges as they dig for gold in the lesser-known regions across Canada and the United States.</desc>
+    <credits>
+      <actor>Paul Christie</actor>
+      <actor>Dean Lennox Kelly</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D3651F1A16D375A1578A358FB00581F1FF13147X.jpg"/>
+  </programme>
+  <programme start="20240314025000 +0530" stop="20240314034000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240314034000 +0530" stop="20240314044000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Gold Rush</title>
+    <desc lang="en">Teams of miners face various obstacles and overcome several challenges as they dig for gold in the lesser-known regions across Canada and the United States.</desc>
+    <credits>
+      <actor>Paul Christie</actor>
+      <actor>Dean Lennox Kelly</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D3651F1A16D375A1578A358FB00581F1FF13147X.jpg"/>
+  </programme>
+  <programme start="20240314044000 +0530" stop="20240314053500 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Dual Survival</title>
+    <desc lang="en">Survival experts Cody Lundin and Dave Canterbury take on the planet's most unforgiving terrains and demonstrate valuable survival skills.</desc>
+    <credits>
+      <actor>Paul Christie</actor>
+      <actor>Cody Lundin</actor>
+      <actor>Dave Canterbury</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF97775DDF72C419F8552EB62E6687AB1A901A95X.jpg"/>
+  </programme>
+  <programme start="20240314053500 +0530" stop="20240314060000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Food Factory</title>
+    <desc lang="en">The hosts explore some of the largest manufacturers of consumable products and explain the intricate process involved in the production of various food items.</desc>
+    <credits>
+      <actor>Todd Schick</actor>
+      <actor>Colleen Rusholme</actor>
+      <actor>Ashley Chapman</actor>
+      <actor>Ellen Gordon</actor>
+      <actor>Nurith Jungreis</actor>
+      <actor>Ryan Martic</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B67A89AEC27635E6FCD0C60CC6B5F942F2C8CCFV.jpg"/>
+  </programme>
+  <programme start="20240314060000 +0530" stop="20240314065900 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">River Monsters</title>
+    <desc lang="en">The host, a biologist who is an extreme angler, explores freshwater mysteries and local folklore, to debunk fascinating myths and track down harrowing tales.</desc>
+    <credits>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF4E1343A99BEB4ECD1454F1AA72CFB1980772F3N.jpg"/>
+  </programme>
+  <programme start="20240314065900 +0530" stop="20240314075200 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Ed Stafford: First Man Out</title>
+    <desc lang="en">Explorer and adventurer Ed Stafford takes on various experts from around the world in a challenge to survive in extreme environments.</desc>
+    <credits>
+      <actor>Ed Stafford</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/956D36381E476DFB29B25F4F2C602784CF988E93Z.jpg"/>
+  </programme>
+  <programme start="20240314075200 +0530" stop="20240314084500 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man, Woman, Wild</title>
+    <desc lang="en">Mykel Hawke, a survival expert, and his wife Ruth, a journalist, navigate some of the world's most forbidding and remote locations with limited resources.</desc>
+    <credits>
+      <actor>Mykel Hawke</actor>
+      <actor>Ruth England</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5B43788198BBBD96E402B793298571685CF896C7G.jpg"/>
+  </programme>
+  <programme start="20240314084500 +0530" stop="20240314093800 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240314093800 +0530" stop="20240314103100 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">River Monsters</title>
+    <desc lang="en">The host, a biologist who is an extreme angler, explores freshwater mysteries and local folklore, to debunk fascinating myths and track down harrowing tales.</desc>
+    <credits>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF4E1343A99BEB4ECD1454F1AA72CFB1980772F3N.jpg"/>
+  </programme>
+  <programme start="20240314103100 +0530" stop="20240314112400 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Expedition Unknown With Josh Gates</title>
+    <desc lang="en">Josh Gates, an archaeologist, travels across the world in search of lost artefacts and investigates some of history's unsolved mysteries.</desc>
+    <credits>
+      <actor>Josh Gates</actor>
+      <actor>Evan B Stone</actor>
+      <actor>Oren Gutfeld</actor>
+      <actor>Brian C Weed</actor>
+      <actor>Richard Hansen</actor>
+      <actor>Jessica Chobot</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91C18B342949C566FDCAF8C4AB95298DD9A16D770.jpg"/>
+  </programme>
+  <programme start="20240314112400 +0530" stop="20240314121000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Expedition Unknown With Josh Gates</title>
+    <desc lang="en">Josh Gates, an archaeologist, travels across the world in search of lost artefacts and investigates some of history's unsolved mysteries.</desc>
+    <credits>
+      <actor>Josh Gates</actor>
+      <actor>Evan B Stone</actor>
+      <actor>Oren Gutfeld</actor>
+      <actor>Brian C Weed</actor>
+      <actor>Richard Hansen</actor>
+      <actor>Jessica Chobot</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91C18B342949C566FDCAF8C4AB95298DD9A16D770.jpg"/>
+  </programme>
+  <programme start="20240314121000 +0530" stop="20240314130300 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240314130300 +0530" stop="20240314135600 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Expedition Unknown: Hunt For Extraterrestrials</title>
+    <desc lang="en">The host consults experts and travels across the US to learn about the possibility of the existence of extraterrestrials on other planets.</desc>
+    <credits>
+      <actor>Josh Gates</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C2E00CC77E548C92C78DD9DF8EE078220117182J.jpg"/>
+  </programme>
+  <programme start="20240314135600 +0530" stop="20240314142300 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Food Factory</title>
+    <desc lang="en">The hosts explore some of the largest manufacturers of consumable products and explain the intricate process involved in the production of various food items.</desc>
+    <credits>
+      <actor>Todd Schick</actor>
+      <actor>Colleen Rusholme</actor>
+      <actor>Ashley Chapman</actor>
+      <actor>Ellen Gordon</actor>
+      <actor>Nurith Jungreis</actor>
+      <actor>Ryan Martic</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B67A89AEC27635E6FCD0C60CC6B5F942F2C8CCFV.jpg"/>
+  </programme>
+  <programme start="20240314142300 +0530" stop="20240314144900 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Food Factory</title>
+    <desc lang="en">The hosts explore some of the largest manufacturers of consumable products and explain the intricate process involved in the production of various food items.</desc>
+    <credits>
+      <actor>Todd Schick</actor>
+      <actor>Colleen Rusholme</actor>
+      <actor>Ashley Chapman</actor>
+      <actor>Ellen Gordon</actor>
+      <actor>Nurith Jungreis</actor>
+      <actor>Ryan Martic</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B67A89AEC27635E6FCD0C60CC6B5F942F2C8CCFV.jpg"/>
+  </programme>
+  <programme start="20240314144900 +0530" stop="20240314154200 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240314154200 +0530" stop="20240314163500 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Into The Wild With Bear Grylls And Ajay Devgn</title>
+    <desc lang="en">Bear Grylls and Ajay Devgn, an Indian actor, embark on an exciting adventurous journey and go through the ultimate survival experience.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4855933FF462472B9A577DDB185347A3E6F61535I.jpg"/>
+  </programme>
+  <programme start="20240314163500 +0530" stop="20240314172800 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Expedition Unknown With Josh Gates</title>
+    <desc lang="en">Josh Gates, an archaeologist, travels across the world in search of lost artefacts and investigates some of history's unsolved mysteries.</desc>
+    <credits>
+      <actor>Josh Gates</actor>
+      <actor>Evan B Stone</actor>
+      <actor>Oren Gutfeld</actor>
+      <actor>Brian C Weed</actor>
+      <actor>Richard Hansen</actor>
+      <actor>Jessica Chobot</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91C18B342949C566FDCAF8C4AB95298DD9A16D770.jpg"/>
+  </programme>
+  <programme start="20240314172800 +0530" stop="20240314181400 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Expedition Unknown With Josh Gates</title>
+    <desc lang="en">Josh Gates, an archaeologist, travels across the world in search of lost artefacts and investigates some of history's unsolved mysteries.</desc>
+    <credits>
+      <actor>Josh Gates</actor>
+      <actor>Evan B Stone</actor>
+      <actor>Oren Gutfeld</actor>
+      <actor>Brian C Weed</actor>
+      <actor>Richard Hansen</actor>
+      <actor>Jessica Chobot</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91C18B342949C566FDCAF8C4AB95298DD9A16D770.jpg"/>
+  </programme>
+  <programme start="20240314181400 +0530" stop="20240314190700 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240314190700 +0530" stop="20240314200000 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Unearthed</title>
+    <desc lang="en">Archaeologists examine places of historical significance and the artefacts they find inside them.</desc>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E6A23F25A72A8B0D9F54754CD857DA0EE5465BADL.jpg"/>
+  </programme>
+  <programme start="20240314200000 +0530" stop="20240314205300 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240314205300 +0530" stop="20240314214600 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Expedition Unknown With Josh Gates</title>
+    <desc lang="en">Josh Gates, an archaeologist, travels across the world in search of lost artefacts and investigates some of history's unsolved mysteries.</desc>
+    <credits>
+      <actor>Josh Gates</actor>
+      <actor>Evan B Stone</actor>
+      <actor>Oren Gutfeld</actor>
+      <actor>Brian C Weed</actor>
+      <actor>Richard Hansen</actor>
+      <actor>Jessica Chobot</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91C18B342949C566FDCAF8C4AB95298DD9A16D770.jpg"/>
+  </programme>
+  <programme start="20240314214600 +0530" stop="20240314223900 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Man vs. Wild</title>
+    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+  </programme>
+  <programme start="20240314223900 +0530" stop="20240314233200 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Naked And Afraid: Deadliest Challenges</title>
+    <desc lang="en">Several pairs of total strangers set out on a thrilling adventure where have to survive the extreme environment and dangers of the wilderness.</desc>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99C1CD3F6B29CC319D51562F8F94673D8731169DL.jpg"/>
+  </programme>
+  <programme start="20240314233200 +0530" stop="20240315001700 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Naked And Afraid XL</title>
+    <desc lang="en">A group of survivalists undertake a challenge where they have to survive in a dangerous environment for forty days with limited resources.</desc>
+    <credits>
+      <actor>Michael Brown</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0CA643F3BF33F086C7A69C7D3C57FE8A27F5758FM.jpg"/>
+  </programme>
+</tv>

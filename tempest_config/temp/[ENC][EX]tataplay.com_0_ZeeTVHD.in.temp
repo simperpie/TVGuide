@@ -1,0 +1,2469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ZeeTVHD.in">
+    <display-name lang="en">Zee TV HD</display-name>
+  </channel>
+  <programme start="20240312000000 +0530" stop="20240312002900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
+    <desc lang="en">While Amruta spots Tara, the latter informs her manager to cancel the booking.</desc>
+    <credits>
+      <actor>Sriti Jha</actor>
+      <actor>Arijit Taneja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B102B6699CF4DD5E39B80640D1F9F278509C2FDF.jpg"/>
+    <episode-num system="xmltv_ns">.101.</episode-num>
+  </programme>
+  <programme start="20240312002900 +0530" stop="20240312003000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312003000 +0530" stop="20240312005900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Monisha desperately makes a foolproof plan to cancel Purvi's honeymoon.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1ED1C2A658B7A151FFCB7226AC829050018550315.jpg"/>
+    <episode-num system="xmltv_ns">.2675.</episode-num>
+  </programme>
+  <programme start="20240312005900 +0530" stop="20240312010000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312010000 +0530" stop="20240312013000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Rakhi expresses her wish to get rid of Preeta and she must leave the Luthra mansion.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E26DF59014FE07BA56C9A88FA57715B6F3C6C5F12.jpg"/>
+    <episode-num system="xmltv_ns">.1792.</episode-num>
+  </programme>
+  <programme start="20240312013000 +0530" stop="20240312020000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Pyaar Ka Pehla Adhyaya: Shiv Shakti</title>
+    <desc lang="en">When Shakti spots Gayatri in the middle of the night, she questions the latter.</desc>
+    <credits>
+      <actor>Arjun Bijlani</actor>
+      <actor>Nikki Sharma</actor>
+      <actor>Nimisha Vakharia</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Gaurav Wadhwa</actor>
+      <actor>Ssumier Pasricha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/273AEE5DD51294D15728BA27EB988789177D8AC8W.jpg"/>
+    <episode-num system="xmltv_ns">.246.</episode-num>
+  </programme>
+  <programme start="20240312020000 +0530" stop="20240312023000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Neelam expresses her worry and Karishma suggests that she visit the village.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA632BA634920008A74C2388F3D5E05CA4D16FD58.jpg"/>
+    <episode-num system="xmltv_ns">.877.</episode-num>
+  </programme>
+  <programme start="20240312023000 +0530" stop="20240312030000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Monisha desperately makes a foolproof plan to cancel Purvi's honeymoon.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1ED1C2A658B7A151FFCB7226AC829050018550315.jpg"/>
+    <episode-num system="xmltv_ns">.2675.</episode-num>
+  </programme>
+  <programme start="20240312030000 +0530" stop="20240312033000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Rakhi expresses her wish to get rid of Preeta and she must leave the Luthra mansion.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E26DF59014FE07BA56C9A88FA57715B6F3C6C5F12.jpg"/>
+    <episode-num system="xmltv_ns">.1792.</episode-num>
+  </programme>
+  <programme start="20240312033000 +0530" stop="20240312040000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">When Gungun gets severely injured, Mohan asks the officers to take her to the hospital.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/26D7F541E3524218A3ED3FC64CB257D059504721C.jpg"/>
+    <episode-num system="xmltv_ns">.667.</episode-num>
+  </programme>
+  <programme start="20240312040000 +0530" stop="20240312043000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Pyaar Ka Pehla Adhyaya: Shiv Shakti</title>
+    <desc lang="en">When Shakti spots Gayatri in the middle of the night, she questions the latter.</desc>
+    <credits>
+      <actor>Arjun Bijlani</actor>
+      <actor>Nikki Sharma</actor>
+      <actor>Nimisha Vakharia</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Gaurav Wadhwa</actor>
+      <actor>Ssumier Pasricha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/273AEE5DD51294D15728BA27EB988789177D8AC8W.jpg"/>
+    <episode-num system="xmltv_ns">.246.</episode-num>
+  </programme>
+  <programme start="20240312043000 +0530" stop="20240312050000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Rakhi expresses her wish to get rid of Preeta and she must leave the Luthra mansion.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E26DF59014FE07BA56C9A88FA57715B6F3C6C5F12.jpg"/>
+    <episode-num system="xmltv_ns">.1792.</episode-num>
+  </programme>
+  <programme start="20240312050000 +0530" stop="20240312053000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">When Gungun gets severely injured, Mohan asks the officers to take her to the hospital.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/26D7F541E3524218A3ED3FC64CB257D059504721C.jpg"/>
+    <episode-num system="xmltv_ns">.667.</episode-num>
+  </programme>
+  <programme start="20240312053000 +0530" stop="20240312060000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Neelam expresses her worry and Karishma suggests that she visit the village.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA632BA634920008A74C2388F3D5E05CA4D16FD58.jpg"/>
+    <episode-num system="xmltv_ns">.877.</episode-num>
+  </programme>
+  <programme start="20240312060000 +0530" stop="20240312063000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Monisha desperately makes a foolproof plan to cancel Purvi's honeymoon.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1ED1C2A658B7A151FFCB7226AC829050018550315.jpg"/>
+    <episode-num system="xmltv_ns">.2675.</episode-num>
+  </programme>
+  <programme start="20240312063000 +0530" stop="20240312065900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">When Gungun gets severely injured, Mohan asks the officers to take her to the hospital.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/26D7F541E3524218A3ED3FC64CB257D059504721C.jpg"/>
+    <episode-num system="xmltv_ns">.667.</episode-num>
+  </programme>
+  <programme start="20240312065900 +0530" stop="20240312070000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312070000 +0530" stop="20240312073000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Rakhi expresses her wish to get rid of Preeta and she must leave the Luthra mansion.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E26DF59014FE07BA56C9A88FA57715B6F3C6C5F12.jpg"/>
+    <episode-num system="xmltv_ns">.1792.</episode-num>
+  </programme>
+  <programme start="20240312073000 +0530" stop="20240312075900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Rabb Se Hai Dua</title>
+    <desc lang="en">Subhaan prevents Dua from apologising to Kainaat and insists she stays in the house.</desc>
+    <credits>
+      <actor>Aditi Sharma</actor>
+      <actor>Karanvir Sharma</actor>
+      <actor>Richa Rathore</actor>
+      <actor>Sheela Sharma</actor>
+      <actor>Sandeep Rajora</actor>
+      <actor>Nishigandha Wad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45608A67B81A03FFC87C9CBFD8C72E6396B09FF1E.jpg"/>
+    <episode-num system="xmltv_ns">.418.</episode-num>
+  </programme>
+  <programme start="20240312075900 +0530" stop="20240312080000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312080000 +0530" stop="20240312083000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Neelam expresses her worry and Karishma suggests that she visit the village.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA632BA634920008A74C2388F3D5E05CA4D16FD58.jpg"/>
+    <episode-num system="xmltv_ns">.877.</episode-num>
+  </programme>
+  <programme start="20240312083000 +0530" stop="20240312085900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">When Gungun gets severely injured, Mohan asks the officers to take her to the hospital.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/26D7F541E3524218A3ED3FC64CB257D059504721C.jpg"/>
+    <episode-num system="xmltv_ns">.667.</episode-num>
+  </programme>
+  <programme start="20240312085900 +0530" stop="20240312090000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312090000 +0530" stop="20240312093000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Rakhi expresses her wish to get rid of Preeta and she must leave the Luthra mansion.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E26DF59014FE07BA56C9A88FA57715B6F3C6C5F12.jpg"/>
+    <episode-num system="xmltv_ns">.1792.</episode-num>
+  </programme>
+  <programme start="20240312093000 +0530" stop="20240312095900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Neelam expresses her worry and Karishma suggests that she visit the village.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA632BA634920008A74C2388F3D5E05CA4D16FD58.jpg"/>
+    <episode-num system="xmltv_ns">.877.</episode-num>
+  </programme>
+  <programme start="20240312095900 +0530" stop="20240312100000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312100000 +0530" stop="20240312103000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Pyaar Ka Pehla Adhyaya: Shiv Shakti</title>
+    <desc lang="en">When Shakti spots Gayatri in the middle of the night, she questions the latter.</desc>
+    <credits>
+      <actor>Arjun Bijlani</actor>
+      <actor>Nikki Sharma</actor>
+      <actor>Nimisha Vakharia</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Gaurav Wadhwa</actor>
+      <actor>Ssumier Pasricha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/273AEE5DD51294D15728BA27EB988789177D8AC8W.jpg"/>
+    <episode-num system="xmltv_ns">.246.</episode-num>
+  </programme>
+  <programme start="20240312103000 +0530" stop="20240312105900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Monisha desperately makes a foolproof plan to cancel Purvi's honeymoon.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1ED1C2A658B7A151FFCB7226AC829050018550315.jpg"/>
+    <episode-num system="xmltv_ns">.2675.</episode-num>
+  </programme>
+  <programme start="20240312105900 +0530" stop="20240312110000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312110000 +0530" stop="20240312113000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Rakhi expresses her wish to get rid of Preeta and she must leave the Luthra mansion.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E26DF59014FE07BA56C9A88FA57715B6F3C6C5F12.jpg"/>
+    <episode-num system="xmltv_ns">.1792.</episode-num>
+  </programme>
+  <programme start="20240312113000 +0530" stop="20240312115900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Neelam expresses her worry and Karishma suggests that she visit the village.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA632BA634920008A74C2388F3D5E05CA4D16FD58.jpg"/>
+    <episode-num system="xmltv_ns">.877.</episode-num>
+  </programme>
+  <programme start="20240312115900 +0530" stop="20240312120000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312120000 +0530" stop="20240312123000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
+    <desc lang="en">While Amruta spots Tara, the latter informs her manager to cancel the booking.</desc>
+    <credits>
+      <actor>Sriti Jha</actor>
+      <actor>Arijit Taneja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B102B6699CF4DD5E39B80640D1F9F278509C2FDF.jpg"/>
+    <episode-num system="xmltv_ns">.101.</episode-num>
+  </programme>
+  <programme start="20240312123000 +0530" stop="20240312125900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Monisha desperately makes a foolproof plan to cancel Purvi's honeymoon.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1ED1C2A658B7A151FFCB7226AC829050018550315.jpg"/>
+    <episode-num system="xmltv_ns">.2675.</episode-num>
+  </programme>
+  <programme start="20240312125900 +0530" stop="20240312130000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312130000 +0530" stop="20240312133000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Rakhi expresses her wish to get rid of Preeta and she must leave the Luthra mansion.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E26DF59014FE07BA56C9A88FA57715B6F3C6C5F12.jpg"/>
+    <episode-num system="xmltv_ns">.1792.</episode-num>
+  </programme>
+  <programme start="20240312133000 +0530" stop="20240312135900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Neelam expresses her worry and Karishma suggests that she visit the village.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA632BA634920008A74C2388F3D5E05CA4D16FD58.jpg"/>
+    <episode-num system="xmltv_ns">.877.</episode-num>
+  </programme>
+  <programme start="20240312135900 +0530" stop="20240312140000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312140000 +0530" stop="20240312143000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
+    <desc lang="en">While Amruta spots Tara, the latter informs her manager to cancel the booking.</desc>
+    <credits>
+      <actor>Sriti Jha</actor>
+      <actor>Arijit Taneja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B102B6699CF4DD5E39B80640D1F9F278509C2FDF.jpg"/>
+    <episode-num system="xmltv_ns">.101.</episode-num>
+  </programme>
+  <programme start="20240312143000 +0530" stop="20240312145900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Rabb Se Hai Dua</title>
+    <desc lang="en">Subhaan prevents Dua from apologising to Kainaat and insists she stays in the house.</desc>
+    <credits>
+      <actor>Aditi Sharma</actor>
+      <actor>Karanvir Sharma</actor>
+      <actor>Richa Rathore</actor>
+      <actor>Sheela Sharma</actor>
+      <actor>Sandeep Rajora</actor>
+      <actor>Nishigandha Wad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45608A67B81A03FFC87C9CBFD8C72E6396B09FF1E.jpg"/>
+    <episode-num system="xmltv_ns">.418.</episode-num>
+  </programme>
+  <programme start="20240312145900 +0530" stop="20240312150000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312150000 +0530" stop="20240312153000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Pyaar Ka Pehla Adhyaya: Shiv Shakti</title>
+    <desc lang="en">When Shakti spots Gayatri in the middle of the night, she questions the latter.</desc>
+    <credits>
+      <actor>Arjun Bijlani</actor>
+      <actor>Nikki Sharma</actor>
+      <actor>Nimisha Vakharia</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Gaurav Wadhwa</actor>
+      <actor>Ssumier Pasricha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/273AEE5DD51294D15728BA27EB988789177D8AC8W.jpg"/>
+    <episode-num system="xmltv_ns">.246.</episode-num>
+  </programme>
+  <programme start="20240312153000 +0530" stop="20240312155900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Neelam expresses her worry and Karishma suggests that she visit the village.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA632BA634920008A74C2388F3D5E05CA4D16FD58.jpg"/>
+    <episode-num system="xmltv_ns">.877.</episode-num>
+  </programme>
+  <programme start="20240312155900 +0530" stop="20240312160000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312160000 +0530" stop="20240312163000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ikk Kudi Punjab Di</title>
+    <desc lang="en">Beant insists that Heer will marry only someone she has genuine affection for.</desc>
+    <credits>
+      <actor>Avinesh Rekhi</actor>
+      <actor>Tanisha Mehta</actor>
+      <actor>Monika Khanna</actor>
+      <actor>Manish Khanna</actor>
+      <actor>Maleeka R Ghai</actor>
+      <actor>Romil Chaudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B94F7564FEDF5BECFCA38254ACB6840B01F6CDCDY.jpg"/>
+    <episode-num system="xmltv_ns">.110.</episode-num>
+  </programme>
+  <programme start="20240312163000 +0530" stop="20240312165900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">When Gungun gets severely injured, Mohan asks the officers to take her to the hospital.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/26D7F541E3524218A3ED3FC64CB257D059504721C.jpg"/>
+    <episode-num system="xmltv_ns">.667.</episode-num>
+  </programme>
+  <programme start="20240312165900 +0530" stop="20240312170000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312170000 +0530" stop="20240312173000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Rakhi expresses her wish to get rid of Preeta and she must leave the Luthra mansion.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E26DF59014FE07BA56C9A88FA57715B6F3C6C5F12.jpg"/>
+    <episode-num system="xmltv_ns">.1792.</episode-num>
+  </programme>
+  <programme start="20240312173000 +0530" stop="20240312175900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
+    <desc lang="en">While Amruta spots Tara, the latter informs her manager to cancel the booking.</desc>
+    <credits>
+      <actor>Sriti Jha</actor>
+      <actor>Arijit Taneja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B102B6699CF4DD5E39B80640D1F9F278509C2FDF.jpg"/>
+    <episode-num system="xmltv_ns">.101.</episode-num>
+  </programme>
+  <programme start="20240312175900 +0530" stop="20240312180000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312180000 +0530" stop="20240312183000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Rabb Se Hai Dua</title>
+    <desc lang="en">Subhaan prevents Dua from apologising to Kainaat and insists she stays in the house.</desc>
+    <credits>
+      <actor>Aditi Sharma</actor>
+      <actor>Karanvir Sharma</actor>
+      <actor>Richa Rathore</actor>
+      <actor>Sheela Sharma</actor>
+      <actor>Sandeep Rajora</actor>
+      <actor>Nishigandha Wad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45608A67B81A03FFC87C9CBFD8C72E6396B09FF1E.jpg"/>
+    <episode-num system="xmltv_ns">.418.</episode-num>
+  </programme>
+  <programme start="20240312183000 +0530" stop="20240312185900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kyunki Saas Maa, Bahu Beti Hoti Hai</title>
+    <desc lang="en">Kabir supports Kesar, asserting that Suraj might not even be deceased.</desc>
+    <credits>
+      <actor>Manasi Joshi Roy</actor>
+      <actor>Navika Kotia</actor>
+      <actor>Vibhuti Thakur</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E713212EF9F86BD52E86E0621218DEBB7F85082I.jpg"/>
+    <episode-num system="xmltv_ns">.182.</episode-num>
+  </programme>
+  <programme start="20240312185900 +0530" stop="20240312190000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312190000 +0530" stop="20240312193000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ikk Kudi Punjab Di</title>
+    <desc lang="en">Beant insists that Heer will marry only someone she has genuine affection for.</desc>
+    <credits>
+      <actor>Avinesh Rekhi</actor>
+      <actor>Tanisha Mehta</actor>
+      <actor>Monika Khanna</actor>
+      <actor>Manish Khanna</actor>
+      <actor>Maleeka R Ghai</actor>
+      <actor>Romil Chaudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7872E95EF56752AC659A4F0931B1EEDFEDDE19DB9.jpg"/>
+    <episode-num system="xmltv_ns">.111.</episode-num>
+  </programme>
+  <programme start="20240312193000 +0530" stop="20240312200000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Pyaar Ka Pehla Adhyaya: Shiv Shakti</title>
+    <desc lang="en">When Shakti spots Gayatri in the middle of the night, she questions the latter.</desc>
+    <credits>
+      <actor>Arjun Bijlani</actor>
+      <actor>Nikki Sharma</actor>
+      <actor>Nimisha Vakharia</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Gaurav Wadhwa</actor>
+      <actor>Ssumier Pasricha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0A590189557AE195BF99EAC60AAC5DCDE253EF8BO.jpg"/>
+    <episode-num system="xmltv_ns">.247.</episode-num>
+  </programme>
+  <programme start="20240312200000 +0530" stop="20240312203000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">When Gungun gets severely injured, Mohan asks the officers to take her to the hospital. Repeat - Mon - Sun 8:30 am.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52437C47136484E05EEBF82A12514B5C3C331ED3T.jpg"/>
+    <episode-num system="xmltv_ns">.668.</episode-num>
+  </programme>
+  <programme start="20240312203000 +0530" stop="20240312210000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Neelam expresses her worry and Karishma suggests that she visit the village. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/26CC3BF5FDBB11F991845560CA4F6C9CC98909BAO.jpg"/>
+    <episode-num system="xmltv_ns">.878.</episode-num>
+  </programme>
+  <programme start="20240312210000 +0530" stop="20240312213000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Monisha desperately makes a foolproof plan to cancel Purvi's honeymoon. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/54B02FF3543F750F1BFDEA186D803969AB6FB43D6.jpg"/>
+    <episode-num system="xmltv_ns">.2676.</episode-num>
+  </programme>
+  <programme start="20240312213000 +0530" stop="20240312220000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Rakhi expresses her wish to get rid of Preeta and she must leave the Luthra mansion. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CEA4A0BE71DCABF1746A30073A85CE215A763011H.jpg"/>
+    <episode-num system="xmltv_ns">.1793.</episode-num>
+  </programme>
+  <programme start="20240312220000 +0530" stop="20240312222900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
+    <desc lang="en">While Amruta spots Tara, the latter informs her manager to cancel the booking.</desc>
+    <credits>
+      <actor>Sriti Jha</actor>
+      <actor>Arijit Taneja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/529C3C346C3645E3E2C970EC5685FC99E38F9F4DB.jpg"/>
+    <episode-num system="xmltv_ns">.102.</episode-num>
+  </programme>
+  <programme start="20240312222900 +0530" stop="20240312223000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312223000 +0530" stop="20240312225900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Rabb Se Hai Dua</title>
+    <desc lang="en">Subhaan prevents Dua from apologising to Kainaat and insists she stays in the house. Repeat - Mon - Sun 6:00 pm.</desc>
+    <credits>
+      <actor>Aditi Sharma</actor>
+      <actor>Karanvir Sharma</actor>
+      <actor>Richa Rathore</actor>
+      <actor>Sheela Sharma</actor>
+      <actor>Sandeep Rajora</actor>
+      <actor>Nishigandha Wad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A4D2425A05E386FE7818BEB30C21966D94EF78C13.jpg"/>
+    <episode-num system="xmltv_ns">.419.</episode-num>
+  </programme>
+  <programme start="20240312225900 +0530" stop="20240312230000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312230000 +0530" stop="20240312232900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Neelam expresses her worry and Karishma suggests that she visit the village.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/26CC3BF5FDBB11F991845560CA4F6C9CC98909BAO.jpg"/>
+    <episode-num system="xmltv_ns">.878.</episode-num>
+  </programme>
+  <programme start="20240312232900 +0530" stop="20240312233000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240312233000 +0530" stop="20240312235900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">When Gungun gets severely injured, Mohan asks the officers to take her to the hospital.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52437C47136484E05EEBF82A12514B5C3C331ED3T.jpg"/>
+    <episode-num system="xmltv_ns">.668.</episode-num>
+  </programme>
+  <programme start="20240312235900 +0530" stop="20240313000000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.685.</episode-num>
+  </programme>
+  <programme start="20240313000000 +0530" stop="20240313002900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
+    <desc lang="en">Harsh confronts the police, questioning their decision to allow Virat to take Amruta. Meanwhile, the Ahuja family is anxious about Virat's whereabouts.</desc>
+    <credits>
+      <actor>Sriti Jha</actor>
+      <actor>Arijit Taneja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B7007CFC63840DB4FDC82E9E438D4BA1B5761CAH.jpg"/>
+    <episode-num system="xmltv_ns">.96.</episode-num>
+  </programme>
+  <programme start="20240313002900 +0530" stop="20240313003000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313003000 +0530" stop="20240313005900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Purvi asserts herself when Deepika tries to undermine her efforts in preparing a dessert. Later, Harleen becomes concerned upon observing Purvi's proximity to a shirtless Rajvansh. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EA535DD87C5B782BB2A38B50DA551B6E08CBF42H.jpg"/>
+    <episode-num system="xmltv_ns">.2670.</episode-num>
+  </programme>
+  <programme start="20240313005900 +0530" stop="20240313010000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313010000 +0530" stop="20240313013000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Karan formally requests the hospital to allocate a physiotherapist for Dadi's care. Meanwhile, Preeta discovers that she is tasked with treating Karan's grandmother. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D93E8380D47B2BFEC31D5657E2CD8F7FD3EFCB9N.jpg"/>
+    <episode-num system="xmltv_ns">.1787.</episode-num>
+  </programme>
+  <programme start="20240313013000 +0530" stop="20240313020000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Pyaar Ka Pehla Adhyaya: Shiv Shakti</title>
+    <desc lang="en">Shiv meets Brijkishore and tries to learn about the person responsible for his condition. Soon after, Shiv, Shakti, Manorama and Dharam are left in a state of shock by his revelation.</desc>
+    <credits>
+      <actor>Arjun Bijlani</actor>
+      <actor>Nikki Sharma</actor>
+      <actor>Nimisha Vakharia</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Gaurav Wadhwa</actor>
+      <actor>Ssumier Pasricha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF9C8893A5FC6B196E4E957BB1DEF654DF14F09F9.jpg"/>
+    <episode-num system="xmltv_ns">.241.</episode-num>
+  </programme>
+  <programme start="20240313020000 +0530" stop="20240313023000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Infuriated, Neelam implores Rishi to bring Parvati's mother to the Oberoi home. Later, Ayush and Rishi observe Parvati performing rituals. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B54E849DF66517A23F969A7B78BF4471402A281EV.jpg"/>
+    <episode-num system="xmltv_ns">.872.</episode-num>
+  </programme>
+  <programme start="20240313023000 +0530" stop="20240313030000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Purvi asserts herself when Deepika tries to undermine her efforts in preparing a dessert. Later, Harleen becomes concerned upon observing Purvi's proximity to a shirtless Rajvansh. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EA535DD87C5B782BB2A38B50DA551B6E08CBF42H.jpg"/>
+    <episode-num system="xmltv_ns">.2670.</episode-num>
+  </programme>
+  <programme start="20240313030000 +0530" stop="20240313033000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Karan formally requests the hospital to allocate a physiotherapist for Dadi's care. Meanwhile, Preeta discovers that she is tasked with treating Karan's grandmother. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D93E8380D47B2BFEC31D5657E2CD8F7FD3EFCB9N.jpg"/>
+    <episode-num system="xmltv_ns">.1787.</episode-num>
+  </programme>
+  <programme start="20240313033000 +0530" stop="20240313040000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">Mohan seeks permission from the authorities to enter the animal sanctuary. Meanwhile, Gungun is terrified to find herself before a wild animal. Repeat - Mon - Sun 8:30 am.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/42ACD8FDE795EA2A077C3B22AFBF488DEE8BA606H.jpg"/>
+    <episode-num system="xmltv_ns">.662.</episode-num>
+  </programme>
+  <programme start="20240313040000 +0530" stop="20240313043000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Pyaar Ka Pehla Adhyaya: Shiv Shakti</title>
+    <desc lang="en">Shiv meets Brijkishore and tries to learn about the person responsible for his condition. Soon after, Shiv, Shakti, Manorama and Dharam are left in a state of shock by his revelation.</desc>
+    <credits>
+      <actor>Arjun Bijlani</actor>
+      <actor>Nikki Sharma</actor>
+      <actor>Nimisha Vakharia</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Gaurav Wadhwa</actor>
+      <actor>Ssumier Pasricha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF9C8893A5FC6B196E4E957BB1DEF654DF14F09F9.jpg"/>
+    <episode-num system="xmltv_ns">.241.</episode-num>
+  </programme>
+  <programme start="20240313043000 +0530" stop="20240313050000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Karan formally requests the hospital to allocate a physiotherapist for Dadi's care. Meanwhile, Preeta discovers that she is tasked with treating Karan's grandmother. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D93E8380D47B2BFEC31D5657E2CD8F7FD3EFCB9N.jpg"/>
+    <episode-num system="xmltv_ns">.1787.</episode-num>
+  </programme>
+  <programme start="20240313050000 +0530" stop="20240313053000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">Mohan seeks permission from the authorities to enter the animal sanctuary. Meanwhile, Gungun is terrified to find herself before a wild animal. Repeat - Mon - Sun 8:30 am.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/42ACD8FDE795EA2A077C3B22AFBF488DEE8BA606H.jpg"/>
+    <episode-num system="xmltv_ns">.662.</episode-num>
+  </programme>
+  <programme start="20240313053000 +0530" stop="20240313060000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Infuriated, Neelam implores Rishi to bring Parvati's mother to the Oberoi home. Later, Ayush and Rishi observe Parvati performing rituals. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B54E849DF66517A23F969A7B78BF4471402A281EV.jpg"/>
+    <episode-num system="xmltv_ns">.872.</episode-num>
+  </programme>
+  <programme start="20240313060000 +0530" stop="20240313063000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Purvi asserts herself when Deepika tries to undermine her efforts in preparing a dessert. Later, Harleen becomes concerned upon observing Purvi's proximity to a shirtless Rajvansh. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EA535DD87C5B782BB2A38B50DA551B6E08CBF42H.jpg"/>
+    <episode-num system="xmltv_ns">.2670.</episode-num>
+  </programme>
+  <programme start="20240313063000 +0530" stop="20240313065900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">Mohan seeks permission from the authorities to enter the animal sanctuary. Meanwhile, Gungun is terrified to find herself before a wild animal. Repeat - Mon - Sun 8:30 am.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/42ACD8FDE795EA2A077C3B22AFBF488DEE8BA606H.jpg"/>
+    <episode-num system="xmltv_ns">.662.</episode-num>
+  </programme>
+  <programme start="20240313065900 +0530" stop="20240313070300 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313070300 +0530" stop="20240313073000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Karan formally requests the hospital to allocate a physiotherapist for Dadi's care. Meanwhile, Preeta discovers that she is tasked with treating Karan's grandmother. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D93E8380D47B2BFEC31D5657E2CD8F7FD3EFCB9N.jpg"/>
+    <episode-num system="xmltv_ns">.1787.</episode-num>
+  </programme>
+  <programme start="20240313073000 +0530" stop="20240313075900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Rabb Se Hai Dua</title>
+    <desc lang="en">Dua attempts to persuade Kainaat to stay, but complications arise due to Hamida. Later, Subhaan departs for home, accompanied by Ibaadat and Mannat. Repeat - Mon - Sat 6:00 pm.</desc>
+    <credits>
+      <actor>Aditi Sharma</actor>
+      <actor>Karanvir Sharma</actor>
+      <actor>Richa Rathore</actor>
+      <actor>Sheela Sharma</actor>
+      <actor>Sandeep Rajora</actor>
+      <actor>Nishigandha Wad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E802E10B94DE702B7452459258E5D504E0772C39D.jpg"/>
+    <episode-num system="xmltv_ns">.413.</episode-num>
+  </programme>
+  <programme start="20240313075900 +0530" stop="20240313080000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313080000 +0530" stop="20240313083000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Infuriated, Neelam implores Rishi to bring Parvati's mother to the Oberoi home. Later, Ayush and Rishi observe Parvati performing rituals. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B54E849DF66517A23F969A7B78BF4471402A281EV.jpg"/>
+    <episode-num system="xmltv_ns">.872.</episode-num>
+  </programme>
+  <programme start="20240313083000 +0530" stop="20240313085900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">Mohan seeks permission from the authorities to enter the animal sanctuary. Meanwhile, Gungun is terrified to find herself before a wild animal. Repeat - Mon - Sun 8:30 am.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/42ACD8FDE795EA2A077C3B22AFBF488DEE8BA606H.jpg"/>
+    <episode-num system="xmltv_ns">.662.</episode-num>
+  </programme>
+  <programme start="20240313085900 +0530" stop="20240313090000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313090000 +0530" stop="20240313093000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Karan formally requests the hospital to allocate a physiotherapist for Dadi's care. Meanwhile, Preeta discovers that she is tasked with treating Karan's grandmother. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D93E8380D47B2BFEC31D5657E2CD8F7FD3EFCB9N.jpg"/>
+    <episode-num system="xmltv_ns">.1787.</episode-num>
+  </programme>
+  <programme start="20240313093000 +0530" stop="20240313095900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Infuriated, Neelam implores Rishi to bring Parvati's mother to the Oberoi home. Later, Ayush and Rishi observe Parvati performing rituals. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B54E849DF66517A23F969A7B78BF4471402A281EV.jpg"/>
+    <episode-num system="xmltv_ns">.872.</episode-num>
+  </programme>
+  <programme start="20240313095900 +0530" stop="20240313100000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313100000 +0530" stop="20240313103000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Pyaar Ka Pehla Adhyaya: Shiv Shakti</title>
+    <desc lang="en">Shiv meets Brijkishore and tries to learn about the person responsible for his condition. Soon after, Shiv, Shakti, Manorama and Dharam are left in a state of shock by his revelation.</desc>
+    <credits>
+      <actor>Arjun Bijlani</actor>
+      <actor>Nikki Sharma</actor>
+      <actor>Nimisha Vakharia</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Gaurav Wadhwa</actor>
+      <actor>Ssumier Pasricha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF9C8893A5FC6B196E4E957BB1DEF654DF14F09F9.jpg"/>
+    <episode-num system="xmltv_ns">.241.</episode-num>
+  </programme>
+  <programme start="20240313103000 +0530" stop="20240313105900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Purvi asserts herself when Deepika tries to undermine her efforts in preparing a dessert. Later, Harleen becomes concerned upon observing Purvi's proximity to a shirtless Rajvansh. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EA535DD87C5B782BB2A38B50DA551B6E08CBF42H.jpg"/>
+    <episode-num system="xmltv_ns">.2670.</episode-num>
+  </programme>
+  <programme start="20240313105900 +0530" stop="20240313110000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313110000 +0530" stop="20240313113000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Karan formally requests the hospital to allocate a physiotherapist for Dadi's care. Meanwhile, Preeta discovers that she is tasked with treating Karan's grandmother. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D93E8380D47B2BFEC31D5657E2CD8F7FD3EFCB9N.jpg"/>
+    <episode-num system="xmltv_ns">.1787.</episode-num>
+  </programme>
+  <programme start="20240313113000 +0530" stop="20240313115900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Infuriated, Neelam implores Rishi to bring Parvati's mother to the Oberoi home. Later, Ayush and Rishi observe Parvati performing rituals. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B54E849DF66517A23F969A7B78BF4471402A281EV.jpg"/>
+    <episode-num system="xmltv_ns">.872.</episode-num>
+  </programme>
+  <programme start="20240313115900 +0530" stop="20240313120000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313120000 +0530" stop="20240313123000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
+    <desc lang="en">Harsh confronts the police, questioning their decision to allow Virat to take Amruta. Meanwhile, the Ahuja family is anxious about Virat's whereabouts.</desc>
+    <credits>
+      <actor>Sriti Jha</actor>
+      <actor>Arijit Taneja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B7007CFC63840DB4FDC82E9E438D4BA1B5761CAH.jpg"/>
+    <episode-num system="xmltv_ns">.96.</episode-num>
+  </programme>
+  <programme start="20240313123000 +0530" stop="20240313125900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Purvi asserts herself when Deepika tries to undermine her efforts in preparing a dessert. Later, Harleen becomes concerned upon observing Purvi's proximity to a shirtless Rajvansh. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EA535DD87C5B782BB2A38B50DA551B6E08CBF42H.jpg"/>
+    <episode-num system="xmltv_ns">.2670.</episode-num>
+  </programme>
+  <programme start="20240313125900 +0530" stop="20240313130000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313130000 +0530" stop="20240313133000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Karan formally requests the hospital to allocate a physiotherapist for Dadi's care. Meanwhile, Preeta discovers that she is tasked with treating Karan's grandmother. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D93E8380D47B2BFEC31D5657E2CD8F7FD3EFCB9N.jpg"/>
+    <episode-num system="xmltv_ns">.1787.</episode-num>
+  </programme>
+  <programme start="20240313133000 +0530" stop="20240313135900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Infuriated, Neelam implores Rishi to bring Parvati's mother to the Oberoi home. Later, Ayush and Rishi observe Parvati performing rituals. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B54E849DF66517A23F969A7B78BF4471402A281EV.jpg"/>
+    <episode-num system="xmltv_ns">.872.</episode-num>
+  </programme>
+  <programme start="20240313135900 +0530" stop="20240313140000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313140000 +0530" stop="20240313143000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
+    <desc lang="en">Harsh confronts the police, questioning their decision to allow Virat to take Amruta. Meanwhile, the Ahuja family is anxious about Virat's whereabouts.</desc>
+    <credits>
+      <actor>Sriti Jha</actor>
+      <actor>Arijit Taneja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B7007CFC63840DB4FDC82E9E438D4BA1B5761CAH.jpg"/>
+    <episode-num system="xmltv_ns">.96.</episode-num>
+  </programme>
+  <programme start="20240313143000 +0530" stop="20240313145900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Rabb Se Hai Dua</title>
+    <desc lang="en">Dua attempts to persuade Kainaat to stay, but complications arise due to Hamida. Later, Subhaan departs for home, accompanied by Ibaadat and Mannat. Repeat - Mon - Sat 6:00 pm.</desc>
+    <credits>
+      <actor>Aditi Sharma</actor>
+      <actor>Karanvir Sharma</actor>
+      <actor>Richa Rathore</actor>
+      <actor>Sheela Sharma</actor>
+      <actor>Sandeep Rajora</actor>
+      <actor>Nishigandha Wad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E802E10B94DE702B7452459258E5D504E0772C39D.jpg"/>
+    <episode-num system="xmltv_ns">.413.</episode-num>
+  </programme>
+  <programme start="20240313145900 +0530" stop="20240313150000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313150000 +0530" stop="20240313153000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Pyaar Ka Pehla Adhyaya: Shiv Shakti</title>
+    <desc lang="en">Shiv meets Brijkishore and tries to learn about the person responsible for his condition. Soon after, Shiv, Shakti, Manorama and Dharam are left in a state of shock by his revelation.</desc>
+    <credits>
+      <actor>Arjun Bijlani</actor>
+      <actor>Nikki Sharma</actor>
+      <actor>Nimisha Vakharia</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Gaurav Wadhwa</actor>
+      <actor>Ssumier Pasricha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF9C8893A5FC6B196E4E957BB1DEF654DF14F09F9.jpg"/>
+    <episode-num system="xmltv_ns">.241.</episode-num>
+  </programme>
+  <programme start="20240313153000 +0530" stop="20240313155900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Infuriated, Neelam implores Rishi to bring Parvati's mother to the Oberoi home. Later, Ayush and Rishi observe Parvati performing rituals. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B54E849DF66517A23F969A7B78BF4471402A281EV.jpg"/>
+    <episode-num system="xmltv_ns">.872.</episode-num>
+  </programme>
+  <programme start="20240313155900 +0530" stop="20240313160000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313160000 +0530" stop="20240313163000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ikk Kudi Punjab Di</title>
+    <desc lang="en">Beant Singh asks about Jeet's father's identity, but Jeet refuses to disclose it. Shortly after, Rajwinder walks in and implores Jeet to accompany her.</desc>
+    <credits>
+      <actor>Avinesh Rekhi</actor>
+      <actor>Tanisha Mehta</actor>
+      <actor>Monika Khanna</actor>
+      <actor>Manish Khanna</actor>
+      <actor>Maleeka R Ghai</actor>
+      <actor>Romil Chaudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7062B68293D79965DE7A500DDBC419FF2A6AD8A67.jpg"/>
+    <episode-num system="xmltv_ns">.105.</episode-num>
+  </programme>
+  <programme start="20240313163000 +0530" stop="20240313165900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">Mohan seeks permission from the authorities to enter the animal sanctuary. Meanwhile, Gungun is terrified to find herself before a wild animal. Repeat - Mon - Sun 8:30 am.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/42ACD8FDE795EA2A077C3B22AFBF488DEE8BA606H.jpg"/>
+    <episode-num system="xmltv_ns">.662.</episode-num>
+  </programme>
+  <programme start="20240313165900 +0530" stop="20240313170000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313170000 +0530" stop="20240313173000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Karan formally requests the hospital to allocate a physiotherapist for Dadi's care. Meanwhile, Preeta discovers that she is tasked with treating Karan's grandmother. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D93E8380D47B2BFEC31D5657E2CD8F7FD3EFCB9N.jpg"/>
+    <episode-num system="xmltv_ns">.1787.</episode-num>
+  </programme>
+  <programme start="20240313173000 +0530" stop="20240313175900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
+    <desc lang="en">Harsh confronts the police, questioning their decision to allow Virat to take Amruta. Meanwhile, the Ahuja family is anxious about Virat's whereabouts.</desc>
+    <credits>
+      <actor>Sriti Jha</actor>
+      <actor>Arijit Taneja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B7007CFC63840DB4FDC82E9E438D4BA1B5761CAH.jpg"/>
+    <episode-num system="xmltv_ns">.96.</episode-num>
+  </programme>
+  <programme start="20240313175900 +0530" stop="20240313180000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313180000 +0530" stop="20240313183000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Rabb Se Hai Dua</title>
+    <desc lang="en">Dua attempts to persuade Kainaat to stay, but complications arise due to Hamida. Later, Subhaan departs for home, accompanied by Ibaadat and Mannat. Repeat - Mon - Sat 6:00 pm.</desc>
+    <credits>
+      <actor>Aditi Sharma</actor>
+      <actor>Karanvir Sharma</actor>
+      <actor>Richa Rathore</actor>
+      <actor>Sheela Sharma</actor>
+      <actor>Sandeep Rajora</actor>
+      <actor>Nishigandha Wad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E802E10B94DE702B7452459258E5D504E0772C39D.jpg"/>
+    <episode-num system="xmltv_ns">.413.</episode-num>
+  </programme>
+  <programme start="20240313183000 +0530" stop="20240313185900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kyunki Saas Maa, Bahu Beti Hoti Hai</title>
+    <desc lang="en">Kabir wonders how Hetal is aware of an imprisoned Kesar's condition. Later, Ambika instructs Hetal and Kabir to abstain from discussing Kesar.</desc>
+    <credits>
+      <actor>Manasi Joshi Roy</actor>
+      <actor>Navika Kotia</actor>
+      <actor>Vibhuti Thakur</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E7E615453C75EE6D9B18172FEBB867BD8A04E1A1.jpg"/>
+    <episode-num system="xmltv_ns">.177.</episode-num>
+  </programme>
+  <programme start="20240313185900 +0530" stop="20240313190000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313190000 +0530" stop="20240313193000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ikk Kudi Punjab Di</title>
+    <desc lang="en">The police come to the conclusion that Jarnail may have managed to escape. Meanwhile, Rajwinder directs Heer to devise a plan to save Jarnail.</desc>
+    <credits>
+      <actor>Avinesh Rekhi</actor>
+      <actor>Tanisha Mehta</actor>
+      <actor>Monika Khanna</actor>
+      <actor>Manish Khanna</actor>
+      <actor>Maleeka R Ghai</actor>
+      <actor>Romil Chaudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A13C01E63F5DBA0D794CBD568A189426BCA33FC9.jpg"/>
+    <episode-num system="xmltv_ns">.106.</episode-num>
+  </programme>
+  <programme start="20240313193000 +0530" stop="20240313200000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Pyaar Ka Pehla Adhyaya: Shiv Shakti</title>
+    <desc lang="en">Shiv and Shakti come back to the Kashyap residence and slap Keertan. Later, Shiv informs the family that Keertan's medical degree is fraudulent.</desc>
+    <credits>
+      <actor>Arjun Bijlani</actor>
+      <actor>Nikki Sharma</actor>
+      <actor>Nimisha Vakharia</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Gaurav Wadhwa</actor>
+      <actor>Ssumier Pasricha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C60F0E5D7937CF3141913967DE5611454D4AF921P.jpg"/>
+    <episode-num system="xmltv_ns">.242.</episode-num>
+  </programme>
+  <programme start="20240313200000 +0530" stop="20240313203000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">Damini deceitfully leads Gungun into danger at the wildlife sanctuary, pretending to show her the washroom. Meanwhile, Radha instinctively senses that Gungun is in distress. Repeat - Mon - Sun 8:30 am.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6867C9F735BC4DAD83E75765BB56E33EAE30488X.jpg"/>
+    <episode-num system="xmltv_ns">.663.</episode-num>
+  </programme>
+  <programme start="20240313203000 +0530" stop="20240313210000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Ayusha and Rishi observe from a distance as Parvati performs rituals. Meanwhile, Rohan informs Lakshmi that his family has expressed a desire to have a conversation with her. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1C438312555810708F78C382EB0CB12A8C0FF6FU.jpg"/>
+    <episode-num system="xmltv_ns">.873.</episode-num>
+  </programme>
+  <programme start="20240313210000 +0530" stop="20240313213200 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Monisha questions Purvi for her decision to give laddoo to Dadaji, who is diabetic. Later, Dadaji encourages Purvi to go on a honeymoon with Rajvansh. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91ED8B69F58E5CED9C6512FF3C833AD037B4ABB3T.jpg"/>
+    <episode-num system="xmltv_ns">.2671.</episode-num>
+  </programme>
+  <programme start="20240313213200 +0530" stop="20240313220300 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Palki expresses her disappointment and states that Rajveer should end their relationship. Later, the Luthras gather to partake in the Mahashivratri pooja. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97C779F666AE52411A908DDB5710FD9FB6CD6F0AO.jpg"/>
+    <episode-num system="xmltv_ns">.1788.</episode-num>
+  </programme>
+  <programme start="20240313220300 +0530" stop="20240313222900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
+    <desc lang="en">Virat, after numerous efforts, successfully brings Amruta to the hospital. There, medical professionals promptly attend to her.</desc>
+    <credits>
+      <actor>Sriti Jha</actor>
+      <actor>Arijit Taneja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FC06CC7F01C218688C4FD4D1729D36FB96A61C00L.jpg"/>
+    <episode-num system="xmltv_ns">.97.</episode-num>
+  </programme>
+  <programme start="20240313222900 +0530" stop="20240313223200 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313223200 +0530" stop="20240313225900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Rabb Se Hai Dua</title>
+    <desc lang="en">On the occasion of Ibaadat and Mannat's birthday, Subhaan decides to confess his feelings. Later, Ibaadat is taken aback as Subhaan places a ring on Mannat's finger. Repeat - Mon - Sat 6:00 pm.</desc>
+    <credits>
+      <actor>Aditi Sharma</actor>
+      <actor>Karanvir Sharma</actor>
+      <actor>Richa Rathore</actor>
+      <actor>Sheela Sharma</actor>
+      <actor>Sandeep Rajora</actor>
+      <actor>Nishigandha Wad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7708E2AE19FCDBDC7F3FA0F0BCBB47D63D84341S.jpg"/>
+    <episode-num system="xmltv_ns">.414.</episode-num>
+  </programme>
+  <programme start="20240313225900 +0530" stop="20240313230200 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313230200 +0530" stop="20240313232900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Ayusha and Rishi observe from a distance as Parvati performs rituals. Meanwhile, Rohan informs Lakshmi that his family has expressed a desire to have a conversation with her. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1C438312555810708F78C382EB0CB12A8C0FF6FU.jpg"/>
+    <episode-num system="xmltv_ns">.873.</episode-num>
+  </programme>
+  <programme start="20240313232900 +0530" stop="20240313233000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240313233000 +0530" stop="20240313235900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">Damini deceitfully leads Gungun into danger at the wildlife sanctuary, pretending to show her the washroom. Meanwhile, Radha instinctively senses that Gungun is in distress. Repeat - Mon - Sun 8:30 am.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6867C9F735BC4DAD83E75765BB56E33EAE30488X.jpg"/>
+    <episode-num system="xmltv_ns">.663.</episode-num>
+  </programme>
+  <programme start="20240313235900 +0530" stop="20240314000000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.686.</episode-num>
+  </programme>
+  <programme start="20240314000000 +0530" stop="20240314002900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
+    <desc lang="en">Virat, after numerous efforts, successfully brings Amruta to the hospital. There, medical professionals promptly attend to her.</desc>
+    <credits>
+      <actor>Sriti Jha</actor>
+      <actor>Arijit Taneja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FC06CC7F01C218688C4FD4D1729D36FB96A61C00L.jpg"/>
+    <episode-num system="xmltv_ns">.97.</episode-num>
+  </programme>
+  <programme start="20240314002900 +0530" stop="20240314003000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314003000 +0530" stop="20240314005900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Monisha questions Purvi for her decision to give laddoo to Dadaji, who is diabetic. Later, Dadaji encourages Purvi to go on a honeymoon with Rajvansh. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91ED8B69F58E5CED9C6512FF3C833AD037B4ABB3T.jpg"/>
+    <episode-num system="xmltv_ns">.2671.</episode-num>
+  </programme>
+  <programme start="20240314005900 +0530" stop="20240314010000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314010000 +0530" stop="20240314013000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Palki expresses her disappointment and states that Rajveer should end their relationship. Later, the Luthras gather to partake in the Mahashivratri pooja. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97C779F666AE52411A908DDB5710FD9FB6CD6F0AO.jpg"/>
+    <episode-num system="xmltv_ns">.1788.</episode-num>
+  </programme>
+  <programme start="20240314013000 +0530" stop="20240314020000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Pyaar Ka Pehla Adhyaya: Shiv Shakti</title>
+    <desc lang="en">Shiv and Shakti come back to the Kashyap residence and slap Keertan. Later, Shiv informs the family that Keertan's medical degree is fraudulent.</desc>
+    <credits>
+      <actor>Arjun Bijlani</actor>
+      <actor>Nikki Sharma</actor>
+      <actor>Nimisha Vakharia</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Gaurav Wadhwa</actor>
+      <actor>Ssumier Pasricha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C60F0E5D7937CF3141913967DE5611454D4AF921P.jpg"/>
+    <episode-num system="xmltv_ns">.242.</episode-num>
+  </programme>
+  <programme start="20240314020000 +0530" stop="20240314023000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Ayusha and Rishi observe from a distance as Parvati performs rituals. Meanwhile, Rohan informs Lakshmi that his family has expressed a desire to have a conversation with her. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1C438312555810708F78C382EB0CB12A8C0FF6FU.jpg"/>
+    <episode-num system="xmltv_ns">.873.</episode-num>
+  </programme>
+  <programme start="20240314023000 +0530" stop="20240314030000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Monisha questions Purvi for her decision to give laddoo to Dadaji, who is diabetic. Later, Dadaji encourages Purvi to go on a honeymoon with Rajvansh. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91ED8B69F58E5CED9C6512FF3C833AD037B4ABB3T.jpg"/>
+    <episode-num system="xmltv_ns">.2671.</episode-num>
+  </programme>
+  <programme start="20240314030000 +0530" stop="20240314033000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Palki expresses her disappointment and states that Rajveer should end their relationship. Later, the Luthras gather to partake in the Mahashivratri pooja. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97C779F666AE52411A908DDB5710FD9FB6CD6F0AO.jpg"/>
+    <episode-num system="xmltv_ns">.1788.</episode-num>
+  </programme>
+  <programme start="20240314033000 +0530" stop="20240314040000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">Damini deceitfully leads Gungun into danger at the wildlife sanctuary, pretending to show her the washroom. Meanwhile, Radha instinctively senses that Gungun is in distress. Repeat - Mon - Sun 8:30 am.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6867C9F735BC4DAD83E75765BB56E33EAE30488X.jpg"/>
+    <episode-num system="xmltv_ns">.663.</episode-num>
+  </programme>
+  <programme start="20240314040000 +0530" stop="20240314043000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Pyaar Ka Pehla Adhyaya: Shiv Shakti</title>
+    <desc lang="en">Shiv and Shakti come back to the Kashyap residence and slap Keertan. Later, Shiv informs the family that Keertan's medical degree is fraudulent.</desc>
+    <credits>
+      <actor>Arjun Bijlani</actor>
+      <actor>Nikki Sharma</actor>
+      <actor>Nimisha Vakharia</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Gaurav Wadhwa</actor>
+      <actor>Ssumier Pasricha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C60F0E5D7937CF3141913967DE5611454D4AF921P.jpg"/>
+    <episode-num system="xmltv_ns">.242.</episode-num>
+  </programme>
+  <programme start="20240314043000 +0530" stop="20240314050000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Palki expresses her disappointment and states that Rajveer should end their relationship. Later, the Luthras gather to partake in the Mahashivratri pooja. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97C779F666AE52411A908DDB5710FD9FB6CD6F0AO.jpg"/>
+    <episode-num system="xmltv_ns">.1788.</episode-num>
+  </programme>
+  <programme start="20240314050000 +0530" stop="20240314053000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">Damini deceitfully leads Gungun into danger at the wildlife sanctuary, pretending to show her the washroom. Meanwhile, Radha instinctively senses that Gungun is in distress. Repeat - Mon - Sun 8:30 am.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6867C9F735BC4DAD83E75765BB56E33EAE30488X.jpg"/>
+    <episode-num system="xmltv_ns">.663.</episode-num>
+  </programme>
+  <programme start="20240314053000 +0530" stop="20240314060000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Ayusha and Rishi observe from a distance as Parvati performs rituals. Meanwhile, Rohan informs Lakshmi that his family has expressed a desire to have a conversation with her. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1C438312555810708F78C382EB0CB12A8C0FF6FU.jpg"/>
+    <episode-num system="xmltv_ns">.873.</episode-num>
+  </programme>
+  <programme start="20240314060000 +0530" stop="20240314063000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Monisha questions Purvi for her decision to give laddoo to Dadaji, who is diabetic. Later, Dadaji encourages Purvi to go on a honeymoon with Rajvansh. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91ED8B69F58E5CED9C6512FF3C833AD037B4ABB3T.jpg"/>
+    <episode-num system="xmltv_ns">.2671.</episode-num>
+  </programme>
+  <programme start="20240314063000 +0530" stop="20240314065900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">Damini deceitfully leads Gungun into danger at the wildlife sanctuary, pretending to show her the washroom. Meanwhile, Radha instinctively senses that Gungun is in distress. Repeat - Mon - Sun 8:30 am.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6867C9F735BC4DAD83E75765BB56E33EAE30488X.jpg"/>
+    <episode-num system="xmltv_ns">.663.</episode-num>
+  </programme>
+  <programme start="20240314065900 +0530" stop="20240314070000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314070000 +0530" stop="20240314073000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Palki expresses her disappointment and states that Rajveer should end their relationship. Later, the Luthras gather to partake in the Mahashivratri pooja. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97C779F666AE52411A908DDB5710FD9FB6CD6F0AO.jpg"/>
+    <episode-num system="xmltv_ns">.1788.</episode-num>
+  </programme>
+  <programme start="20240314073000 +0530" stop="20240314075900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Rabb Se Hai Dua</title>
+    <desc lang="en">On the occasion of Ibaadat and Mannat's birthday, Subhaan decides to confess his feelings. Later, Ibaadat is taken aback as Subhaan places a ring on Mannat's finger. Repeat - Mon - Sat 6:00 pm.</desc>
+    <credits>
+      <actor>Aditi Sharma</actor>
+      <actor>Karanvir Sharma</actor>
+      <actor>Richa Rathore</actor>
+      <actor>Sheela Sharma</actor>
+      <actor>Sandeep Rajora</actor>
+      <actor>Nishigandha Wad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7708E2AE19FCDBDC7F3FA0F0BCBB47D63D84341S.jpg"/>
+    <episode-num system="xmltv_ns">.414.</episode-num>
+  </programme>
+  <programme start="20240314075900 +0530" stop="20240314080000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314080000 +0530" stop="20240314083000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Ayusha and Rishi observe from a distance as Parvati performs rituals. Meanwhile, Rohan informs Lakshmi that his family has expressed a desire to have a conversation with her. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1C438312555810708F78C382EB0CB12A8C0FF6FU.jpg"/>
+    <episode-num system="xmltv_ns">.873.</episode-num>
+  </programme>
+  <programme start="20240314083000 +0530" stop="20240314085900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">Damini deceitfully leads Gungun into danger at the wildlife sanctuary, pretending to show her the washroom. Meanwhile, Radha instinctively senses that Gungun is in distress. Repeat - Mon - Sun 8:30 am.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6867C9F735BC4DAD83E75765BB56E33EAE30488X.jpg"/>
+    <episode-num system="xmltv_ns">.663.</episode-num>
+  </programme>
+  <programme start="20240314085900 +0530" stop="20240314090000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314090000 +0530" stop="20240314093000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Palki expresses her disappointment and states that Rajveer should end their relationship. Later, the Luthras gather to partake in the Mahashivratri pooja. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97C779F666AE52411A908DDB5710FD9FB6CD6F0AO.jpg"/>
+    <episode-num system="xmltv_ns">.1788.</episode-num>
+  </programme>
+  <programme start="20240314093000 +0530" stop="20240314095900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Ayusha and Rishi observe from a distance as Parvati performs rituals. Meanwhile, Rohan informs Lakshmi that his family has expressed a desire to have a conversation with her. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1C438312555810708F78C382EB0CB12A8C0FF6FU.jpg"/>
+    <episode-num system="xmltv_ns">.873.</episode-num>
+  </programme>
+  <programme start="20240314095900 +0530" stop="20240314100000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314100000 +0530" stop="20240314103000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Pyaar Ka Pehla Adhyaya: Shiv Shakti</title>
+    <desc lang="en">Shiv and Shakti come back to the Kashyap residence and slap Keertan. Later, Shiv informs the family that Keertan's medical degree is fraudulent.</desc>
+    <credits>
+      <actor>Arjun Bijlani</actor>
+      <actor>Nikki Sharma</actor>
+      <actor>Nimisha Vakharia</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Gaurav Wadhwa</actor>
+      <actor>Ssumier Pasricha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C60F0E5D7937CF3141913967DE5611454D4AF921P.jpg"/>
+    <episode-num system="xmltv_ns">.242.</episode-num>
+  </programme>
+  <programme start="20240314103000 +0530" stop="20240314105900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Monisha questions Purvi for her decision to give laddoo to Dadaji, who is diabetic. Later, Dadaji encourages Purvi to go on a honeymoon with Rajvansh. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91ED8B69F58E5CED9C6512FF3C833AD037B4ABB3T.jpg"/>
+    <episode-num system="xmltv_ns">.2671.</episode-num>
+  </programme>
+  <programme start="20240314105900 +0530" stop="20240314110000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314110000 +0530" stop="20240314113000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Palki expresses her disappointment and states that Rajveer should end their relationship. Later, the Luthras gather to partake in the Mahashivratri pooja. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97C779F666AE52411A908DDB5710FD9FB6CD6F0AO.jpg"/>
+    <episode-num system="xmltv_ns">.1788.</episode-num>
+  </programme>
+  <programme start="20240314113000 +0530" stop="20240314115900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Ayusha and Rishi observe from a distance as Parvati performs rituals. Meanwhile, Rohan informs Lakshmi that his family has expressed a desire to have a conversation with her. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1C438312555810708F78C382EB0CB12A8C0FF6FU.jpg"/>
+    <episode-num system="xmltv_ns">.873.</episode-num>
+  </programme>
+  <programme start="20240314115900 +0530" stop="20240314120000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314120000 +0530" stop="20240314123000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
+    <desc lang="en">Virat, after numerous efforts, successfully brings Amruta to the hospital. There, medical professionals promptly attend to her.</desc>
+    <credits>
+      <actor>Sriti Jha</actor>
+      <actor>Arijit Taneja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FC06CC7F01C218688C4FD4D1729D36FB96A61C00L.jpg"/>
+    <episode-num system="xmltv_ns">.97.</episode-num>
+  </programme>
+  <programme start="20240314123000 +0530" stop="20240314125900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Monisha questions Purvi for her decision to give laddoo to Dadaji, who is diabetic. Later, Dadaji encourages Purvi to go on a honeymoon with Rajvansh. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91ED8B69F58E5CED9C6512FF3C833AD037B4ABB3T.jpg"/>
+    <episode-num system="xmltv_ns">.2671.</episode-num>
+  </programme>
+  <programme start="20240314125900 +0530" stop="20240314130000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314130000 +0530" stop="20240314133000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Palki expresses her disappointment and states that Rajveer should end their relationship. Later, the Luthras gather to partake in the Mahashivratri pooja. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97C779F666AE52411A908DDB5710FD9FB6CD6F0AO.jpg"/>
+    <episode-num system="xmltv_ns">.1788.</episode-num>
+  </programme>
+  <programme start="20240314133000 +0530" stop="20240314135900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Ayusha and Rishi observe from a distance as Parvati performs rituals. Meanwhile, Rohan informs Lakshmi that his family has expressed a desire to have a conversation with her. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1C438312555810708F78C382EB0CB12A8C0FF6FU.jpg"/>
+    <episode-num system="xmltv_ns">.873.</episode-num>
+  </programme>
+  <programme start="20240314135900 +0530" stop="20240314140000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314140000 +0530" stop="20240314143000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
+    <desc lang="en">Virat, after numerous efforts, successfully brings Amruta to the hospital. There, medical professionals promptly attend to her.</desc>
+    <credits>
+      <actor>Sriti Jha</actor>
+      <actor>Arijit Taneja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FC06CC7F01C218688C4FD4D1729D36FB96A61C00L.jpg"/>
+    <episode-num system="xmltv_ns">.97.</episode-num>
+  </programme>
+  <programme start="20240314143000 +0530" stop="20240314145900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Rabb Se Hai Dua</title>
+    <desc lang="en">On the occasion of Ibaadat and Mannat's birthday, Subhaan decides to confess his feelings. Later, Ibaadat is taken aback as Subhaan places a ring on Mannat's finger. Repeat - Mon - Sat 6:00 pm.</desc>
+    <credits>
+      <actor>Aditi Sharma</actor>
+      <actor>Karanvir Sharma</actor>
+      <actor>Richa Rathore</actor>
+      <actor>Sheela Sharma</actor>
+      <actor>Sandeep Rajora</actor>
+      <actor>Nishigandha Wad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7708E2AE19FCDBDC7F3FA0F0BCBB47D63D84341S.jpg"/>
+    <episode-num system="xmltv_ns">.414.</episode-num>
+  </programme>
+  <programme start="20240314145900 +0530" stop="20240314150000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314150000 +0530" stop="20240314153000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Pyaar Ka Pehla Adhyaya: Shiv Shakti</title>
+    <desc lang="en">Shiv and Shakti come back to the Kashyap residence and slap Keertan. Later, Shiv informs the family that Keertan's medical degree is fraudulent.</desc>
+    <credits>
+      <actor>Arjun Bijlani</actor>
+      <actor>Nikki Sharma</actor>
+      <actor>Nimisha Vakharia</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Gaurav Wadhwa</actor>
+      <actor>Ssumier Pasricha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C60F0E5D7937CF3141913967DE5611454D4AF921P.jpg"/>
+    <episode-num system="xmltv_ns">.242.</episode-num>
+  </programme>
+  <programme start="20240314153000 +0530" stop="20240314155900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Ayusha and Rishi observe from a distance as Parvati performs rituals. Meanwhile, Rohan informs Lakshmi that his family has expressed a desire to have a conversation with her. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1C438312555810708F78C382EB0CB12A8C0FF6FU.jpg"/>
+    <episode-num system="xmltv_ns">.873.</episode-num>
+  </programme>
+  <programme start="20240314155900 +0530" stop="20240314160000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314160000 +0530" stop="20240314163000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ikk Kudi Punjab Di</title>
+    <desc lang="en">The police come to the conclusion that Jarnail may have managed to escape. Meanwhile, Rajwinder directs Heer to devise a plan to save Jarnail.</desc>
+    <credits>
+      <actor>Avinesh Rekhi</actor>
+      <actor>Tanisha Mehta</actor>
+      <actor>Monika Khanna</actor>
+      <actor>Manish Khanna</actor>
+      <actor>Maleeka R Ghai</actor>
+      <actor>Romil Chaudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A13C01E63F5DBA0D794CBD568A189426BCA33FC9.jpg"/>
+    <episode-num system="xmltv_ns">.106.</episode-num>
+  </programme>
+  <programme start="20240314163000 +0530" stop="20240314165900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">Damini deceitfully leads Gungun into danger at the wildlife sanctuary, pretending to show her the washroom. Meanwhile, Radha instinctively senses that Gungun is in distress. Repeat - Mon - Sun 8:30 am.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6867C9F735BC4DAD83E75765BB56E33EAE30488X.jpg"/>
+    <episode-num system="xmltv_ns">.663.</episode-num>
+  </programme>
+  <programme start="20240314165900 +0530" stop="20240314170000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314170000 +0530" stop="20240314173000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Palki expresses her disappointment and states that Rajveer should end their relationship. Later, the Luthras gather to partake in the Mahashivratri pooja. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97C779F666AE52411A908DDB5710FD9FB6CD6F0AO.jpg"/>
+    <episode-num system="xmltv_ns">.1788.</episode-num>
+  </programme>
+  <programme start="20240314173000 +0530" stop="20240314175900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
+    <desc lang="en">Virat, after numerous efforts, successfully brings Amruta to the hospital. There, medical professionals promptly attend to her.</desc>
+    <credits>
+      <actor>Sriti Jha</actor>
+      <actor>Arijit Taneja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FC06CC7F01C218688C4FD4D1729D36FB96A61C00L.jpg"/>
+    <episode-num system="xmltv_ns">.97.</episode-num>
+  </programme>
+  <programme start="20240314175900 +0530" stop="20240314180000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314180000 +0530" stop="20240314183000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Rabb Se Hai Dua</title>
+    <desc lang="en">On the occasion of Ibaadat and Mannat's birthday, Subhaan decides to confess his feelings. Later, Ibaadat is taken aback as Subhaan places a ring on Mannat's finger. Repeat - Mon - Sat 6:00 pm.</desc>
+    <credits>
+      <actor>Aditi Sharma</actor>
+      <actor>Karanvir Sharma</actor>
+      <actor>Richa Rathore</actor>
+      <actor>Sheela Sharma</actor>
+      <actor>Sandeep Rajora</actor>
+      <actor>Nishigandha Wad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7708E2AE19FCDBDC7F3FA0F0BCBB47D63D84341S.jpg"/>
+    <episode-num system="xmltv_ns">.414.</episode-num>
+  </programme>
+  <programme start="20240314183000 +0530" stop="20240314185900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kyunki Saas Maa, Bahu Beti Hoti Hai</title>
+    <desc lang="en">Kabir discloses to Kesar that he was the one who left her at the police station. Later, the court decides to acquit Kesar.</desc>
+    <credits>
+      <actor>Manasi Joshi Roy</actor>
+      <actor>Navika Kotia</actor>
+      <actor>Vibhuti Thakur</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/84A4C6DF3BA2D27C48440F870CD506972104F97DP.jpg"/>
+    <episode-num system="xmltv_ns">.178.</episode-num>
+  </programme>
+  <programme start="20240314185900 +0530" stop="20240314190000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314190000 +0530" stop="20240314193000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ikk Kudi Punjab Di</title>
+    <desc lang="en">A weeping Rajwinder informs Teji that Jarnail might in fact be dead. Later, Heer holds herself responsible for the Atwal family's predicament.</desc>
+    <credits>
+      <actor>Avinesh Rekhi</actor>
+      <actor>Tanisha Mehta</actor>
+      <actor>Monika Khanna</actor>
+      <actor>Manish Khanna</actor>
+      <actor>Maleeka R Ghai</actor>
+      <actor>Romil Chaudhary</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F8745FE7BC3718ACD55DCC66B9A9F00DB407AF4Z.jpg"/>
+    <episode-num system="xmltv_ns">.107.</episode-num>
+  </programme>
+  <programme start="20240314193000 +0530" stop="20240314200000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Pyaar Ka Pehla Adhyaya: Shiv Shakti</title>
+    <desc lang="en">Shiv declares that Mandira will face suspension from her position until the truth behind Keertan's forged degree is uncovered.</desc>
+    <credits>
+      <actor>Arjun Bijlani</actor>
+      <actor>Nikki Sharma</actor>
+      <actor>Nimisha Vakharia</actor>
+      <actor>Parineeta Borthakur</actor>
+      <actor>Gaurav Wadhwa</actor>
+      <actor>Ssumier Pasricha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9274FFB3FDDD1F6DE3F9EF2F8600727BBCAAE2EAG.jpg"/>
+    <episode-num system="xmltv_ns">.243.</episode-num>
+  </programme>
+  <programme start="20240314200000 +0530" stop="20240314203000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">Gungun is terrified to find herself in the company of a wild creature. Radha, who hides behind a tree, tries to save Gungun's life. Repeat - Mon - Sun 8:30 am.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/785BA789BD2FACCDE280070FFEA81745AE68745FN.jpg"/>
+    <episode-num system="xmltv_ns">.664.</episode-num>
+  </programme>
+  <programme start="20240314203000 +0530" stop="20240314210000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Rohan chooses to disclose the truth about his injury to Rishi. Later, a concerned Rishi confides in Ayush about Parvati's predicament. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4AC3EB218374B5F56460B12B674AEF8EFD95ABEBG.jpg"/>
+    <episode-num system="xmltv_ns">.874.</episode-num>
+  </programme>
+  <programme start="20240314210000 +0530" stop="20240314213000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kumkum Bhagya</title>
+    <desc lang="en">Monisha insists that Rajvansh should tell his family that he has no feelings for Purvi. However, Rajvansh informs Monisha that he is going on his honeymoon with Purvi. Repeat - Mon - Sun 10:30 am.</desc>
+    <credits>
+      <actor>Shabbir Ahluwalia</actor>
+      <actor>Sriti Jha</actor>
+      <actor>Mugdha Chaphekar</actor>
+      <actor>Krishna Kaul</actor>
+      <actor>Naina Singh</actor>
+      <actor>Shikha Singh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04774618E805766E95A2F3DFFBF34EBA6A9FC672C.jpg"/>
+    <episode-num system="xmltv_ns">.2672.</episode-num>
+  </programme>
+  <programme start="20240314213000 +0530" stop="20240314220000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kundali Bhagya</title>
+    <desc lang="en">Karan notifies the Luthra family that Preeta has lost her memory. Meanwhile, Rajveer is resolute on destroying Karan's life. Repeat - Mon - Sun 1:00 pm.</desc>
+    <credits>
+      <actor>Shraddha Arya</actor>
+      <actor>Dheeraj Dhoopar</actor>
+      <actor>Manit Joura</actor>
+      <actor>Anjum Fakih</actor>
+      <actor>Abhishek Kapur</actor>
+      <actor>Sanjay Gagnani</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8144EBD7C68AF6B71B5B28A8455C061B103519B96.jpg"/>
+    <episode-num system="xmltv_ns">.1789.</episode-num>
+  </programme>
+  <programme start="20240314220000 +0530" stop="20240314222900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Kaise Mujhe Tum Mil Gaye</title>
+    <desc lang="en">Bhavani bestows her blessings upon Amruta as she sets out on a significant endeavour. Later, Amruta is taken aback to find Virat at her doorstep.</desc>
+    <credits>
+      <actor>Sriti Jha</actor>
+      <actor>Arijit Taneja</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B6138529362C3D77E693FCED2F9F7B9ABC86B9EAN.jpg"/>
+    <episode-num system="xmltv_ns">.98.</episode-num>
+  </programme>
+  <programme start="20240314222900 +0530" stop="20240314223000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314223000 +0530" stop="20240314225900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Rabb Se Hai Dua</title>
+    <desc lang="en">Subhaan prevents Dua from apologising to Kainaat and insists she stays in the house. Meanwhile, Ibaadat is determined to uncover the secret linked to her. Repeat - Mon - Sat 6:00 pm.</desc>
+    <credits>
+      <actor>Aditi Sharma</actor>
+      <actor>Karanvir Sharma</actor>
+      <actor>Richa Rathore</actor>
+      <actor>Sheela Sharma</actor>
+      <actor>Sandeep Rajora</actor>
+      <actor>Nishigandha Wad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/50ED0ACE360FD5D6406B2350D99770714DAF61B7U.jpg"/>
+    <episode-num system="xmltv_ns">.415.</episode-num>
+  </programme>
+  <programme start="20240314225900 +0530" stop="20240314230000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314230000 +0530" stop="20240314232900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Bhagya Laxmi</title>
+    <desc lang="en">Rohan chooses to disclose the truth about his injury to Rishi. Later, a concerned Rishi confides in Ayush about Parvati's predicament. Repeat - Mon - Sun 1:30 pm.</desc>
+    <credits>
+      <actor>Rohit Suchanti</actor>
+      <actor>Aishwarya Khare</actor>
+      <actor>Mansi Bhanushali</actor>
+      <actor>Munira Kudrati</actor>
+      <actor>Tunisha Sharma</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4AC3EB218374B5F56460B12B674AEF8EFD95ABEBG.jpg"/>
+    <episode-num system="xmltv_ns">.874.</episode-num>
+  </programme>
+  <programme start="20240314232900 +0530" stop="20240314233000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+  <programme start="20240314233000 +0530" stop="20240314235900 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Radha Mohan</title>
+    <desc lang="en">Gungun is terrified to find herself in the company of a wild creature. Radha, who hides behind a tree, tries to save Gungun's life. Repeat - Mon - Sun 8:30 am.</desc>
+    <credits>
+      <actor>Shabir Ahluwalia</actor>
+      <actor>Niharika Roy</actor>
+      <actor>Reeza Choudhary</actor>
+      <actor>Kirti Nagpure</actor>
+      <actor>Manisha Purohit</actor>
+      <actor>Swati Shah</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/785BA789BD2FACCDE280070FFEA81745AE68745FN.jpg"/>
+    <episode-num system="xmltv_ns">.664.</episode-num>
+  </programme>
+  <programme start="20240314235900 +0530" stop="20240315000000 +0530" channel="ZeeTVHD.in">
+    <title lang="en">Ek Nazar</title>
+    <desc lang="en">A comprehensive compilation of the trailers of upcoming movies and music videos featuring talented actors and musicians. Repeat - Mon - Sun 8:59 am.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF8E6827864F74988CBDD940CE08E8265A1D3A0DW.jpg"/>
+    <episode-num system="xmltv_ns">.687.</episode-num>
+  </programme>
+</tv>
