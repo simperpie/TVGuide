@@ -4,341 +4,6 @@
     <display-name lang="en">TNT Sports 1</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb3661.png"/>
   </channel>
-  <programme start="20240312033000 +0530" stop="20240312043000 +0530" channel="TNTSports1.uk">
-    <title lang="en">WWE Raw Highlights</title>
-    <desc lang="en">The best action from Monday's Raw at the Frost Bank Center in San Antonio, Texas. Cody Rhodes and Seth Rollins address The Rock's WrestleMania 40 challenge.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://images.metadata.sky.com/pd-image/48c70b71-58d4-3dfb-9538-ea4597af0986/16-9"/>
-    <episode-num system="xmltv_ns">31.9.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312043000 +0530" stop="20240312053000 +0530" channel="TNTSports1.uk">
-    <title lang="en">WWE SmackDown Highlights</title>
-    <desc lang="en">Cody Rhodes and Seth Rollins answer The Rock's challenge for WrestleMania 40. Logan Paul returns to SmackDown, and Tiffany Stratton faces Michin.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d65c6517-b070-375f-84b9-04cdc65af647/16-9"/>
-    <episode-num system="xmltv_ns">25.9.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312053000 +0530" stop="20240312084500 +0530" channel="TNTSports1.uk">
-    <title lang="en">Live: WWE Monday Night Raw</title>
-    <desc lang="en">Watch CM Punk, Drew McIntyre, Seth Rollins, Rhea Ripley, Cody Rhodes and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://images.metadata.sky.com/pd-image/633407e4-9c91-37d8-8b00-dbab539dcf2d/16-9"/>
-    <episode-num system="xmltv_ns">31.10.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312084500 +0530" stop="20240312091500 +0530" channel="TNTSports1.uk">
-    <title lang="en">What Went Down: Robbie Lawler</title>
-    <desc lang="en">The latest episode of What Went Down featuring MMA fighter Robbie Lawler.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1070c896-1344-3f6d-8423-daa404e2e2ab/16-9"/>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312091500 +0530" stop="20240312104500 +0530" channel="TNTSports1.uk">
-    <title lang="en">Southend United v Dag &amp; Red</title>
-    <desc lang="en">Action from the Vanarama National League as Southend United face Dagenham and Redbridge at Roots Hall.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d370a3a6-e99d-3500-aa67-20ed065228a7/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312104500 +0530" stop="20240312111500 +0530" channel="TNTSports1.uk">
-    <title lang="en">National League Highlights</title>
-    <desc lang="en">The best of the latest action from the Vanarama National League, including Barnet v Bromley, Chesterfield v Fylde and Barnet v Bromley.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c9a57787-0f7d-34d2-a750-6244d736be9d/16-9"/>
-    <episode-num system="xmltv_ns">2022.37.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312111500 +0530" stop="20240312113000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Sport In Focus: Glenn Hoddle</title>
-    <desc lang="en">Series profiling some of sport's biggest names. This episode features former Tottenham Hotspur, Monaco, Chelsea and England midfielder Glenn Hoddle.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/159a71a8-bac9-322e-ad08-14ffe79610a0/16-9"/>
-    <episode-num system="xmltv_ns">22.4.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312113000 +0530" stop="20240312120000 +0530" channel="TNTSports1.uk">
-    <title lang="en">The Big Interview: Jodie Taylor</title>
-    <desc lang="en">In celebration of International Women's Day, former England forward Jodie Taylor discusses her life in football with former teammate Karen Carney.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/be406d31-3921-3e06-8192-d51e09ed2648/16-9"/>
-    <episode-num system="xmltv_ns">22.30.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312120000 +0530" stop="20240312123000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Premier League Stories</title>
-    <desc lang="en">Defender Kieran Tierney talks about his loan move to Real Sociedad. He takes us around some of his favourite locations, giving us a taste of how life in Spain is treating him.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6e90c280-3bcc-30b6-bc1d-7a2d73a2c300/16-9"/>
-    <episode-num system="xmltv_ns">22.31.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312123000 +0530" stop="20240312133000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Premier League Review</title>
-    <desc lang="en">A look back at the best of the recent action from the Premier League, including Chelsea v Newcastle, Aston Villa v Tottenham and Liverpool v Man City.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d8a6a908-80f2-34cb-83b8-90e077a4ea1a/16-9"/>
-    <episode-num system="xmltv_ns">22.27.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240312133000 +0530" stop="20240312153000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Live: Melbourne City v WSW</title>
-    <desc lang="en">Action from the Isuzu UTE A-League as Melbourne City face Western Sydney Wanderers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/669907df-aed4-30a4-95ab-849c740d5f43/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312153000 +0530" stop="20240312160000 +0530" channel="TNTSports1.uk">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <desc lang="en">We look at Andre-Frank Zambo Anguissa's journey from playing football in Cameroon with AS Fortuna to starring for Napoli in the UEFA Champions League.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/adcf375c-6ab9-3d6e-8d40-e461c5f30ae7/16-9"/>
-    <episode-num system="xmltv_ns">22.20.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312160000 +0530" stop="20240312170000 +0530" channel="TNTSports1.uk">
-    <title lang="en">UEL &amp; UECL Magazine</title>
-    <desc lang="en">Amine Adli speaks about the personal heartache he has faced during Bayer Leverkusen's record-breaking season. Plus, Radamel Falcao reflects on his footballing roots in Colombia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/62ba24d9-0410-33f3-bc03-81cab32be2ca/16-9"/>
-    <episode-num system="xmltv_ns">22.10.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312170000 +0530" stop="20240312180000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Frankfurt Women v Bayern Munich W</title>
-    <desc lang="en">Action from the Women's Bundesliga as Eintracht Frankfurt take on Bayern Munich.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/dd0745b2-0512-367d-a988-172575814e9b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312180000 +0530" stop="20240312183000 +0530" channel="TNTSports1.uk">
-    <title lang="en">TNT Sports Goals Reload</title>
-    <desc lang="en">We bring you the greatest goals from around the world this week, including action from the Premier League, Serie A and Ligue 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1cf80f65-218c-3ff2-b4d3-6969ef7e4b4f/16-9"/>
-    <episode-num system="xmltv_ns">22.28.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240312183000 +0530" stop="20240312193000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Premier League Review</title>
-    <desc lang="en">A look back at the best of the recent action from the Premier League, including Chelsea v Newcastle, Aston Villa v Tottenham and Liverpool v Man City.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d8a6a908-80f2-34cb-83b8-90e077a4ea1a/16-9"/>
-    <episode-num system="xmltv_ns">22.27.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240312193000 +0530" stop="20240312194500 +0530" channel="TNTSports1.uk">
-    <title lang="en">Rio Ferdinand Meets: De Bruyne</title>
-    <desc lang="en">Rio Ferdinand talks to Manchester City midfielder Kevin De Bruyne about his journey through football, winning the treble and injury struggles.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7c248c65-e075-3d94-a028-8b0f91016459/16-9"/>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312194500 +0530" stop="20240312201500 +0530" channel="TNTSports1.uk">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <desc lang="en">We look at Andre-Frank Zambo Anguissa's journey from playing football in Cameroon with AS Fortuna to starring for Napoli in the UEFA Champions League.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/adcf375c-6ab9-3d6e-8d40-e461c5f30ae7/16-9"/>
-    <episode-num system="xmltv_ns">22.20.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312201500 +0530" stop="20240312203000 +0530" channel="TNTSports1.uk">
-    <title lang="en">No Filter Football</title>
-    <desc lang="en">The latest episode of No Filter Football goes behind the scenes of the UEFA Champions League Round of 16 clash between Porto and Arsenal at Estadio do Dragao.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e09c5299-da8f-3e17-8ad7-54ad68620ce0/16-9"/>
-    <episode-num system="xmltv_ns">22.7.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312203000 +0530" stop="20240312213000 +0530" channel="TNTSports1.uk">
-    <title lang="en">The Football's On</title>
-    <desc lang="en">In front of a sell-out audience in London, Ian Stone chats about title-chasing Arsenal with Premier League winner Lee Dixon, podcaster James McNicholas and comedian Jacob Hawley.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5627f1e9-03dc-37af-ab03-bf9e29a3b595/16-9"/>
-    <episode-num system="xmltv_ns">7.5.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312213000 +0530" stop="20240312223000 +0530" channel="TNTSports1.uk">
-    <title lang="en">New Zealand v Australia - 2nd Test</title>
-    <desc lang="en">Cricket action from day four of the second Test between New Zealand and Australia at Hagley Oval in Christchurch.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d0b003bd-c091-348a-a61a-663f94c19b15/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240312223000 +0530" stop="20240313003000 +0530" channel="TNTSports1.uk">
-    <title lang="en">India v England - 5th Test Review</title>
-    <desc lang="en">A look at the best action from the 5th Test between India and England at Himachal Pradesh Cricket Association Stadium in Dharamsala.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1c9526e1-46c2-35e3-8660-d1e4f2465c94/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240313003000 +0530" stop="20240313041500 +0530" channel="TNTSports1.uk">
-    <title lang="en">Live: Arsenal v Porto</title>
-    <desc lang="en">UEFA Champions League Round of 16 action as Arsenal take on Porto at Emirates Stadium. Porto hold a one-goal lead after Galeno's stunning late strike in the first leg.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c6b37af1-e8ed-376e-95f2-b7db24e21467/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
   <programme start="20240313041500 +0530" stop="20240313043000 +0530" channel="TNTSports1.uk">
     <title lang="en">Premier League Reload 2023</title>
     <desc lang="en">A whirlwind catch-up from the weekend's Premier League matches, featuring Liverpool v Man City, Aston Villa v Tottenham and Chelsea v Newcastle.</desc>
@@ -430,6 +95,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/90310872-b849-3844-aa84-7fd355d63211/16-9"/>
+    <episode-num system="xmltv_ns">1.62.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -443,18 +109,17 @@
     <desc lang="en">A look at the best action from the 5th Test between India and England at Himachal Pradesh Cricket Association Stadium in Dharamsala.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/87646a94-5299-330b-8768-efc38db9dcaa/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/1c9526e1-46c2-35e3-8660-d1e4f2465c94/16-9"/>
     <video>
       <aspect>16:9</aspect>
     </video>
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240313134500 +0530" stop="20240313221500 +0530" channel="TNTSports1.uk">
     <title lang="en">Live ODI: Bangladesh v Sri Lanka</title>
-    <desc lang="en">Bangladesh host Sri Lanka in the first One Day International at Zohur Ahmed Chowdhury Stadium in Chattogram.</desc>
+    <desc lang="en">Cricket action from the first One Day International between Bangladesh and Sri Lanka at Zohur Ahmed Chowdhury Stadium in Chattogram.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/e679a54f-32ba-3b4d-b73a-df711a0c31a1/16-9"/>
@@ -483,7 +148,7 @@
   </programme>
   <programme start="20240313231500 +0530" stop="20240314001500 +0530" channel="TNTSports1.uk">
     <title lang="en">WWE Raw Highlights</title>
-    <desc lang="en">All the best highlights from the latest WWE Raw.</desc>
+    <desc lang="en">Who will run the gauntlet and face Gunther for the Intercontinental Championship at WrestleMania 40? Becky Lynch takes on Liv Morgan, and Michael Cole interviews Cody Rhodes.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Wrestling</category>
     <icon src="https://images.metadata.sky.com/pd-image/9ed1b852-fa4e-356b-9d0a-5e1ca46b5d5f/16-9"/>
@@ -565,11 +230,10 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240314090000 +0530" stop="20240314100000 +0530" channel="TNTSports1.uk">
     <title lang="en">Bangladesh v Sri Lanka - 1st ODI</title>
-    <desc lang="en">Bangladesh host Sri Lanka in the first One Day International at Zohur Ahmed Chowdhury Stadium in Chattogram.</desc>
+    <desc lang="en">Cricket action from the first One Day International between Bangladesh and Sri Lanka at Zohur Ahmed Chowdhury Stadium in Chattogram.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/d9874cb1-01d0-3ed9-b7de-77b9efd5a083/16-9"/>
@@ -579,7 +243,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240314100000 +0530" stop="20240314110000 +0530" channel="TNTSports1.uk">
     <title lang="en">WSL: Inside Pro Surfing</title>
@@ -684,7 +347,7 @@
   </programme>
   <programme start="20240314183000 +0530" stop="20240314210000 +0530" channel="TNTSports1.uk">
     <title lang="en">WWE Monday Night Raw</title>
-    <desc lang="en">Watch CM Punk, Drew McIntyre, Seth Rollins, Rhea Ripley, Cody Rhodes and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.</desc>
+    <desc lang="en">Six superstars compete in a Gauntlet match to see who will face Gunther for the Intercontinental Championship at WrestleMania 40. And, Becky Lynch takes on Liv Morgan.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Wrestling</category>
     <icon src="https://images.metadata.sky.com/pd-image/ee35f44f-3aea-3c4a-89b9-b24299911ba8/16-9"/>
@@ -699,7 +362,7 @@
   </programme>
   <programme start="20240314210000 +0530" stop="20240314213000 +0530" channel="TNTSports1.uk">
     <title lang="en">Serie A - Full Impact</title>
-    <desc lang="en">All the best moments from the latest action in Serie A.</desc>
+    <desc lang="en">Could an in-form Bologna side get a result against league leaders Inter? And, Fiorentina were out to defeat rivals Roma to force their way back into the European conversation.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/15892180-6ef9-35ab-bd28-a29d2fc46d36/16-9"/>
@@ -776,6 +439,455 @@
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/3ef2097e-dcfd-3849-85be-77a9e4692e0a/16-9"/>
     <episode-num system="xmltv_ns">0.15.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315053000 +0530" stop="20240315060000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Between The Lines</title>
+    <desc lang="en">Unai Emery speaks to Danny Jamieson about the tactics behind Aston Villa's success this season and how he gets the most out of forward Ollie Watkins.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/739b8df1-1b07-3bc4-b377-48dd71d0986b/16-9"/>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315060000 +0530" stop="20240315070000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Rylan: Football, Homophobia and Me</title>
+    <desc lang="en">TV personality Rylan examines the place of homosexuality within football. He takes a look at his own personal experiences and interviews numerous figures from the beautiful game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ab4fa395-5d85-3883-91ba-b91d314bb70a/16-9"/>
+    <episode-num system="xmltv_ns">22.30.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315070000 +0530" stop="20240315090000 +0530" channel="TNTSports1.uk">
+    <title lang="en">India v England - 5th Test Review</title>
+    <desc lang="en">A look at the best action from the 5th Test between India and England at Himachal Pradesh Cricket Association Stadium in Dharamsala.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1c9526e1-46c2-35e3-8660-d1e4f2465c94/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315090000 +0530" stop="20240315100000 +0530" channel="TNTSports1.uk">
+    <title lang="en">ABB FIA Formula E Preview Show</title>
+    <desc lang="en">A look ahead to round 4 of the ABB FIA Formula E World Championship in Sao Paulo, Brazil.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0434f77f-0efb-3f69-a935-51d572e48c8c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315100000 +0530" stop="20240315103000 +0530" channel="TNTSports1.uk">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/83f78fa7-24c9-39be-9217-7311476c5ef8/16-9"/>
+    <episode-num system="xmltv_ns">23.10.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315103000 +0530" stop="20240315110000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Serie A - Full Impact</title>
+    <desc lang="en">Could an in-form Bologna side get a result against league leaders Inter? And, Fiorentina were out to defeat rivals Roma to force their way back into the European conversation.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/15892180-6ef9-35ab-bd28-a29d2fc46d36/16-9"/>
+    <episode-num system="xmltv_ns">2020.27.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315110000 +0530" stop="20240315113000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Liberty A-League Women Highlights</title>
+    <desc lang="en">Highlights from the 19th round of Liberty A-League Women fixtures.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cf4cc3a9-8b2b-3f2c-8878-9c05ef923e04/16-9"/>
+    <episode-num system="xmltv_ns">2022.18.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315113000 +0530" stop="20240315120000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Premier League Stories</title>
+    <desc lang="en">Brighton boss Roberto De Zerbi talks about his own playing career, the experiences that helped to shape him as a manager, and what the future may hold.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9a838e00-6654-3590-8161-d3a17b2fc123/16-9"/>
+    <episode-num system="xmltv_ns">22.32.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315120000 +0530" stop="20240315123000 +0530" channel="TNTSports1.uk">
+    <title lang="en">The Big Interview: Ashley Cole</title>
+    <desc lang="en">Former England international Ashley Cole opens up on his time at Arsenal, the impact his controversial move to Chelsea had on him, and his hopes for a move into management.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/201a9871-849c-3a7c-84ef-103e94c70c46/16-9"/>
+    <episode-num system="xmltv_ns">22.31.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315123000 +0530" stop="20240315133000 +0530" channel="TNTSports1.uk">
+    <title lang="en">WWE Raw Highlights</title>
+    <desc lang="en">Who will run the gauntlet and face Gunther for the Intercontinental Championship at WrestleMania 40? Becky Lynch takes on Liv Morgan, and Michael Cole interviews Cody Rhodes.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9ed1b852-fa4e-356b-9d0a-5e1ca46b5d5f/16-9"/>
+    <episode-num system="xmltv_ns">31.10.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315133000 +0530" stop="20240315134500 +0530" channel="TNTSports1.uk">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/83f78fa7-24c9-39be-9217-7311476c5ef8/16-9"/>
+    <episode-num system="xmltv_ns">23.10.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315134500 +0530" stop="20240315141500 +0530" channel="TNTSports1.uk">
+    <title lang="en">Isuzu A-League Highlights</title>
+    <desc lang="en">Highlights from the 20th round of Isuzu A-League fixtures</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/484418d2-2873-30ea-8509-ee9a2e7e2bab/16-9"/>
+    <episode-num system="xmltv_ns">2022.19.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315141500 +0530" stop="20240315161500 +0530" channel="TNTSports1.uk">
+    <title lang="en">Live: Newcastle Jets v Adelaide U</title>
+    <desc lang="en">Action from the Isuzu UTE A-League as Newcastle Jets face Adelaide United at McDonald Jones Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3138ee04-c218-3fad-8fe3-22ea96a8f38a/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315161500 +0530" stop="20240315163000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Rio Ferdinand Meets: De Bruyne</title>
+    <desc lang="en">Rio Ferdinand talks to Manchester City midfielder Kevin De Bruyne about his journey through football, winning the treble and injury struggles.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7c248c65-e075-3d94-a028-8b0f91016459/16-9"/>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315163000 +0530" stop="20240315170000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Live: UEFA Champions League Draw</title>
+    <desc lang="en">Coverage from the UEFA Champions League quarter-finals and semi-finals draw.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ac344b25-b8c6-36d4-a1e0-b8aa76506ef7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315170000 +0530" stop="20240315173000 +0530" channel="TNTSports1.uk">
+    <title lang="en">West Ham United v Freiburg</title>
+    <desc lang="en">Action from the UEFA Europa League Round of 16 as West Ham United face Freiburg at London Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b4281aee-78c5-33c4-8886-c245c51a89e8/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315173000 +0530" stop="20240315180000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Live: UEFA Europa League Draw</title>
+    <desc lang="en">Coverage from the UEFA Europa League quarter-finals and semi-finals draw.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/90eafe13-c7e4-3d9d-96b9-587944914929/16-9"/>
+    <episode-num system="xmltv_ns">2023.2.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315180000 +0530" stop="20240315183000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Liverpool v Sparta Prague</title>
+    <desc lang="en">Action from the UEFA Europa League Round of 16 as Liverpool meet Sparta Prague at Anfield.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0484eb74-89e5-3ee7-af63-656e3311ff30/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315183000 +0530" stop="20240315190000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Live Europa Conference League Draw</title>
+    <desc lang="en">Coverage from the UEFA Europa Conference League quarter-finals and semi-finals draw.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/18fe34f9-4ad2-38c3-a9be-5704164544ee/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315190000 +0530" stop="20240315193000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Brighton v Roma</title>
+    <desc lang="en">Action from the UEFA Europa League Round of 16 as Brighton welcome Roma to the Amex Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/35d42a18-e9b0-3342-889f-e6901f12aa06/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315193000 +0530" stop="20240315200000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Rangers v Benfica</title>
+    <desc lang="en">Action from the UEFA Europa League Round of 16 as Rangers face Benfica at Ibrox Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/272ef025-f055-3fa9-b80a-f5a225321dc5/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315200000 +0530" stop="20240315210000 +0530" channel="TNTSports1.uk">
+    <title lang="en">UEFA Europa League Highlights Show</title>
+    <desc lang="en">The latest action from the UEFA Europa League, including Brighton v Roma and Benfica v Rangers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f61b30a6-7f0c-3c05-a148-9a71e0f2ca1d/16-9"/>
+    <episode-num system="xmltv_ns">22.9.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315210000 +0530" stop="20240315220000 +0530" channel="TNTSports1.uk">
+    <title lang="en">UEFA Champions League Highlights</title>
+    <desc lang="en">All the goals and highlights from the latest set of fixtures in the UEFA Champions League, including Atletico Madrid v Inter and Dortmund v PSV.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3ba4876e-3c6f-34f9-aada-2f79b86c7b33/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315220000 +0530" stop="20240315223000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">A round up of all the latest news from Serie A.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cd30dc51-398c-345b-9f0f-f0577baf56f1/16-9"/>
+    <episode-num system="xmltv_ns">2022.28.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240315223000 +0530" stop="20240315230000 +0530" channel="TNTSports1.uk">
+    <title lang="en">The Fantasy Show</title>
+    <desc lang="en">Join the Fantasy Premier League experts for insight and tips ahead of gameweek 29 in the Premier League.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/93721ce8-30ac-3960-a255-7a9bec58bb70/16-9"/>
+    <episode-num system="xmltv_ns">22.28.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240315230000 +0530" stop="20240316000000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Newcastle Jets v Adelaide United</title>
+    <desc lang="en">Action from the Isuzu UTE A-League as Newcastle Jets face Adelaide United at McDonald Jones Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0145ef69-ecba-3905-ba4e-7cbb1134873c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316000000 +0530" stop="20240316003000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A look ahead to all the upcoming action in the Premier League, including Arsenal v Chelsea, Everton v Liverpool and Fulham v Tottenham.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fdacbfc1-68f3-30da-8047-1c1327c8af1e/16-9"/>
+    <episode-num system="xmltv_ns">22.28.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316003000 +0530" stop="20240316034500 +0530" channel="TNTSports1.uk">
+    <title lang="en">Live: Premiership Rugby Cup Final</title>
+    <desc lang="en">Action from the Premiership Rugby Cup final between Gloucester Rugby and Leicester Tigers at Kingsholm Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/54b1c5cd-01db-3b0e-ae41-598286f5168c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316034500 +0530" stop="20240316041500 +0530" channel="TNTSports1.uk">
+    <title lang="en">Sport In Focus: Rivalries...</title>
+    <desc lang="en">...Bath Rugby v Gloucester Rugby. Sport in Focus looks at the rivalry between Bath Rugby and Gloucester Rugby.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c22d452a-9fcf-393a-bb8a-b38eb3709bd3/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316041500 +0530" stop="20240316043000 +0530" channel="TNTSports1.uk">
+    <title lang="en">MotoGP Rewind: Qatar 2024</title>
+    <desc lang="en">A look back at the best of the action from the MotoGP Grand Prix of Qatar.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d862d177-d6da-3e68-aefa-f72c0999b916/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316043000 +0530" stop="20240316053000 +0530" channel="TNTSports1.uk">
+    <title lang="en">WWE SmackDown Highlights</title>
+    <desc lang="en">Cody Rhodes and Seth Rollins answer The Rock's challenge for WrestleMania 40. Logan Paul returns to SmackDown, and Tiffany Stratton faces Michin.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d65c6517-b070-375f-84b9-04cdc65af647/16-9"/>
+    <episode-num system="xmltv_ns">25.9.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>

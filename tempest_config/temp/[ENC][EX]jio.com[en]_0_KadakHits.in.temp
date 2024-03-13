@@ -4,96 +4,6 @@
     <display-name lang="en">Kadak Hits</display-name>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_Hits.png"/>
   </channel>
-  <programme start="20240312000000 +0530" stop="20240312060000 +0530" channel="KadakHits.in">
-    <title lang="en">Hit pe Hit</title>
-    <desc lang="en">Back to Back Bollywood Hit songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403121249000_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312060000 +0530" stop="20240312090000 +0530" channel="KadakHits.in">
-    <title lang="en">Kadak Mornings</title>
-    <desc lang="en">Wake up to fresh &amp;Trending hits</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403121249001_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312090000 +0530" stop="20240312100000 +0530" channel="KadakHits.in">
-    <title lang="en">Trending Now</title>
-    <desc lang="en">An hour filled with the Top Performing Bollywood songs of the week.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403121249002_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312100000 +0530" stop="20240312120000 +0530" channel="KadakHits.in">
-    <title lang="en">Hit pe Hit</title>
-    <desc lang="en">Back to Back Bollywood Hit songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403121249003_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312120000 +0530" stop="20240312130000 +0530" channel="KadakHits.in">
-    <title lang="en">90's Nostalgia</title>
-    <desc lang="en">Hit tracks of Bollywood from the 90's</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403121249004_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312130000 +0530" stop="20240312170000 +0530" channel="KadakHits.in">
-    <title lang="en">Hit pe Hit</title>
-    <desc lang="en">Back to Back Bollywood Hit songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403121249005_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312170000 +0530" stop="20240312200000 +0530" channel="KadakHits.in">
-    <title lang="en">Seeti Maar Hits</title>
-    <desc lang="en">Dance away your worries with the hottest Bollywood Tracks</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403121249006_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312200000 +0530" stop="20240312210000 +0530" channel="KadakHits.in">
-    <title lang="en">Trending Now</title>
-    <desc lang="en">An hour filled with the Top Performing Bollywood songs of the week.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403121249007_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312210000 +0530" stop="20240312220000 +0530" channel="KadakHits.in">
-    <title lang="en">Punjab Te Bollywood</title>
-    <desc lang="en">Groove to the Hit Bollywood Punjabi tracks</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403121249008_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312220000 +0530" stop="20240312235959 +0530" channel="KadakHits.in">
-    <title lang="en">Seeti Maar Hits</title>
-    <desc lang="en">Dance away your worries with the hottest Bollywood Tracks</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-12/2403121249009_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20240313000000 +0530" stop="20240313060000 +0530" channel="KadakHits.in">
     <title lang="en">Hit pe Hit</title>
     <desc lang="en">Back to Back Bollywood Hit songs</desc>
@@ -270,6 +180,96 @@
     <desc lang="en">Dance away your worries with the hottest Bollywood Tracks</desc>
     <category lang="en">Devotional</category>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403141249009_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315000000 +0530" stop="20240315060000 +0530" channel="KadakHits.in">
+    <title lang="en">Hit pe Hit</title>
+    <desc lang="en">Back to Back Bollywood Hit songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403151249000_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315060000 +0530" stop="20240315090000 +0530" channel="KadakHits.in">
+    <title lang="en">Kadak Mornings</title>
+    <desc lang="en">Wake up to fresh &amp;Trending hits</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403151249001_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315090000 +0530" stop="20240315100000 +0530" channel="KadakHits.in">
+    <title lang="en">Trending Now</title>
+    <desc lang="en">An hour filled with the Top Performing Bollywood songs of the week.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403151249002_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315100000 +0530" stop="20240315120000 +0530" channel="KadakHits.in">
+    <title lang="en">Hit pe Hit</title>
+    <desc lang="en">Back to Back Bollywood Hit songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403151249003_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315120000 +0530" stop="20240315130000 +0530" channel="KadakHits.in">
+    <title lang="en">90's Nostalgia</title>
+    <desc lang="en">Hit tracks of Bollywood from the 90's</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403151249004_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315130000 +0530" stop="20240315170000 +0530" channel="KadakHits.in">
+    <title lang="en">Hit pe Hit</title>
+    <desc lang="en">Back to Back Bollywood Hit songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403151249005_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315170000 +0530" stop="20240315200000 +0530" channel="KadakHits.in">
+    <title lang="en">Seeti Maar Hits</title>
+    <desc lang="en">Dance away your worries with the hottest Bollywood Tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403151249006_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315200000 +0530" stop="20240315210000 +0530" channel="KadakHits.in">
+    <title lang="en">Trending Now</title>
+    <desc lang="en">An hour filled with the Top Performing Bollywood songs of the week.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403151249007_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315210000 +0530" stop="20240315220000 +0530" channel="KadakHits.in">
+    <title lang="en">Punjab Te Bollywood</title>
+    <desc lang="en">Groove to the Hit Bollywood Punjabi tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403151249008_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315220000 +0530" stop="20240315235959 +0530" channel="KadakHits.in">
+    <title lang="en">Seeti Maar Hits</title>
+    <desc lang="en">Dance away your worries with the hottest Bollywood Tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403151249009_s.jpg"/>
     <rating system="CBFC">
       <value>U</value>
     </rating>

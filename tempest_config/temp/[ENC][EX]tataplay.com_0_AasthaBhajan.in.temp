@@ -3,49 +3,58 @@
   <channel id="AasthaBhajan.in">
     <display-name lang="en">Aastha Bhajan</display-name>
   </channel>
-  <programme start="20240312000000 +0530" stop="20240312000200 +0530" channel="AasthaBhajan.in">
+  <programme start="20240313000000 +0530" stop="20240313000200 +0530" channel="AasthaBhajan.in">
     <title lang="en">Kishanbhaiya Sirsawale</title>
     <desc lang="en">Bhakti Ke Rang: Devotees come together and sing a select compilation of hymns praising their deity and ask for blessings to make their life fulfilling.</desc>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F121AE8DEBC466D7085E50FC9B724AD2D312D508.jpg"/>
   </programme>
-  <programme start="20240312000200 +0530" stop="20240312003200 +0530" channel="AasthaBhajan.in">
+  <programme start="20240313000200 +0530" stop="20240313003300 +0530" channel="AasthaBhajan.in">
     <title lang="en">Shri Kishanbhaiya Sirsawale</title>
     <desc lang="en">A religious leader shares his wisdom and provides a detailed discourse on various spiritual teachings to his devoted followers.</desc>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/72D16D50D8A02B5B06C4E402F9109EFC7CF7E1EB8.jpg"/>
   </programme>
-  <programme start="20240312003200 +0530" stop="20240312003900 +0530" channel="AasthaBhajan.in">
+  <programme start="20240313003300 +0530" stop="20240313004200 +0530" channel="AasthaBhajan.in">
     <title lang="en">Morari Bapu</title>
     <desc lang="en">Shree Ram Vanadan: Morari Bapu reads out and explains significant excerpts from the Rama Katha while giving his interpretation of the same and highlighting its importance.</desc>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B35482400BEB2A110016FC2470DADAFAD490036AE.jpg"/>
   </programme>
-  <programme start="20240312003900 +0530" stop="20240312005100 +0530" channel="AasthaBhajan.in">
+  <programme start="20240313004200 +0530" stop="20240313005200 +0530" channel="AasthaBhajan.in">
     <title lang="en">Pujya Laxmandasji Maharaj</title>
     <desc lang="en">A Hindu religious scholar delivers a discourse based on the teachings of the sacred scriptures and urges the devotees to follow the path of righteousness for a peaceful life.</desc>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0B73CDCE3C22827382FBC93448F832366A1365692.jpg"/>
   </programme>
-  <programme start="20240312005100 +0530" stop="20240312010500 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Ramdineshacharyaji Maharaj</title>
-    <desc lang="en">Renowned religious scholar Pujya Ramdineshacharyaji Maharaj addresses a gathering of followers and delivers a spiritual discourse in praise of the Almighty.</desc>
+  <programme start="20240313005200 +0530" stop="20240313005900 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Abhishek Krishna Shastri</title>
+    <desc lang="en">Abhishek Krishna Shastri, a religious leader, addresses the Hindu devotees and delivers a discourse and recites devotional songs praising Lord Krishna.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5706ED5B6AC3930F95756F60C0A0213E7A50BE717.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/45A7FA4A0E8AE30F7B6F1F51484B1BDEE532D0BDC.jpg"/>
   </programme>
-  <programme start="20240312010500 +0530" stop="20240312012200 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Geet Ganga</title>
-    <desc lang="en">Pujya Devkinandan Thakurji: Devotional program.</desc>
+  <programme start="20240313005900 +0530" stop="20240313010800 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Sulabh Shantu Guru Ji</title>
+    <desc lang="en">Religious expert, Pujya Sulabh Shantu Guru Ji imparts divine knowledge and rituals to the audience to help them understand the teachings of Hinduism.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2A15B6825E4D40AF6767F626069BB872398C46D7.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B75F3F3D0BAF52FE0D6285926FDC3888F4EBC5F92.jpg"/>
   </programme>
-  <programme start="20240312012200 +0530" stop="20240312014200 +0530" channel="AasthaBhajan.in">
+  <programme start="20240313010800 +0530" stop="20240313012400 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Devkinandan Thakurji</title>
+    <desc lang="en">Geet Ganga: Religious leader Devkinandan Thakurji delivers discourses on spirituality to help devotees lead a life of righteousness.</desc>
+    <credits>
+      <actor>Shri Devkinandan Thakur</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5473F3F73924B3072CCF6C420AC164B1D00C823F9.jpg"/>
+  </programme>
+  <programme start="20240313012400 +0530" stop="20240313014300 +0530" channel="AasthaBhajan.in">
     <title lang="en">Aastha Bhajan</title>
     <desc lang="en">Pujya Devi Chitralekha: A comprehensive compilation of some of the most melodious devotional songs are played back-to-back in order to entertain the viewers.</desc>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ECA375BF8BCEA612483BB11548806753576F2411P.jpg"/>
   </programme>
-  <programme start="20240312014200 +0530" stop="20240312020100 +0530" channel="AasthaBhajan.in">
+  <programme start="20240313014300 +0530" stop="20240313015900 +0530" channel="AasthaBhajan.in">
     <title lang="en">Swami Ramdevji</title>
     <desc lang="en">Bhakti Gitanjali: Swami Ramdev, a yoga guru, talks about the importance of yoga and Ayurveda to cure people's diseases.</desc>
     <credits>
@@ -54,385 +63,19 @@
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F9223DD77EDEBBBE0E2B070ECD4B6CA9B576058L.jpg"/>
   </programme>
-  <programme start="20240312020100 +0530" stop="20240312022000 +0530" channel="AasthaBhajan.in">
+  <programme start="20240313015900 +0530" stop="20240313022100 +0530" channel="AasthaBhajan.in">
     <title lang="en">Pujya Chinmayanand Bapu</title>
     <desc lang="en">A religious leader delivers a discourse about the teachings of the Almighty and urges devotees to follow the path of righteousness.</desc>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A34FF8F3BF65E03E217178134411A172F992A4D4.jpg"/>
   </programme>
-  <programme start="20240312022000 +0530" stop="20240312023000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Bhajan</title>
-    <desc lang="en">Pujya Deepali Didi - Hari Sunder Nritya Mukunda (Krishna): A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+  <programme start="20240313022100 +0530" stop="20240313023000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Priyanshuji Maharaj</title>
+    <desc lang="en">Mero Pyaro Nandlal Kishore Shree Radhey(Radhey)</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/793A51281034FD211ABC4FBC638C816B08412137V.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/AA827802B8D0774BA9BBFFA423A3D0F3FAD696181.jpg"/>
   </programme>
-  <programme start="20240312023000 +0530" stop="20240312025300 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Vatsalya Nirzar</title>
-    <desc lang="en">Pujya Didi Ma Ritambharaji: Pujya Didi Maa Ritambharaji, who is popularly known as Sadhvi Ritambhara, delivers a devotional sermon. She is also the founder of Vatsalya Gram, a village for women and children.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/171A949C69F01FFDDFCF6C3B8F300CF4DE6254C7X.jpg"/>
-  </programme>
-  <programme start="20240312025300 +0530" stop="20240312030100 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Shyam Sunder Parasharji Maharaj</title>
-    <desc lang="en">Hamaro Dhan Radha Shree Radha (Krishna): Pujya Shyam Sunder Parashar Ji Maharaj delivers a discourse based on the stories from the sacred scriptures and urges the devotees to follow the path of righteousness.</desc>
-    <credits>
-      <actor>Shyam Sunder Parashar Ji</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/129F0D6DBBCE073551F3D46E964A98C567B39FCAZ.jpg"/>
-  </programme>
-  <programme start="20240312030100 +0530" stop="20240312032200 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Shiv Sharnam</title>
-    <desc lang="en">Giri Bapu: A religious leader gives a discourse and sings Hindu devotional songs in praise of Lord Shiva, inspiring the followers to lead a righteous and spiritual life.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8296F0BAB9462F9AA906C5675C12D3417AB1207F2.jpg"/>
-  </programme>
-  <programme start="20240312032200 +0530" stop="20240312032800 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Shankara</title>
-    <desc lang="en">Swami Shri Padmanabh Sharan &amp; Suhit Abhyankar (times Music): Talented musicians and singers deliver a melodious performance of devotional songs praising the Almighty to seek blessings.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEAF2C96A7CE0C81BA834EF34EEEC119AC9261FEI.jpg"/>
-  </programme>
-  <programme start="20240312032800 +0530" stop="20240312034800 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Sanjeev Krishan Thakurji</title>
-    <desc lang="en">Bhakti Dhara: Sanjeev Krishan Thakurji, a religious leader, delivers discourses on Hinduism and guides people to pursue the path of righteousness.</desc>
-    <credits>
-      <actor>Sanjeev Krishan Thakurji</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C55C184DB95C5121A381E5F25A797AC976F98AE1Q.jpg"/>
-  </programme>
-  <programme start="20240312034800 +0530" stop="20240312035400 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Bhajan</title>
-    <desc lang="en">Prem Se Bolo Jai Siya Ram - Ramashish Ji: A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/793A51281034FD211ABC4FBC638C816B08412137V.jpg"/>
-  </programme>
-  <programme start="20240312035400 +0530" stop="20240312040000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Bhajan</title>
-    <desc lang="en">Shambhu - Akshay Kumar, Sudhir Yaduvanshi, Vikram Montrose (shiv) (times Music): A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/793A51281034FD211ABC4FBC638C816B08412137V.jpg"/>
-  </programme>
-  <programme start="20240312040000 +0530" stop="20240312040500 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Manglik</title>
-    <desc lang="en">Pujya Jinchandraji: A renowned astrologer sheds light on different astrological combinations that are considered to be inauspicious for marriages.</desc>
-    <category lang="en">Astrology</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CD1291866C27E9250988F7732575EBE149DDB0EW.jpg"/>
-  </programme>
-  <programme start="20240312040500 +0530" stop="20240312041000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Aarti</title>
-    <desc lang="en">Hanuman: A compilation of melodious devotional songs performed by various religious leaders in order to seek blessings from the Almighty.</desc>
-    <credits>
-      <actor>Sanjay Gulhati</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CFE749E7B1EF99E923585725D9257AE29B8733CB0.jpg"/>
-  </programme>
-  <programme start="20240312041000 +0530" stop="20240312042000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Chalisa</title>
-    <desc lang="en">Hanuman: A religious leader recites holy verses dedicated to various Hindu gods and offers prayers to them in order to ward off all negative energy and bad luck.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AAC5AB01FBB43B94667C90BFAFB4F6CBBB5366742.jpg"/>
-  </programme>
-  <programme start="20240312042000 +0530" stop="20240312042900 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Hanuman Mantra</title>
-    <desc lang="en">A compilation of hymns composed and recited in praise of Lord Hanuman is played in order to invoke the spirit of devotion.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F0573552CC88657F5C5084EBE06CB8949084E4FD.jpg"/>
-  </programme>
-  <programme start="20240312042900 +0530" stop="20240312043700 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Darshnam</title>
-    <desc lang="en">A devout Hindu priest recites mantras and chants in the presence of devotees, who hope to win the blessings of the Almighty.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/047FF42830B5752C8C4942AC5CA7465F404B8E857.jpg"/>
-  </programme>
-  <programme start="20240312043700 +0530" stop="20240312044200 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Jagaran Mantra</title>
-    <desc lang="en">A comprehensive compilation of devotional songs that are composed and sung in praise of revered Hindu deities is played at dawn.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/240E7B56B3300C0A18426E12B2C8082B4FF1FCAD5.jpg"/>
-  </programme>
-  <programme start="20240312044200 +0530" stop="20240312050400 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Ved Vani</title>
-    <desc lang="en">Various religious leaders, scholars and priests perform ritual prayers and recite the four Vedas with a group of devotees.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CB2CE5F76ADD565E60C113AB1E6F3BA34E818D7T.jpg"/>
-  </programme>
-  <programme start="20240312050400 +0530" stop="20240312050600 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pratah Jagran Mantra</title>
-    <desc lang="en">Boys (without Supar): Religious leaders and devotees chant hymns and recite sacred verses from holy scriptures in order to seek blessings from the Almighty.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21FC8409435F70BB5E2E74A7D7D36F2AC1F2028FK.jpg"/>
-  </programme>
-  <programme start="20240312050600 +0530" stop="20240312050800 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pratah Jagran Mantra</title>
-    <desc lang="en">Girls (without Supar): Religious leaders and devotees chant hymns and recite sacred verses from holy scriptures in order to seek blessings from the Almighty.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21FC8409435F70BB5E2E74A7D7D36F2AC1F2028FK.jpg"/>
-  </programme>
-  <programme start="20240312050800 +0530" stop="20240312060100 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Brahmayagna</title>
-    <desc lang="en">Swami Ramdevji (Without Super): A religious leader delivers an in-depth spiritual discourse and worships the Almighty in the presence of a group of children.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F92ECBB693800D690DEC9FE0698054B5FBEF3B8FS.jpg"/>
-  </programme>
-  <programme start="20240312060100 +0530" stop="20240312060500 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Aartiyaan &amp; Chalisa</title>
-    <desc lang="en">Hanuman Aarti: A comprehensive collection of songs and hymns that extend praise and prayers to the Almighty is played in order to invoke the spirit of devotion.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F58E70FE2CF5AC2B880B368BBCDDB193B4037DB99.jpg"/>
-  </programme>
-  <programme start="20240312060500 +0530" stop="20240312061300 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Om Jai Shiv Omkara</title>
-    <desc lang="en">A religious leader shares his wisdom and delivers a detailed discourse on various spiritual teachings to devotees and encourages them to lead a faithful life.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F1A0114340A506332233A9889C3634EC0DB87DF3.jpg"/>
-  </programme>
-  <programme start="20240312061300 +0530" stop="20240312062000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Jai Jagdish Hare</title>
-    <desc lang="en">A look at the devotees offering prayer to Hindu deity Lord Vishnu.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/469666396F244ECF7196114D5683498FB7C3C177T.jpg"/>
-  </programme>
-  <programme start="20240312062000 +0530" stop="20240312062700 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Laxmi</title>
-    <desc lang="en">A compilation of verses of a prayer dedicated to Goddess Lakshmi played back to back to seek the holy blessings for wealth and prosperity.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8877CC2F4CF0B6929018D213FD41B943ED5381BDS.jpg"/>
-  </programme>
-  <programme start="20240312062700 +0530" stop="20240312064000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Ayodhya Ram Mandir</title>
-    <desc lang="en">P. M. Narender Modi - MIB: A religious leader provides a detailed discourse on the spiritual significance of the Ram Mandir in Ayodhya, Uttar Pradesh.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/459F39EE425626A3A77FACA8B0AAB104D3C5EB65S.jpg"/>
-  </programme>
-  <programme start="20240312064000 +0530" stop="20240312070200 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Jagadguru Swami Dr. Ramkamaldas Vedanti Maharaj</title>
-    <desc lang="en">Dr Ramkamaldas Vedanti Maharaj talks about the importance of prayer and meditation in one's life.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B91B4A08DF914B30B2AD051CE17A7757E3DDCA866.jpg"/>
-  </programme>
-  <programme start="20240312070200 +0530" stop="20240312072500 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Swami Shriduttsharnanandji Maharaj</title>
-    <desc lang="en">Gau Geeta Mahima Satsang: Religious leaders and devotees come together to conduct sacred rituals and chant devotional hymns in praise of the Almighty.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7E7F1C87F19934400E0BF43EF17798567966BAB9A.jpg"/>
-  </programme>
-  <programme start="20240312072500 +0530" stop="20240312074200 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Dekho Apna Desh</title>
-    <desc lang="en">Dad Special: Through a webinar, the Ministry of Tourism provides in-depth knowledge on the diverse and remarkable destinations in India.</desc>
-    <category lang="en">Travel</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/73D6927B843C90964FA01AB9C935CE05BEB2AE3B3.jpg"/>
-  </programme>
-  <programme start="20240312074200 +0530" stop="20240312075300 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Chalisa</title>
-    <desc lang="en">Hanuman: A religious leader recites holy verses dedicated to various Hindu gods and offers prayers to them in order to ward off all negative energy and bad luck.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AAC5AB01FBB43B94667C90BFAFB4F6CBBB5366742.jpg"/>
-  </programme>
-  <programme start="20240312075300 +0530" stop="20240312080200 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Ayodhya Ram Mandir</title>
-    <desc lang="en">P. M. Narender Modi - MIB: A religious leader provides a detailed discourse on the spiritual significance of the Ram Mandir in Ayodhya, Uttar Pradesh.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/459F39EE425626A3A77FACA8B0AAB104D3C5EB65S.jpg"/>
-  </programme>
-  <programme start="20240312080200 +0530" stop="20240312081800 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Swami Ramdevji</title>
-    <desc lang="en">Bhakti Gitanjali: Swami Ramdev, a yoga guru, talks about the importance of yoga and Ayurveda to cure people's diseases.</desc>
-    <credits>
-      <actor>Baba Ramdev</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F9223DD77EDEBBBE0E2B070ECD4B6CA9B576058L.jpg"/>
-  </programme>
-  <programme start="20240312081800 +0530" stop="20240312084000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Shradhey Acharya Balkrishnaji</title>
-    <desc lang="en">Roganusar Ayurved Evam Jivan Darshan - Mashik Dharm (Menstruation Diseases ): Acharya Bal Krishna, a religious scholar, delivers a spiritual discourse and talks about the importance of leading a righteous life.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97E7083B4615074965074B9D831EAE3461534E5EN.jpg"/>
-  </programme>
-  <programme start="20240312084000 +0530" stop="20240312090100 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Sant Shri Bharat Sharanji Maharaj</title>
-    <desc lang="en">Shreemad Bhagwat Katha: Bharat Sharan Ji, a religious leader, delivers discourses on Hinduism and guides people to pursue the path of righteousness.</desc>
-    <credits>
-      <actor>Bharat Sharan</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/888E6C66D1DC4023BB516696807C0B7372E6D6EFJ.jpg"/>
-  </programme>
-  <programme start="20240312090100 +0530" stop="20240312100000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pandokar Dham Sarkar Guruji</title>
-    <desc lang="en">Pandokar Divya Darbar: A religious leader delivers a discourse on Hinduism, explains sacred verses and guides people to pursue the path of righteousness.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9175A2C7857D73896D00C41706F7E9929CC3B0F04.jpg"/>
-  </programme>
-  <programme start="20240312100000 +0530" stop="20240312102300 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Vatsalya Nirzar</title>
-    <desc lang="en">Pujya Didi Ma Ritambharaji: Pujya Didi Maa Ritambharaji, who is popularly known as Sadhvi Ritambhara, delivers a devotional sermon. She is also the founder of Vatsalya Gram, a village for women and children.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/171A949C69F01FFDDFCF6C3B8F300CF4DE6254C7X.jpg"/>
-  </programme>
-  <programme start="20240312102300 +0530" stop="20240312103200 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Ayodhya Ram Mandir</title>
-    <desc lang="en">P. M. Narender Modi - MIB: A religious leader provides a detailed discourse on the spiritual significance of the Ram Mandir in Ayodhya, Uttar Pradesh.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/459F39EE425626A3A77FACA8B0AAB104D3C5EB65S.jpg"/>
-  </programme>
-  <programme start="20240312103200 +0530" stop="20240312105400 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Shiv Sharnam</title>
-    <desc lang="en">Giri Bapu: A religious leader gives a discourse and sings Hindu devotional songs in praise of Lord Shiva, inspiring the followers to lead a righteous and spiritual life.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8296F0BAB9462F9AA906C5675C12D3417AB1207F2.jpg"/>
-  </programme>
-  <programme start="20240312105400 +0530" stop="20240312110000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Shankara</title>
-    <desc lang="en">Swami Shri Padmanabh Sharan &amp; Suhit Abhyankar (times Music): Talented musicians and singers deliver a melodious performance of devotional songs praising the Almighty to seek blessings.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEAF2C96A7CE0C81BA834EF34EEEC119AC9261FEI.jpg"/>
-  </programme>
-  <programme start="20240312110000 +0530" stop="20240312111900 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Sanjeev Krishan Thakurji</title>
-    <desc lang="en">Bhakti Dhara: Sanjeev Krishan Thakurji, a religious leader, delivers discourses on Hinduism and guides people to pursue the path of righteousness.</desc>
-    <credits>
-      <actor>Sanjeev Krishan Thakurji</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C55C184DB95C5121A381E5F25A797AC976F98AE1Q.jpg"/>
-  </programme>
-  <programme start="20240312111900 +0530" stop="20240312112800 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Bhajan</title>
-    <desc lang="en">Shambhu - Akshay Kumar, Sudhir Yaduvanshi, Vikram Montrose (shiv) (times Music): A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/793A51281034FD211ABC4FBC638C816B08412137V.jpg"/>
-  </programme>
-  <programme start="20240312112800 +0530" stop="20240312115400 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Ankush Ji Maharaj</title>
-    <desc lang="en">Ankush Ji Maharaj, who is revered for his knowledge and explanations of Bhagavata Purana and Ram Katha, delivers a discourse to his followers.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/876C08EEF9F576AEF8E22F28EDCA4CDC297B5C5AC.jpg"/>
-  </programme>
-  <programme start="20240312115400 +0530" stop="20240312120000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Sridharacharyaji Maharaj</title>
-    <desc lang="en">Hari Om Bhagwate Basu Devai Namah (Vishnu): Sridharacharyaji, a religious leader, delivers discourses on the Bhagavad Gita.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ABB80B2FE49462B38D009F9276D5ACFD7FF81790T.jpg"/>
-  </programme>
-  <programme start="20240312120000 +0530" stop="20240312121900 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Chinmayanand Bapu</title>
-    <desc lang="en">A religious leader delivers a discourse about the teachings of the Almighty and urges devotees to follow the path of righteousness.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A34FF8F3BF65E03E217178134411A172F992A4D4.jpg"/>
-  </programme>
-  <programme start="20240312121900 +0530" stop="20240312122800 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Ayodhya Ram Mandir</title>
-    <desc lang="en">P. M. Narender Modi - MIB: A religious leader provides a detailed discourse on the spiritual significance of the Ram Mandir in Ayodhya, Uttar Pradesh.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/459F39EE425626A3A77FACA8B0AAB104D3C5EB65S.jpg"/>
-  </programme>
-  <programme start="20240312122800 +0530" stop="20240312125400 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Aastha Bhajan</title>
-    <desc lang="en">Pujya Indaresh ji Maharaj: A comprehensive compilation of some of the most melodious devotional songs are played back-to-back in order to entertain the viewers.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ECA375BF8BCEA612483BB11548806753576F2411P.jpg"/>
-  </programme>
-  <programme start="20240312125400 +0530" stop="20240312130200 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Shankara</title>
-    <desc lang="en">Swami Shri Padmanabh Sharan &amp; Suhit Abhyankar (times Music): Talented musicians and singers deliver a melodious performance of devotional songs praising the Almighty to seek blessings.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEAF2C96A7CE0C81BA834EF34EEEC119AC9261FEI.jpg"/>
-  </programme>
-  <programme start="20240312130200 +0530" stop="20240312160200 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Ramchandradasji Maharaj Live</title>
-    <desc lang="en">Ram Katha - Narayana, Day-01</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2D4232A00458412B1BBE957AFAD3A223A919641F.jpg"/>
-  </programme>
-  <programme start="20240312160200 +0530" stop="20240312190100 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Bhaskaranandji Maharaj Live</title>
-    <desc lang="en">Shreemadbhagwat Katha, Day-03: Pujya Bhaskaranandji Maharaj delivers a discourse on the various aspects of religion and spirituality and sheds light on the lessons one can learn from the scriptures, live.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/23E93B5E79C35C2E651E5C6CC716C7EED786433CY.jpg"/>
-  </programme>
-  <programme start="20240312190100 +0530" stop="20240312193800 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Yamuna Aarti</title>
-    <desc lang="en">Swami Gurusharnanandji Maharaj: Hindu priests and devotees offer prayers to the Yamuna river by performing various rituals and singing devotional songs.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D7653C91B33BC2602FEECE2A7676C97F129F98BX.jpg"/>
-  </programme>
-  <programme start="20240312193800 +0530" stop="20240312195000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Dekho Apna Desh</title>
-    <desc lang="en">Dad Special: Through a webinar, the Ministry of Tourism provides in-depth knowledge on the diverse and remarkable destinations in India.</desc>
-    <category lang="en">Travel</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/73D6927B843C90964FA01AB9C935CE05BEB2AE3B3.jpg"/>
-  </programme>
-  <programme start="20240312195000 +0530" stop="20240312200000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Ayodhya Ram Mandir</title>
-    <desc lang="en">P. M. Narender Modi - MIB: A religious leader provides a detailed discourse on the spiritual significance of the Ram Mandir in Ayodhya, Uttar Pradesh.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/459F39EE425626A3A77FACA8B0AAB104D3C5EB65S.jpg"/>
-  </programme>
-  <programme start="20240312200000 +0530" stop="20240312202300 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Dr. Vijaya Madhavji</title>
-    <desc lang="en">Geeta Pravachan: Pujya Dr Vijaya Madhav Ji delivers a discourse based on the sacred scriptures and urges the devotees to follow the path of righteousness.</desc>
-    <credits>
-      <actor>Vijaya Madhav Ji</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C2E19B82947B31676730F0B398C606A5639F1D36.jpg"/>
-  </programme>
-  <programme start="20240312202300 +0530" stop="20240312203900 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Laxmandasji Maharaj</title>
-    <desc lang="en">A Hindu religious scholar delivers a discourse based on the teachings of the sacred scriptures and urges the devotees to follow the path of righteousness for a peaceful life.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0B73CDCE3C22827382FBC93448F832366A1365692.jpg"/>
-  </programme>
-  <programme start="20240312203900 +0530" stop="20240312210300 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Swami Krishnanand Ji Maharaj</title>
-    <desc lang="en">Swar Yog Sadhna: Religious leader Swami Krishnanand talks about studying oneself as he delivers a discourse on the various aspects of spirituality, prayer and worship.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/465B08FDA1BA9BEF3124C4E5A575A7749304343E3.jpg"/>
-  </programme>
-  <programme start="20240312210300 +0530" stop="20240312223700 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Sadguru Swami Nityaswarupdasji</title>
-    <desc lang="en">Shree Swaminarayan Ghar Sabha, Day-1077: A religious leader delivers a discourse on various teachings and principles from Hindu scriptures and urges followers to reflect on the same.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E6873CEA4A8B99684BAA1D70A206237CDCEC0324.jpg"/>
-  </programme>
-  <programme start="20240312223700 +0530" stop="20240312230500 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Shri Shayam Vandana</title>
-    <desc lang="en">Nandu bhaiyaji: A religious leader sings devotional songs and bhajans in front of a group of devotees and encourages them to follow the teachings of the lord.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0A4B6DCC88F291E13ED497F897C78D92AEE80417B.jpg"/>
-  </programme>
-  <programme start="20240312230500 +0530" stop="20240312232900 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Avdheshanand Giri Ji Maharaj</title>
-    <desc lang="en">A religious leader sheds light on the teachings of the Almighty and encourages the followers to take the path of spirituality.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4C36CFC7D4DB776B70FF95AB083E0DC261B1B3F91.jpg"/>
-  </programme>
-  <programme start="20240312232900 +0530" stop="20240313000000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Ankush Ji Maharaj</title>
-    <desc lang="en">Ankush Ji Maharaj, who is revered for his knowledge and explanations of Bhagavata Purana and Ram Katha, delivers a discourse to his followers.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/876C08EEF9F576AEF8E22F28EDCA4CDC297B5C5AC.jpg"/>
-  </programme>
-  <programme start="20240313000000 +0530" stop="20240313003000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Kishanbhaiya Sirsawale</title>
-    <desc lang="en">Bhakti Ke Rang: Devotees come together and sing a select compilation of hymns praising their deity and ask for blessings to make their life fulfilling.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F121AE8DEBC466D7085E50FC9B724AD2D312D508.jpg"/>
-  </programme>
-  <programme start="20240313003000 +0530" stop="20240313023000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Aastha Bhajan Special</title>
-    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
-    <credits>
-      <actor>Surabhi Parmar</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
-  </programme>
-  <programme start="20240313023000 +0530" stop="20240313030000 +0530" channel="AasthaBhajan.in">
+  <programme start="20240313023000 +0530" stop="20240313025300 +0530" channel="AasthaBhajan.in">
     <title lang="en">Pujya Didi Maa Ritambharaji</title>
     <desc lang="en">Vatsalya Nirzar: Religious leader Didi Maa Sadhvi Ritambharaji delivers a discourse on the Bhagwat Katha.</desc>
     <credits>
@@ -441,178 +84,310 @@
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/27592AB52730D2EE9118695325483CF1D53BBD98O.jpg"/>
   </programme>
-  <programme start="20240313030000 +0530" stop="20240313033000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Gopalmaniji Maharaj</title>
-    <desc lang="en">Geet Surabhi: Pujya Sant Shri Gopal Mani Ji Maharaj addresses the cultural importance of motherly Ganga across the country and emphasizes natural healing. He preaches the 'Gau' (Sacred Cow) katha.</desc>
+  <programme start="20240313025300 +0530" stop="20240313030100 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Pujya Sulabh Shantuji Maharaj - Achutam Keshvam Krishna (krishna): A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/793A51281034FD211ABC4FBC638C816B08412137V.jpg"/>
+  </programme>
+  <programme start="20240313030100 +0530" stop="20240313032400 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Giri Bapu</title>
+    <desc lang="en">Shiv Sharnam: Giri Bapu, a religious leader, recites the Shiv Katha describing the pastimes of Lord Shiva and also emphasises the right way of living.</desc>
     <credits>
-      <actor>Gopal Mani</actor>
+      <actor>Giri Bapu</actor>
     </credits>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9DD8A98602F61D09502481F78CDEC87BE99810A6E.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5B907738027DE63C5EBD54E8DF776FD882252EDCS.jpg"/>
   </programme>
-  <programme start="20240313033000 +0530" stop="20240313040000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Aastha Bhajan Special</title>
-    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
+  <programme start="20240313032400 +0530" stop="20240313033200 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Shridharacharyaji</title>
+    <desc lang="en">Radhika Gori Se: Several religious leaders and devotees come together to sing various devotional songs and hymns in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/413862F1C028B9E2C65DD8A2CD3EA265D0963289J.jpg"/>
+  </programme>
+  <programme start="20240313033200 +0530" stop="20240313035400 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Sanjeev Krishan Thakurji</title>
+    <desc lang="en">Bhakti Dhara: Sanjeev Krishan Thakurji, a religious leader, delivers discourses on Hinduism and guides people to pursue the path of righteousness.</desc>
     <credits>
-      <actor>Surabhi Parmar</actor>
+      <actor>Sanjeev Krishan Thakurji</actor>
     </credits>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C55C184DB95C5121A381E5F25A797AC976F98AE1Q.jpg"/>
   </programme>
-  <programme start="20240313040000 +0530" stop="20240313040300 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Jinchandraji Maharaj</title>
-    <desc lang="en">Manglik: Religious leader Jinchandraji delivers a discourse based on verses from Jain scriptures and explains their spiritual significance to the devout followers.</desc>
+  <programme start="20240313035400 +0530" stop="20240313035900 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Shankara</title>
+    <desc lang="en">Swami Shri Padmanabh Sharan &amp; Suhit Abhyankar (times Music): Talented musicians and singers deliver a melodious performance of devotional songs praising the Almighty to seek blessings.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/659755E362D93A9A8A69100DA8AB5DD2F92ABCD32.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEAF2C96A7CE0C81BA834EF34EEEC119AC9261FEI.jpg"/>
   </programme>
-  <programme start="20240313040300 +0530" stop="20240313041000 +0530" channel="AasthaBhajan.in">
+  <programme start="20240313035900 +0530" stop="20240313040300 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Manglik</title>
+    <desc lang="en">Pujya Jinchandraji: A renowned astrologer sheds light on different astrological combinations that are considered to be inauspicious for marriages.</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CD1291866C27E9250988F7732575EBE149DDB0EW.jpg"/>
+  </programme>
+  <programme start="20240313040300 +0530" stop="20240313040900 +0530" channel="AasthaBhajan.in">
     <title lang="en">Aarti</title>
-    <desc lang="en">A compilation of melodious devotional songs performed by various religious leaders in order to seek blessings from the Almighty.</desc>
+    <desc lang="en">Om Jai Jagdish Hare: A compilation of melodious devotional songs performed by various religious leaders in order to seek blessings from the Almighty.</desc>
     <credits>
       <actor>Sanjay Gulhati</actor>
     </credits>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CFE749E7B1EF99E923585725D9257AE29B8733CB0.jpg"/>
   </programme>
-  <programme start="20240313041000 +0530" stop="20240313042000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Chalisa</title>
-    <desc lang="en">A religious leader recites holy verses dedicated to various Hindu gods and offers prayers to them in order to ward off all negative energy and bad luck.</desc>
+  <programme start="20240313040900 +0530" stop="20240313042100 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Sawariya Chalisa</title>
+    <desc lang="en">A comprehensive compilation of melodious devotional songs dedicated to Hindu deities is performed by talented artists and played in quick succession.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AAC5AB01FBB43B94667C90BFAFB4F6CBBB5366742.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DC6B77403D08F3FAC08F0A2BAB9228924C6BF261F.jpg"/>
   </programme>
-  <programme start="20240313042000 +0530" stop="20240313043000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Mantra</title>
-    <desc lang="en">Mantra</desc>
+  <programme start="20240313042100 +0530" stop="20240313042500 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Krishna Mantra</title>
+    <desc lang="en">A comprehensive compilation of devotional songs and sacred hymns glorifying Lord Krishna, a Hindu deity, is played back-to-back.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0B5DD7ED602DB25E72095DE29D3EB2F059E555BF9.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DB7B3CDB298FAEFA9A711A4D95A08FE38379BFD2H.jpg"/>
   </programme>
-  <programme start="20240313043000 +0530" stop="20240313044500 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Darshanam</title>
-    <desc lang="en">A devout priest recites 'mantras' and chants in the presence of devotees, who hope to win the blessings of the Almighty.</desc>
+  <programme start="20240313042500 +0530" stop="20240313043400 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Darshnam</title>
+    <desc lang="en">A devout Hindu priest recites mantras and chants in the presence of devotees, who hope to win the blessings of the Almighty.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3264D6CCAE5C5317ADDB8B887104DE5E163A0BE6N.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/047FF42830B5752C8C4942AC5CA7465F404B8E857.jpg"/>
   </programme>
-  <programme start="20240313044500 +0530" stop="20240313050000 +0530" channel="AasthaBhajan.in">
+  <programme start="20240313043400 +0530" stop="20240313043900 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Jagaran Mantra</title>
+    <desc lang="en">A comprehensive compilation of devotional songs that are composed and sung in praise of revered Hindu deities is played at dawn.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/240E7B56B3300C0A18426E12B2C8082B4FF1FCAD5.jpg"/>
+  </programme>
+  <programme start="20240313043900 +0530" stop="20240313050200 +0530" channel="AasthaBhajan.in">
     <title lang="en">Ved Vani</title>
     <desc lang="en">Various religious leaders, scholars and priests perform ritual prayers and recite the four Vedas with a group of devotees.</desc>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CB2CE5F76ADD565E60C113AB1E6F3BA34E818D7T.jpg"/>
   </programme>
-  <programme start="20240313050000 +0530" stop="20240313060000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Yog Rishi Swami Ramdevji</title>
-    <desc lang="en">Brahmayagna: Spiritual leader Yog Rishi Swami Ramdevji delivers a religious discourse to the audience in praise of the all-powerful Almighty.</desc>
+  <programme start="20240313050200 +0530" stop="20240313050400 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pratah Jagran Mantra</title>
+    <desc lang="en">Girls (without Supar): Religious leaders and devotees chant hymns and recite sacred verses from holy scriptures in order to seek blessings from the Almighty.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8A1449BEA1D4240129A2D8B7DF1891B2AADEBE891.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21FC8409435F70BB5E2E74A7D7D36F2AC1F2028FK.jpg"/>
   </programme>
-  <programme start="20240313060000 +0530" stop="20240313064000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Aartiya And Chalisa</title>
-    <desc lang="en">A priest performs a holy ritual in obeisance of the Almighty and chants a devotional hymn in praise of Lord Hanuman at a temple.</desc>
+  <programme start="20240313050400 +0530" stop="20240313055900 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Brahmayagna</title>
+    <desc lang="en">Swami Ramdevji (Without Super): A religious leader delivers an in-depth spiritual discourse and worships the Almighty in the presence of a group of children.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29FBFA1BD1A395A0C7B7A0B59824C3E978A0076FL.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F92ECBB693800D690DEC9FE0698054B5FBEF3B8FS.jpg"/>
   </programme>
-  <programme start="20240313064000 +0530" stop="20240313070000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Swami Dr. Ramkamaldas Vedantiji</title>
-    <desc lang="en">Swami Dr Ramkamal Das Vedanti Ji, a religious leader, sheds light on the teachings of the Almighty and promotes spirituality.</desc>
+  <programme start="20240313055900 +0530" stop="20240313060400 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aartiyaan &amp; Chalisa</title>
+    <desc lang="en">Bihariji: A comprehensive collection of songs and hymns that extend praise and prayers to the Almighty is played in order to invoke the spirit of devotion.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A4D79BC6E69637AFB5C21F40A25535E9BE90520ED.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F58E70FE2CF5AC2B880B368BBCDDB193B4037DB99.jpg"/>
   </programme>
-  <programme start="20240313070000 +0530" stop="20240313072000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Gaurishi Swami Shriduttsharnanandji</title>
-    <desc lang="en">Santvani Pravachan: A religious leader gives a discourse on the teachings from the scriptures and urges the devotees to walk the path of righteousness.</desc>
+  <programme start="20240313060400 +0530" stop="20240313061100 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Jai Jagdish Hare</title>
+    <desc lang="en">A look at the devotees offering prayer to Hindu deity Lord Vishnu.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2DB4BBBC932E491E3836094793404C1660169813C.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/469666396F244ECF7196114D5683498FB7C3C177T.jpg"/>
   </programme>
-  <programme start="20240313072000 +0530" stop="20240313074000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Aastha Bhajan Special</title>
-    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
+  <programme start="20240313061100 +0530" stop="20240313061700 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Laxmi</title>
+    <desc lang="en">A compilation of verses of a prayer dedicated to Goddess Lakshmi played back to back to seek the holy blessings for wealth and prosperity.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8877CC2F4CF0B6929018D213FD41B943ED5381BDS.jpg"/>
+  </programme>
+  <programme start="20240313061700 +0530" stop="20240313062200 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Jai Ganga Mata</title>
+    <desc lang="en">A religious leader sheds light on the teachings of the goddess Ganga and encourages followers to take the path of spirituality.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E4C20921DB8E84944F9457F8A9E460A01FAC237I.jpg"/>
+  </programme>
+  <programme start="20240313062200 +0530" stop="20240313064000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Om Jai Ambe Gauri</title>
+    <desc lang="en">A melodious song composed and sung in praise of Goddess Gauri, a revered Hindu deity, is played to invoke the spirit of devotion.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/35F57F7B1D916A25500A2B95AAA37180C7AA87FDL.jpg"/>
+  </programme>
+  <programme start="20240313064000 +0530" stop="20240313070100 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Jagadguru Swami Dr. Ramkamaldas Vedanti Maharaj</title>
+    <desc lang="en">Dr Ramkamaldas Vedanti Maharaj talks about the importance of prayer and meditation in one's life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B91B4A08DF914B30B2AD051CE17A7757E3DDCA866.jpg"/>
+  </programme>
+  <programme start="20240313070100 +0530" stop="20240313072400 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Swami Shriduttsharnanandji Maharaj</title>
+    <desc lang="en">Gau Geeta Mahima Satsang: Religious leaders and devotees come together to conduct sacred rituals and chant devotional hymns in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7E7F1C87F19934400E0BF43EF17798567966BAB9A.jpg"/>
+  </programme>
+  <programme start="20240313072400 +0530" stop="20240313074200 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Dekho Apna Desh</title>
+    <desc lang="en">Barsana: Through a webinar, the Ministry of Tourism provides in-depth knowledge on the diverse and remarkable destinations in India.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/73D6927B843C90964FA01AB9C935CE05BEB2AE3B3.jpg"/>
+  </programme>
+  <programme start="20240313074200 +0530" stop="20240313075400 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Sawariya Chalisa</title>
+    <desc lang="en">A comprehensive compilation of melodious devotional songs dedicated to Hindu deities is performed by talented artists and played in quick succession.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DC6B77403D08F3FAC08F0A2BAB9228924C6BF261F.jpg"/>
+  </programme>
+  <programme start="20240313075400 +0530" stop="20240313080100 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aarti Bihariji</title>
+    <desc lang="en">Aarti Bihariji</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/AA827802B8D0774BA9BBFFA423A3D0F3FAD696181.jpg"/>
+  </programme>
+  <programme start="20240313080100 +0530" stop="20240313081200 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Swami Ramdevji</title>
+    <desc lang="en">Bhakti Gitanjali: Swami Ramdev, a yoga guru, talks about the importance of yoga and Ayurveda to cure people's diseases.</desc>
     <credits>
-      <actor>Surabhi Parmar</actor>
+      <actor>Baba Ramdev</actor>
     </credits>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F9223DD77EDEBBBE0E2B070ECD4B6CA9B576058L.jpg"/>
   </programme>
-  <programme start="20240313074000 +0530" stop="20240313080000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Guru Maa Shubha Didi</title>
-    <desc lang="en">Guru Maa Shubha Didi, a religious leader, delivers a discourse on the importance of the teachings of Hinduism and explains their significance in the lives of people.</desc>
+  <programme start="20240313081200 +0530" stop="20240313082000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Vedon Ka Parichay</title>
+    <desc lang="en">Krishnashish Ji (Mantra): Krishnashish delivers a discourse on the features of Vedas and their types while shedding light on several scriptures and holy texts.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9C2197CF6117B0A2D19BA140B18CF1EA0116B16G.jpg"/>
-  </programme>
-  <programme start="20240313080000 +0530" stop="20240313082000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Yog Rishi Swami Ramdevji</title>
-    <desc lang="en">Bhakti Geetanjali: Spiritual leader Yog Rishi Swami Ramdevji delivers a religious discourse to the audience in praise of the all-powerful Almighty.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8A1449BEA1D4240129A2D8B7DF1891B2AADEBE891.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F788247E93129D4ABF62CD2DC8B75BBCB9E5DA1CF.jpg"/>
   </programme>
   <programme start="20240313082000 +0530" stop="20240313084000 +0530" channel="AasthaBhajan.in">
     <title lang="en">Shradhey Acharya Balkrishnaji</title>
-    <desc lang="en">Ayurved Darshan: Acharya Bal Krishna, a religious scholar, delivers a spiritual discourse and talks about the importance of leading a righteous life.</desc>
+    <desc lang="en">Roganusar Ayurved Evam Jivan Darshan - Padar Rog (Leukocoria Diseases ): Acharya Bal Krishna, a religious scholar, delivers a spiritual discourse and talks about the importance of leading a righteous life.</desc>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97E7083B4615074965074B9D831EAE3461534E5EN.jpg"/>
   </programme>
-  <programme start="20240313084000 +0530" stop="20240313090000 +0530" channel="AasthaBhajan.in">
+  <programme start="20240313084000 +0530" stop="20240313090100 +0530" channel="AasthaBhajan.in">
     <title lang="en">Pujya Sant Shri Bharat Sharanji Maharaj</title>
-    <desc lang="en">Bharat Sharan Ji, a religious leader, delivers discourses on Hinduism and guides people to pursue the path of righteousness.</desc>
+    <desc lang="en">Shreemad Bhagwat Katha: Bharat Sharan Ji, a religious leader, delivers discourses on Hinduism and guides people to pursue the path of righteousness.</desc>
     <credits>
       <actor>Bharat Sharan</actor>
     </credits>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/888E6C66D1DC4023BB516696807C0B7372E6D6EFJ.jpg"/>
   </programme>
-  <programme start="20240313090000 +0530" stop="20240313100000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Pandokhar Dham Sarkar Guruji</title>
-    <desc lang="en">Pandokhar Dham Sarkar Guruji delivers a discourse on various aspects of spirituality and encourages people to follow the path of righteousness.</desc>
+  <programme start="20240313090100 +0530" stop="20240313100000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pandokar Dham Sarkar Guruji</title>
+    <desc lang="en">Pandokar Divya Darbar: A religious leader delivers a discourse on Hinduism, explains sacred verses and guides people to pursue the path of righteousness.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9175A2C7857D73896D00C41706F7E9929CC3B0F04.jpg"/>
+  </programme>
+  <programme start="20240313100000 +0530" stop="20240313101800 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Didi Maa Ritambharaji</title>
+    <desc lang="en">Vatsalya Nirzar: Religious leader Didi Maa Sadhvi Ritambharaji delivers a discourse on the Bhagwat Katha.</desc>
     <credits>
-      <actor>Pandokhar Dham Sarkar</actor>
+      <actor>Maa Sadhvi Ritambharaji</actor>
     </credits>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/871A61DB8AB4D35CABD0241629FD43367D463C143.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/27592AB52730D2EE9118695325483CF1D53BBD98O.jpg"/>
   </programme>
-  <programme start="20240313100000 +0530" stop="20240313130000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Aastha Bhajan Special</title>
-    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
+  <programme start="20240313101800 +0530" stop="20240313102900 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Dwarkadheesh Mandir Dwarka Gujarat</title>
+    <desc lang="en">P. M. Narender Modi - Mib</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/AA827802B8D0774BA9BBFFA423A3D0F3FAD696181.jpg"/>
+  </programme>
+  <programme start="20240313102900 +0530" stop="20240313105300 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Giri Bapu</title>
+    <desc lang="en">Shiv Sharnam: Giri Bapu, a religious leader, recites the Shiv Katha describing the pastimes of Lord Shiva and also emphasises the right way of living.</desc>
     <credits>
-      <actor>Surabhi Parmar</actor>
+      <actor>Giri Bapu</actor>
     </credits>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5B907738027DE63C5EBD54E8DF776FD882252EDCS.jpg"/>
   </programme>
-  <programme start="20240313130000 +0530" stop="20240313160000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Balvyas Vivekji Maharaj Live</title>
-    <desc lang="en">Shreemadbhagwat Katha: A Hindu religious scholar delivers a discourse based on the teachings of the sacred scriptures and urges the devotees to follow the path of righteousness, live.</desc>
+  <programme start="20240313105300 +0530" stop="20240313110100 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Kabir Dohe</title>
+    <desc lang="en">Ramashish Ji: A talented singer recites verses from the poems of Kabir, an ancient Indian poet and enlightens the followers on spirituality.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F02F049FC0290B1098E8392EB349113C794A8E57T.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A2D5B9ADED955906EC72550138EB456B2519F42S.jpg"/>
   </programme>
-  <programme start="20240313160000 +0530" stop="20240313190000 +0530" channel="AasthaBhajan.in">
+  <programme start="20240313110100 +0530" stop="20240313112300 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Sanjeev Krishan Thakurji</title>
+    <desc lang="en">Bhakti Dhara: Sanjeev Krishan Thakurji, a religious leader, delivers discourses on Hinduism and guides people to pursue the path of righteousness.</desc>
+    <credits>
+      <actor>Sanjeev Krishan Thakurji</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C55C184DB95C5121A381E5F25A797AC976F98AE1Q.jpg"/>
+  </programme>
+  <programme start="20240313112300 +0530" stop="20240313113000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Shambhu - Akshay Kumar, Sudhir Yaduvanshi, Vikram Montrose (Shiv): A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/793A51281034FD211ABC4FBC638C816B08412137V.jpg"/>
+  </programme>
+  <programme start="20240313113000 +0530" stop="20240313115200 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Ankush Ji Maharaj</title>
+    <desc lang="en">Ankush Ji Maharaj, who is revered for his knowledge and explanations of Bhagavata Purana and Ram Katha, delivers a discourse to his followers.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/876C08EEF9F576AEF8E22F28EDCA4CDC297B5C5AC.jpg"/>
+  </programme>
+  <programme start="20240313115200 +0530" stop="20240313115900 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Pujya Sulabh Shantuji Maharaj - Achutam Keshvam Krishna (krishna): A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/793A51281034FD211ABC4FBC638C816B08412137V.jpg"/>
+  </programme>
+  <programme start="20240313115900 +0530" stop="20240313122100 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aastha Bhajan</title>
+    <desc lang="en">Pujya Mahesh Guru Ji: A comprehensive compilation of some of the most melodious devotional songs are played back-to-back in order to entertain the viewers.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ECA375BF8BCEA612483BB11548806753576F2411P.jpg"/>
+  </programme>
+  <programme start="20240313122100 +0530" stop="20240313122900 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Kabir Dohe</title>
+    <desc lang="en">Ramashish Ji: A talented singer recites verses from the poems of Kabir, an ancient Indian poet and enlightens the followers on spirituality.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A2D5B9ADED955906EC72550138EB456B2519F42S.jpg"/>
+  </programme>
+  <programme start="20240313122900 +0530" stop="20240313125200 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aastha Bhajan</title>
+    <desc lang="en">Pujya Brajanandan Ji Maharaj: A comprehensive compilation of some of the most melodious devotional songs are played back-to-back in order to entertain the viewers.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ECA375BF8BCEA612483BB11548806753576F2411P.jpg"/>
+  </programme>
+  <programme start="20240313125200 +0530" stop="20240313130100 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Pujya Aacharya Ramji Maharaj</title>
+    <desc lang="en">Om Namah Shivay Om Namah Shivay (shiv): A religious leader sheds light on the teachings of the Almighty and encourages the followers to take the path of spirituality.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F62777EDC39DB6D4659A723FFF79D08032E7764Y.jpg"/>
+  </programme>
+  <programme start="20240313130100 +0530" stop="20240313160100 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Ramchandradasji Maharaj Live</title>
+    <desc lang="en">Ram Katha - Narayana -Day-02: Ramchandra Das, a religious leader, delivers a discourse on Hinduism and guides people to pursue the path of righteousness, live.</desc>
+    <credits>
+      <actor>Ramchandra Das</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C2D4232A00458412B1BBE957AFAD3A223A919641F.jpg"/>
+  </programme>
+  <programme start="20240313160100 +0530" stop="20240313190000 +0530" channel="AasthaBhajan.in">
     <title lang="en">Pujya Bhaskaranandji Maharaj Live</title>
-    <desc lang="en">Shreemadbhagwat Katha: Pujya Bhaskaranandji Maharaj delivers a discourse on the various aspects of religion and spirituality and sheds light on the lessons one can learn from the scriptures, live.</desc>
+    <desc lang="en">Shreemadbhagwat Katha Day-5: Pujya Bhaskaranandji Maharaj delivers a discourse on the various aspects of religion and spirituality and sheds light on the lessons one can learn from the scriptures, live.</desc>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/23E93B5E79C35C2E651E5C6CC716C7EED786433CY.jpg"/>
   </programme>
-  <programme start="20240313190000 +0530" stop="20240313193000 +0530" channel="AasthaBhajan.in">
+  <programme start="20240313190000 +0530" stop="20240313193800 +0530" channel="AasthaBhajan.in">
     <title lang="en">Yamuna Aarti</title>
-    <desc lang="en">Guru Sharnanandji Maharaj: Hindu priests and devotees offer prayers to the Yamuna river by performing various rituals and singing devotional songs.</desc>
+    <desc lang="en">Swami Gurusharnanandji Maharaj: Hindu priests and devotees offer prayers to the Yamuna river by performing various rituals and singing devotional songs.</desc>
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D7653C91B33BC2602FEECE2A7676C97F129F98BX.jpg"/>
   </programme>
-  <programme start="20240313193000 +0530" stop="20240313194000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Aastha Bhajan Special</title>
-    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
-    <credits>
-      <actor>Surabhi Parmar</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+  <programme start="20240313193800 +0530" stop="20240313195200 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Dekho Apna Desh</title>
+    <desc lang="en">Barsana: Through a webinar, the Ministry of Tourism provides in-depth knowledge on the diverse and remarkable destinations in India.</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/73D6927B843C90964FA01AB9C935CE05BEB2AE3B3.jpg"/>
   </programme>
-  <programme start="20240313194000 +0530" stop="20240313200000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Aastha Bhajan Special</title>
-    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
-    <credits>
-      <actor>Surabhi Parmar</actor>
-    </credits>
+  <programme start="20240313195200 +0530" stop="20240313200000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Ayodhya Ram Mandir</title>
+    <desc lang="en">P. M. Narender Modi - MIB: A religious leader provides a detailed discourse on the spiritual significance of the Ram Mandir in Ayodhya, Uttar Pradesh.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/459F39EE425626A3A77FACA8B0AAB104D3C5EB65S.jpg"/>
   </programme>
-  <programme start="20240313200000 +0530" stop="20240313203000 +0530" channel="AasthaBhajan.in">
+  <programme start="20240313200000 +0530" stop="20240313202500 +0530" channel="AasthaBhajan.in">
     <title lang="en">Pujya Dr. Vijaya Madhavji</title>
     <desc lang="en">Geeta Pravachan: Pujya Dr Vijaya Madhav Ji delivers a discourse based on the sacred scriptures and urges the devotees to follow the path of righteousness.</desc>
     <credits>
@@ -621,44 +396,62 @@
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C2E19B82947B31676730F0B398C606A5639F1D36.jpg"/>
   </programme>
-  <programme start="20240313203000 +0530" stop="20240313204000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Aastha Bhajan Special</title>
-    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
+  <programme start="20240313202500 +0530" stop="20240313203300 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Sulabh Shantu Guru Ji</title>
+    <desc lang="en">Religious expert, Pujya Sulabh Shantu Guru Ji imparts divine knowledge and rituals to the audience to help them understand the teachings of Hinduism.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B75F3F3D0BAF52FE0D6285926FDC3888F4EBC5F92.jpg"/>
+  </programme>
+  <programme start="20240313203300 +0530" stop="20240313204000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Shankara</title>
+    <desc lang="en">Swami Shri Padmanabh Sharan &amp; Suhit Abhyankar (times Music): Talented musicians and singers deliver a melodious performance of devotional songs praising the Almighty to seek blessings.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEAF2C96A7CE0C81BA834EF34EEEC119AC9261FEI.jpg"/>
+  </programme>
+  <programme start="20240313204000 +0530" stop="20240313210400 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Swami Krishnanand Ji Maharaj</title>
+    <desc lang="en">Swar Yog Sadhna: Religious leader Swami Krishnanand talks about studying oneself as he delivers a discourse on the various aspects of spirituality, prayer and worship.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/465B08FDA1BA9BEF3124C4E5A575A7749304343E3.jpg"/>
+  </programme>
+  <programme start="20240313210400 +0530" stop="20240313223500 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Sadguru Swami Nityaswarupdasji</title>
+    <desc lang="en">Shree Swaminarayan Ghar Sabha - Day-1078: A religious leader delivers a discourse on various teachings and principles from Hindu scriptures and urges followers to reflect on the same.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E6873CEA4A8B99684BAA1D70A206237CDCEC0324.jpg"/>
+  </programme>
+  <programme start="20240313223500 +0530" stop="20240313230200 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Shri Shayam Vandana</title>
+    <desc lang="en">Nandu bhaiyaji: A religious leader sings devotional songs and bhajans in front of a group of devotees and encourages them to follow the teachings of the lord.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0A4B6DCC88F291E13ED497F897C78D92AEE80417B.jpg"/>
+  </programme>
+  <programme start="20240313230200 +0530" stop="20240313232400 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Avdheshanand Giri Ji Maharaj</title>
+    <desc lang="en">A religious leader sheds light on the teachings of the Almighty and encourages the followers to take the path of spirituality.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4C36CFC7D4DB776B70FF95AB083E0DC261B1B3F91.jpg"/>
+  </programme>
+  <programme start="20240313232400 +0530" stop="20240313233100 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">Pujya Ram Vilas Chaturvediji Maharaj - Itna Toh Karna Swami (gen): A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/793A51281034FD211ABC4FBC638C816B08412137V.jpg"/>
+  </programme>
+  <programme start="20240313233100 +0530" stop="20240313235300 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Sanjeev Krishan Thakurji</title>
+    <desc lang="en">Bhakti Dhara: Sanjeev Krishan Thakurji, a religious leader, delivers discourses on Hinduism and guides people to pursue the path of righteousness.</desc>
     <credits>
-      <actor>Surabhi Parmar</actor>
+      <actor>Sanjeev Krishan Thakurji</actor>
     </credits>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C55C184DB95C5121A381E5F25A797AC976F98AE1Q.jpg"/>
   </programme>
-  <programme start="20240313204000 +0530" stop="20240313210000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Swami Krishananandji Maharaj</title>
-    <desc lang="en">Religious speaker Swami Krishananandji Maharaj preaches the Word of God to devotees while guiding them to lead a spiritual life.</desc>
+  <programme start="20240313235300 +0530" stop="20240314000000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Madhur Krishna Ji Maharaj</title>
+    <desc lang="en">Govardhan Girdhariji (krishna): A religious leader sheds light on the teachings of the Almighty and encourages the followers to take the spiritual path.</desc>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEF163D99B041D2E57330C5365755A6465D2D506W.jpg"/>
-  </programme>
-  <programme start="20240313210000 +0530" stop="20240313222000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Pujya Sadguru Swami Nityaswarupdasji Live</title>
-    <desc lang="en">Shree Swaminarayan Ghar Sabha: A religious leader delivers a discourse on the teachings of Hinduism and inspires devotees to follow a path of righteousness, live.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0178ABF3CEF4FFD7063AB9F3A385F56A333772DFO.jpg"/>
-  </programme>
-  <programme start="20240313222000 +0530" stop="20240313223000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Aastha Bhajan Special</title>
-    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
-    <credits>
-      <actor>Surabhi Parmar</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
-  </programme>
-  <programme start="20240313223000 +0530" stop="20240314000000 +0530" channel="AasthaBhajan.in">
-    <title lang="en">Aastha Bhajan Special</title>
-    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
-    <credits>
-      <actor>Surabhi Parmar</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFAA7CB5928B6536BD3508806B362094A660D59DK.jpg"/>
   </programme>
   <programme start="20240314000000 +0530" stop="20240314003000 +0530" channel="AasthaBhajan.in">
     <title lang="en">Kishanbhaiya Sirsawale</title>
@@ -895,6 +688,246 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
   </programme>
   <programme start="20240314223000 +0530" stop="20240315000000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aastha Bhajan Special</title>
+    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
+    <credits>
+      <actor>Surabhi Parmar</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+  </programme>
+  <programme start="20240315000000 +0530" stop="20240315003000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Kishanbhaiya Sirsawale</title>
+    <desc lang="en">Bhakti Ke Rang: Devotees come together and sing a select compilation of hymns praising their deity and ask for blessings to make their life fulfilling.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F121AE8DEBC466D7085E50FC9B724AD2D312D508.jpg"/>
+  </programme>
+  <programme start="20240315003000 +0530" stop="20240315023000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aastha Bhajan Special</title>
+    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
+    <credits>
+      <actor>Surabhi Parmar</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+  </programme>
+  <programme start="20240315023000 +0530" stop="20240315030000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Radha Krishan Ji Maharaj</title>
+    <desc lang="en">Prabhu Upasana: Radha Krishan Ji Maharaj delivers a discourse on adopting the spiritual path set by God.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1005421F9D4CDC69692CBB7C1C44E1AB3F740317R.jpg"/>
+  </programme>
+  <programme start="20240315030000 +0530" stop="20240315033000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aastha Bhajan Special</title>
+    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
+    <credits>
+      <actor>Surabhi Parmar</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+  </programme>
+  <programme start="20240315033000 +0530" stop="20240315040000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aastha Bhajan Special</title>
+    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
+    <credits>
+      <actor>Surabhi Parmar</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+  </programme>
+  <programme start="20240315040000 +0530" stop="20240315040300 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Jinchandraji Maharaj</title>
+    <desc lang="en">Manglik: Religious leader Jinchandraji delivers a discourse based on verses from Jain scriptures and explains their spiritual significance to the devout followers.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/659755E362D93A9A8A69100DA8AB5DD2F92ABCD32.jpg"/>
+  </programme>
+  <programme start="20240315040300 +0530" stop="20240315041000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aarti</title>
+    <desc lang="en">A compilation of melodious devotional songs performed by various religious leaders in order to seek blessings from the Almighty.</desc>
+    <credits>
+      <actor>Sanjay Gulhati</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CFE749E7B1EF99E923585725D9257AE29B8733CB0.jpg"/>
+  </programme>
+  <programme start="20240315041000 +0530" stop="20240315042000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Chalisa</title>
+    <desc lang="en">A religious leader recites holy verses dedicated to various Hindu gods and offers prayers to them in order to ward off all negative energy and bad luck.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AAC5AB01FBB43B94667C90BFAFB4F6CBBB5366742.jpg"/>
+  </programme>
+  <programme start="20240315042000 +0530" stop="20240315043000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Mantra</title>
+    <desc lang="en">Mantra</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0B5DD7ED602DB25E72095DE29D3EB2F059E555BF9.jpg"/>
+  </programme>
+  <programme start="20240315043000 +0530" stop="20240315044500 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Darshanam</title>
+    <desc lang="en">A devout priest recites 'mantras' and chants in the presence of devotees, who hope to win the blessings of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3264D6CCAE5C5317ADDB8B887104DE5E163A0BE6N.jpg"/>
+  </programme>
+  <programme start="20240315044500 +0530" stop="20240315050000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Ved Vani</title>
+    <desc lang="en">Various religious leaders, scholars and priests perform ritual prayers and recite the four Vedas with a group of devotees.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CB2CE5F76ADD565E60C113AB1E6F3BA34E818D7T.jpg"/>
+  </programme>
+  <programme start="20240315050000 +0530" stop="20240315060000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Yog Rishi Swami Ramdevji</title>
+    <desc lang="en">Brahmayagna: Spiritual leader Yog Rishi Swami Ramdevji delivers a religious discourse to the audience in praise of the all-powerful Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8A1449BEA1D4240129A2D8B7DF1891B2AADEBE891.jpg"/>
+  </programme>
+  <programme start="20240315060000 +0530" stop="20240315064000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aartiya And Chalisa</title>
+    <desc lang="en">A priest performs a holy ritual in obeisance of the Almighty and chants a devotional hymn in praise of Lord Hanuman at a temple.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29FBFA1BD1A395A0C7B7A0B59824C3E978A0076FL.jpg"/>
+  </programme>
+  <programme start="20240315064000 +0530" stop="20240315070000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Laxmi Chalisa</title>
+    <desc lang="en">Devotees recite the Laxmi Chalisa to offer their prayers to Goddess Laxmi and seek blessings.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63BC04D3476E338E903EE94F77124D6EB202FD8AK.jpg"/>
+  </programme>
+  <programme start="20240315070000 +0530" stop="20240315072000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Gaurishi Swami Shriduttsharnanandji</title>
+    <desc lang="en">Santvani Pravachan: A religious leader gives a discourse on the teachings from the scriptures and urges the devotees to walk the path of righteousness.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2DB4BBBC932E491E3836094793404C1660169813C.jpg"/>
+  </programme>
+  <programme start="20240315072000 +0530" stop="20240315074000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aastha Bhajan Special</title>
+    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
+    <credits>
+      <actor>Surabhi Parmar</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+  </programme>
+  <programme start="20240315074000 +0530" stop="20240315080000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Guru Maa Shubha Didi</title>
+    <desc lang="en">Guru Maa Shubha Didi, a religious leader, delivers a discourse on the importance of the teachings of Hinduism and explains their significance in the lives of people.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9C2197CF6117B0A2D19BA140B18CF1EA0116B16G.jpg"/>
+  </programme>
+  <programme start="20240315080000 +0530" stop="20240315082000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Yog Rishi Swami Ramdevji</title>
+    <desc lang="en">Bhakti Geetanjali: Spiritual leader Yog Rishi Swami Ramdevji delivers a religious discourse to the audience in praise of the all-powerful Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8A1449BEA1D4240129A2D8B7DF1891B2AADEBE891.jpg"/>
+  </programme>
+  <programme start="20240315082000 +0530" stop="20240315084000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Shradhey Acharya Balkrishnaji</title>
+    <desc lang="en">Ayurved Darshan: Acharya Bal Krishna, a religious scholar, delivers a spiritual discourse and talks about the importance of leading a righteous life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97E7083B4615074965074B9D831EAE3461534E5EN.jpg"/>
+  </programme>
+  <programme start="20240315084000 +0530" stop="20240315090000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Sant Shri Bharat Sharanji Maharaj</title>
+    <desc lang="en">Bharat Sharan Ji, a religious leader, delivers discourses on Hinduism and guides people to pursue the path of righteousness.</desc>
+    <credits>
+      <actor>Bharat Sharan</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/888E6C66D1DC4023BB516696807C0B7372E6D6EFJ.jpg"/>
+  </programme>
+  <programme start="20240315090000 +0530" stop="20240315100000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Pandokhar Dham Sarkar Guruji</title>
+    <desc lang="en">Pandokhar Dham Sarkar Guruji delivers a discourse on various aspects of spirituality and encourages people to follow the path of righteousness.</desc>
+    <credits>
+      <actor>Pandokhar Dham Sarkar</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/871A61DB8AB4D35CABD0241629FD43367D463C143.jpg"/>
+  </programme>
+  <programme start="20240315100000 +0530" stop="20240315130000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aastha Bhajan Special</title>
+    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
+    <credits>
+      <actor>Surabhi Parmar</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+  </programme>
+  <programme start="20240315130000 +0530" stop="20240315160000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Balvyas Vivekji Maharaj Live</title>
+    <desc lang="en">Shreemadbhagwat Katha: A Hindu religious scholar delivers a discourse based on the teachings of the sacred scriptures and urges the devotees to follow the path of righteousness, live.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F02F049FC0290B1098E8392EB349113C794A8E57T.jpg"/>
+  </programme>
+  <programme start="20240315160000 +0530" stop="20240315190000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Bhaskaranandji Maharaj Live</title>
+    <desc lang="en">Shreemadbhagwat Katha: Pujya Bhaskaranandji Maharaj delivers a discourse on the various aspects of religion and spirituality and sheds light on the lessons one can learn from the scriptures, live.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/23E93B5E79C35C2E651E5C6CC716C7EED786433CY.jpg"/>
+  </programme>
+  <programme start="20240315190000 +0530" stop="20240315193000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Yamuna Aarti</title>
+    <desc lang="en">Guru Sharnanandji Maharaj: Hindu priests and devotees offer prayers to the Yamuna river by performing various rituals and singing devotional songs.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D7653C91B33BC2602FEECE2A7676C97F129F98BX.jpg"/>
+  </programme>
+  <programme start="20240315193000 +0530" stop="20240315194000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aastha Bhajan Special</title>
+    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
+    <credits>
+      <actor>Surabhi Parmar</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+  </programme>
+  <programme start="20240315194000 +0530" stop="20240315200000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aastha Bhajan Special</title>
+    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
+    <credits>
+      <actor>Surabhi Parmar</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+  </programme>
+  <programme start="20240315200000 +0530" stop="20240315203000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Dr. Vijaya Madhavji</title>
+    <desc lang="en">Geeta Pravachan: Pujya Dr Vijaya Madhav Ji delivers a discourse based on the sacred scriptures and urges the devotees to follow the path of righteousness.</desc>
+    <credits>
+      <actor>Vijaya Madhav Ji</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C2E19B82947B31676730F0B398C606A5639F1D36.jpg"/>
+  </programme>
+  <programme start="20240315203000 +0530" stop="20240315204000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aastha Bhajan Special</title>
+    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
+    <credits>
+      <actor>Surabhi Parmar</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+  </programme>
+  <programme start="20240315204000 +0530" stop="20240315210000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Swami Krishananandji Maharaj</title>
+    <desc lang="en">Religious speaker Swami Krishananandji Maharaj preaches the Word of God to devotees while guiding them to lead a spiritual life.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEF163D99B041D2E57330C5365755A6465D2D506W.jpg"/>
+  </programme>
+  <programme start="20240315210000 +0530" stop="20240315222000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Pujya Sadguru Swami Nityaswarupdasji Live</title>
+    <desc lang="en">Shree Swaminarayan Ghar Sabha: A religious leader delivers a discourse on the teachings of Hinduism and inspires devotees to follow a path of righteousness, live.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0178ABF3CEF4FFD7063AB9F3A385F56A333772DFO.jpg"/>
+  </programme>
+  <programme start="20240315222000 +0530" stop="20240315223000 +0530" channel="AasthaBhajan.in">
+    <title lang="en">Aastha Bhajan Special</title>
+    <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
+    <credits>
+      <actor>Surabhi Parmar</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E97F90DE0C9C2BEE7250FD22751C6140615E6207G.jpg"/>
+  </programme>
+  <programme start="20240315223000 +0530" stop="20240316000000 +0530" channel="AasthaBhajan.in">
     <title lang="en">Aastha Bhajan Special</title>
     <desc lang="en">A religious gathering of devotees, wherein popular devotional songs are sung by various spiritual leaders in the presence of an audience.</desc>
     <credits>

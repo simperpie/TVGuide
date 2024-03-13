@@ -3,585 +3,6 @@
   <channel id="SonyPal.in">
     <display-name lang="en">Sony Pal</display-name>
   </channel>
-  <programme start="20240312000000 +0530" stop="20240312002300 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Taarak and Jethalal land in trouble when a woman accuses Taarak of taking her pictures.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.1221.</episode-num>
-  </programme>
-  <programme start="20240312002300 +0530" stop="20240312004600 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Taarak, Popatlal and Jethalal team up with Inspector Pandey to nab Jethalal's stalker.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.1222.</episode-num>
-  </programme>
-  <programme start="20240312004600 +0530" stop="20240312010900 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">As the festival of Raksha Bandhan approaches, the ladies of Gokuldham Society get unique rakhis to celebrate. On the other hand, Jethalal's business flourishes in the festive season.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.201.</episode-num>
-  </programme>
-  <programme start="20240312010900 +0530" stop="20240312013200 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Jethalal and his entire family receive an all-expenses-paid trip to London when he sells numerous televisions of one brand. So, the Gokuldham Society members visit them to congratulate them.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.202.</episode-num>
-  </programme>
-  <programme start="20240312013200 +0530" stop="20240312015500 +0530" channel="SonyPal.in">
-    <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
-    <desc lang="en">Sai sees the old man's sons fighting over their mother's jewellery and tells the old man to have faith; Ratnakar sends out invitations to Kulkarni, Appa and Kishan Lal.</desc>
-    <credits>
-      <actor>Abeer Soofi</actor>
-      <actor>Toral Rasputra</actor>
-      <actor>Vaibhav Mangle</actor>
-      <actor>Abhishek Nigam</actor>
-      <actor>Tarun Khanna</actor>
-      <actor>Hemant Thatte</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F240104EB2FDA654990F3AA59B267CF6469BD93J.jpg"/>
-    <episode-num system="xmltv_ns">.140.</episode-num>
-  </programme>
-  <programme start="20240312015500 +0530" stop="20240312021800 +0530" channel="SonyPal.in">
-    <title lang="en">Punyashlok Ahilya Bai</title>
-    <desc lang="en">Ahilya excitedly watches the annual pilgrimage of devotees of Shiva when Sushila scolds her for not making 'dashmi' properly. Elsewhere, Malhar Rao prays in front of Shiva's palki before carrying it.</desc>
-    <credits>
-      <actor>Aditi Jaltare</actor>
-      <actor>Rajesh Shringarpure</actor>
-      <actor>Krish Chauhan</actor>
-      <actor>Snehlata Vasaikar</actor>
-      <actor>Srijana Srj</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CE77790129B803D53FE02816570EEB2CC45EA88B.jpg"/>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20240312021800 +0530" stop="20240312024100 +0530" channel="SonyPal.in">
-    <title lang="en">Baalveer Returns</title>
-    <desc lang="en">As the costume party gets underway, Timnasa threatens to take Vivaan away with her. Later, she tries to execute her plan.</desc>
-    <credits>
-      <actor>Dev Joshi</actor>
-      <actor>Sharmili Raj</actor>
-      <actor>Shreedhar Watsar</actor>
-      <actor>Khushi Mukherjee</actor>
-      <actor>Amika Sahil</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
-    <episode-num system="xmltv_ns">.84.</episode-num>
-  </programme>
-  <programme start="20240312024100 +0530" stop="20240312030400 +0530" channel="SonyPal.in">
-    <title lang="en">Baalveer Returns</title>
-    <desc lang="en">Timnasa interchanges Vivaan and Chintu's soul with each other before kidnapping Chintu. Later, she brainwashes Chintu.</desc>
-    <credits>
-      <actor>Dev Joshi</actor>
-      <actor>Sharmili Raj</actor>
-      <actor>Shreedhar Watsar</actor>
-      <actor>Khushi Mukherjee</actor>
-      <actor>Amika Sahil</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
-    <episode-num system="xmltv_ns">.85.</episode-num>
-  </programme>
-  <programme start="20240312030400 +0530" stop="20240312034800 +0530" channel="SonyPal.in">
-    <title lang="en">CID</title>
-    <desc lang="en">Vishal's fiancee is helping him find the culprits behind his missing sister. Team CID steps in when she too disappears and they bump into Rocky, an elusive man, who helps them find a suspect.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1343.</episode-num>
-  </programme>
-  <programme start="20240312034800 +0530" stop="20240312043200 +0530" channel="SonyPal.in">
-    <title lang="en">CID</title>
-    <desc lang="en">An actress is threatened by her ex-boyfriend on the set of her film. The same night she is found murdered in her house and Team CID is called to investigate the case.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.597.</episode-num>
-  </programme>
-  <programme start="20240312043200 +0530" stop="20240312051600 +0530" channel="SonyPal.in">
-    <title lang="en">CID</title>
-    <desc lang="en">During an intercollegiate basketball cup final, the captain of Angel College dies under mysterious circumstances. While investigating, Team CID learn that the victim died because of electrocution.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.599.</episode-num>
-  </programme>
-  <programme start="20240312051600 +0530" stop="20240312060000 +0530" channel="SonyPal.in">
-    <title lang="en">CID</title>
-    <desc lang="en">While trying to help a young ragpicker and his ailing mother, Daya gets entangled in a fake currency scam and a murder. Meanwhile, the boy and his mother also get kidnapped.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1184.</episode-num>
-  </programme>
-  <programme start="20240312060000 +0530" stop="20240312070000 +0530" channel="SonyPal.in">
-    <title lang="en">CID</title>
-    <desc lang="en">When Daya discovers a skeleton buried in a divider, the CID team interrogates the contractor who built the divider to find some clues.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.925.</episode-num>
-  </programme>
-  <programme start="20240312070000 +0530" stop="20240312071500 +0530" channel="SonyPal.in">
-    <title lang="en">Honey Bunny Ka Jholmaal</title>
-    <desc lang="en">Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.</desc>
-    <credits>
-      <actor>Mubeen Saudagar</actor>
-      <actor>Meena Nahata</actor>
-      <actor>Dolly Lopes</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7138CC09D583AF79676AFF7EE498F3C7F19A4253J.jpg"/>
-  </programme>
-  <programme start="20240312071500 +0530" stop="20240312073000 +0530" channel="SonyPal.in">
-    <title lang="en">Honey Bunny Ka Jholmaal</title>
-    <desc lang="en">Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.</desc>
-    <credits>
-      <actor>Mubeen Saudagar</actor>
-      <actor>Meena Nahata</actor>
-      <actor>Dolly Lopes</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7138CC09D583AF79676AFF7EE498F3C7F19A4253J.jpg"/>
-  </programme>
-  <programme start="20240312073000 +0530" stop="20240312080000 +0530" channel="SonyPal.in">
-    <title lang="en">Malegaon Ka Chintu</title>
-    <desc lang="en">Chintu is late for his date with Pinky.</desc>
-    <credits>
-      <actor>Al Amin</actor>
-      <actor>Ashwini Khairnar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9DD302F496EF552A1E0D717F9C70ACA6D5E6BD9AG.jpg"/>
-    <episode-num system="xmltv_ns">.24.</episode-num>
-  </programme>
-  <programme start="20240312080000 +0530" stop="20240312083000 +0530" channel="SonyPal.in">
-    <title lang="en">Baal Veer</title>
-    <desc lang="en">Rocky fails to understand the reason behind his strength. In the meantime, Meher's grandfather lands himself in a challenge to compete with a professional wrestler.</desc>
-    <credits>
-      <actor>Dev Joshi</actor>
-      <actor>Karishma Tanna</actor>
-      <actor>Shweta Kwatra</actor>
-      <actor>Aditi Sajwan</actor>
-      <actor>Shama Sikander</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/365BF8E15E509660E5A57679F181CB9BEA520AFF7.jpg"/>
-    <episode-num system="xmltv_ns">.322.</episode-num>
-  </programme>
-  <programme start="20240312083000 +0530" stop="20240312090000 +0530" channel="SonyPal.in">
-    <title lang="en">Baal Veer</title>
-    <desc lang="en">Mahesh's family is surprised when his father reveals about the wrestling challenge. Further, Mahesh's father becomes strong after consuming the magical syrup.</desc>
-    <credits>
-      <actor>Dev Joshi</actor>
-      <actor>Karishma Tanna</actor>
-      <actor>Shweta Kwatra</actor>
-      <actor>Aditi Sajwan</actor>
-      <actor>Shama Sikander</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/365BF8E15E509660E5A57679F181CB9BEA520AFF7.jpg"/>
-    <episode-num system="xmltv_ns">.323.</episode-num>
-  </programme>
-  <programme start="20240312090000 +0530" stop="20240312093000 +0530" channel="SonyPal.in">
-    <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
-    <desc lang="en">Sai sees the old man's sons fighting over their mother's jewellery and tells the old man to have faith; Ratnakar sends out invitations to Kulkarni, Appa and Kishan Lal.</desc>
-    <credits>
-      <actor>Abeer Soofi</actor>
-      <actor>Toral Rasputra</actor>
-      <actor>Vaibhav Mangle</actor>
-      <actor>Abhishek Nigam</actor>
-      <actor>Tarun Khanna</actor>
-      <actor>Hemant Thatte</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F240104EB2FDA654990F3AA59B267CF6469BD93J.jpg"/>
-    <episode-num system="xmltv_ns">.140.</episode-num>
-  </programme>
-  <programme start="20240312093000 +0530" stop="20240312100000 +0530" channel="SonyPal.in">
-    <title lang="en">Punyashlok Ahilya Bai</title>
-    <desc lang="en">Ahilya excitedly watches the annual pilgrimage of devotees of Shiva when Sushila scolds her for not making 'dashmi' properly. Elsewhere, Malhar Rao prays in front of Shiva's palki before carrying it.</desc>
-    <credits>
-      <actor>Aditi Jaltare</actor>
-      <actor>Rajesh Shringarpure</actor>
-      <actor>Krish Chauhan</actor>
-      <actor>Snehlata Vasaikar</actor>
-      <actor>Srijana Srj</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CE77790129B803D53FE02816570EEB2CC45EA88B.jpg"/>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme start="20240312100000 +0530" stop="20240312103000 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">Tapu Sena has organized 'Kaun Banega Murga' contest. Who will lose the contest and become a 'murga'? Repeat - Wed - Fri 10:00 am.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.1232.</episode-num>
-  </programme>
-  <programme start="20240312103000 +0530" stop="20240312110000 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">After Iyer and Natu Kaka, Jethalal takes the stage and truly ends up with a tough task. Repeat - Wed - Fri 10:00 am.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.1233.</episode-num>
-  </programme>
-  <programme start="20240312110000 +0530" stop="20240312113000 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">The Gada family prepares in full swing for their visit to London. On the other hand, Jethalal receives a piece of awful news that is sure to make his family unhappy. Repeat - Wed - Fri 10:00 am.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.203.</episode-num>
-  </programme>
-  <programme start="20240312113000 +0530" stop="20240312120000 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">A heartbroken Jethalal contemplates how to break the news about the London trip. On the other hand, the ladies of Gokuldham Society celebrate Raksha Bandhan in full swing. Repeat - Wed - Fri 10:00 am.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.204.</episode-num>
-  </programme>
-  <programme start="20240312120000 +0530" stop="20240312130000 +0530" channel="SonyPal.in">
-    <title lang="en">CID</title>
-    <desc lang="en">An NRI couple relocates to India and wishes to reopen an orphanage. However, their son becomes friends with four neighbourhood children, and later, goes missing. Repeat - Mon - Fri 3:54 am.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1186.</episode-num>
-  </programme>
-  <programme start="20240312130000 +0530" stop="20240312140000 +0530" channel="SonyPal.in">
-    <title lang="en">CID</title>
-    <desc lang="en">A magician's magic trick goes wrong when a girl gets killed during one of his acts. When the CID team begins to investigate the case, they find a knife hidden in the box.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.924.</episode-num>
-  </programme>
-  <programme start="20240312140000 +0530" stop="20240312150000 +0530" channel="SonyPal.in">
-    <title lang="en">CID</title>
-    <desc lang="en">Billu, a music teacher who tutors a girl in a mysterious mansion, fails to return home. When his folks come looking, they are shocked to see him in blood-soaked clothes, playing the piano in a trance. Repeat - Mon - Fri 3:54 am.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1344.</episode-num>
-  </programme>
-  <programme start="20240312150000 +0530" stop="20240312160000 +0530" channel="SonyPal.in">
-    <title lang="en">Adaalat</title>
-    <desc lang="en">When a journalist is found dead on the railway tracks, a rival journalist gets arrested. However, while KD takes up the case, he is in for a shock.</desc>
-    <credits>
-      <actor>Ronit Roy</actor>
-      <actor>Romit Raaj</actor>
-      <actor>Shraman Jain</actor>
-      <actor>Prerna Wanvari</actor>
-      <actor>Niloufer</actor>
-      <actor>Mushtaq Khan</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57C12A8CE95B0612B5569299F9ADC2D89C5E200BU.jpg"/>
-    <episode-num system="xmltv_ns">.341.</episode-num>
-  </programme>
-  <programme start="20240312160000 +0530" stop="20240312170000 +0530" channel="SonyPal.in">
-    <title lang="en">Adaalat</title>
-    <desc lang="en">Chaos ensues as a pet cat named Angel attacks its owner and kills her. When history repeats itself a while later, a court announces a death sentence for the cat.</desc>
-    <credits>
-      <actor>Ronit Roy</actor>
-      <actor>Romit Raaj</actor>
-      <actor>Shraman Jain</actor>
-      <actor>Prerna Wanvari</actor>
-      <actor>Niloufer</actor>
-      <actor>Mushtaq Khan</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57C12A8CE95B0612B5569299F9ADC2D89C5E200BU.jpg"/>
-    <episode-num system="xmltv_ns">.342.</episode-num>
-  </programme>
-  <programme start="20240312170000 +0530" stop="20240312173000 +0530" channel="SonyPal.in">
-    <title lang="en">Baalveer Returns</title>
-    <desc lang="en">On learning about Timnasa's plan from Shaurya, Baalveer sets out to help Vivaan. However, Kaalpari and Bhaymar stand in his way. Repeat - Mon - Fri 2:18 am.</desc>
-    <credits>
-      <actor>Dev Joshi</actor>
-      <actor>Sharmili Raj</actor>
-      <actor>Shreedhar Watsar</actor>
-      <actor>Khushi Mukherjee</actor>
-      <actor>Amika Sahil</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
-    <episode-num system="xmltv_ns">.86.</episode-num>
-  </programme>
-  <programme start="20240312173000 +0530" stop="20240312180000 +0530" channel="SonyPal.in">
-    <title lang="en">Baalveer Returns</title>
-    <desc lang="en">Timnasa wishes to show the effects of the Stone Fruit to the people of Kal Lok. Later, she plans to feed the fruit to Vivaan. Repeat - Mon - Fri 2:18 am.</desc>
-    <credits>
-      <actor>Dev Joshi</actor>
-      <actor>Sharmili Raj</actor>
-      <actor>Shreedhar Watsar</actor>
-      <actor>Khushi Mukherjee</actor>
-      <actor>Amika Sahil</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
-    <episode-num system="xmltv_ns">.87.</episode-num>
-  </programme>
-  <programme start="20240312180000 +0530" stop="20240312183000 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">While the Gadas stand united, Gulab is adamant that Jethalal speaks to her at least once. Repeat - Wed - Fri 10:00 am.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.1038.</episode-num>
-  </programme>
-  <programme start="20240312183000 +0530" stop="20240312190000 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">The residents are concerned about Gulab's health since she is adamant on staying out in the cold until Jethalal speaks with her. Repeat - Wed - Fri 10:00 am.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.1039.</episode-num>
-  </programme>
-  <programme start="20240312190000 +0530" stop="20240312193000 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">When a man stalks Jethalal, he assumes that his dream of getting kidnapped will come true. Will Jethalal's worst nightmare turn into a reality? Repeat - Wed - Fri 10:00 am.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.1223.</episode-num>
-  </programme>
-  <programme start="20240312193000 +0530" stop="20240312200000 +0530" channel="SonyPal.in">
-    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc lang="en">When a man stalks Jethalal, he assumes that his dream of getting kidnapped will come true. Will Jethalal's worst nightmare turn into a reality? Repeat - Wed - Fri 10:00 am.</desc>
-    <credits>
-      <actor>Dilip Joshi</actor>
-      <actor>Disha Vakani</actor>
-      <actor>Raj Anadkat</actor>
-      <actor>Amit Bhatt</actor>
-      <actor>Shailesh Lodha</actor>
-      <actor>Sunayana Fozdar</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
-    <episode-num system="xmltv_ns">.1224.</episode-num>
-  </programme>
-  <programme start="20240312200000 +0530" stop="20240312203000 +0530" channel="SonyPal.in">
-    <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
-    <desc lang="en">Kulkarni gets a letter from the British government asking him to help Ratnakar Rao buy land in Shirdi. Appa and Mhalsapati discuss whether Ratnakar is good for Shirdi or not. Repeat - Mon - Fri 1:55 am.</desc>
-    <credits>
-      <actor>Abeer Soofi</actor>
-      <actor>Toral Rasputra</actor>
-      <actor>Vaibhav Mangle</actor>
-      <actor>Abhishek Nigam</actor>
-      <actor>Tarun Khanna</actor>
-      <actor>Hemant Thatte</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F240104EB2FDA654990F3AA59B267CF6469BD93J.jpg"/>
-    <episode-num system="xmltv_ns">.141.</episode-num>
-  </programme>
-  <programme start="20240312203000 +0530" stop="20240312210000 +0530" channel="SonyPal.in">
-    <title lang="en">Punyashlok Ahilya Bai</title>
-    <desc lang="en">Ahilya decides to build her own temple after an argument with the pandit. On the other hand, Malhar Rao is concerned about his son Khande Rao's laid-back attitude.</desc>
-    <credits>
-      <actor>Aditi Jaltare</actor>
-      <actor>Rajesh Shringarpure</actor>
-      <actor>Krish Chauhan</actor>
-      <actor>Snehlata Vasaikar</actor>
-      <actor>Srijana Srj</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CE77790129B803D53FE02816570EEB2CC45EA88B.jpg"/>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-  </programme>
-  <programme start="20240312210000 +0530" stop="20240312220000 +0530" channel="SonyPal.in">
-    <title lang="en">CID</title>
-    <desc lang="en">Simran who is mentally unstable witnesses the murder of a girl through her window and alerts the cops. However, Team CID find it hard to believe Simran because of her illness. Repeat - Mon - Fri 3:54 am.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.600.</episode-num>
-  </programme>
-  <programme start="20240312220000 +0530" stop="20240312230000 +0530" channel="SonyPal.in">
-    <title lang="en">CID</title>
-    <desc lang="en">An NRI couple relocates to India and wishes to reopen an orphanage. However, their son becomes friends with four neighbourhood children, and later, goes missing. Repeat - Mon - Fri 3:54 am.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.1186.</episode-num>
-  </programme>
-  <programme start="20240312230000 +0530" stop="20240313000000 +0530" channel="SonyPal.in">
-    <title lang="en">CID</title>
-    <desc lang="en">When Priti lays unconscious next to Vishal's dead body with a knife in her hand, Vishal's colleagues tell the CID team that Priti suffers from mental imbalance. Repeat - Mon - Fri 3:54 am.</desc>
-    <credits>
-      <actor>Shivaji Satam</actor>
-      <actor>Aditya Shrivastava</actor>
-      <actor>Dayanand Shetty</actor>
-      <actor>Dinesh Phadnis</actor>
-      <actor>Narendra Gupta</actor>
-      <actor>Shraddha Musale</actor>
-    </credits>
-    <category lang="en">Detective</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
-    <episode-num system="xmltv_ns">.926.</episode-num>
-  </programme>
   <programme start="20240313000000 +0530" stop="20240313002300 +0530" channel="SonyPal.in">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">When a man stalks Jethalal, he assumes that his dream of getting kidnapped will come true. Will Jethalal's worst nightmare turn into a reality? E1224.</desc>
@@ -1737,5 +1158,584 @@
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
     <episode-num system="xmltv_ns">.928.</episode-num>
+  </programme>
+  <programme start="20240315000000 +0530" stop="20240315002300 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Taarak informs Bhide about the bank scam, after which Bhide calls the bank to make sure that his money is safe.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.2494.</episode-num>
+  </programme>
+  <programme start="20240315002300 +0530" stop="20240315004600 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Jethalal is convinced by Bhide that the bank is the safest place to invest in; Popatlal rushes to complete a story about the bank scam.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.2495.</episode-num>
+  </programme>
+  <programme start="20240315004600 +0530" stop="20240315010900 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The members of Gokuldham Society give a grand farewell to Jethalal as he heads to London. But Daya faces a hard time parting from her husband.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.207.</episode-num>
+  </programme>
+  <programme start="20240315010900 +0530" stop="20240315013200 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Daya rushes inside the aeroplane to give Jethalal one last item before he flies to London. Later, Tapu Sena holds a meeting to discuss the preparations for Krishna Janmashtami.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.208.</episode-num>
+  </programme>
+  <programme start="20240315013200 +0530" stop="20240315015500 +0530" channel="SonyPal.in">
+    <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
+    <desc lang="en">Kulkarni tells Ratnakar to speak to the British and get him authority over three villages; Ratnakar Rao asks Sai to help him by giving away Dwarka Mai to him.</desc>
+    <credits>
+      <actor>Abeer Soofi</actor>
+      <actor>Toral Rasputra</actor>
+      <actor>Vaibhav Mangle</actor>
+      <actor>Abhishek Nigam</actor>
+      <actor>Tarun Khanna</actor>
+      <actor>Hemant Thatte</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F240104EB2FDA654990F3AA59B267CF6469BD93J.jpg"/>
+    <episode-num system="xmltv_ns">.143.</episode-num>
+  </programme>
+  <programme start="20240315015500 +0530" stop="20240315021800 +0530" channel="SonyPal.in">
+    <title lang="en">Punyashlok Ahilya Bai</title>
+    <desc lang="en">Malhar Rao sees Ahilya crooning to a calf and gets impressed by her affection towards animals while, on the other hand, Khande Rao tries to torture a horse.</desc>
+    <credits>
+      <actor>Aditi Jaltare</actor>
+      <actor>Rajesh Shringarpure</actor>
+      <actor>Krish Chauhan</actor>
+      <actor>Snehlata Vasaikar</actor>
+      <actor>Srijana Srj</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CE77790129B803D53FE02816570EEB2CC45EA88B.jpg"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20240315021800 +0530" stop="20240315024100 +0530" channel="SonyPal.in">
+    <title lang="en">Baalveer Returns</title>
+    <desc lang="en">Soon after Vivaan finds a way to reverse Timnasa's curse by using water, she decides to get rid of all the water on the planet.</desc>
+    <credits>
+      <actor>Dev Joshi</actor>
+      <actor>Sharmili Raj</actor>
+      <actor>Shreedhar Watsar</actor>
+      <actor>Khushi Mukherjee</actor>
+      <actor>Amika Sahil</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
+    <episode-num system="xmltv_ns">.90.</episode-num>
+  </programme>
+  <programme start="20240315024100 +0530" stop="20240315030400 +0530" channel="SonyPal.in">
+    <title lang="en">Baalveer Returns</title>
+    <desc lang="en">Baalveer and Pari are shocked to see that Earth has run out of water. Meanwhile, Timnasa challenges the duo to restore parity on their planet.</desc>
+    <credits>
+      <actor>Dev Joshi</actor>
+      <actor>Sharmili Raj</actor>
+      <actor>Shreedhar Watsar</actor>
+      <actor>Khushi Mukherjee</actor>
+      <actor>Amika Sahil</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
+    <episode-num system="xmltv_ns">.91.</episode-num>
+  </programme>
+  <programme start="20240315030400 +0530" stop="20240315034800 +0530" channel="SonyPal.in">
+    <title lang="en">CID</title>
+    <desc lang="en">When people commit suicide after meeting a strange woman, Team CID is called to investigate. Later, on catching her, she shares a bizarre phenomenon that enabled her to predict the future.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1346.</episode-num>
+  </programme>
+  <programme start="20240315034800 +0530" stop="20240315043200 +0530" channel="SonyPal.in">
+    <title lang="en">CID</title>
+    <desc lang="en">Simran who is mentally unstable witnesses the murder of a girl through her window and alerts the cops. However, Team CID find it hard to believe Simran because of her illness.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.600.</episode-num>
+  </programme>
+  <programme start="20240315043200 +0530" stop="20240315051600 +0530" channel="SonyPal.in">
+    <title lang="en">CID</title>
+    <desc lang="en">A man calls up his wife and asks her to come home immediately as he is about to kill himself. Later, his prank turns fatal when his wife returns home to his dead body.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.622.</episode-num>
+  </programme>
+  <programme start="20240315051600 +0530" stop="20240315060000 +0530" channel="SonyPal.in">
+    <title lang="en">CID</title>
+    <desc lang="en">When a couple starts a shark tourism business, things get awry when one of their customers gets killed. Later, the CID team investigates to rule out foul play.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1188.</episode-num>
+  </programme>
+  <programme start="20240315060000 +0530" stop="20240315070000 +0530" channel="SonyPal.in">
+    <title lang="en">CID</title>
+    <desc lang="en">The passengers of a bus mysteriously die during their journey. While investigating, the CID team finds out that poisonous gas was released inside the bus.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.928.</episode-num>
+  </programme>
+  <programme start="20240315070000 +0530" stop="20240315071500 +0530" channel="SonyPal.in">
+    <title lang="en">Honey Bunny Ka Jholmaal</title>
+    <desc lang="en">Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.</desc>
+    <credits>
+      <actor>Mubeen Saudagar</actor>
+      <actor>Meena Nahata</actor>
+      <actor>Dolly Lopes</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7138CC09D583AF79676AFF7EE498F3C7F19A4253J.jpg"/>
+  </programme>
+  <programme start="20240315071500 +0530" stop="20240315073000 +0530" channel="SonyPal.in">
+    <title lang="en">Honey Bunny Ka Jholmaal</title>
+    <desc lang="en">Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.</desc>
+    <credits>
+      <actor>Mubeen Saudagar</actor>
+      <actor>Meena Nahata</actor>
+      <actor>Dolly Lopes</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7138CC09D583AF79676AFF7EE498F3C7F19A4253J.jpg"/>
+  </programme>
+  <programme start="20240315073000 +0530" stop="20240315080000 +0530" channel="SonyPal.in">
+    <title lang="en">Malegaon Ka Chintu</title>
+    <desc lang="en">Chintu, from Malegaon, is a lively yet emotional young man with a heart of gold. He loves only three things in life: his coat, bicycle and Pinky.</desc>
+    <credits>
+      <actor>Al Amin</actor>
+      <actor>Ashwini Khairnar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9DD302F496EF552A1E0D717F9C70ACA6D5E6BD9AG.jpg"/>
+    <episode-num system="xmltv_ns">.27.</episode-num>
+  </programme>
+  <programme start="20240315080000 +0530" stop="20240315083000 +0530" channel="SonyPal.in">
+    <title lang="en">Baal Veer</title>
+    <desc lang="en">Meher's grandfather struggles to fight against wrestler Kurt Angle. In the meantime, Baalveer gets his hands on Chhal Pari's magical flute.</desc>
+    <credits>
+      <actor>Dev Joshi</actor>
+      <actor>Karishma Tanna</actor>
+      <actor>Shweta Kwatra</actor>
+      <actor>Aditi Sajwan</actor>
+      <actor>Shama Sikander</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/365BF8E15E509660E5A57679F181CB9BEA520AFF7.jpg"/>
+    <episode-num system="xmltv_ns">.328.</episode-num>
+  </programme>
+  <programme start="20240315083000 +0530" stop="20240315090000 +0530" channel="SonyPal.in">
+    <title lang="en">Baal Veer</title>
+    <desc lang="en">Baalveer defeats Chhal Pari and frees the fairies from her magic. In the meantime, Kurt Angle's victory puts Meher's family in distress.</desc>
+    <credits>
+      <actor>Dev Joshi</actor>
+      <actor>Karishma Tanna</actor>
+      <actor>Shweta Kwatra</actor>
+      <actor>Aditi Sajwan</actor>
+      <actor>Shama Sikander</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/365BF8E15E509660E5A57679F181CB9BEA520AFF7.jpg"/>
+    <episode-num system="xmltv_ns">.329.</episode-num>
+  </programme>
+  <programme start="20240315090000 +0530" stop="20240315093000 +0530" channel="SonyPal.in">
+    <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
+    <desc lang="en">Kulkarni tells Ratnakar to speak to the British and get him authority over three villages; Ratnakar Rao asks Sai to help him by giving away Dwarka Mai to him.</desc>
+    <credits>
+      <actor>Abeer Soofi</actor>
+      <actor>Toral Rasputra</actor>
+      <actor>Vaibhav Mangle</actor>
+      <actor>Abhishek Nigam</actor>
+      <actor>Tarun Khanna</actor>
+      <actor>Hemant Thatte</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F240104EB2FDA654990F3AA59B267CF6469BD93J.jpg"/>
+    <episode-num system="xmltv_ns">.143.</episode-num>
+  </programme>
+  <programme start="20240315093000 +0530" stop="20240315100000 +0530" channel="SonyPal.in">
+    <title lang="en">Punyashlok Ahilya Bai</title>
+    <desc lang="en">Malhar Rao sees Ahilya crooning to a calf and gets impressed by her affection towards animals while, on the other hand, Khande Rao tries to torture a horse.</desc>
+    <credits>
+      <actor>Aditi Jaltare</actor>
+      <actor>Rajesh Shringarpure</actor>
+      <actor>Krish Chauhan</actor>
+      <actor>Snehlata Vasaikar</actor>
+      <actor>Srijana Srj</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CE77790129B803D53FE02816570EEB2CC45EA88B.jpg"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20240315100000 +0530" stop="20240315103000 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">The society members learn about a new member and get shocked by his rude behaviour. Repeat - Wed - Fri 10:00 am.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1448.</episode-num>
+  </programme>
+  <programme start="20240315103000 +0530" stop="20240315110000 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Everyone is suspicious about their new member, Ajay Dewan, who is always in a disguise. Repeat - Wed - Fri 10:00 am.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1449.</episode-num>
+  </programme>
+  <programme start="20240315110000 +0530" stop="20240315113000 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">While the members of Gokuldham Society celebrate Bhai Dooj, Tapu Sena prepares to attend a camp together. So, Bhide holds a lecture for the children on the appropriate decorum at the camp. Repeat - Wed - Fri 10:00 am.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.246.</episode-num>
+  </programme>
+  <programme start="20240315113000 +0530" stop="20240315120000 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Babita approaches Jethalal for a brand new, hot-selling mobile phone. On the other hand, Sunder arrives in Mumbai and gets intrigued by the flashy mobile phone. Repeat - Wed - Fri 10:00 am.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.247.</episode-num>
+  </programme>
+  <programme start="20240315120000 +0530" stop="20240315130000 +0530" channel="SonyPal.in">
+    <title lang="en">CID</title>
+    <desc lang="en">Team CID chase a half-human and half-bear creature that attacks Mumbai city. The creature lands at a venue where actor Varun Dhawan is promoting his film and ends up taking him away. Repeat - Mon - Fri 3:54 am.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1189.</episode-num>
+  </programme>
+  <programme start="20240315130000 +0530" stop="20240315140000 +0530" channel="SonyPal.in">
+    <title lang="en">CID</title>
+    <desc lang="en">Ronita, a reporter, mysteriously disappears while she is on her way to the mayor's house. Soon, the CID team finds her car in the middle of nowhere.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.927.</episode-num>
+  </programme>
+  <programme start="20240315140000 +0530" stop="20240315150000 +0530" channel="SonyPal.in">
+    <title lang="en">CID</title>
+    <desc lang="en">Team CID rush to a children's history centre to witness a shocking display of gruesomeness. The killer has used human skeletons to create a fish model. Repeat - Mon - Fri 3:54 am.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1347.</episode-num>
+  </programme>
+  <programme start="20240315150000 +0530" stop="20240315160000 +0530" channel="SonyPal.in">
+    <title lang="en">Adaalat</title>
+    <desc lang="en">Following a heated argument, Rajiv is found dead and Manav is arrested on charges of murdering him. Later, KD Pathak sets out to prove Manav's innocence.</desc>
+    <credits>
+      <actor>Ronit Roy</actor>
+      <actor>Romit Raaj</actor>
+      <actor>Shraman Jain</actor>
+      <actor>Prerna Wanvari</actor>
+      <actor>Niloufer</actor>
+      <actor>Mushtaq Khan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57C12A8CE95B0612B5569299F9ADC2D89C5E200BU.jpg"/>
+    <episode-num system="xmltv_ns">.347.</episode-num>
+  </programme>
+  <programme start="20240315160000 +0530" stop="20240315170000 +0530" channel="SonyPal.in">
+    <title lang="en">Adaalat</title>
+    <desc lang="en">As Zubin testifies against Manav in court, KD Pathak grills him about Rajiv's death which leaves him in a spot of bother.</desc>
+    <credits>
+      <actor>Ronit Roy</actor>
+      <actor>Romit Raaj</actor>
+      <actor>Shraman Jain</actor>
+      <actor>Prerna Wanvari</actor>
+      <actor>Niloufer</actor>
+      <actor>Mushtaq Khan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57C12A8CE95B0612B5569299F9ADC2D89C5E200BU.jpg"/>
+    <episode-num system="xmltv_ns">.348.</episode-num>
+  </programme>
+  <programme start="20240315170000 +0530" stop="20240315173000 +0530" channel="SonyPal.in">
+    <title lang="en">Baalveer Returns</title>
+    <desc lang="en">Timnasa finds herself in a fix as Baalveer and Vivaan rescue the woman that Timnasa had cursed. Later, the woman demands to have her child back. Repeat - Mon - Fri 2:18 am.</desc>
+    <credits>
+      <actor>Dev Joshi</actor>
+      <actor>Sharmili Raj</actor>
+      <actor>Shreedhar Watsar</actor>
+      <actor>Khushi Mukherjee</actor>
+      <actor>Amika Sahil</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
+    <episode-num system="xmltv_ns">.92.</episode-num>
+  </programme>
+  <programme start="20240315173000 +0530" stop="20240315180000 +0530" channel="SonyPal.in">
+    <title lang="en">Baalveer Returns</title>
+    <desc lang="en">Though Vivaan and Baalveer find a possible solution to stop the idol from shedding tears, they must soon find a way to solve the water problem. Repeat - Mon - Fri 2:18 am.</desc>
+    <credits>
+      <actor>Dev Joshi</actor>
+      <actor>Sharmili Raj</actor>
+      <actor>Shreedhar Watsar</actor>
+      <actor>Khushi Mukherjee</actor>
+      <actor>Amika Sahil</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D24DC0A7858DF789D9E76971ADE7DEA142BBCE93.jpg"/>
+    <episode-num system="xmltv_ns">.93.</episode-num>
+  </programme>
+  <programme start="20240315180000 +0530" stop="20240315183000 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Unable to bear the advocate Jwala's allegations, Sodhi gets hyper and reacts aggressively. Jwala shoots a series of questions at Daya who then reveals the truth in the court. Repeat - Wed - Fri 10:00 am.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1044.</episode-num>
+  </programme>
+  <programme start="20240315183000 +0530" stop="20240315190000 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Daya talks rudely with advocate Jwala which creates problems for Jethalal. Other members of the society are also called to the court. Repeat - Wed - Fri 10:00 am.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.1045.</episode-num>
+  </programme>
+  <programme start="20240315190000 +0530" stop="20240315193000 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">Bhide and Popatlal get suspicious when they see Jethalal rushing with a bag. Bhide is sure that Jethalal has committed a crime and is running away. Repeat - Wed - Fri 10:00 am.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.2496.</episode-num>
+  </programme>
+  <programme start="20240315193000 +0530" stop="20240315200000 +0530" channel="SonyPal.in">
+    <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
+    <desc lang="en">All the residents of the society learn about Jethalal's trip to some foreign island and get excited. Madhavi and Sodhi get emotional when they learn about it. Repeat - Wed - Fri 10:00 am.</desc>
+    <credits>
+      <actor>Dilip Joshi</actor>
+      <actor>Disha Vakani</actor>
+      <actor>Raj Anadkat</actor>
+      <actor>Amit Bhatt</actor>
+      <actor>Shailesh Lodha</actor>
+      <actor>Sunayana Fozdar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBFF543604EA3B118CD6CF65C7E1CE1425FB05CU.jpg"/>
+    <episode-num system="xmltv_ns">.2497.</episode-num>
+  </programme>
+  <programme start="20240315200000 +0530" stop="20240315203000 +0530" channel="SonyPal.in">
+    <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
+    <desc lang="en">The villagers rush to Dwarka Mai upon learning that Sai is being evicted and try to stop. However, Sai steps out to pacify them while Ratnakar enters Dwarka Mai. Repeat - Mon - Fri 1:55 am.</desc>
+    <credits>
+      <actor>Abeer Soofi</actor>
+      <actor>Toral Rasputra</actor>
+      <actor>Vaibhav Mangle</actor>
+      <actor>Abhishek Nigam</actor>
+      <actor>Tarun Khanna</actor>
+      <actor>Hemant Thatte</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F240104EB2FDA654990F3AA59B267CF6469BD93J.jpg"/>
+    <episode-num system="xmltv_ns">.144.</episode-num>
+  </programme>
+  <programme start="20240315203000 +0530" stop="20240315210000 +0530" channel="SonyPal.in">
+    <title lang="en">Punyashlok Ahilya Bai</title>
+    <desc lang="en">Malhar Rao thanks Mankoji for giving him shelter at the risk of their own lives while Ahilya decides to keep his presence a secret. Later, Malhar Rao gets impressed by Ahilya's intelligence.</desc>
+    <credits>
+      <actor>Aditi Jaltare</actor>
+      <actor>Rajesh Shringarpure</actor>
+      <actor>Krish Chauhan</actor>
+      <actor>Snehlata Vasaikar</actor>
+      <actor>Srijana Srj</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CE77790129B803D53FE02816570EEB2CC45EA88B.jpg"/>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20240315210000 +0530" stop="20240315220000 +0530" channel="SonyPal.in">
+    <title lang="en">CID</title>
+    <desc lang="en">A woman calls Team CID when she finds her servant dead on the floor. Later, the CID team arrives and hits a dead wall when they find that the woman who called is dead too. Repeat - Mon - Fri 3:54 am.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.602.</episode-num>
+  </programme>
+  <programme start="20240315220000 +0530" stop="20240315230000 +0530" channel="SonyPal.in">
+    <title lang="en">CID</title>
+    <desc lang="en">Team CID chase a half-human and half-bear creature that attacks Mumbai city. The creature lands at a venue where actor Varun Dhawan is promoting his film and ends up taking him away. Repeat - Mon - Fri 3:54 am.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.1189.</episode-num>
+  </programme>
+  <programme start="20240315230000 +0530" stop="20240316000000 +0530" channel="SonyPal.in">
+    <title lang="en">CID</title>
+    <desc lang="en">Team CID is shocked when Radhika confesses to killing her husband Rakesh. Radhika and the team are surprised when they are unable to find his body in his house. Repeat - Mon - Fri 3:54 am.</desc>
+    <credits>
+      <actor>Shivaji Satam</actor>
+      <actor>Aditya Shrivastava</actor>
+      <actor>Dayanand Shetty</actor>
+      <actor>Dinesh Phadnis</actor>
+      <actor>Narendra Gupta</actor>
+      <actor>Shraddha Musale</actor>
+    </credits>
+    <category lang="en">Detective</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
+    <episode-num system="xmltv_ns">.929.</episode-num>
   </programme>
 </tv>

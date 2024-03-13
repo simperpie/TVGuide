@@ -4,337 +4,6 @@
     <display-name lang="en">SkySp Cricket</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb1302.png"/>
   </channel>
-  <programme start="20240312033000 +0530" stop="20240312043000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">PSL: Karachi K v Peshawar Z</title>
-    <desc lang="en">In the PSL, Karachi Kings challenge Peshawar Zalmi. Karachi kept their play-off hopes alive with 42-year-old Shoaib Malik getting them over the line against Lahore. (11.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fcc0ba09-9302-354c-bf73-94db37c20c0c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240312043000 +0530" stop="20240312053000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">WPL: Gujarat G v UP Warriorz Hlts</title>
-    <desc lang="en">In the Women's Premier League, the bottom two go toe to toe as Gujarat Giants face UP Warriorz. Deepti Sharma delivered runs and wickets for the Warriorz in their win last time out. (11.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ef0a8725-090e-3d0b-8b24-173cf028d859/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240312053000 +0530" stop="20240312093000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">PSL: Karachi K v Peshawar Z</title>
-    <desc lang="en">In the PSL, Karachi Kings challenge Peshawar Zalmi. Karachi kept their play-off hopes alive with 42-year-old Shoaib Malik getting them over the line against Lahore. (11.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8fbe31b4-be74-3821-a609-3eda631f3022/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240312093000 +0530" stop="20240312103000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">WPL: Gujarat G v UP Warriorz Hlts</title>
-    <desc lang="en">In the Women's Premier League, the bottom two go toe to toe as Gujarat Giants face UP Warriorz. Deepti Sharma delivered runs and wickets for the Warriorz in their win last time out. (11.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ef0a8725-090e-3d0b-8b24-173cf028d859/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240312103000 +0530" stop="20240312104500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: NZ v PAK 2010</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit New Zealand's 2010 game with Pakistan.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/88e89bc2-0945-4bb3-b6e1-0049f2cb9da6/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312104500 +0530" stop="20240312110000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: AUS v PAK 2010</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit Australia's 2010 contest with Pakistan.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/57631bd7-4ad9-4599-91ad-952b63dfc5a6/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312110000 +0530" stop="20240312111500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: ENG v AUS 2010</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's victorious 2010 final against old rivals Australia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1d4f50a7-1dfe-457c-8faf-2054224640eb/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312111500 +0530" stop="20240312113000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: NZ v SL 2012</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit New Zealand's 2012 match with Sri Lanka.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/dbd20a92-601c-4a27-85c8-6bb76b808bc2/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312113000 +0530" stop="20240312154000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">WPL: Gujarat G v UP Warriorz</title>
-    <desc lang="en">In the Women's Premier League, the bottom two go toe to toe as Gujarat Giants face UP Warriorz. Deepti Sharma delivered runs and wickets for the Warriorz in their win last time out. (11.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0d9ff85b-c213-343f-8c07-61551fb3afb0/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240312154000 +0530" stop="20240312160000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: WI v SL 2012</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit the 2012 final between the West Indies and Sri Lanka.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/400b7e5b-e27f-498a-a665-0915fc79b893/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312160000 +0530" stop="20240312161500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: IND v BAN 2016</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit India's 2016 clash with Bangladesh.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/419567ce-e664-45e3-b309-192879b8043a/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312161500 +0530" stop="20240312163000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: IND v AUS 2016</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit a match between India and Australia in 2016.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8521a8fa-8f80-4d00-95e0-ee7d9fbf8718/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240312163000 +0530" stop="20240312173000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">PSL: Karachi K v Peshawar Z</title>
-    <desc lang="en">In the PSL, Karachi Kings challenge Peshawar Zalmi. Karachi kept their play-off hopes alive with 42-year-old Shoaib Malik getting them over the line against Lahore. (11.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fcc0ba09-9302-354c-bf73-94db37c20c0c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240312173000 +0530" stop="20240312182500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">WPL: Gujarat G v UP Warriorz Hlts</title>
-    <desc lang="en">In the Women's Premier League, the bottom two go toe to toe as Gujarat Giants face UP Warriorz. Deepti Sharma delivered runs and wickets for the Warriorz in their win last time out. (11.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ef0a8725-090e-3d0b-8b24-173cf028d859/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240312182500 +0530" stop="20240312192000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">PSL: Karachi K v Peshawar Z</title>
-    <desc lang="en">In the PSL, Karachi Kings challenge Peshawar Zalmi. Karachi kept their play-off hopes alive with 42-year-old Shoaib Malik getting them over the line against Lahore. (11.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fcc0ba09-9302-354c-bf73-94db37c20c0c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240312192000 +0530" stop="20240312233000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">Live WPL: Mumbai I v RCB</title>
-    <desc lang="en">In the Women's Premier League, Mumbai Indians are back in action after consecutive wins as they face a Royal Challengers Bangalore side who are without victory in two. (12.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c63b689d-bf34-3047-b05d-0113d74b73ba/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240312233000 +0530" stop="20240313013000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">Live PSL: Quetta G v Multan S</title>
-    <desc lang="en">In the Pakistan Super League, Quetta Gladiators face Multan Sultans. Quetta's Saud Shakeel produced a knock of 88* to help his side defeat Lahore on Sunday. (12.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c41165a5-5585-3ce7-b0e1-fd1bd8e6c66a/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240313013000 +0530" stop="20240313023000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">WPL: Mumbai I v RCB Hlts</title>
-    <desc lang="en">In the Women's Premier League, Mumbai Indians are back in action after consecutive wins as they face a Royal Challengers Bangalore side who are without victory in two. (12.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f6226a64-861b-383e-8ecf-49cbbb588d34/16-9"/>
-    <episode-num system="xmltv_ns">.8.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240313023000 +0530" stop="20240313024500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: IND v BAN 2016</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit India's 2016 clash with Bangladesh.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/419567ce-e664-45e3-b309-192879b8043a/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313024500 +0530" stop="20240313030000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: IND v AUS 2016</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit a match between India and Australia in 2016.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8521a8fa-8f80-4d00-95e0-ee7d9fbf8718/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313030000 +0530" stop="20240313031500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: IND v WI 2016</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, India fought the West Indies in 2016.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/bae8430b-a5f0-41af-88b1-c0d680c04112/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313031500 +0530" stop="20240313033000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: ENG v SA 2016</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2016 clash with South Africa.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2ab84dac-99e4-4cb0-b71c-7bd37d361203/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20240313033000 +0530" stop="20240313043000 +0530" channel="SkySpCricket.uk">
     <title lang="en">PSL: Quetta G v Multan S Hlts</title>
     <desc lang="en">In the Pakistan Super League, Quetta Gladiators face Multan Sultans. Quetta's Saud Shakeel produced a knock of 88* to help his side defeat Lahore on Sunday. (12.03)</desc>
@@ -1082,6 +751,357 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/3de40bbe-5c6a-3e97-be15-7c20d034691a/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240315053000 +0530" stop="20240315093000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">PSL Qualifier 1</title>
+    <desc lang="en">A Qualifier match from the 2024 Pakistan Super League, with the winner advancing to the final and the loser going to the second Eliminator. (14.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/60d13ceb-dad3-3661-9852-36ee250d4def/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240315093000 +0530" stop="20240315094500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: WI v SL 2012</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit the 2012 final between the West Indies and Sri Lanka.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/400b7e5b-e27f-498a-a665-0915fc79b893/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315094500 +0530" stop="20240315100000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: SA v NZ 2014</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit South Africa's 2014 collision with New Zealand.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bba3113d-9038-4ba9-a3cf-0161ef4cfb92/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315100000 +0530" stop="20240315101500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: ENG v SL 2014</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2014 contest with Sri Lanka.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e8cc9802-9cef-4612-9154-e4cbf406919c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315101500 +0530" stop="20240315103000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: IND v SL 2014</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit the 2014 final between India and Sri Lanka.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3a23f80e-fd45-4a8f-afa9-8d7186d9f923/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315103000 +0530" stop="20240315113000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">PSL Qualifier 1 Highlights</title>
+    <desc lang="en">A Qualifier match from the 2024 Pakistan Super League, with the winner advancing to the final and the loser going to the second Eliminator. (14.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e008ce6e-2ea9-3c41-ae59-992ed9fd39c0/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240315113000 +0530" stop="20240315153000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">PSL Qualifier 1</title>
+    <desc lang="en">A Qualifier match from the 2024 Pakistan Super League, with the winner advancing to the final and the loser going to the second Eliminator. (14.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/60d13ceb-dad3-3661-9852-36ee250d4def/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240315153000 +0530" stop="20240315154500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: ENG v IND 2007</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2007 contest with India at the inaugural edition of the competition.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/36ea0e24-ce96-4555-89ab-2e7f8f1e5952/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315154500 +0530" stop="20240315160000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: IND v PAK 2007</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit the final of the inaugural edition of the competition between Pakistan and India.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9c23d731-9286-40a8-b2c9-83936e831fa0/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315160000 +0530" stop="20240315161500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: ENG v NED 2009</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2009 clash with the Netherlands.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/900e609b-daf7-44f6-8b21-3d5be9ddb540/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315161500 +0530" stop="20240315163000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: ENG v IND 2009</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2009 clash with India at Lord's.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/daf35102-0a5c-4dfc-80bb-cbf5a859de3a/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315163000 +0530" stop="20240315173000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">PSL Qualifier 1 Highlights</title>
+    <desc lang="en">A Qualifier match from the 2024 Pakistan Super League, with the winner advancing to the final and the loser going to the second Eliminator. (14.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e008ce6e-2ea9-3c41-ae59-992ed9fd39c0/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240315173000 +0530" stop="20240315182500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">WPL: Mumbai I v Delhi C Hlts</title>
+    <desc lang="en">The second season of the Women's Premier League - a franchise T20 league - gets underway with the defending champions, Mumbai Indians, challenging Delhi Capitals in Bengaluru. (23.02)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1bf242f5-591f-3ec1-806d-fc57af4d88f0/16-9"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240315182500 +0530" stop="20240315192000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">PSL Qualifier 1 Highlights</title>
+    <desc lang="en">A Qualifier match from the 2024 Pakistan Super League, with the winner advancing to the final and the loser going to the second Eliminator. (14.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e008ce6e-2ea9-3c41-ae59-992ed9fd39c0/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240315192000 +0530" stop="20240315233000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">Live WPL Eliminator</title>
+    <desc lang="en">In the Women's Premier League, second meets third in the sudden-death Eliminator. The winner here will advance to the final where the table toppers wait. (15.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f7c9fa1e-b0a3-33f7-90f7-2757287ce966/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240315233000 +0530" stop="20240316013000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">Live PSL Eliminator</title>
+    <desc lang="en">The opening Eliminator from the 2024 Pakistan Super League. (15.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8bf97fd9-e306-3b58-9d6a-d9f0df7a8fb5/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316013000 +0530" stop="20240316023000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">WPL Eliminator Highlights</title>
+    <desc lang="en">In the Women's Premier League, second meets third in the sudden-death Eliminator. The winner here will advance to the final where the table toppers wait. (15.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/202150cb-82b7-3b96-925b-94c4629b97e6/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316023000 +0530" stop="20240316024500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: ENG v IND 2007</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2007 contest with India at the inaugural edition of the competition.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/36ea0e24-ce96-4555-89ab-2e7f8f1e5952/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316024500 +0530" stop="20240316030000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: IND v PAK 2007</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit the final of the inaugural edition of the competition between Pakistan and India.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9c23d731-9286-40a8-b2c9-83936e831fa0/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316030000 +0530" stop="20240316031500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: ENG v NED 2009</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2009 clash with the Netherlands.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/900e609b-daf7-44f6-8b21-3d5be9ddb540/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316031500 +0530" stop="20240316033000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: ENG v IND 2009</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2009 clash with India at Lord's.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/daf35102-0a5c-4dfc-80bb-cbf5a859de3a/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316033000 +0530" stop="20240316043000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">PSL Eliminator Highlights</title>
+    <desc lang="en">The opening Eliminator from the 2024 Pakistan Super League. (15.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/531ff35f-de52-3562-a1d3-192d60f98979/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316043000 +0530" stop="20240316053000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">WPL Eliminator Highlights</title>
+    <desc lang="en">In the Women's Premier League, second meets third in the sudden-death Eliminator. The winner here will advance to the final where the table toppers wait. (15.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/202150cb-82b7-3b96-925b-94c4629b97e6/16-9"/>
     <video>
       <aspect>16:9</aspect>
     </video>

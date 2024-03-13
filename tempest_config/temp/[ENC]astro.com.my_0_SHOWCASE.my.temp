@@ -4,74 +4,6 @@
     <display-name lang="mg">SHOWCASE 🄼</display-name>
     <icon src="http://linear-poster.astro.com.my/prod/logo/Showcase.png"/>
   </channel>
-  <programme start="20240311223000 +0530" stop="20240311233000 +0530" channel="SHOWCASE.my">
-    <title lang="mg">Magnum P.I. Judge Me Not</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240311233000 +0530" stop="20240312011000 +0530" channel="SHOWCASE.my">
-    <title lang="mg">Iron Monkey 2</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240312011000 +0530" stop="20240312033000 +0530" channel="SHOWCASE.my">
-    <title lang="mg">The Amazing Spider-Man 1</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240312033000 +0530" stop="20240312042500 +0530" channel="SHOWCASE.my">
-    <title lang="mg">Magnum P.I. Judge Me Not</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240312042500 +0530" stop="20240312064000 +0530" channel="SHOWCASE.my">
-    <title lang="mg">Jurassic World</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240312064000 +0530" stop="20240312070000 +0530" channel="SHOWCASE.my">
-    <title lang="mg">The Hanger</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240312070000 +0530" stop="20240312073000 +0530" channel="SHOWCASE.my">
-    <title lang="mg">BEST. EVER. Best Banana Leaf Rice Ever</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240312073000 +0530" stop="20240312083000 +0530" channel="SHOWCASE.my">
-    <title lang="mg">Timeless The Miracle Of Christmas Part 2</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240312083000 +0530" stop="20240312101500 +0530" channel="SHOWCASE.my">
-    <title lang="mg">Escape From New York</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240312101500 +0530" stop="20240312123000 +0530" channel="SHOWCASE.my">
-    <title lang="mg">Jurassic World: Fallen Kingdom</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240312123000 +0530" stop="20240312133000 +0530" channel="SHOWCASE.my">
-    <title lang="mg">Timeless The Miracle Of Christmas Part 2</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240312133000 +0530" stop="20240312153000 +0530" channel="SHOWCASE.my">
-    <title lang="mg">Safe House</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240312153000 +0530" stop="20240312163000 +0530" channel="SHOWCASE.my">
-    <title lang="mg">Panhandle Cammie Get Your Gun</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240312163000 +0530" stop="20240312180000 +0530" channel="SHOWCASE.my">
-    <title lang="mg">Cross</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240312180000 +0530" stop="20240312183000 +0530" channel="SHOWCASE.my">
-    <title lang="mg">BEST. EVER. Best Banana Leaf Rice Ever</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240312183000 +0530" stop="20240312193000 +0530" channel="SHOWCASE.my">
-    <title lang="mg">Magnum P.I. Run, Baby, Run</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240312193000 +0530" stop="20240312214500 +0530" channel="SHOWCASE.my">
-    <title lang="mg">Pride And Prejudice</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
-  </programme>
   <programme start="20240312214500 +0530" stop="20240312232000 +0530" channel="SHOWCASE.my">
     <title lang="mg">Escape From Planet Earth</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
@@ -226,6 +158,94 @@
   </programme>
   <programme start="20240314193000 +0530" stop="20240314220000 +0530" channel="SHOWCASE.my">
     <title lang="mg">Fast &amp; Furious 9: The Fast Saga</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240314220000 +0530" stop="20240314234000 +0530" channel="SHOWCASE.my">
+    <title lang="mg">I Give It A Year</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240314234000 +0530" stop="20240315011500 +0530" channel="SHOWCASE.my">
+    <title lang="mg">Aiyai: Wrathful Soul</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315011500 +0530" stop="20240315033000 +0530" channel="SHOWCASE.my">
+    <title lang="mg">Pride And Prejudice</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315033000 +0530" stop="20240315042500 +0530" channel="SHOWCASE.my">
+    <title lang="mg">Magnum P.I. Evil Walks Softly</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315042500 +0530" stop="20240315044500 +0530" channel="SHOWCASE.my">
+    <title lang="mg">The Hanger</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315044500 +0530" stop="20240315063000 +0530" channel="SHOWCASE.my">
+    <title lang="mg">Dolittle</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315063000 +0530" stop="20240315070000 +0530" channel="SHOWCASE.my">
+    <title lang="mg">BEST. EVER. Best Dessert Ever</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315070000 +0530" stop="20240315073500 +0530" channel="SHOWCASE.my">
+    <title lang="mg">Girls5eva Triumphant Return To The Studio</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315073500 +0530" stop="20240315083500 +0530" channel="SHOWCASE.my">
+    <title lang="mg">Maria and Mustafa</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315083500 +0530" stop="20240315101500 +0530" channel="SHOWCASE.my">
+    <title lang="mg">I Give It A Year</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315101500 +0530" stop="20240315103000 +0530" channel="SHOWCASE.my">
+    <title lang="mg">Emergency Exit</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315103000 +0530" stop="20240315121500 +0530" channel="SHOWCASE.my">
+    <title lang="mg">Despicable Me</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315121500 +0530" stop="20240315124500 +0530" channel="SHOWCASE.my">
+    <title lang="mg">Exhalation</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315124500 +0530" stop="20240315130500 +0530" channel="SHOWCASE.my">
+    <title lang="mg">The Hanger</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315130500 +0530" stop="20240315153000 +0530" channel="SHOWCASE.my">
+    <title lang="mg">Fast &amp; Furious 9: The Fast Saga</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315153000 +0530" stop="20240315160000 +0530" channel="SHOWCASE.my">
+    <title lang="mg">BEST. EVER. Best Dessert Ever</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315160000 +0530" stop="20240315163000 +0530" channel="SHOWCASE.my">
+    <title lang="mg">Girls5eva Triumphant Return To The Studio</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315163000 +0530" stop="20240315180000 +0530" channel="SHOWCASE.my">
+    <title lang="mg">The Prisoner</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315180000 +0530" stop="20240315183000 +0530" channel="SHOWCASE.my">
+    <title lang="mg">Exhalation</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315183000 +0530" stop="20240315193000 +0530" channel="SHOWCASE.my">
+    <title lang="mg">Magnum P.I. Remember Me Tomorrow</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315193000 +0530" stop="20240315212500 +0530" channel="SHOWCASE.my">
+    <title lang="mg">The Girl On The Train</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
+  </programme>
+  <programme start="20240315212500 +0530" stop="20240315230000 +0530" channel="SHOWCASE.my">
+    <title lang="mg">Johnny English</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_367x207.jpg"/>
   </programme>
 </tv>
