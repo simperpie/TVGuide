@@ -353,7 +353,7 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
   </programme>
-  <programme start="20240314060000 +0530" stop="20240314070000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314060000 +0530" stop="20240314064700 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">River Monsters</title>
     <desc lang="en">Congo Killer: Jeremy returns to the Congo to learn the truth about the legendary Mami Wata, a notorious water spirit that could actually be a giant catfish.</desc>
     <credits>
@@ -362,7 +362,7 @@
     <category lang="en">Nature</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF4E1343A99BEB4ECD1454F1AA72CFB1980772F3N.jpg"/>
   </programme>
-  <programme start="20240314070000 +0530" stop="20240314080000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314064700 +0530" stop="20240314074000 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Ed Stafford: First Man Out</title>
     <desc lang="en">Rift Valley: Ed Stafford competes against two challengers, Amber and Serena Shine in Kenya's Rift Valley where they discover all sorts of wild animals blocking their path.</desc>
     <credits>
@@ -371,7 +371,7 @@
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/956D36381E476DFB29B25F4F2C602784CF988E93Z.jpg"/>
   </programme>
-  <programme start="20240314080000 +0530" stop="20240314090000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314074000 +0530" stop="20240314083400 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Man, Woman, Wild</title>
     <desc lang="en">Lost At Sea: Mykel and Ruth's boat breaks down in the Bermuda Triangle. They must make use of what they have aboard to battle dehydration and starvation.</desc>
     <credits>
@@ -381,7 +381,7 @@
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5B43788198BBBD96E402B793298571685CF896C7G.jpg"/>
   </programme>
-  <programme start="20240314090000 +0530" stop="20240314100000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314083400 +0530" stop="20240314092500 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Man vs. Wild</title>
     <desc lang="en">Andes Adventure: In Patagonia, Bear skins a hare, scales a cliff, tracks a puma, drinks dirty water and crosses the Perito Moreno Glacier, a labyrinth of ice caves and crevasses.</desc>
     <credits>
@@ -390,7 +390,17 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
   </programme>
-  <programme start="20240314100000 +0530" stop="20240314110000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314092500 +0530" stop="20240314101500 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Ed Stafford: Man Woman Child Wild</title>
+    <desc lang="en">Explorer Ed Stafford moves to a remote desert island in Indonesia with his wife and son for a month as part of a social experiment to experience a healthier family life.</desc>
+    <credits>
+      <actor>Ed Stafford</actor>
+      <actor>Laura Bingham</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FB563B6CB7EEB4E5569B9E4B950FFC2592821704Y.jpg"/>
+  </programme>
+  <programme start="20240314101500 +0530" stop="20240314110500 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Running Wild With Bear Grylls</title>
     <desc lang="en">Ben Stiller: Renowned actor Ben Stiller joins survivalist Bear Grylls in a 48-hour adventure into the wilds of Scotland wherein their journey is wet, cold and sometimes terrifying.</desc>
     <credits>
@@ -399,7 +409,7 @@
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F353ED4DEFB6583364AA77EF01653BC37566BB790.jpg"/>
   </programme>
-  <programme start="20240314110000 +0530" stop="20240314120000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314110500 +0530" stop="20240314115800 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Ed Stafford: First Man Out</title>
     <desc lang="en">Turkana: Ed Stafford risks his life in North Kenya's scorching hot volcanic barrier to compete against Max Djenohan, a young, elite survivalist determined to prove he is the best.</desc>
     <credits>
@@ -408,7 +418,7 @@
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/956D36381E476DFB29B25F4F2C602784CF988E93Z.jpg"/>
   </programme>
-  <programme start="20240314120000 +0530" stop="20240314130000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314115800 +0530" stop="20240314125300 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Man vs. Wild</title>
     <desc lang="en">Patagonia: In the icy wilderness of Patagonia, Bear Grylls tackles extreme survival challenges and wild weather by eating bugs and worms and showing how to stay alive.</desc>
     <credits>
@@ -417,7 +427,7 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
   </programme>
-  <programme start="20240314130000 +0530" stop="20240314140000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314125300 +0530" stop="20240314134700 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Man, Woman, Wild</title>
     <desc lang="en">Mexico: Mykel's survival adventure turns serious and deadly when Ruth collapses from the broiling heat in the merciless, bone-dry Mexican desert.</desc>
     <credits>
@@ -427,7 +437,7 @@
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5B43788198BBBD96E402B793298571685CF896C7G.jpg"/>
   </programme>
-  <programme start="20240314140000 +0530" stop="20240314143000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314134700 +0530" stop="20240314141300 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Food Factory</title>
     <desc lang="en">Jumbo rainbow lollipops are hand-twisted to give them their signature shape, hot-and-sour soup has been a crowd-pleaser since the Ming Dynasty and 13,000 hedgehog chocolates are poured in one hour.</desc>
     <credits>
@@ -441,7 +451,7 @@
     <category lang="en">Educational</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B67A89AEC27635E6FCD0C60CC6B5F942F2C8CCFV.jpg"/>
   </programme>
-  <programme start="20240314143000 +0530" stop="20240314150000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314141300 +0530" stop="20240314143900 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Food Factory</title>
     <desc lang="en">Mouth Mints Muffins Gnocchi: The hosts explore some of the largest manufacturers of consumable products and explain the intricate process involved in the production of various food items.</desc>
     <credits>
@@ -455,16 +465,30 @@
     <category lang="en">Educational</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B67A89AEC27635E6FCD0C60CC6B5F942F2C8CCFV.jpg"/>
   </programme>
-  <programme start="20240314150000 +0530" stop="20240314160000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314143900 +0530" stop="20240314150500 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Food Factory</title>
+    <desc lang="en">Noodling Around: The host explores how old-time candy bars, mountains of cannelloni, Vietnamese rice noodles and diced butternut squash are manufactured.</desc>
+    <credits>
+      <actor>Todd Schick</actor>
+      <actor>Colleen Rusholme</actor>
+      <actor>Ashley Chapman</actor>
+      <actor>Ellen Gordon</actor>
+      <actor>Nurith Jungreis</actor>
+      <actor>Ryan Martic</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6B67A89AEC27635E6FCD0C60CC6B5F942F2C8CCFV.jpg"/>
+  </programme>
+  <programme start="20240314150500 +0530" stop="20240314155800 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Man vs. Wild</title>
-    <desc lang="en">Arctic Circle: Bear fights the planet's coldest weather in the Arctic Circle as he tries to navigate the frozen waterfalls and find and feast on a reindeer.</desc>
+    <desc lang="en">Red Rock Country: Bear is in the red rock canyons of southern Utah where he descends a major rock pinnacle, gets trapped in a canyon and attempts his craziest aeroplane stunt ever.</desc>
     <credits>
       <actor>Bear Grylls</actor>
     </credits>
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
   </programme>
-  <programme start="20240314160000 +0530" stop="20240314170000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314155800 +0530" stop="20240314165100 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Man, Woman, Wild</title>
     <desc lang="en">Tasmania: Shipwrecked on the remote coastline of Tasmania, Mykel and Ruth battle hypothermia, dehydration and hunger in the face of an approaching storm.</desc>
     <credits>
@@ -474,7 +498,7 @@
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5B43788198BBBD96E402B793298571685CF896C7G.jpg"/>
   </programme>
-  <programme start="20240314170000 +0530" stop="20240314180000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314165100 +0530" stop="20240314174100 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Running Wild With Bear Grylls</title>
     <desc lang="en">Zac Efron: Legendary adventurer and survival instructor Bear Grylls takes Hollywood actor Zac Efron on an adventure-filled trip into the wilds of the Catskill Mountains.</desc>
     <credits>
@@ -483,7 +507,7 @@
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F353ED4DEFB6583364AA77EF01653BC37566BB790.jpg"/>
   </programme>
-  <programme start="20240314180000 +0530" stop="20240314190000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314174100 +0530" stop="20240314183400 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Man vs. Wild</title>
     <desc lang="en">Norway Edge Of Survival: Bear's team creates the harshest conditions possible for him using the latest technology. Afterwards, sensors monitor Bear as he tries to survive.</desc>
     <credits>
@@ -492,16 +516,24 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
   </programme>
-  <programme start="20240314190000 +0530" stop="20240314200000 +0530" channel="DiscoveryHDWorld.in">
-    <title lang="en">Man vs. Wild</title>
-    <desc lang="en">Host Bear Grylls tackles extreme challenges and navigates through remote locations around the world, sharing invaluable survival strategies along the way.</desc>
+  <programme start="20240314183400 +0530" stop="20240314190100 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Bear Grylls: Extreme Survival Caught On Camera</title>
+    <desc lang="en">Snow: Bear Grylls presents clips of survivors who escape frozen deaths by the narrowest of margins. These include a skier threatened by an avalanche.</desc>
     <credits>
+      <actor>Shini Somara</actor>
+      <actor>Alexander Fiske Harrison</actor>
       <actor>Bear Grylls</actor>
     </credits>
     <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFF3B8716DAC925C890E85597C1AEFB5BB6A54C51.jpg"/>
   </programme>
-  <programme start="20240314200000 +0530" stop="20240314210000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314190100 +0530" stop="20240314195600 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Bharat Revealed 2.0</title>
+    <desc lang="en">Secrets Of The Kohinoor Part 1: The host sheds light on the complex missions carried out by India's elite military units whilst highlighting their rigorous training processes.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A540ED6767A88116439073D693327FCC79269D10X.jpg"/>
+  </programme>
+  <programme start="20240314195600 +0530" stop="20240314205000 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Man vs. Wild</title>
     <desc lang="en">Bear Eats: Bear Grylls offers tips and tricks on dining in nature's kitchen with nothing except the fat on a camel's hump being beyond him.</desc>
     <credits>
@@ -510,7 +542,7 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
   </programme>
-  <programme start="20240314210000 +0530" stop="20240314220000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314205000 +0530" stop="20240314214300 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Expedition Unknown With Josh Gates</title>
     <desc lang="en">Captain Kidds Treasure: In the Caribbean, Josh hunts for the legendary treasure of Captain Kidd. Later, the search leads him to the island hideout of the notorious buccaneer.</desc>
     <credits>
@@ -524,7 +556,7 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91C18B342949C566FDCAF8C4AB95298DD9A16D770.jpg"/>
   </programme>
-  <programme start="20240314220000 +0530" stop="20240314230000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314214300 +0530" stop="20240314223900 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Man vs. Wild</title>
     <desc lang="en">Vietnam: Bear dodges bloodsucking leeches in the heart of the Vietnamese jungle, avoids dangerous spitting cobras and sees just how nutritious forest scorpions are.</desc>
     <credits>
@@ -533,9 +565,18 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7152D627115DB539D76E753DD2D26C1C68C753AAC.jpg"/>
   </programme>
-  <programme start="20240314230000 +0530" stop="20240315000000 +0530" channel="DiscoveryHDWorld.in">
+  <programme start="20240314223900 +0530" stop="20240314233100 +0530" channel="DiscoveryHDWorld.in">
     <title lang="en">Naked And Afraid</title>
     <desc lang="en">Arachnid Overload: Deadly spiders and tics test the nerve and resilience of a yoga teacher and a knife maker in the brutal jungle of Colombia.</desc>
+    <credits>
+      <actor>Michael Brown</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/408ABC951776410C3D2821FF338277522DBFDD94J.jpg"/>
+  </programme>
+  <programme start="20240314233100 +0530" stop="20240315002300 +0530" channel="DiscoveryHDWorld.in">
+    <title lang="en">Naked And Afraid</title>
+    <desc lang="en">Primal Fear: An unlikely pair of survivalists must coexist on the African savannah of Namibia wherein lack of food and the difficulty of navigating the thorny landscape threaten their intrepid team.</desc>
     <credits>
       <actor>Michael Brown</actor>
     </credits>

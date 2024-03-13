@@ -143,13 +143,35 @@
     <category lang="en">Romance</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99F050AE03472124A4D0D63A6BEA8F3D9700FBAAD.jpg"/>
   </programme>
-  <programme start="20240314030000 +0530" stop="20240314060000 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240314004300 +0530" stop="20240314032000 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Laal Singh Chaddha</title>
+    <desc lang="en">Laal Singh Chaddha, a man with a low IQ, recounts the early years of his life to a passenger on a train. Now, his only wish is to be reunited with his childhood sweetheart, Rupa.</desc>
+    <credits>
+      <actor>Aamir Khan</actor>
+      <actor>Kareena Kapoor</actor>
+      <actor>Naga Chaitanya</actor>
+      <actor>Mona Singh</actor>
+      <actor>Manav Vij</actor>
+      <actor>Rohaan Singh</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/59143195E0B033F5BDFC56C83387E3F7237D4ECCO.jpg"/>
   </programme>
-  <programme start="20240314060000 +0530" stop="20240314090000 +0530" channel="ColorsCineplexHD.in">
+  <programme start="20240314032000 +0530" stop="20240314070000 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Abhimanyu</title>
+    <desc lang="en">Abhimanyu, a professional computer engineer, puts his life at risk and fights for people from poverty-stricken areas so that they receive an education.</desc>
+    <credits>
+      <actor>Arjun Sarja</actor>
+      <actor>Surveen Chawla</actor>
+      <actor>Atul Mathur</actor>
+      <actor>Rahul Dev</actor>
+      <actor>Simran Kapoor</actor>
+      <actor>Shruti Reddy</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5AE9E0224805B1E41ABF4F5CC7020A09A87EE44E2.jpg"/>
+  </programme>
+  <programme start="20240314070000 +0530" stop="20240314090000 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

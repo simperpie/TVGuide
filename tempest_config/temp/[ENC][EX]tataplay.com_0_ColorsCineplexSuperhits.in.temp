@@ -128,11 +128,54 @@
     <category lang="en">Romance</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44BBF5478124568895917A51C23798062AD204A3L.jpg"/>
   </programme>
-  <programme start="20240314030000 +0530" stop="20240314060000 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240314000200 +0530" stop="20240314021900 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Viraat</title>
+    <desc lang="en">Viraat, an entrepreneur, faces several challenges when he plans to work on a thermal power project. His troubles increase when three women fall head over heels in love with him.</desc>
+    <credits>
+      <actor>Darshan Thoogudeepa</actor>
+      <actor>Isha Chawla</actor>
+      <actor>Vidisha Shrivastav</actor>
+      <actor>Chaitra Chandranath</actor>
+      <actor>Suhasini Maniratnam</actor>
+      <actor>Sumalatha</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EC94DEBF7F65F6FDE201F65C37C97B3CF62C53E86.jpg"/>
+  </programme>
+  <programme start="20240314021900 +0530" stop="20240314035800 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Fightero Ka Badshah</title>
+    <desc lang="en">A gangster develops feelings for a beautiful woman and soon, they fall in love with each other. However, she is oblivious to the fact that he is a criminal.</desc>
+    <credits>
+      <actor>Ashwin Raj</actor>
+      <actor>Anamika</actor>
+      <actor>Vidharsha</actor>
+      <actor>Yukthivel</actor>
+      <actor>Theni Murugan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B697AEDA648B75F4A86D1E24EAF9BFDB5900F208.jpg"/>
+  </programme>
+  <programme start="20240314035800 +0530" stop="20240314053800 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Qaidi No 420</title>
+    <desc lang="en">A kabbadi player is arrested for the murder of his wife on their wedding night. However, the police officer investigating the case finds other clues that lead him on a different trail.</desc>
+    <credits>
+      <actor>Sachiin Joshi</actor>
+      <actor>Esha Gupta</actor>
+      <actor>Kishore</actor>
+      <actor>Prabhu</actor>
+      <actor>Sathish</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6108793BED2A377038DB7955D826D82293930062A.jpg"/>
+  </programme>
+  <programme start="20240314053800 +0530" stop="20240314060000 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Motu Patlu Mission Moon</title>
+    <desc lang="en">Motu, Patlu, Ghasitaram and Jhatka are shocked when the Earth starts trembling due to the moon losing its shape and light. The king then orders his citizens to fight the destroyers of the moon.</desc>
+    <credits>
+      <actor>Saurav Chakraborty</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BDC2208D9E65B16FA6CF36C6C1F4C4D8855E36D3P.jpg"/>
   </programme>
   <programme start="20240314060000 +0530" stop="20240314090000 +0530" channel="ColorsCineplexSuperhits.in">
     <title lang="en">Movie</title>

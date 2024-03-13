@@ -292,9 +292,9 @@
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/575271F7B226D210508582A7BC94EFBAA7B3B9848.jpg"/>
   </programme>
-  <programme start="20240314050000 +0530" stop="20240314053000 +0530" channel="ColorsHD.in">
+  <programme start="20240314050000 +0530" stop="20240314052900 +0530" channel="ColorsHD.in">
     <title lang="en">Udaariyan</title>
-    <desc lang="en">Alia hatches a conspiracy to create trouble between Armaan and Aasmaa.</desc>
+    <desc lang="en">Armaan unwittingly helps Aasmaa to unload her luggage at the bus station in Moga.</desc>
     <credits>
       <actor>Priyanka Chaudhary</actor>
       <actor>Ankit Gupta</actor>
@@ -306,9 +306,9 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4C6356CD0412F87BF2A9461FB1A193540C79DBN.jpg"/>
     <episode-num system="xmltv_ns">.988.</episode-num>
   </programme>
-  <programme start="20240314053000 +0530" stop="20240314060000 +0530" channel="ColorsHD.in">
+  <programme start="20240314052900 +0530" stop="20240314060000 +0530" channel="ColorsHD.in">
     <title lang="en">Parineetii</title>
-    <desc lang="en">A showdown ensues after Pari confronts Neeti about her role in Gurinder's accident.</desc>
+    <desc lang="en">Neeti plans to eliminate Gurinder after the police fail to find any evidence.</desc>
     <credits>
       <actor>Ankur Verma</actor>
       <actor>Tanvi Dogra</actor>
@@ -320,7 +320,7 @@
   </programme>
   <programme start="20240314060000 +0530" stop="20240314063000 +0530" channel="ColorsHD.in">
     <title lang="en">Udaariyan</title>
-    <desc lang="en">Alia hatches a conspiracy to create trouble between Armaan and Aasmaa.</desc>
+    <desc lang="en">Armaan unwittingly helps Aasmaa to unload her luggage at the bus station in Moga.</desc>
     <credits>
       <actor>Priyanka Chaudhary</actor>
       <actor>Ankit Gupta</actor>
@@ -334,7 +334,7 @@
   </programme>
   <programme start="20240314063000 +0530" stop="20240314070000 +0530" channel="ColorsHD.in">
     <title lang="en">Parineetii</title>
-    <desc lang="en">A showdown ensues after Pari confronts Neeti about her role in Gurinder's accident.</desc>
+    <desc lang="en">Neeti plans to eliminate Gurinder after the police fail to find any evidence.</desc>
     <credits>
       <actor>Ankur Verma</actor>
       <actor>Tanvi Dogra</actor>
@@ -356,7 +356,7 @@
   </programme>
   <programme start="20240314110000 +0530" stop="20240314113000 +0530" channel="ColorsHD.in">
     <title lang="en">Shiv Shakti Tap Tyaag Tandav</title>
-    <desc lang="en">Ganga seeks Shiv and Parvati's permission to follow its path and merge with the ocean.</desc>
+    <desc lang="en">Bent on revenge, Diti seeks help from Shanidev to decimate Shiv's family.</desc>
     <credits>
       <actor>Ram Yashvardhan</actor>
       <actor>Subha Rajput</actor>
@@ -367,7 +367,7 @@
   </programme>
   <programme start="20240314113000 +0530" stop="20240314120000 +0530" channel="ColorsHD.in">
     <title lang="en">Doree</title>
-    <desc lang="en">A fierce showdown ensues after Rukmani invites Agni to the Thakur mansion.</desc>
+    <desc lang="en">Anand cleverly extracts Agni's hair strands to conduct a DNA test.</desc>
     <credits>
       <actor>Mahi Bhanushali</actor>
       <actor>Amar Upadhyay</actor>
@@ -379,7 +379,7 @@
   </programme>
   <programme start="20240314120000 +0530" stop="20240314123000 +0530" channel="ColorsHD.in">
     <title lang="en">Mera Balam Thanedaar</title>
-    <desc lang="en">Chaos ensues after Sulakshana remains adamant about verifying Bulbul and Veer's horoscope.</desc>
+    <desc lang="en">Varnika accuses Bulbul of deception after finding a chopper in the kitchen area.</desc>
     <credits>
       <actor>Shagun Pandey</actor>
       <actor>Shruti Choudhary</actor>
@@ -390,7 +390,7 @@
   </programme>
   <programme start="20240314123000 +0530" stop="20240314130000 +0530" channel="ColorsHD.in">
     <title lang="en">Mangal Laxmi</title>
-    <desc lang="en">Lakshmi grows suspicious after witnessing Adit's inhumane behaviour towards Mangal.</desc>
+    <desc lang="en">Tragedy strikes after Adit and Soumya are involved in a terrible accident.</desc>
     <credits>
       <actor>Deepika Singh</actor>
       <actor>Naman Shaw</actor>
@@ -458,7 +458,7 @@
   </programme>
   <programme start="20240314190000 +0530" stop="20240314193000 +0530" channel="ColorsHD.in">
     <title lang="en">Udaariyan</title>
-    <desc lang="en">Alia hatches a conspiracy to create trouble between Armaan and Aasmaa. Repeat - Mon,Sun 3:00 am.</desc>
+    <desc lang="en">Armaan unwittingly helps Aasmaa to unload her luggage at the bus station in Moga. Repeat - Mon,Sun 3:00 am.</desc>
     <credits>
       <actor>Priyanka Chaudhary</actor>
       <actor>Ankit Gupta</actor>
@@ -472,7 +472,7 @@
   </programme>
   <programme start="20240314193000 +0530" stop="20240314200000 +0530" channel="ColorsHD.in">
     <title lang="en">Parineetii</title>
-    <desc lang="en">A showdown ensues after Pari confronts Neeti about her role in Gurinder's accident. Repeat - Mon,Sun 1:00 am.</desc>
+    <desc lang="en">Neeti plans to eliminate Gurinder after the police fail to find any evidence. Repeat - Mon,Sun 1:00 am.</desc>
     <credits>
       <actor>Ankur Verma</actor>
       <actor>Tanvi Dogra</actor>
@@ -484,7 +484,7 @@
   </programme>
   <programme start="20240314200000 +0530" stop="20240314203000 +0530" channel="ColorsHD.in">
     <title lang="en">Shiv Shakti Tap Tyaag Tandav</title>
-    <desc lang="en">Ganga seeks Shiv and Parvati's permission to follow its path and merge with the ocean.</desc>
+    <desc lang="en">Bent on revenge, Diti seeks help from Shanidev to decimate Shiv's family.</desc>
     <credits>
       <actor>Ram Yashvardhan</actor>
       <actor>Subha Rajput</actor>
@@ -495,7 +495,7 @@
   </programme>
   <programme start="20240314203000 +0530" stop="20240314210000 +0530" channel="ColorsHD.in">
     <title lang="en">Doree</title>
-    <desc lang="en">A fierce showdown ensues after Rukmani invites Agni to the Thakur mansion.</desc>
+    <desc lang="en">Anand cleverly extracts Agni's hair strands to conduct a DNA test.</desc>
     <credits>
       <actor>Mahi Bhanushali</actor>
       <actor>Amar Upadhyay</actor>
@@ -507,7 +507,7 @@
   </programme>
   <programme start="20240314210000 +0530" stop="20240314213000 +0530" channel="ColorsHD.in">
     <title lang="en">Mangal Laxmi</title>
-    <desc lang="en">Lakshmi grows suspicious after witnessing Adit's inhumane behaviour towards Mangal.</desc>
+    <desc lang="en">Tragedy strikes after Adit and Soumya are involved in a terrible accident.</desc>
     <credits>
       <actor>Deepika Singh</actor>
       <actor>Naman Shaw</actor>
@@ -522,7 +522,7 @@
   </programme>
   <programme start="20240314213000 +0530" stop="20240314220000 +0530" channel="ColorsHD.in">
     <title lang="en">Mera Balam Thanedaar</title>
-    <desc lang="en">Chaos ensues after Sulakshana remains adamant about verifying Bulbul and Veer's horoscope.</desc>
+    <desc lang="en">Varnika accuses Bulbul of deception after finding a chopper in the kitchen area.</desc>
     <credits>
       <actor>Shagun Pandey</actor>
       <actor>Shruti Choudhary</actor>
@@ -533,7 +533,7 @@
   </programme>
   <programme start="20240314220000 +0530" stop="20240314223000 +0530" channel="ColorsHD.in">
     <title lang="en">Prachand Ashok</title>
-    <desc lang="en">Buoyed by Helena's manipulative words, Devi hatches a cunning ploy to regain Ashok's love.</desc>
+    <desc lang="en">Devi requests Ashok to free Karuwaki after the latter saves him for certain death.</desc>
     <credits>
       <actor>Adnan Khan</actor>
       <actor>Mallika Singh</actor>
@@ -548,7 +548,7 @@
   </programme>
   <programme start="20240314223000 +0530" stop="20240314230000 +0530" channel="ColorsHD.in">
     <title lang="en">Qayamat Se Qayamat Tak</title>
-    <desc lang="en">Fate unites Raj and Poonam after they cross paths near the temple.</desc>
+    <desc lang="en">Poonam stumbles into a swamp after she tries to save herself from a group of eve-teasers.</desc>
     <credits>
       <actor>Karam Rajpal</actor>
       <actor>Trupti Mishra</actor>
@@ -562,7 +562,7 @@
   </programme>
   <programme start="20240314230000 +0530" stop="20240314233000 +0530" channel="ColorsHD.in">
     <title lang="en">Doree</title>
-    <desc lang="en">A fierce showdown ensues after Rukmani invites Agni to the Thakur mansion.</desc>
+    <desc lang="en">Anand cleverly extracts Agni's hair strands to conduct a DNA test.</desc>
     <credits>
       <actor>Mahi Bhanushali</actor>
       <actor>Amar Upadhyay</actor>
