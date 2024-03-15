@@ -4,19 +4,7 @@
     <display-name lang="en">SkySpMainEv</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb1301.png"/>
   </channel>
-  <programme start="20240315003000 +0530" stop="20240315043000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live PL Darts: Nottingham</title>
-    <desc lang="en">The BetMGM Premier League continues during 2024 with night seven in Nottingham. It was brilliance in Brighton for Luke Humphries who secured his first nightly win of the season. (14.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Darts</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ede4bc58-7b98-3f87-8a42-c12863fd497a/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
+  
   <programme start="20240315043000 +0530" stop="20240315063000 +0530" channel="SkySpMainEvent.uk">
     <title lang="en">Live Tennis: Indian Wells</title>
     <desc lang="en">Australian Open champion Jannik Sinner kicks off day nine at Indian Wells, as top seed Iga Swaitek takes on Caroline Wozniacki. Defending champion Carlos Alcaraz is also in action. (14.03)</desc>
