@@ -114,13 +114,48 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1FE56F6AB069EBF113C2B6D6739E261F8F9C8900W.jpg"/>
   </programme>
-  <programme start="20240316030000 +0530" stop="20240316060000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240316011800 +0530" stop="20240316035500 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Deewangee</title>
+    <desc lang="en">Sargam approaches Raj, a lawyer, to defend her friend Tarang, who is accused of murder. Raj proves that Tarang suffers from split personality but later, he learns that he might be the actual murderer.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Akshaye Khanna</actor>
+      <actor>Urmila Matondkar</actor>
+      <actor>Farida Jalal</actor>
+      <actor>Seema Biswas</actor>
+      <actor>Tiku Talsania</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E108E4DD8AE6C6D4448727FB2C8CFB03175619E0U.jpg"/>
   </programme>
-  <programme start="20240316060000 +0530" stop="20240316090000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240316035500 +0530" stop="20240316052900 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Dekh Tamasha Dekh</title>
+    <desc lang="en">Hindu and Muslim factions attempt to uncover the religious identity of an underprivileged man, who dies under the weight of a politician's poster.</desc>
+    <credits>
+      <actor>Satish Kaushik</actor>
+      <actor>Tanvi Azmi</actor>
+      <actor>Vinay Jain</actor>
+      <actor>Sharad Ponkshe</actor>
+      <actor>Ganesh Yadav</actor>
+      <actor>Santosh Juvekar</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FFF5DBF898CDE5EBCAD6A7614AF85DFA29331360.jpg"/>
+  </programme>
+  <programme start="20240316052900 +0530" stop="20240316073000 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Agneepath</title>
+    <desc lang="en">A gangster named Vijay wants to defeat Kancha, a man who callously killed his father years ago. He is ready to go to any length to restore his family's honour and avenge his father's death.</desc>
+    <credits>
+      <actor>Amitabh Bachchan</actor>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Madhavi</actor>
+      <actor>Danny Denzongpa</actor>
+      <actor>Neelam Kothari</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DBEC7BEB20E26A538E09605BA15EEF475F0CB8741.jpg"/>
+  </programme>
+  <programme start="20240316073000 +0530" stop="20240316090000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

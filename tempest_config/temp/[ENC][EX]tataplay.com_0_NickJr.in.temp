@@ -83,59 +83,82 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8A75184E87B1052CD198D6D61D5EC471DAA49CBBJ.jpg"/>
   </programme>
-  <programme start="20240315120000 +0530" stop="20240315150000 +0530" channel="NickJr.in">
-    <title lang="en">Shivaji Surathkal</title>
-    <desc lang="en">A policeman sets out to investigate a murder while dealing with his wife's death.</desc>
+  <programme start="20240315111300 +0530" stop="20240315120300 +0530" channel="NickJr.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240315120300 +0530" stop="20240315142300 +0530" channel="NickJr.in">
+    <title lang="en">Ella Olle Shakunagalu</title>
+    <desc lang="en">Ella Olle Shakunagalu</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3BFCD4BAD39D442B5DBEA7CAEDE24686FD9D8C64T.jpg"/>
+  </programme>
+  <programme start="20240315142300 +0530" stop="20240315145800 +0530" channel="NickJr.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240315145800 +0530" stop="20240315173100 +0530" channel="NickJr.in">
+    <title lang="en">Raju Kannada Medium</title>
+    <desc lang="en">Raju, an ambitious village boy, gets to understand life after moving to a big city.</desc>
     <credits>
-      <actor>Ramesh Aravind</actor>
-      <actor>Radhika Narayan</actor>
-      <actor>Aarohi Narayan</actor>
-      <actor>Avinash</actor>
-      <actor>Rohith Bhanuprakash</actor>
+      <actor>Gurunandan</actor>
+      <actor>Avantika Shetty</actor>
+      <actor>Sudeep</actor>
+      <actor>Ashika Ranganath</actor>
+      <actor>Achyuth Kumar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BEBC27F67AF3C3240BE948EBF26D6E946D5232FAT.jpg"/>
+  </programme>
+  <programme start="20240315173100 +0530" stop="20240315180100 +0530" channel="NickJr.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240315180100 +0530" stop="20240315202800 +0530" channel="NickJr.in">
+    <title lang="en">Seetharama Kalyana</title>
+    <desc lang="en">Arya, a righteous man, falls in love with Geetha, unaware of the future that awaits them.</desc>
+    <credits>
+      <actor>Nikhil Kumar</actor>
+      <actor>Rachita Ram</actor>
+      <actor>R Sarathkumar</actor>
+      <actor>P Ravishankar</actor>
+      <actor>Madhoo</actor>
+      <actor>Sanjay Kapoor</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8394DAA9F62E5D98A05244C2EDCDFA70BEAF411DI.jpg"/>
+  </programme>
+  <programme start="20240315202800 +0530" stop="20240315205800 +0530" channel="NickJr.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240315205800 +0530" stop="20240315230800 +0530" channel="NickJr.in">
+    <title lang="en">Mummy Save Me</title>
+    <desc lang="en">The spirit of a young orphan, Kumari, haunts a pregnant Priya and her daughter, Kriya.</desc>
+    <credits>
+      <actor>Priyanka Upendra</actor>
+      <actor>Yuvina Parthavi</actor>
+      <actor>Golisoda Madhusudan</actor>
+      <actor>Aishwarya Shindogi</actor>
+      <actor>Vatsala Mohan</actor>
+      <actor>Madhusudhan Rao</actor>
     </credits>
     <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/532BACCD78E242FB32EB4B4597FEB287CA0623DC5.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AC50A1887EFDF12F19C8B82E96D0F8CBE18407FX.jpg"/>
   </programme>
-  <programme start="20240315150000 +0530" stop="20240315180000 +0530" channel="NickJr.in">
-    <title lang="en">Vamshodharaka</title>
-    <desc lang="en">Vishwa returns to his village after completing his education and hopes to become a farmer.</desc>
-    <credits>
-      <actor>Vijay Raghavendra</actor>
-      <actor>Meghana Raj</actor>
-      <actor>Naveen Krishna</actor>
-      <actor>Rangayana Raghu</actor>
-      <actor>Sadhu Kokila</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEDB79BFA94D01836B76893D8A90E0A7683953C5U.jpg"/>
-  </programme>
-  <programme start="20240315180000 +0530" stop="20240315210000 +0530" channel="NickJr.in">
-    <title lang="en">Kurubana Rani</title>
-    <desc lang="en">Kencha takes his fake wedding seriously and forces his on-screen wife to stay with him.</desc>
-    <credits>
-      <actor>Shivarajkumar</actor>
-      <actor>Nagma</actor>
-      <actor>Lokesh</actor>
-      <actor>Mukhyamantri Chandru</actor>
-      <actor>C R Simha</actor>
-      <actor>Sumithra</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C255C525B77CDE8A46E3C082A86E7FB4098ADD5B0.jpg"/>
-  </programme>
-  <programme start="20240315210000 +0530" stop="20240316000000 +0530" channel="NickJr.in">
-    <title lang="en">DK</title>
-    <desc lang="en">Two rivals who have never lost a bet in their lives end up falling for each other.</desc>
-    <credits>
-      <actor>Prem</actor>
-      <actor>Chaitra Chandranath</actor>
-      <actor>Rishikumara Swamy</actor>
-      <actor>Sharath Lohitashwa</actor>
-      <actor>Shobhraj</actor>
-      <actor>Sunny Leone</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D86D153DBAC7AAB80F9D9C874E5AEC5D82D72087H.jpg"/>
+  <programme start="20240315230800 +0530" stop="20240316000000 +0530" channel="NickJr.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
   </programme>
   <programme start="20240316000000 +0530" stop="20240316020000 +0530" channel="NickJr.in">
     <title lang="en">Comedy Khiladigalu Championship</title>
