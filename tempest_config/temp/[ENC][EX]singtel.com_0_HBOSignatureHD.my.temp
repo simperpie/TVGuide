@@ -3,322 +3,6 @@
   <channel id="HBOSignatureHD.my">
     <display-name lang="en">HBO Signature 🄼</display-name>
   </channel>
-  <programme start="20240312202500 +0530" stop="20240312222000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">SMILE</title>
-    <desc lang="en">After witnessing a bizarre, traumatic patient incident, Dr. Rose Cotter (Sosie Bacon) starts experiencing terrifying visions. As the lines between reality and nightmares blur, Rose must confront her troubling past to escape her chilling new reality.</desc>
-    <category lang="en">General</category>
-    <category lang="en">English Movies</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"M18</value>
-    </rating>
-  </programme>
-  <programme start="20240312222000 +0530" stop="20240313001000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">ANNABELLE: CREATION</title>
-    <desc lang="en">Several years after the tragic death of their young daughter, a doll maker welcomes a nun and six girls from a shut-down orphanage into their home.</desc>
-    <category lang="en">General</category>
-    <category lang="en">English Movies</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
-  <programme start="20240313001000 +0530" stop="20240313010000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">THE GILDED AGE S1</title>
-    <desc lang="en">George and Bertha extend an invite to a young man who's piqued Gladys' interest. After charming Mr. McAllister, Bertha accompanies Marian and Aurora to hear Clara Barton speak in Dansville.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"5","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
-  <programme start="20240313010000 +0530" stop="20240313022000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">KATRINA BABIES</title>
-    <desc lang="en">Edward Buckles, Jr., who was 12 when Katrina hit New Orleans, documents the stories of his peers who survived the storm as children.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Factual-Documentary</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
-  <programme start="20240313022000 +0530" stop="20240313041000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">ARMAGEDDON TIME</title>
-    <desc lang="en">A deeply personal coming-of-age story about the strength of family and the generational pursuit of the American Dream.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
-  <programme start="20240313041000 +0530" stop="20240313061000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">SHAKESPEARE IN LOVE</title>
-    <desc lang="en">A young Shakespeare is suffering from writer's block until he meets an actress and falls madly in love with her.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
-  <programme start="20240313061000 +0530" stop="20240313070500 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">THE GILDED AGE S1</title>
-    <desc lang="en">Bertha goes all out at a luncheon to impress Mr. McAllister, enlisting the help of Bannister - who rubs Church the wrong way.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <episode-num system="xmltv_ns">.5.</episode-num>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"6","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
-  <programme start="20240313070500 +0530" stop="20240313084500 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">TOO BIG TO FAIL</title>
-    <desc lang="en">A film on the 2008 Wall Street financial crisis that explores the inner sanctum of the powerful group that decided the fate of the world's economy.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
-    </rating>
-  </programme>
-  <programme start="20240313084500 +0530" stop="20240313101000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">WHO KILLED GARRETT PHILLIPS? PART 1</title>
-    <desc lang="en">This two-part documentary covers the trial of Nicholas Hillary for the 2011 murder of 11-year-old Garrett Phillips.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
-    </rating>
-  </programme>
-  <programme start="20240313101000 +0530" stop="20240313110500 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">THE REGIME S1</title>
-    <desc lang="en">The darkly comedic six-episode series tells the story of life within the walls of a modern authoritarian regime as it begins to unravel.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Series</category>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"2","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
-  <programme start="20240313110500 +0530" stop="20240313123500 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">INTO THE STORM</title>
-    <desc lang="en">As the deadly twisters ravage the city of Silverton, storm chasers run towards danger to study the phenomenon.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Action</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
-  <programme start="20240313123500 +0530" stop="20240313142500 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">FORCES OF NATURE</title>
-    <desc lang="en">Soon-to-be-married Ben encounters an exciting stranger after his plane is struck by a natural disaster.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
-    </rating>
-  </programme>
-  <programme start="20240313142500 +0530" stop="20240313153000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">CHRISTMAS CAROLE</title>
-    <desc lang="en">Meet Carole McKay, she doesn't love Christmas at all. But this Christmas Eve, Carole's past, present and future are about to collide.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
-    </rating>
-  </programme>
-  <programme start="20240313153000 +0530" stop="20240313155500 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">HOLLYWOOD ON SET S1</title>
-    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Specials</category>
-    <category lang="en">Series</category>
-    <episode-num system="xmltv_ns">.1054.</episode-num>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1055","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
-    </rating>
-  </programme>
-  <programme start="20240313155500 +0530" stop="20240313173000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">TOXIC HOT SEAT</title>
-    <desc lang="en">This HBO documentary looks at the nexus of money, politics and power – and a group of citizens as they fight to expose a campaign that has left a toxic legacy in America.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
-    </rating>
-  </programme>
-  <programme start="20240313173000 +0530" stop="20240313193000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">ARMAGEDDON TIME</title>
-    <desc lang="en">A deeply personal coming-of-age story about the strength of family and the generational pursuit of the American Dream.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
-  <programme start="20240313193000 +0530" stop="20240313211500 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">MCENROE</title>
-    <desc lang="en">The story of John McEnroe, one of the most naturally gifted players to take to the tennis court, and also one of the most controversial.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Factual-Documentary</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
-  <programme start="20240313211500 +0530" stop="20240314000000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">THE DARK KNIGHT RISES</title>
-    <desc lang="en">A new evil causes Batman to resurface and defend Gotham City.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Action</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
-    </rating>
-  </programme>
-  <programme start="20240314000000 +0530" stop="20240314005500 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">THE GILDED AGE S1</title>
-    <desc lang="en">Bertha goes all out at a luncheon to impress Mr. McAllister, enlisting the help of Bannister - who rubs Church the wrong way.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <episode-num system="xmltv_ns">.5.</episode-num>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"6","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
-  <programme start="20240314005500 +0530" stop="20240314023500 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">MARGAUX</title>
-    <desc lang="en">A group of college friends rent a smart house for a weekend of partying. However, they slowly start to realize that Margaux, the house's super advanced AI system, has sinister designs for them.</desc>
-    <category lang="en">General</category>
-    <category lang="en">English Movies</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
-  <programme start="20240314023500 +0530" stop="20240314035500 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">A WALTONS' THANKSGIVING</title>
-    <desc lang="en">The Walton family prepares for the Harvest Festival Fair in town. But this year, a young boy arrives that will dramatically change the Waltons' lives.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
-    </rating>
-  </programme>
-  <programme start="20240314035500 +0530" stop="20240314053500 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">WHO KILLED GARRETT PHILLIPS? PART 2</title>
-    <desc lang="en">This two-part documentary covers the trial of Nicholas Hillary for the 2011 murder of 11-year-old Garrett Phillips.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
-    </rating>
-  </programme>
-  <programme start="20240314053500 +0530" stop="20240314064000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">CHRISTMAS CAROLE</title>
-    <desc lang="en">Meet Carole McKay, she doesn't love Christmas at all. But this Christmas Eve, Carole's past, present and future are about to collide.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
-    </rating>
-  </programme>
-  <programme start="20240314064000 +0530" stop="20240314073000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">THE GILDED AGE S1</title>
-    <desc lang="en">Young Marian Brook moves from rural Pennsylvania into the New York City home of her old money aunts and gets enmeshed in a Gilded Age social war with their rich neighbours.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"7","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
-  <programme start="20240314073000 +0530" stop="20240314091500 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">MCENROE</title>
-    <desc lang="en">The story of John McEnroe, one of the most naturally gifted players to take to the tennis court, and also one of the most controversial.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Factual-Documentary</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
-  <programme start="20240314091500 +0530" stop="20240314105000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">INTO THE STORM</title>
-    <desc lang="en">As the deadly twisters ravage the city of Silverton, storm chasers run towards danger to study the phenomenon.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Action</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
-  <programme start="20240314105000 +0530" stop="20240314133500 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">THE DARK KNIGHT RISES</title>
-    <desc lang="en">A new evil causes Batman to resurface and defend Gotham City.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Action</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
-    </rating>
-  </programme>
-  <programme start="20240314133500 +0530" stop="20240314150000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">A WALTONS' THANKSGIVING</title>
-    <desc lang="en">The Walton family prepares for the Harvest Festival Fair in town. But this year, a young boy arrives that will dramatically change the Waltons' lives.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
-    </rating>
-  </programme>
-  <programme start="20240314150000 +0530" stop="20240314163000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">LIFE SUPPORT</title>
-    <desc lang="en">An HBO Original Movie, Life Support tells the tale of an HIV-positive woman who learns lessons of love and strength through helping others.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
-    </rating>
-  </programme>
-  <programme start="20240314163000 +0530" stop="20240314180500 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">THE LOSERS</title>
-    <desc lang="en">An elite U.S. Special Forces unit, sent into the Bolivian jungle on a search and destroy mission, is betrayed and left for dead.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Action</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
-    </rating>
-  </programme>
-  <programme start="20240314180500 +0530" stop="20240314193000 +0530" channel="HBOSignatureHD.my">
-    <title lang="en">ENDANGERED</title>
-    <desc lang="en">A year in the life of four journalists working in democratic countries where freedom of the press has historically been considered a 'given.' We witness the personal dangers they face while trying to hold those in power accountable.</desc>
-    <category lang="en">General</category>
-    <category lang="en">Factual-Documentary</category>
-    <category lang="en">Series</category>
-    <rating system="MDA">
-      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
-    </rating>
-  </programme>
   <programme start="20240314193000 +0530" stop="20240314213500 +0530" channel="HBOSignatureHD.my">
     <title lang="en">THE THEORY OF EVERYTHING</title>
     <desc lang="en">The story of one of the world's greatest living minds, Stephen Hawking, and the arts student he fell in love with whilst studying at Cambridge.</desc>
@@ -481,6 +165,309 @@
     <episode-num system="xmltv_ns">.1.</episode-num>
     <rating system="MDA">
       <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"2","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
+    </rating>
+  </programme>
+  <programme start="20240315220000 +0530" stop="20240316000500 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">SUICIDE SQUAD</title>
+    <desc lang="en">A rogues gallery of super-villains unite to battle a mysterious and powerful entity, while the diabolical Joker launches an evil agenda of his own.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Action</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
+    </rating>
+  </programme>
+  <programme start="20240316000500 +0530" stop="20240316010000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">THE GILDED AGE S1</title>
+    <desc lang="en">Young Marian Brook moves from rural Pennsylvania into the New York City home of her old money aunts and gets enmeshed in a Gilded Age social war with their rich neighbours.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"8","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
+    </rating>
+  </programme>
+  <programme start="20240316010000 +0530" stop="20240316025500 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">SUGAR</title>
+    <desc lang="en">An HBO Original film of a baseball pitcher who struggles to pull his family out of poverty.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
+    </rating>
+  </programme>
+  <programme start="20240316025500 +0530" stop="20240316044000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">NATALIE WOOD: WHAT REMAINS BEHIND</title>
+    <desc lang="en">A different look at the career and personal life of actress Natalie Wood through the eyes of her daughter, Natasha Gregson Wagner, and others who knew her best.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
+    </rating>
+  </programme>
+  <programme start="20240316044000 +0530" stop="20240316051000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Specials</category>
+    <category lang="en">Series</category>
+    <episode-num system="xmltv_ns">.1055.</episode-num>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1056","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
+    </rating>
+  </programme>
+  <programme start="20240316051000 +0530" stop="20240316072000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">IRON JAWED ANGELS</title>
+    <desc lang="en">Hilary Swank and Anjelica Huston star in this HBO Original Movie about the women's suffragette movement in 1920s America.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
+    </rating>
+  </programme>
+  <programme start="20240316072000 +0530" stop="20240316092000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">SHOOTING STARS</title>
+    <desc lang="en">The inspirational story of how LeBron James and his childhood friends became the #1 high school team in the country.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
+    </rating>
+  </programme>
+  <programme start="20240316092000 +0530" stop="20240316114000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">MINORITY REPORT</title>
+    <desc lang="en">A man discovers that he has been identified by the police department as a future murderer and now has to make a run for his life.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Sci-Fi</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
+    </rating>
+  </programme>
+  <programme start="20240316114000 +0530" stop="20240316133500 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">SUGAR</title>
+    <desc lang="en">An HBO Original film of a baseball pitcher who struggles to pull his family out of poverty.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
+    </rating>
+  </programme>
+  <programme start="20240316133500 +0530" stop="20240316150000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">EVERYDAY PEOPLE</title>
+    <desc lang="en">The closure of a beloved New York City diner deeply affects its employees and neighbors in this HBO Original Movie.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
+    </rating>
+  </programme>
+  <programme start="20240316150000 +0530" stop="20240316163000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">MARCEL THE SHELL WITH SHOES ON</title>
+    <desc lang="en">Marcel, an adorable sea snail who lives alone with his grandmother, seeks to find his lost community with the help of a documentary filmmaker.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
+    </rating>
+  </programme>
+  <programme start="20240316163000 +0530" stop="20240316181000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">THE GOOD HOUSE</title>
+    <desc lang="en">The Good House follows Hildy Good, a wry New England realtor and descendant of the Salem witches, who loves her wine and loves her secrets. Her compartmentalized life starts to unravel as she rekindles an old romance and becomes dangerously entwined in on</desc>
+    <category lang="en">General</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
+    </rating>
+  </programme>
+  <programme start="20240316181000 +0530" stop="20240316193000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">KATRINA BABIES</title>
+    <desc lang="en">Edward Buckles, Jr., who was 12 when Katrina hit New Orleans, documents the stories of his peers who survived the storm as children.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Factual-Documentary</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
+    </rating>
+  </programme>
+  <programme start="20240316193000 +0530" stop="20240316211500 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">VENGEANCE</title>
+    <desc lang="en">A journalist-podcaster travels from New York to Texas to investigate the death of his former lover. Directed by BJ Novak.</desc>
+    <category lang="en">General</category>
+    <category lang="en">English Movies</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
+    </rating>
+  </programme>
+  <programme start="20240316211500 +0530" stop="20240316232500 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">THE BLIND SIDE</title>
+    <desc lang="en">A young man's size and prowess playing American-style football help him attain an education in school and in life.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG13</value>
+    </rating>
+  </programme>
+  <programme start="20240316232500 +0530" stop="20240317010000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">THE VISIT</title>
+    <desc lang="en">Sent to their grandparents' remote farm for a weeklong trip, two siblings discover that the elderly couple is involved in something deeply disturbing.</desc>
+    <category lang="en">General</category>
+    <category lang="en">English Movies</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
+    </rating>
+  </programme>
+  <programme start="20240317010000 +0530" stop="20240317024500 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">ANNABELLE COMES HOME</title>
+    <desc lang="en">Locked in the home of the demonologist couple's home, the possessed doll Annabelle awakens the evil spirits and targets the couple's young daughter.</desc>
+    <category lang="en">General</category>
+    <category lang="en">English Movies</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
+    </rating>
+  </programme>
+  <programme start="20240317024500 +0530" stop="20240317040000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">TAKING CHANCE</title>
+    <desc lang="en">Kevin Bacon stars in this profoundly moving HBO Original Movie that looks at the military rituals for honoring its war dead.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
+    </rating>
+  </programme>
+  <programme start="20240317040000 +0530" stop="20240317051000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">ONE NATION UNDER STRESS</title>
+    <desc lang="en">One Nation Under Stress follows Sanjay Gupta as he tries to uncover the root causes of why American life expectancy is falling and is now shorter than all other major developed countries.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Factual-Documentary</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
+    </rating>
+  </programme>
+  <programme start="20240317051000 +0530" stop="20240317065000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">THE GOOD HOUSE</title>
+    <desc lang="en">The Good House follows Hildy Good, a wry New England realtor and descendant of the Salem witches, who loves her wine and loves her secrets. Her compartmentalized life starts to unravel as she rekindles an old romance and becomes dangerously entwined in on</desc>
+    <category lang="en">General</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
+    </rating>
+  </programme>
+  <programme start="20240317065000 +0530" stop="20240317081500 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">EVERYDAY PEOPLE</title>
+    <desc lang="en">The closure of a beloved New York City diner deeply affects its employees and neighbors in this HBO Original Movie.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
+    </rating>
+  </programme>
+  <programme start="20240317081500 +0530" stop="20240317093500 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">KATRINA BABIES</title>
+    <desc lang="en">Edward Buckles, Jr., who was 12 when Katrina hit New Orleans, documents the stories of his peers who survived the storm as children.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Factual-Documentary</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
+    </rating>
+  </programme>
+  <programme start="20240317093500 +0530" stop="20240317114000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">THE BLIND SIDE</title>
+    <desc lang="en">A young man's size and prowess playing American-style football help him attain an education in school and in life.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG13</value>
+    </rating>
+  </programme>
+  <programme start="20240317114000 +0530" stop="20240317124000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">STATE OF PLAY: HAPPINESS</title>
+    <desc lang="en">This first edition of 'State of Play' follows NFL legend Brett Favre and two other extraordinary players as they search for happiness after leaving the sport they love.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Specials</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
+    </rating>
+  </programme>
+  <programme start="20240317124000 +0530" stop="20240317134000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">STATE OF PLAY: BROKEN</title>
+    <desc lang="en">This second edition of 'State of Play' follows two men who were paralysed playing the sports that they love and their struggle to accept new physical limitations.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Specials</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
+    </rating>
+  </programme>
+  <programme start="20240317134000 +0530" stop="20240317150000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">THE WALTONS' HOMECOMING</title>
+    <desc lang="en">When John Sr. is nowhere to be found, Olivia sends John Boy out into the night to find his daddy - a journey that will change John Boy's life forever.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
+    </rating>
+  </programme>
+  <programme start="20240317150000 +0530" stop="20240317163000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">TOXIC HOT SEAT</title>
+    <desc lang="en">This HBO documentary looks at the nexus of money, politics and power – and a group of citizens as they fight to expose a campaign that has left a toxic legacy in America.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"PG</value>
+    </rating>
+  </programme>
+  <programme start="20240317163000 +0530" stop="20240317183500 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">SHAKESPEARE IN LOVE</title>
+    <desc lang="en">A young Shakespeare is suffering from writer's block until he meets an actress and falls madly in love with her.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
+    </rating>
+  </programme>
+  <programme start="20240317183500 +0530" stop="20240317193000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">THE REGIME S1</title>
+    <desc lang="en">The darkly comedic six-episode series tells the story of life within the walls of a modern authoritarian regime as it begins to unravel.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Series</category>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"2","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"NC16</value>
+    </rating>
+  </programme>
+  <programme start="20240317193000 +0530" stop="20240317215000 +0530" channel="HBOSignatureHD.my">
+    <title lang="en">EVERYTHING EVERYWHERE ALL AT ONCE</title>
+    <desc lang="en">A hilarious and big-hearted sci-fi action adventure about a Chinese American woman who can't seem to finish her taxes and finds out that she is the key to saving the entire multiverse.</desc>
+    <category lang="en">General</category>
+    <category lang="en">Action</category>
+    <category lang="en">Series</category>
+    <rating system="MDA">
+      <value>8421","id":null,"name":"MSEPG_Episode_ID","pname":null},{"description":"1","id":null,"name":"MSEPG_Syndicated_Episode_Number","pname":null},{"description":"M18</value>
     </rating>
   </programme>
 </tv>

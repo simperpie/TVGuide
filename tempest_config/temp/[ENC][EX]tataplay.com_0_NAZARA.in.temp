@@ -3,7 +3,7 @@
   <channel id="NAZARA.in">
     <display-name lang="en">NAZARA</display-name>
   </channel>
-  <programme start="20240313000000 +0530" stop="20240313003000 +0530" channel="NAZARA.in">
+  <programme start="20240315000000 +0530" stop="20240315003000 +0530" channel="NAZARA.in">
     <title lang="en">Lal Banarsi</title>
     <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
     <credits>
@@ -17,7 +17,7 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
   </programme>
-  <programme start="20240313003000 +0530" stop="20240313010000 +0530" channel="NAZARA.in">
+  <programme start="20240315003000 +0530" stop="20240315010000 +0530" channel="NAZARA.in">
     <title lang="en">Beti Hamari Anmol</title>
     <desc lang="en">A woman of short height who aspires to be a doctor faces struggles due to her appearance.</desc>
     <credits>
@@ -25,771 +25,57 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA0F03ADAE5410CF268159EE3C2A2CBCA5CF850DB.jpg"/>
-  </programme>
-  <programme start="20240313010000 +0530" stop="20240313013000 +0530" channel="NAZARA.in">
-    <title lang="en">Dahej Daasi</title>
-    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
-    <credits>
-      <actor>Sayantani Ghosh</actor>
-      <actor>Simran Sharma</actor>
-      <actor>Jahnavi Soni</actor>
-      <actor>Rajat Verma</actor>
-      <actor>Anuj Kohli</actor>
-      <actor>Pooja Sahu</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
-  </programme>
-  <programme start="20240313013000 +0530" stop="20240313020000 +0530" channel="NAZARA.in">
-    <title lang="en">Dharti Putra Nandani</title>
-    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
-    <credits>
-      <actor>Deepika Chikhalia</actor>
-      <actor>Shagun Singh</actor>
-      <actor>Aman Jaiswal</actor>
-      <actor>Anuj Ahluwalia</actor>
-      <actor>Vinod Motwani</actor>
-      <actor>Naveen Nishad</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
-  </programme>
-  <programme start="20240313020000 +0530" stop="20240313023000 +0530" channel="NAZARA.in">
-    <title lang="en">Lal Banarsi</title>
-    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
-    <credits>
-      <actor>Narayani Shastri</actor>
-      <actor>Gauri Chitranshi</actor>
-      <actor>Savi Thakur</actor>
-      <actor>Nisha Gupta</actor>
-      <actor>Manohar Teli</actor>
-      <actor>Iram Hingwala</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
-  </programme>
-  <programme start="20240313023000 +0530" stop="20240313030000 +0530" channel="NAZARA.in">
-    <title lang="en">Beti Hamari Anmol</title>
-    <desc lang="en">A woman of short height who aspires to be a doctor faces struggles due to her appearance.</desc>
-    <credits>
-      <actor>Juhi Aslam</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA0F03ADAE5410CF268159EE3C2A2CBCA5CF850DB.jpg"/>
-  </programme>
-  <programme start="20240313030000 +0530" stop="20240313040000 +0530" channel="NAZARA.in">
-    <title lang="en">Har Har Bhakti</title>
-    <desc lang="en">A religious leader delivers a discourse on the teachings from the holy scriptures.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FE06E5E24312910E7A72F3194417CC6D2591B8A8.jpg"/>
-  </programme>
-  <programme start="20240313040000 +0530" stop="20240313110000 +0530" channel="NAZARA.in">
-    <title lang="en">Har Har Bhakti</title>
-    <desc lang="en">A religious leader delivers a discourse on the teachings from the holy scriptures.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FE06E5E24312910E7A72F3194417CC6D2591B8A8.jpg"/>
-  </programme>
-  <programme start="20240313110000 +0530" stop="20240313113000 +0530" channel="NAZARA.in">
-    <title lang="en">Beti Hamari Anmol</title>
-    <desc lang="en">A woman of short height who aspires to be a doctor faces struggles due to her appearance.</desc>
-    <credits>
-      <actor>Juhi Aslam</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA0F03ADAE5410CF268159EE3C2A2CBCA5CF850DB.jpg"/>
-  </programme>
-  <programme start="20240313113000 +0530" stop="20240313120000 +0530" channel="NAZARA.in">
-    <title lang="en">Lal Banarsi</title>
-    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
-    <credits>
-      <actor>Narayani Shastri</actor>
-      <actor>Gauri Chitranshi</actor>
-      <actor>Savi Thakur</actor>
-      <actor>Nisha Gupta</actor>
-      <actor>Manohar Teli</actor>
-      <actor>Iram Hingwala</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
-  </programme>
-  <programme start="20240313120000 +0530" stop="20240313123000 +0530" channel="NAZARA.in">
-    <title lang="en">Dahej Daasi</title>
-    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
-    <credits>
-      <actor>Sayantani Ghosh</actor>
-      <actor>Simran Sharma</actor>
-      <actor>Jahnavi Soni</actor>
-      <actor>Rajat Verma</actor>
-      <actor>Anuj Kohli</actor>
-      <actor>Pooja Sahu</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
-  </programme>
-  <programme start="20240313123000 +0530" stop="20240313130000 +0530" channel="NAZARA.in">
-    <title lang="en">Dharti Putra Nandani</title>
-    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
-    <credits>
-      <actor>Deepika Chikhalia</actor>
-      <actor>Shagun Singh</actor>
-      <actor>Aman Jaiswal</actor>
-      <actor>Anuj Ahluwalia</actor>
-      <actor>Vinod Motwani</actor>
-      <actor>Naveen Nishad</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
-  </programme>
-  <programme start="20240313130000 +0530" stop="20240313133000 +0530" channel="NAZARA.in">
-    <title lang="en">Kajjal</title>
-    <desc lang="en">A small-town girl moves to a metropolitan city to find the man of her dreams.</desc>
-    <credits>
-      <actor>Surveen Chawla</actor>
-      <actor>Apurva Agnihotri</actor>
-      <actor>Rohit Bakshi</actor>
-      <actor>Deepak Bajaj</actor>
-      <actor>Chetan Hansraj</actor>
-      <actor>Shaleen Bhanot</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D11AB472986E483C60B92260CF836FF7AF5BA421W.jpg"/>
-  </programme>
-  <programme start="20240313133000 +0530" stop="20240313140000 +0530" channel="NAZARA.in">
-    <title lang="en">Kajjal</title>
-    <desc lang="en">A small-town girl moves to a metropolitan city to find the man of her dreams.</desc>
-    <credits>
-      <actor>Surveen Chawla</actor>
-      <actor>Apurva Agnihotri</actor>
-      <actor>Rohit Bakshi</actor>
-      <actor>Deepak Bajaj</actor>
-      <actor>Chetan Hansraj</actor>
-      <actor>Shaleen Bhanot</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D11AB472986E483C60B92260CF836FF7AF5BA421W.jpg"/>
-  </programme>
-  <programme start="20240313140000 +0530" stop="20240313143000 +0530" channel="NAZARA.in">
-    <title lang="en">Kicko</title>
-    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
-  </programme>
-  <programme start="20240313143000 +0530" stop="20240313150000 +0530" channel="NAZARA.in">
-    <title lang="en">Kicko</title>
-    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
-  </programme>
-  <programme start="20240313150000 +0530" stop="20240313153000 +0530" channel="NAZARA.in">
-    <title lang="en">Kicko</title>
-    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
-  </programme>
-  <programme start="20240313153000 +0530" stop="20240313160000 +0530" channel="NAZARA.in">
-    <title lang="en">Kicko</title>
-    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
-  </programme>
-  <programme start="20240313160000 +0530" stop="20240313163000 +0530" channel="NAZARA.in">
-    <title lang="en">BMZ</title>
-    <desc lang="en">BMZ</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
-  </programme>
-  <programme start="20240313163000 +0530" stop="20240313170000 +0530" channel="NAZARA.in">
-    <title lang="en">BMZ</title>
-    <desc lang="en">BMZ</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
-  </programme>
-  <programme start="20240313170000 +0530" stop="20240313173000 +0530" channel="NAZARA.in">
-    <title lang="en">BMZ</title>
-    <desc lang="en">BMZ</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
-  </programme>
-  <programme start="20240313173000 +0530" stop="20240313180000 +0530" channel="NAZARA.in">
-    <title lang="en">BMZ</title>
-    <desc lang="en">BMZ</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
-  </programme>
-  <programme start="20240313180000 +0530" stop="20240313183000 +0530" channel="NAZARA.in">
-    <title lang="en">Jamai Raja</title>
-    <desc lang="en">Anya informs Siddharth that she is pregnant and the latter promises to find Aarav for her.</desc>
-    <credits>
-      <actor>Ravi Dubey</actor>
-      <actor>Nia Sharma</actor>
-      <actor>Shiny Doshi</actor>
-      <actor>Achint Kaur</actor>
-      <actor>Apara Mehta</actor>
-      <actor>Shruti Ulfat</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
-  </programme>
-  <programme start="20240313183000 +0530" stop="20240313190000 +0530" channel="NAZARA.in">
-    <title lang="en">Jamai Raja</title>
-    <desc lang="en">Mithul's husband informs the family that Roshni has been kidnapped.</desc>
-    <credits>
-      <actor>Ravi Dubey</actor>
-      <actor>Nia Sharma</actor>
-      <actor>Shiny Doshi</actor>
-      <actor>Achint Kaur</actor>
-      <actor>Apara Mehta</actor>
-      <actor>Shruti Ulfat</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
-  </programme>
-  <programme start="20240313190000 +0530" stop="20240313193000 +0530" channel="NAZARA.in">
-    <title lang="en">Jamai Raja</title>
-    <desc lang="en">Neil finds Roshni and Siddharth is arrested for kidnapping her.</desc>
-    <credits>
-      <actor>Ravi Dubey</actor>
-      <actor>Nia Sharma</actor>
-      <actor>Shiny Doshi</actor>
-      <actor>Achint Kaur</actor>
-      <actor>Apara Mehta</actor>
-      <actor>Shruti Ulfat</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
-  </programme>
-  <programme start="20240313193000 +0530" stop="20240313200000 +0530" channel="NAZARA.in">
-    <title lang="en">Jamai Raja</title>
-    <desc lang="en">After being released from jail, Siddharth meets Roshni and tells her that he is leaving.</desc>
-    <credits>
-      <actor>Ravi Dubey</actor>
-      <actor>Nia Sharma</actor>
-      <actor>Shiny Doshi</actor>
-      <actor>Achint Kaur</actor>
-      <actor>Apara Mehta</actor>
-      <actor>Shruti Ulfat</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
-  </programme>
-  <programme start="20240313200000 +0530" stop="20240313203000 +0530" channel="NAZARA.in">
-    <title lang="en">Lal Banarsi</title>
-    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
-    <credits>
-      <actor>Narayani Shastri</actor>
-      <actor>Gauri Chitranshi</actor>
-      <actor>Savi Thakur</actor>
-      <actor>Nisha Gupta</actor>
-      <actor>Manohar Teli</actor>
-      <actor>Iram Hingwala</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
-  </programme>
-  <programme start="20240313203000 +0530" stop="20240313210000 +0530" channel="NAZARA.in">
-    <title lang="en">Dharti Putra Nandani</title>
-    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
-    <credits>
-      <actor>Deepika Chikhalia</actor>
-      <actor>Shagun Singh</actor>
-      <actor>Aman Jaiswal</actor>
-      <actor>Anuj Ahluwalia</actor>
-      <actor>Vinod Motwani</actor>
-      <actor>Naveen Nishad</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
-  </programme>
-  <programme start="20240313210000 +0530" stop="20240313213000 +0530" channel="NAZARA.in">
-    <title lang="en">Dahej Daasi</title>
-    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
-    <credits>
-      <actor>Sayantani Ghosh</actor>
-      <actor>Simran Sharma</actor>
-      <actor>Jahnavi Soni</actor>
-      <actor>Rajat Verma</actor>
-      <actor>Anuj Kohli</actor>
-      <actor>Pooja Sahu</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
-  </programme>
-  <programme start="20240313213000 +0530" stop="20240313220000 +0530" channel="NAZARA.in">
-    <title lang="en">Beti Hamari Anmol</title>
-    <desc lang="en">A woman of short height who aspires to be a doctor faces struggles due to her appearance.</desc>
-    <credits>
-      <actor>Juhi Aslam</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA0F03ADAE5410CF268159EE3C2A2CBCA5CF850DB.jpg"/>
-  </programme>
-  <programme start="20240313220000 +0530" stop="20240313223000 +0530" channel="NAZARA.in">
-    <title lang="en">Teen Bahuraaniyaan</title>
-    <desc lang="en">Manjeet, Bindiya, and Janki, three daughters-in-law, tackle various family problems.</desc>
-    <credits>
-      <actor>Amrapali Gupta</actor>
-      <actor>Aman Verma</actor>
-      <actor>Kadambari Kadam</actor>
-      <actor>Manava Naik</actor>
-      <actor>Aanchal Anand</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6F2B91B319342E12AA8A779EECAEBF1B1F9EF83C.jpg"/>
-  </programme>
-  <programme start="20240313223000 +0530" stop="20240313230000 +0530" channel="NAZARA.in">
-    <title lang="en">Teen Bahuraaniyaan</title>
-    <desc lang="en">Manjeet, Bindiya, and Janki, three daughters-in-law, tackle various family problems.</desc>
-    <credits>
-      <actor>Amrapali Gupta</actor>
-      <actor>Aman Verma</actor>
-      <actor>Kadambari Kadam</actor>
-      <actor>Manava Naik</actor>
-      <actor>Aanchal Anand</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6F2B91B319342E12AA8A779EECAEBF1B1F9EF83C.jpg"/>
-  </programme>
-  <programme start="20240313230000 +0530" stop="20240313233000 +0530" channel="NAZARA.in">
-    <title lang="en">Dahej Daasi</title>
-    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
-    <credits>
-      <actor>Sayantani Ghosh</actor>
-      <actor>Simran Sharma</actor>
-      <actor>Jahnavi Soni</actor>
-      <actor>Rajat Verma</actor>
-      <actor>Anuj Kohli</actor>
-      <actor>Pooja Sahu</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
-  </programme>
-  <programme start="20240313233000 +0530" stop="20240314000000 +0530" channel="NAZARA.in">
-    <title lang="en">Dharti Putra Nandani</title>
-    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
-    <credits>
-      <actor>Deepika Chikhalia</actor>
-      <actor>Shagun Singh</actor>
-      <actor>Aman Jaiswal</actor>
-      <actor>Anuj Ahluwalia</actor>
-      <actor>Vinod Motwani</actor>
-      <actor>Naveen Nishad</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
-  </programme>
-  <programme start="20240314000000 +0530" stop="20240314003000 +0530" channel="NAZARA.in">
-    <title lang="en">Lal Banarsi</title>
-    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
-    <credits>
-      <actor>Narayani Shastri</actor>
-      <actor>Gauri Chitranshi</actor>
-      <actor>Savi Thakur</actor>
-      <actor>Nisha Gupta</actor>
-      <actor>Manohar Teli</actor>
-      <actor>Iram Hingwala</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
-  </programme>
-  <programme start="20240314003000 +0530" stop="20240314010000 +0530" channel="NAZARA.in">
-    <title lang="en">Beti Hamari Anmol</title>
-    <desc lang="en">A woman of short height who aspires to be a doctor faces struggles due to her appearance.</desc>
-    <credits>
-      <actor>Juhi Aslam</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA0F03ADAE5410CF268159EE3C2A2CBCA5CF850DB.jpg"/>
-  </programme>
-  <programme start="20240314010000 +0530" stop="20240314013000 +0530" channel="NAZARA.in">
-    <title lang="en">Dahej Daasi</title>
-    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
-    <credits>
-      <actor>Sayantani Ghosh</actor>
-      <actor>Simran Sharma</actor>
-      <actor>Jahnavi Soni</actor>
-      <actor>Rajat Verma</actor>
-      <actor>Anuj Kohli</actor>
-      <actor>Pooja Sahu</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
-  </programme>
-  <programme start="20240314013000 +0530" stop="20240314020000 +0530" channel="NAZARA.in">
-    <title lang="en">Dharti Putra Nandani</title>
-    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
-    <credits>
-      <actor>Deepika Chikhalia</actor>
-      <actor>Shagun Singh</actor>
-      <actor>Aman Jaiswal</actor>
-      <actor>Anuj Ahluwalia</actor>
-      <actor>Vinod Motwani</actor>
-      <actor>Naveen Nishad</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
-  </programme>
-  <programme start="20240314020000 +0530" stop="20240314023000 +0530" channel="NAZARA.in">
-    <title lang="en">Lal Banarsi</title>
-    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
-    <credits>
-      <actor>Narayani Shastri</actor>
-      <actor>Gauri Chitranshi</actor>
-      <actor>Savi Thakur</actor>
-      <actor>Nisha Gupta</actor>
-      <actor>Manohar Teli</actor>
-      <actor>Iram Hingwala</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
-  </programme>
-  <programme start="20240314023000 +0530" stop="20240314030000 +0530" channel="NAZARA.in">
-    <title lang="en">Beti Hamari Anmol</title>
-    <desc lang="en">A woman of short height who aspires to be a doctor faces struggles due to her appearance.</desc>
-    <credits>
-      <actor>Juhi Aslam</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA0F03ADAE5410CF268159EE3C2A2CBCA5CF850DB.jpg"/>
-  </programme>
-  <programme start="20240314030000 +0530" stop="20240314040000 +0530" channel="NAZARA.in">
-    <title lang="en">Har Har Bhakti</title>
-    <desc lang="en">A religious leader delivers a discourse on the teachings from the holy scriptures.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FE06E5E24312910E7A72F3194417CC6D2591B8A8.jpg"/>
-  </programme>
-  <programme start="20240314040000 +0530" stop="20240314110000 +0530" channel="NAZARA.in">
-    <title lang="en">Har Har Bhakti</title>
-    <desc lang="en">A religious leader delivers a discourse on the teachings from the holy scriptures.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FE06E5E24312910E7A72F3194417CC6D2591B8A8.jpg"/>
-  </programme>
-  <programme start="20240314110000 +0530" stop="20240314113000 +0530" channel="NAZARA.in">
-    <title lang="en">Beti Hamari Anmol</title>
-    <desc lang="en">A woman of short height who aspires to be a doctor faces struggles due to her appearance.</desc>
-    <credits>
-      <actor>Juhi Aslam</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA0F03ADAE5410CF268159EE3C2A2CBCA5CF850DB.jpg"/>
-  </programme>
-  <programme start="20240314113000 +0530" stop="20240314120000 +0530" channel="NAZARA.in">
-    <title lang="en">Lal Banarsi</title>
-    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
-    <credits>
-      <actor>Narayani Shastri</actor>
-      <actor>Gauri Chitranshi</actor>
-      <actor>Savi Thakur</actor>
-      <actor>Nisha Gupta</actor>
-      <actor>Manohar Teli</actor>
-      <actor>Iram Hingwala</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
-  </programme>
-  <programme start="20240314120000 +0530" stop="20240314123000 +0530" channel="NAZARA.in">
-    <title lang="en">Dahej Daasi</title>
-    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
-    <credits>
-      <actor>Sayantani Ghosh</actor>
-      <actor>Simran Sharma</actor>
-      <actor>Jahnavi Soni</actor>
-      <actor>Rajat Verma</actor>
-      <actor>Anuj Kohli</actor>
-      <actor>Pooja Sahu</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
-  </programme>
-  <programme start="20240314123000 +0530" stop="20240314130000 +0530" channel="NAZARA.in">
-    <title lang="en">Dharti Putra Nandani</title>
-    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
-    <credits>
-      <actor>Deepika Chikhalia</actor>
-      <actor>Shagun Singh</actor>
-      <actor>Aman Jaiswal</actor>
-      <actor>Anuj Ahluwalia</actor>
-      <actor>Vinod Motwani</actor>
-      <actor>Naveen Nishad</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
-  </programme>
-  <programme start="20240314130000 +0530" stop="20240314133000 +0530" channel="NAZARA.in">
-    <title lang="en">Kajjal</title>
-    <desc lang="en">A small-town girl moves to a metropolitan city to find the man of her dreams.</desc>
-    <credits>
-      <actor>Surveen Chawla</actor>
-      <actor>Apurva Agnihotri</actor>
-      <actor>Rohit Bakshi</actor>
-      <actor>Deepak Bajaj</actor>
-      <actor>Chetan Hansraj</actor>
-      <actor>Shaleen Bhanot</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D11AB472986E483C60B92260CF836FF7AF5BA421W.jpg"/>
-  </programme>
-  <programme start="20240314133000 +0530" stop="20240314140000 +0530" channel="NAZARA.in">
-    <title lang="en">Kajjal</title>
-    <desc lang="en">A small-town girl moves to a metropolitan city to find the man of her dreams.</desc>
-    <credits>
-      <actor>Surveen Chawla</actor>
-      <actor>Apurva Agnihotri</actor>
-      <actor>Rohit Bakshi</actor>
-      <actor>Deepak Bajaj</actor>
-      <actor>Chetan Hansraj</actor>
-      <actor>Shaleen Bhanot</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D11AB472986E483C60B92260CF836FF7AF5BA421W.jpg"/>
-  </programme>
-  <programme start="20240314140000 +0530" stop="20240314143000 +0530" channel="NAZARA.in">
-    <title lang="en">Kicko</title>
-    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
-  </programme>
-  <programme start="20240314143000 +0530" stop="20240314150000 +0530" channel="NAZARA.in">
-    <title lang="en">Kicko</title>
-    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
-  </programme>
-  <programme start="20240314150000 +0530" stop="20240314153000 +0530" channel="NAZARA.in">
-    <title lang="en">Kicko</title>
-    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
-  </programme>
-  <programme start="20240314153000 +0530" stop="20240314160000 +0530" channel="NAZARA.in">
-    <title lang="en">Kicko</title>
-    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
-  </programme>
-  <programme start="20240314160000 +0530" stop="20240314163000 +0530" channel="NAZARA.in">
-    <title lang="en">BMZ</title>
-    <desc lang="en">BMZ</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
-  </programme>
-  <programme start="20240314163000 +0530" stop="20240314170000 +0530" channel="NAZARA.in">
-    <title lang="en">BMZ</title>
-    <desc lang="en">BMZ</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
-  </programme>
-  <programme start="20240314170000 +0530" stop="20240314173000 +0530" channel="NAZARA.in">
-    <title lang="en">BMZ</title>
-    <desc lang="en">BMZ</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
-  </programme>
-  <programme start="20240314173000 +0530" stop="20240314180000 +0530" channel="NAZARA.in">
-    <title lang="en">BMZ</title>
-    <desc lang="en">BMZ</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
-  </programme>
-  <programme start="20240314180000 +0530" stop="20240314183000 +0530" channel="NAZARA.in">
-    <title lang="en">Jamai Raja</title>
-    <desc lang="en">Roshni is shocked to see Siddharth during the puja at Neil's house.</desc>
-    <credits>
-      <actor>Ravi Dubey</actor>
-      <actor>Nia Sharma</actor>
-      <actor>Shiny Doshi</actor>
-      <actor>Achint Kaur</actor>
-      <actor>Apara Mehta</actor>
-      <actor>Shruti Ulfat</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
-  </programme>
-  <programme start="20240314183000 +0530" stop="20240314190000 +0530" channel="NAZARA.in">
-    <title lang="en">Jamai Raja</title>
-    <desc lang="en">Raj meets Mithul and plants doubts in her head about Siddharth and Anya's relationship.</desc>
-    <credits>
-      <actor>Ravi Dubey</actor>
-      <actor>Nia Sharma</actor>
-      <actor>Shiny Doshi</actor>
-      <actor>Achint Kaur</actor>
-      <actor>Apara Mehta</actor>
-      <actor>Shruti Ulfat</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
-  </programme>
-  <programme start="20240314190000 +0530" stop="20240314193000 +0530" channel="NAZARA.in">
-    <title lang="en">Jamai Raja</title>
-    <desc lang="en">Roshni is surprised to see Siddharth flirting with Anya and embracing her.</desc>
-    <credits>
-      <actor>Ravi Dubey</actor>
-      <actor>Nia Sharma</actor>
-      <actor>Shiny Doshi</actor>
-      <actor>Achint Kaur</actor>
-      <actor>Apara Mehta</actor>
-      <actor>Shruti Ulfat</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
-  </programme>
-  <programme start="20240314193000 +0530" stop="20240314200000 +0530" channel="NAZARA.in">
-    <title lang="en">Jamai Raja</title>
-    <desc lang="en">Siddharth vows to observe a 'nirjala' fast and Ragini decides to do the same.</desc>
-    <credits>
-      <actor>Ravi Dubey</actor>
-      <actor>Nia Sharma</actor>
-      <actor>Shiny Doshi</actor>
-      <actor>Achint Kaur</actor>
-      <actor>Apara Mehta</actor>
-      <actor>Shruti Ulfat</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
-  </programme>
-  <programme start="20240314200000 +0530" stop="20240314203000 +0530" channel="NAZARA.in">
-    <title lang="en">Lal Banarsi</title>
-    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
-    <credits>
-      <actor>Narayani Shastri</actor>
-      <actor>Gauri Chitranshi</actor>
-      <actor>Savi Thakur</actor>
-      <actor>Nisha Gupta</actor>
-      <actor>Manohar Teli</actor>
-      <actor>Iram Hingwala</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
-  </programme>
-  <programme start="20240314203000 +0530" stop="20240314210000 +0530" channel="NAZARA.in">
-    <title lang="en">Dharti Putra Nandani</title>
-    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
-    <credits>
-      <actor>Deepika Chikhalia</actor>
-      <actor>Shagun Singh</actor>
-      <actor>Aman Jaiswal</actor>
-      <actor>Anuj Ahluwalia</actor>
-      <actor>Vinod Motwani</actor>
-      <actor>Naveen Nishad</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
-  </programme>
-  <programme start="20240314210000 +0530" stop="20240314213000 +0530" channel="NAZARA.in">
-    <title lang="en">Dahej Daasi</title>
-    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
-    <credits>
-      <actor>Sayantani Ghosh</actor>
-      <actor>Simran Sharma</actor>
-      <actor>Jahnavi Soni</actor>
-      <actor>Rajat Verma</actor>
-      <actor>Anuj Kohli</actor>
-      <actor>Pooja Sahu</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
-  </programme>
-  <programme start="20240314213000 +0530" stop="20240314220000 +0530" channel="NAZARA.in">
-    <title lang="en">Beti Hamari Anmol</title>
-    <desc lang="en">A woman of short height who aspires to be a doctor faces struggles due to her appearance.</desc>
-    <credits>
-      <actor>Juhi Aslam</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA0F03ADAE5410CF268159EE3C2A2CBCA5CF850DB.jpg"/>
-  </programme>
-  <programme start="20240314220000 +0530" stop="20240314223000 +0530" channel="NAZARA.in">
-    <title lang="en">Teen Bahuraaniyaan</title>
-    <desc lang="en">Manjeet, Bindiya, and Janki, three daughters-in-law, tackle various family problems.</desc>
-    <credits>
-      <actor>Amrapali Gupta</actor>
-      <actor>Aman Verma</actor>
-      <actor>Kadambari Kadam</actor>
-      <actor>Manava Naik</actor>
-      <actor>Aanchal Anand</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6F2B91B319342E12AA8A779EECAEBF1B1F9EF83C.jpg"/>
-  </programme>
-  <programme start="20240314223000 +0530" stop="20240314230000 +0530" channel="NAZARA.in">
-    <title lang="en">Teen Bahuraaniyaan</title>
-    <desc lang="en">Manjeet, Bindiya, and Janki, three daughters-in-law, tackle various family problems.</desc>
-    <credits>
-      <actor>Amrapali Gupta</actor>
-      <actor>Aman Verma</actor>
-      <actor>Kadambari Kadam</actor>
-      <actor>Manava Naik</actor>
-      <actor>Aanchal Anand</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6F2B91B319342E12AA8A779EECAEBF1B1F9EF83C.jpg"/>
-  </programme>
-  <programme start="20240314230000 +0530" stop="20240314233000 +0530" channel="NAZARA.in">
-    <title lang="en">Dahej Daasi</title>
-    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
-    <credits>
-      <actor>Sayantani Ghosh</actor>
-      <actor>Simran Sharma</actor>
-      <actor>Jahnavi Soni</actor>
-      <actor>Rajat Verma</actor>
-      <actor>Anuj Kohli</actor>
-      <actor>Pooja Sahu</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
-  </programme>
-  <programme start="20240314233000 +0530" stop="20240315000000 +0530" channel="NAZARA.in">
-    <title lang="en">Dharti Putra Nandani</title>
-    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
-    <credits>
-      <actor>Deepika Chikhalia</actor>
-      <actor>Shagun Singh</actor>
-      <actor>Aman Jaiswal</actor>
-      <actor>Anuj Ahluwalia</actor>
-      <actor>Vinod Motwani</actor>
-      <actor>Naveen Nishad</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
-  </programme>
-  <programme start="20240315000000 +0530" stop="20240315010000 +0530" channel="NAZARA.in">
-    <title lang="en">Crime Patrol - Dastak</title>
-    <desc lang="en">Real-life criminal cases are recreated through dramatisation to educate viewers.</desc>
-    <credits>
-      <actor>Anup Soni</actor>
-      <actor>Sakshi Tanwar</actor>
-    </credits>
-    <category lang="en">Crime</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E55AE017DC8E9AA63EEDB1783E92B8F4666B38ED.jpg"/>
   </programme>
   <programme start="20240315010000 +0530" stop="20240315013000 +0530" channel="NAZARA.in">
-    <title lang="en">Crime Patrol - Dastak</title>
-    <desc lang="en">Real-life criminal cases are recreated through dramatisation to educate viewers.</desc>
+    <title lang="en">Dahej Daasi</title>
+    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
     <credits>
-      <actor>Anup Soni</actor>
-      <actor>Sakshi Tanwar</actor>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Simran Sharma</actor>
+      <actor>Jahnavi Soni</actor>
+      <actor>Rajat Verma</actor>
+      <actor>Anuj Kohli</actor>
+      <actor>Pooja Sahu</actor>
     </credits>
-    <category lang="en">Crime</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E55AE017DC8E9AA63EEDB1783E92B8F4666B38ED.jpg"/>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
   </programme>
-  <programme start="20240315013000 +0530" stop="20240315023000 +0530" channel="NAZARA.in">
-    <title lang="en">Crime Patrol - Dastak</title>
-    <desc lang="en">Real-life criminal cases are recreated through dramatisation to educate viewers.</desc>
+  <programme start="20240315013000 +0530" stop="20240315020000 +0530" channel="NAZARA.in">
+    <title lang="en">Dharti Putra Nandani</title>
+    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
     <credits>
-      <actor>Anup Soni</actor>
-      <actor>Sakshi Tanwar</actor>
+      <actor>Deepika Chikhalia</actor>
+      <actor>Shagun Singh</actor>
+      <actor>Aman Jaiswal</actor>
+      <actor>Anuj Ahluwalia</actor>
+      <actor>Vinod Motwani</actor>
+      <actor>Naveen Nishad</actor>
     </credits>
-    <category lang="en">Crime</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E55AE017DC8E9AA63EEDB1783E92B8F4666B38ED.jpg"/>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
+  </programme>
+  <programme start="20240315020000 +0530" stop="20240315023000 +0530" channel="NAZARA.in">
+    <title lang="en">Lal Banarsi</title>
+    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
+    <credits>
+      <actor>Narayani Shastri</actor>
+      <actor>Gauri Chitranshi</actor>
+      <actor>Savi Thakur</actor>
+      <actor>Nisha Gupta</actor>
+      <actor>Manohar Teli</actor>
+      <actor>Iram Hingwala</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
   </programme>
   <programme start="20240315023000 +0530" stop="20240315030000 +0530" channel="NAZARA.in">
-    <title lang="en">Crime Patrol - Dastak</title>
-    <desc lang="en">Real-life criminal cases are recreated through dramatisation to educate viewers.</desc>
+    <title lang="en">Beti Hamari Anmol</title>
+    <desc lang="en">A woman of short height who aspires to be a doctor faces struggles due to her appearance.</desc>
     <credits>
-      <actor>Anup Soni</actor>
-      <actor>Sakshi Tanwar</actor>
+      <actor>Juhi Aslam</actor>
     </credits>
-    <category lang="en">Crime</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E55AE017DC8E9AA63EEDB1783E92B8F4666B38ED.jpg"/>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA0F03ADAE5410CF268159EE3C2A2CBCA5CF850DB.jpg"/>
   </programme>
   <programme start="20240315030000 +0530" stop="20240315040000 +0530" channel="NAZARA.in">
     <title lang="en">Har Har Bhakti</title>
@@ -855,98 +141,68 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
   </programme>
   <programme start="20240315130000 +0530" stop="20240315133000 +0530" channel="NAZARA.in">
-    <title lang="en">Jamai Raja</title>
-    <desc lang="en">Siddharth tries to repair the relationship between his wife and his mother-in-law.</desc>
+    <title lang="en">Kajjal</title>
+    <desc lang="en">A small-town girl moves to a metropolitan city to find the man of her dreams.</desc>
     <credits>
-      <actor>Ravi Dubey</actor>
-      <actor>Nia Sharma</actor>
-      <actor>Shiny Doshi</actor>
-      <actor>Achint Kaur</actor>
-      <actor>Apara Mehta</actor>
-      <actor>Shruti Ulfat</actor>
+      <actor>Surveen Chawla</actor>
+      <actor>Apurva Agnihotri</actor>
+      <actor>Rohit Bakshi</actor>
+      <actor>Deepak Bajaj</actor>
+      <actor>Chetan Hansraj</actor>
+      <actor>Shaleen Bhanot</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D11AB472986E483C60B92260CF836FF7AF5BA421W.jpg"/>
   </programme>
   <programme start="20240315133000 +0530" stop="20240315140000 +0530" channel="NAZARA.in">
-    <title lang="en">Jamai Raja</title>
-    <desc lang="en">Siddharth tries to repair the relationship between his wife and his mother-in-law.</desc>
+    <title lang="en">Kajjal</title>
+    <desc lang="en">A small-town girl moves to a metropolitan city to find the man of her dreams.</desc>
     <credits>
-      <actor>Ravi Dubey</actor>
-      <actor>Nia Sharma</actor>
-      <actor>Shiny Doshi</actor>
-      <actor>Achint Kaur</actor>
-      <actor>Apara Mehta</actor>
-      <actor>Shruti Ulfat</actor>
+      <actor>Surveen Chawla</actor>
+      <actor>Apurva Agnihotri</actor>
+      <actor>Rohit Bakshi</actor>
+      <actor>Deepak Bajaj</actor>
+      <actor>Chetan Hansraj</actor>
+      <actor>Shaleen Bhanot</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D11AB472986E483C60B92260CF836FF7AF5BA421W.jpg"/>
   </programme>
   <programme start="20240315140000 +0530" stop="20240315143000 +0530" channel="NAZARA.in">
-    <title lang="en">Jamai Raja</title>
-    <desc lang="en">Siddharth tries to repair the relationship between his wife and his mother-in-law.</desc>
-    <credits>
-      <actor>Ravi Dubey</actor>
-      <actor>Nia Sharma</actor>
-      <actor>Shiny Doshi</actor>
-      <actor>Achint Kaur</actor>
-      <actor>Apara Mehta</actor>
-      <actor>Shruti Ulfat</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+    <title lang="en">Kicko</title>
+    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
   </programme>
   <programme start="20240315143000 +0530" stop="20240315150000 +0530" channel="NAZARA.in">
-    <title lang="en">Jamai Raja</title>
-    <desc lang="en">Siddharth tries to repair the relationship between his wife and his mother-in-law.</desc>
-    <credits>
-      <actor>Ravi Dubey</actor>
-      <actor>Nia Sharma</actor>
-      <actor>Shiny Doshi</actor>
-      <actor>Achint Kaur</actor>
-      <actor>Apara Mehta</actor>
-      <actor>Shruti Ulfat</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+    <title lang="en">Kicko</title>
+    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
   </programme>
   <programme start="20240315150000 +0530" stop="20240315153000 +0530" channel="NAZARA.in">
-    <title lang="en">Teen Bahuraaniyaan</title>
-    <desc lang="en">Manjeet, Bindiya, and Janki, three daughters-in-law, tackle various family problems.</desc>
-    <credits>
-      <actor>Amrapali Gupta</actor>
-      <actor>Aman Verma</actor>
-      <actor>Kadambari Kadam</actor>
-      <actor>Manava Naik</actor>
-      <actor>Aanchal Anand</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6F2B91B319342E12AA8A779EECAEBF1B1F9EF83C.jpg"/>
+    <title lang="en">Kicko</title>
+    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
   </programme>
   <programme start="20240315153000 +0530" stop="20240315160000 +0530" channel="NAZARA.in">
-    <title lang="en">Teen Bahuraaniyaan</title>
-    <desc lang="en">Manjeet, Bindiya, and Janki, three daughters-in-law, tackle various family problems.</desc>
-    <credits>
-      <actor>Amrapali Gupta</actor>
-      <actor>Aman Verma</actor>
-      <actor>Kadambari Kadam</actor>
-      <actor>Manava Naik</actor>
-      <actor>Aanchal Anand</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6F2B91B319342E12AA8A779EECAEBF1B1F9EF83C.jpg"/>
+    <title lang="en">Kicko</title>
+    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
   </programme>
   <programme start="20240315160000 +0530" stop="20240315163000 +0530" channel="NAZARA.in">
-    <title lang="en">Kicko</title>
-    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
+    <title lang="en">BMZ</title>
+    <desc lang="en">BMZ</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
   </programme>
   <programme start="20240315163000 +0530" stop="20240315170000 +0530" channel="NAZARA.in">
-    <title lang="en">Kicko</title>
-    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
+    <title lang="en">BMZ</title>
+    <desc lang="en">BMZ</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
   </programme>
   <programme start="20240315170000 +0530" stop="20240315173000 +0530" channel="NAZARA.in">
     <title lang="en">BMZ</title>
@@ -962,7 +218,7 @@
   </programme>
   <programme start="20240315180000 +0530" stop="20240315183000 +0530" channel="NAZARA.in">
     <title lang="en">Jamai Raja</title>
-    <desc lang="en">Siddharth tries to repair the relationship between his wife and his mother-in-law.</desc>
+    <desc lang="en">Anya receives a call from the hospital about Aarav's recovery.</desc>
     <credits>
       <actor>Ravi Dubey</actor>
       <actor>Nia Sharma</actor>
@@ -976,7 +232,7 @@
   </programme>
   <programme start="20240315183000 +0530" stop="20240315190000 +0530" channel="NAZARA.in">
     <title lang="en">Jamai Raja</title>
-    <desc lang="en">Siddharth tries to repair the relationship between his wife and his mother-in-law.</desc>
+    <desc lang="en">Naina is shocked to learn about Siddharth and Anya's fake marriage.</desc>
     <credits>
       <actor>Ravi Dubey</actor>
       <actor>Nia Sharma</actor>
@@ -990,7 +246,7 @@
   </programme>
   <programme start="20240315190000 +0530" stop="20240315193000 +0530" channel="NAZARA.in">
     <title lang="en">Jamai Raja</title>
-    <desc lang="en">Siddharth tries to repair the relationship between his wife and his mother-in-law.</desc>
+    <desc lang="en">Ragini tells Siddharth that she will only support Neil's choices.</desc>
     <credits>
       <actor>Ravi Dubey</actor>
       <actor>Nia Sharma</actor>
@@ -1004,7 +260,7 @@
   </programme>
   <programme start="20240315193000 +0530" stop="20240315200000 +0530" channel="NAZARA.in">
     <title lang="en">Jamai Raja</title>
-    <desc lang="en">Siddharth tries to repair the relationship between his wife and his mother-in-law.</desc>
+    <desc lang="en">Siddharth announces that he will get engaged if Ragini gets engaged to Neil.</desc>
     <credits>
       <actor>Ravi Dubey</actor>
       <actor>Nia Sharma</actor>
@@ -1120,5 +376,811 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
+  </programme>
+  <programme start="20240316000000 +0530" stop="20240316003000 +0530" channel="NAZARA.in">
+    <title lang="en">Lal Banarsi</title>
+    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
+    <credits>
+      <actor>Narayani Shastri</actor>
+      <actor>Gauri Chitranshi</actor>
+      <actor>Savi Thakur</actor>
+      <actor>Nisha Gupta</actor>
+      <actor>Manohar Teli</actor>
+      <actor>Iram Hingwala</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
+  </programme>
+  <programme start="20240316003000 +0530" stop="20240316010000 +0530" channel="NAZARA.in">
+    <title lang="en">Beti Hamari Anmol</title>
+    <desc lang="en">A woman of short height who aspires to be a doctor faces struggles due to her appearance.</desc>
+    <credits>
+      <actor>Juhi Aslam</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA0F03ADAE5410CF268159EE3C2A2CBCA5CF850DB.jpg"/>
+  </programme>
+  <programme start="20240316010000 +0530" stop="20240316013000 +0530" channel="NAZARA.in">
+    <title lang="en">Dahej Daasi</title>
+    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
+    <credits>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Simran Sharma</actor>
+      <actor>Jahnavi Soni</actor>
+      <actor>Rajat Verma</actor>
+      <actor>Anuj Kohli</actor>
+      <actor>Pooja Sahu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
+  </programme>
+  <programme start="20240316013000 +0530" stop="20240316020000 +0530" channel="NAZARA.in">
+    <title lang="en">Dharti Putra Nandani</title>
+    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
+    <credits>
+      <actor>Deepika Chikhalia</actor>
+      <actor>Shagun Singh</actor>
+      <actor>Aman Jaiswal</actor>
+      <actor>Anuj Ahluwalia</actor>
+      <actor>Vinod Motwani</actor>
+      <actor>Naveen Nishad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
+  </programme>
+  <programme start="20240316020000 +0530" stop="20240316023000 +0530" channel="NAZARA.in">
+    <title lang="en">Lal Banarsi</title>
+    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
+    <credits>
+      <actor>Narayani Shastri</actor>
+      <actor>Gauri Chitranshi</actor>
+      <actor>Savi Thakur</actor>
+      <actor>Nisha Gupta</actor>
+      <actor>Manohar Teli</actor>
+      <actor>Iram Hingwala</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
+  </programme>
+  <programme start="20240316023000 +0530" stop="20240316030000 +0530" channel="NAZARA.in">
+    <title lang="en">Beti Hamari Anmol</title>
+    <desc lang="en">A woman of short height who aspires to be a doctor faces struggles due to her appearance.</desc>
+    <credits>
+      <actor>Juhi Aslam</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA0F03ADAE5410CF268159EE3C2A2CBCA5CF850DB.jpg"/>
+  </programme>
+  <programme start="20240316030000 +0530" stop="20240316040000 +0530" channel="NAZARA.in">
+    <title lang="en">Har Har Bhakti</title>
+    <desc lang="en">A religious leader delivers a discourse on the teachings from the holy scriptures.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FE06E5E24312910E7A72F3194417CC6D2591B8A8.jpg"/>
+  </programme>
+  <programme start="20240316040000 +0530" stop="20240316110000 +0530" channel="NAZARA.in">
+    <title lang="en">Har Har Bhakti</title>
+    <desc lang="en">A religious leader delivers a discourse on the teachings from the holy scriptures.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FE06E5E24312910E7A72F3194417CC6D2591B8A8.jpg"/>
+  </programme>
+  <programme start="20240316110000 +0530" stop="20240316113000 +0530" channel="NAZARA.in">
+    <title lang="en">Lal Banarsi</title>
+    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
+    <credits>
+      <actor>Narayani Shastri</actor>
+      <actor>Gauri Chitranshi</actor>
+      <actor>Savi Thakur</actor>
+      <actor>Nisha Gupta</actor>
+      <actor>Manohar Teli</actor>
+      <actor>Iram Hingwala</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
+  </programme>
+  <programme start="20240316113000 +0530" stop="20240316120000 +0530" channel="NAZARA.in">
+    <title lang="en">Lal Banarsi</title>
+    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
+    <credits>
+      <actor>Narayani Shastri</actor>
+      <actor>Gauri Chitranshi</actor>
+      <actor>Savi Thakur</actor>
+      <actor>Nisha Gupta</actor>
+      <actor>Manohar Teli</actor>
+      <actor>Iram Hingwala</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
+  </programme>
+  <programme start="20240316120000 +0530" stop="20240316123000 +0530" channel="NAZARA.in">
+    <title lang="en">Lal Banarsi</title>
+    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
+    <credits>
+      <actor>Narayani Shastri</actor>
+      <actor>Gauri Chitranshi</actor>
+      <actor>Savi Thakur</actor>
+      <actor>Nisha Gupta</actor>
+      <actor>Manohar Teli</actor>
+      <actor>Iram Hingwala</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
+  </programme>
+  <programme start="20240316123000 +0530" stop="20240316130000 +0530" channel="NAZARA.in">
+    <title lang="en">Lal Banarsi</title>
+    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
+    <credits>
+      <actor>Narayani Shastri</actor>
+      <actor>Gauri Chitranshi</actor>
+      <actor>Savi Thakur</actor>
+      <actor>Nisha Gupta</actor>
+      <actor>Manohar Teli</actor>
+      <actor>Iram Hingwala</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
+  </programme>
+  <programme start="20240316130000 +0530" stop="20240316133000 +0530" channel="NAZARA.in">
+    <title lang="en">Kajjal</title>
+    <desc lang="en">A small-town girl moves to a metropolitan city to find the man of her dreams.</desc>
+    <credits>
+      <actor>Surveen Chawla</actor>
+      <actor>Apurva Agnihotri</actor>
+      <actor>Rohit Bakshi</actor>
+      <actor>Deepak Bajaj</actor>
+      <actor>Chetan Hansraj</actor>
+      <actor>Shaleen Bhanot</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D11AB472986E483C60B92260CF836FF7AF5BA421W.jpg"/>
+  </programme>
+  <programme start="20240316133000 +0530" stop="20240316140000 +0530" channel="NAZARA.in">
+    <title lang="en">Kajjal</title>
+    <desc lang="en">A small-town girl moves to a metropolitan city to find the man of her dreams.</desc>
+    <credits>
+      <actor>Surveen Chawla</actor>
+      <actor>Apurva Agnihotri</actor>
+      <actor>Rohit Bakshi</actor>
+      <actor>Deepak Bajaj</actor>
+      <actor>Chetan Hansraj</actor>
+      <actor>Shaleen Bhanot</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D11AB472986E483C60B92260CF836FF7AF5BA421W.jpg"/>
+  </programme>
+  <programme start="20240316140000 +0530" stop="20240316143000 +0530" channel="NAZARA.in">
+    <title lang="en">Kicko</title>
+    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
+  </programme>
+  <programme start="20240316143000 +0530" stop="20240316150000 +0530" channel="NAZARA.in">
+    <title lang="en">Kicko</title>
+    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
+  </programme>
+  <programme start="20240316150000 +0530" stop="20240316153000 +0530" channel="NAZARA.in">
+    <title lang="en">Kicko</title>
+    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
+  </programme>
+  <programme start="20240316153000 +0530" stop="20240316160000 +0530" channel="NAZARA.in">
+    <title lang="en">Kicko</title>
+    <desc lang="en">Kicko and his best friend, Super Speedo, protect the people of the city from villains.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F8BE8DC9506938318EE47D50F27667EF5C17A85C.jpg"/>
+  </programme>
+  <programme start="20240316160000 +0530" stop="20240316163000 +0530" channel="NAZARA.in">
+    <title lang="en">BMZ</title>
+    <desc lang="en">BMZ</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
+  </programme>
+  <programme start="20240316163000 +0530" stop="20240316170000 +0530" channel="NAZARA.in">
+    <title lang="en">BMZ</title>
+    <desc lang="en">BMZ</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
+  </programme>
+  <programme start="20240316170000 +0530" stop="20240316173000 +0530" channel="NAZARA.in">
+    <title lang="en">BMZ</title>
+    <desc lang="en">BMZ</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
+  </programme>
+  <programme start="20240316173000 +0530" stop="20240316180000 +0530" channel="NAZARA.in">
+    <title lang="en">BMZ</title>
+    <desc lang="en">BMZ</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
+  </programme>
+  <programme start="20240316180000 +0530" stop="20240316183000 +0530" channel="NAZARA.in">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">Siddharth convinces Neil's family to go on a picnic and causes an accident.</desc>
+    <credits>
+      <actor>Ravi Dubey</actor>
+      <actor>Nia Sharma</actor>
+      <actor>Shiny Doshi</actor>
+      <actor>Achint Kaur</actor>
+      <actor>Apara Mehta</actor>
+      <actor>Shruti Ulfat</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+  </programme>
+  <programme start="20240316183000 +0530" stop="20240316190000 +0530" channel="NAZARA.in">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">Siddharth prepares noodles for Anya and makes Roshni jealous.</desc>
+    <credits>
+      <actor>Ravi Dubey</actor>
+      <actor>Nia Sharma</actor>
+      <actor>Shiny Doshi</actor>
+      <actor>Achint Kaur</actor>
+      <actor>Apara Mehta</actor>
+      <actor>Shruti Ulfat</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+  </programme>
+  <programme start="20240316190000 +0530" stop="20240316193000 +0530" channel="NAZARA.in">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">A priest tells the family that an inauspicious force is present in the house.</desc>
+    <credits>
+      <actor>Ravi Dubey</actor>
+      <actor>Nia Sharma</actor>
+      <actor>Shiny Doshi</actor>
+      <actor>Achint Kaur</actor>
+      <actor>Apara Mehta</actor>
+      <actor>Shruti Ulfat</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+  </programme>
+  <programme start="20240316193000 +0530" stop="20240316200000 +0530" channel="NAZARA.in">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">Neil deals with the journalists at the press conference and introduces Roshni.</desc>
+    <credits>
+      <actor>Ravi Dubey</actor>
+      <actor>Nia Sharma</actor>
+      <actor>Shiny Doshi</actor>
+      <actor>Achint Kaur</actor>
+      <actor>Apara Mehta</actor>
+      <actor>Shruti Ulfat</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+  </programme>
+  <programme start="20240316200000 +0530" stop="20240316203000 +0530" channel="NAZARA.in">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">Siddharth tells Neil that the problems in the house began after his engagement.</desc>
+    <credits>
+      <actor>Ravi Dubey</actor>
+      <actor>Nia Sharma</actor>
+      <actor>Shiny Doshi</actor>
+      <actor>Achint Kaur</actor>
+      <actor>Apara Mehta</actor>
+      <actor>Shruti Ulfat</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+  </programme>
+  <programme start="20240316203000 +0530" stop="20240316210000 +0530" channel="NAZARA.in">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">Siddharth gives up on trying to bring Roshni back in his life.</desc>
+    <credits>
+      <actor>Ravi Dubey</actor>
+      <actor>Nia Sharma</actor>
+      <actor>Shiny Doshi</actor>
+      <actor>Achint Kaur</actor>
+      <actor>Apara Mehta</actor>
+      <actor>Shruti Ulfat</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+  </programme>
+  <programme start="20240316210000 +0530" stop="20240316213000 +0530" channel="NAZARA.in">
+    <title lang="en">Teen Bahuraaniyaan</title>
+    <desc lang="en">Manjeet, Bindiya, and Janki, three daughters-in-law, tackle various family problems.</desc>
+    <credits>
+      <actor>Amrapali Gupta</actor>
+      <actor>Aman Verma</actor>
+      <actor>Kadambari Kadam</actor>
+      <actor>Manava Naik</actor>
+      <actor>Aanchal Anand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6F2B91B319342E12AA8A779EECAEBF1B1F9EF83C.jpg"/>
+  </programme>
+  <programme start="20240316213000 +0530" stop="20240316220000 +0530" channel="NAZARA.in">
+    <title lang="en">Teen Bahuraaniyaan</title>
+    <desc lang="en">Manjeet, Bindiya, and Janki, three daughters-in-law, tackle various family problems.</desc>
+    <credits>
+      <actor>Amrapali Gupta</actor>
+      <actor>Aman Verma</actor>
+      <actor>Kadambari Kadam</actor>
+      <actor>Manava Naik</actor>
+      <actor>Aanchal Anand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6F2B91B319342E12AA8A779EECAEBF1B1F9EF83C.jpg"/>
+  </programme>
+  <programme start="20240316220000 +0530" stop="20240316223000 +0530" channel="NAZARA.in">
+    <title lang="en">Teen Bahuraaniyaan</title>
+    <desc lang="en">Manjeet, Bindiya, and Janki, three daughters-in-law, tackle various family problems.</desc>
+    <credits>
+      <actor>Amrapali Gupta</actor>
+      <actor>Aman Verma</actor>
+      <actor>Kadambari Kadam</actor>
+      <actor>Manava Naik</actor>
+      <actor>Aanchal Anand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6F2B91B319342E12AA8A779EECAEBF1B1F9EF83C.jpg"/>
+  </programme>
+  <programme start="20240316223000 +0530" stop="20240316230000 +0530" channel="NAZARA.in">
+    <title lang="en">Teen Bahuraaniyaan</title>
+    <desc lang="en">Manjeet, Bindiya, and Janki, three daughters-in-law, tackle various family problems.</desc>
+    <credits>
+      <actor>Amrapali Gupta</actor>
+      <actor>Aman Verma</actor>
+      <actor>Kadambari Kadam</actor>
+      <actor>Manava Naik</actor>
+      <actor>Aanchal Anand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6F2B91B319342E12AA8A779EECAEBF1B1F9EF83C.jpg"/>
+  </programme>
+  <programme start="20240316230000 +0530" stop="20240316233000 +0530" channel="NAZARA.in">
+    <title lang="en">Dharti Putra Nandani</title>
+    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
+    <credits>
+      <actor>Deepika Chikhalia</actor>
+      <actor>Shagun Singh</actor>
+      <actor>Aman Jaiswal</actor>
+      <actor>Anuj Ahluwalia</actor>
+      <actor>Vinod Motwani</actor>
+      <actor>Naveen Nishad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
+  </programme>
+  <programme start="20240316233000 +0530" stop="20240317000000 +0530" channel="NAZARA.in">
+    <title lang="en">Dharti Putra Nandani</title>
+    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
+    <credits>
+      <actor>Deepika Chikhalia</actor>
+      <actor>Shagun Singh</actor>
+      <actor>Aman Jaiswal</actor>
+      <actor>Anuj Ahluwalia</actor>
+      <actor>Vinod Motwani</actor>
+      <actor>Naveen Nishad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
+  </programme>
+  <programme start="20240317000000 +0530" stop="20240317003000 +0530" channel="NAZARA.in">
+    <title lang="en">Dharti Putra Nandani</title>
+    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
+    <credits>
+      <actor>Deepika Chikhalia</actor>
+      <actor>Shagun Singh</actor>
+      <actor>Aman Jaiswal</actor>
+      <actor>Anuj Ahluwalia</actor>
+      <actor>Vinod Motwani</actor>
+      <actor>Naveen Nishad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
+  </programme>
+  <programme start="20240317003000 +0530" stop="20240317010000 +0530" channel="NAZARA.in">
+    <title lang="en">Dharti Putra Nandani</title>
+    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
+    <credits>
+      <actor>Deepika Chikhalia</actor>
+      <actor>Shagun Singh</actor>
+      <actor>Aman Jaiswal</actor>
+      <actor>Anuj Ahluwalia</actor>
+      <actor>Vinod Motwani</actor>
+      <actor>Naveen Nishad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
+  </programme>
+  <programme start="20240317010000 +0530" stop="20240317013000 +0530" channel="NAZARA.in">
+    <title lang="en">Lal Banarsi</title>
+    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
+    <credits>
+      <actor>Narayani Shastri</actor>
+      <actor>Gauri Chitranshi</actor>
+      <actor>Savi Thakur</actor>
+      <actor>Nisha Gupta</actor>
+      <actor>Manohar Teli</actor>
+      <actor>Iram Hingwala</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
+  </programme>
+  <programme start="20240317013000 +0530" stop="20240317020000 +0530" channel="NAZARA.in">
+    <title lang="en">Lal Banarsi</title>
+    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
+    <credits>
+      <actor>Narayani Shastri</actor>
+      <actor>Gauri Chitranshi</actor>
+      <actor>Savi Thakur</actor>
+      <actor>Nisha Gupta</actor>
+      <actor>Manohar Teli</actor>
+      <actor>Iram Hingwala</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
+  </programme>
+  <programme start="20240317020000 +0530" stop="20240317023000 +0530" channel="NAZARA.in">
+    <title lang="en">Lal Banarsi</title>
+    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
+    <credits>
+      <actor>Narayani Shastri</actor>
+      <actor>Gauri Chitranshi</actor>
+      <actor>Savi Thakur</actor>
+      <actor>Nisha Gupta</actor>
+      <actor>Manohar Teli</actor>
+      <actor>Iram Hingwala</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
+  </programme>
+  <programme start="20240317023000 +0530" stop="20240317030000 +0530" channel="NAZARA.in">
+    <title lang="en">Lal Banarsi</title>
+    <desc lang="en">Gauri, a skilled weaver and pride of the community, weaves her dreams through her art.</desc>
+    <credits>
+      <actor>Narayani Shastri</actor>
+      <actor>Gauri Chitranshi</actor>
+      <actor>Savi Thakur</actor>
+      <actor>Nisha Gupta</actor>
+      <actor>Manohar Teli</actor>
+      <actor>Iram Hingwala</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A017170AF65CBA5290959165B5B24E814667ADDB9.jpg"/>
+  </programme>
+  <programme start="20240317030000 +0530" stop="20240317040000 +0530" channel="NAZARA.in">
+    <title lang="en">Har Har Bhakti</title>
+    <desc lang="en">A religious leader delivers a discourse on the teachings from the holy scriptures.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FE06E5E24312910E7A72F3194417CC6D2591B8A8.jpg"/>
+  </programme>
+  <programme start="20240317040000 +0530" stop="20240317110000 +0530" channel="NAZARA.in">
+    <title lang="en">Har Har Bhakti</title>
+    <desc lang="en">A religious leader delivers a discourse on the teachings from the holy scriptures.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FE06E5E24312910E7A72F3194417CC6D2591B8A8.jpg"/>
+  </programme>
+  <programme start="20240317110000 +0530" stop="20240317113000 +0530" channel="NAZARA.in">
+    <title lang="en">Dharti Putra Nandani</title>
+    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
+    <credits>
+      <actor>Deepika Chikhalia</actor>
+      <actor>Shagun Singh</actor>
+      <actor>Aman Jaiswal</actor>
+      <actor>Anuj Ahluwalia</actor>
+      <actor>Vinod Motwani</actor>
+      <actor>Naveen Nishad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
+  </programme>
+  <programme start="20240317113000 +0530" stop="20240317120000 +0530" channel="NAZARA.in">
+    <title lang="en">Dharti Putra Nandani</title>
+    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
+    <credits>
+      <actor>Deepika Chikhalia</actor>
+      <actor>Shagun Singh</actor>
+      <actor>Aman Jaiswal</actor>
+      <actor>Anuj Ahluwalia</actor>
+      <actor>Vinod Motwani</actor>
+      <actor>Naveen Nishad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
+  </programme>
+  <programme start="20240317120000 +0530" stop="20240317123000 +0530" channel="NAZARA.in">
+    <title lang="en">Dharti Putra Nandani</title>
+    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
+    <credits>
+      <actor>Deepika Chikhalia</actor>
+      <actor>Shagun Singh</actor>
+      <actor>Aman Jaiswal</actor>
+      <actor>Anuj Ahluwalia</actor>
+      <actor>Vinod Motwani</actor>
+      <actor>Naveen Nishad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
+  </programme>
+  <programme start="20240317123000 +0530" stop="20240317130000 +0530" channel="NAZARA.in">
+    <title lang="en">Dharti Putra Nandani</title>
+    <desc lang="en">A matriarch brings a farmer's daughter into her house to keep her wealthy family intact.</desc>
+    <credits>
+      <actor>Deepika Chikhalia</actor>
+      <actor>Shagun Singh</actor>
+      <actor>Aman Jaiswal</actor>
+      <actor>Anuj Ahluwalia</actor>
+      <actor>Vinod Motwani</actor>
+      <actor>Naveen Nishad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2945AF529D6A815A01EF3E8E5F1D11100E447A0FN.jpg"/>
+  </programme>
+  <programme start="20240317130000 +0530" stop="20240317133000 +0530" channel="NAZARA.in">
+    <title lang="en">Kajjal</title>
+    <desc lang="en">A small-town girl moves to a metropolitan city to find the man of her dreams.</desc>
+    <credits>
+      <actor>Surveen Chawla</actor>
+      <actor>Apurva Agnihotri</actor>
+      <actor>Rohit Bakshi</actor>
+      <actor>Deepak Bajaj</actor>
+      <actor>Chetan Hansraj</actor>
+      <actor>Shaleen Bhanot</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D11AB472986E483C60B92260CF836FF7AF5BA421W.jpg"/>
+  </programme>
+  <programme start="20240317133000 +0530" stop="20240317140000 +0530" channel="NAZARA.in">
+    <title lang="en">Kajjal</title>
+    <desc lang="en">A small-town girl moves to a metropolitan city to find the man of her dreams.</desc>
+    <credits>
+      <actor>Surveen Chawla</actor>
+      <actor>Apurva Agnihotri</actor>
+      <actor>Rohit Bakshi</actor>
+      <actor>Deepak Bajaj</actor>
+      <actor>Chetan Hansraj</actor>
+      <actor>Shaleen Bhanot</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D11AB472986E483C60B92260CF836FF7AF5BA421W.jpg"/>
+  </programme>
+  <programme start="20240317140000 +0530" stop="20240317143000 +0530" channel="NAZARA.in">
+    <title lang="en">Dahej Daasi</title>
+    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
+    <credits>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Simran Sharma</actor>
+      <actor>Jahnavi Soni</actor>
+      <actor>Rajat Verma</actor>
+      <actor>Anuj Kohli</actor>
+      <actor>Pooja Sahu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
+  </programme>
+  <programme start="20240317143000 +0530" stop="20240317150000 +0530" channel="NAZARA.in">
+    <title lang="en">Dahej Daasi</title>
+    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
+    <credits>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Simran Sharma</actor>
+      <actor>Jahnavi Soni</actor>
+      <actor>Rajat Verma</actor>
+      <actor>Anuj Kohli</actor>
+      <actor>Pooja Sahu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
+  </programme>
+  <programme start="20240317150000 +0530" stop="20240317153000 +0530" channel="NAZARA.in">
+    <title lang="en">Dahej Daasi</title>
+    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
+    <credits>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Simran Sharma</actor>
+      <actor>Jahnavi Soni</actor>
+      <actor>Rajat Verma</actor>
+      <actor>Anuj Kohli</actor>
+      <actor>Pooja Sahu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
+  </programme>
+  <programme start="20240317153000 +0530" stop="20240317160000 +0530" channel="NAZARA.in">
+    <title lang="en">Dahej Daasi</title>
+    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
+    <credits>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Simran Sharma</actor>
+      <actor>Jahnavi Soni</actor>
+      <actor>Rajat Verma</actor>
+      <actor>Anuj Kohli</actor>
+      <actor>Pooja Sahu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
+  </programme>
+  <programme start="20240317160000 +0530" stop="20240317163000 +0530" channel="NAZARA.in">
+    <title lang="en">BMZ</title>
+    <desc lang="en">BMZ</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
+  </programme>
+  <programme start="20240317163000 +0530" stop="20240317170000 +0530" channel="NAZARA.in">
+    <title lang="en">BMZ</title>
+    <desc lang="en">BMZ</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
+  </programme>
+  <programme start="20240317170000 +0530" stop="20240317173000 +0530" channel="NAZARA.in">
+    <title lang="en">BMZ</title>
+    <desc lang="en">BMZ</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
+  </programme>
+  <programme start="20240317173000 +0530" stop="20240317180000 +0530" channel="NAZARA.in">
+    <title lang="en">BMZ</title>
+    <desc lang="en">BMZ</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06D956AF56DE9874FC6732B3D19E13A67FEBE6AC7.jpg"/>
+  </programme>
+  <programme start="20240317180000 +0530" stop="20240317183000 +0530" channel="NAZARA.in">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">Roshni is shocked when a man named Ranjeet holds her hand in the office.</desc>
+    <credits>
+      <actor>Ravi Dubey</actor>
+      <actor>Nia Sharma</actor>
+      <actor>Shiny Doshi</actor>
+      <actor>Achint Kaur</actor>
+      <actor>Apara Mehta</actor>
+      <actor>Shruti Ulfat</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+  </programme>
+  <programme start="20240317183000 +0530" stop="20240317190000 +0530" channel="NAZARA.in">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">Siddharth is shocked to find Roshni in a drunken state in her office.</desc>
+    <credits>
+      <actor>Ravi Dubey</actor>
+      <actor>Nia Sharma</actor>
+      <actor>Shiny Doshi</actor>
+      <actor>Achint Kaur</actor>
+      <actor>Apara Mehta</actor>
+      <actor>Shruti Ulfat</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+  </programme>
+  <programme start="20240317190000 +0530" stop="20240317193000 +0530" channel="NAZARA.in">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">Siddharth tries to speak to Roshni but Neil interrupts them.</desc>
+    <credits>
+      <actor>Ravi Dubey</actor>
+      <actor>Nia Sharma</actor>
+      <actor>Shiny Doshi</actor>
+      <actor>Achint Kaur</actor>
+      <actor>Apara Mehta</actor>
+      <actor>Shruti Ulfat</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+  </programme>
+  <programme start="20240317193000 +0530" stop="20240317200000 +0530" channel="NAZARA.in">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">Ranjeet thinks his brother can drive Ragini Khanna out of the company.</desc>
+    <credits>
+      <actor>Ravi Dubey</actor>
+      <actor>Nia Sharma</actor>
+      <actor>Shiny Doshi</actor>
+      <actor>Achint Kaur</actor>
+      <actor>Apara Mehta</actor>
+      <actor>Shruti Ulfat</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+  </programme>
+  <programme start="20240317200000 +0530" stop="20240317203000 +0530" channel="NAZARA.in">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">Ranjeet spots Roshni and starts misbehaving with her but Siddharth beats him up.</desc>
+    <credits>
+      <actor>Ravi Dubey</actor>
+      <actor>Nia Sharma</actor>
+      <actor>Shiny Doshi</actor>
+      <actor>Achint Kaur</actor>
+      <actor>Apara Mehta</actor>
+      <actor>Shruti Ulfat</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+  </programme>
+  <programme start="20240317203000 +0530" stop="20240317210000 +0530" channel="NAZARA.in">
+    <title lang="en">Jamai Raja</title>
+    <desc lang="en">Neil confronts Roshni and asks her if something is troubling her.</desc>
+    <credits>
+      <actor>Ravi Dubey</actor>
+      <actor>Nia Sharma</actor>
+      <actor>Shiny Doshi</actor>
+      <actor>Achint Kaur</actor>
+      <actor>Apara Mehta</actor>
+      <actor>Shruti Ulfat</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE0483106CBEB381D93C68973550909C83F493E5B.jpg"/>
+  </programme>
+  <programme start="20240317210000 +0530" stop="20240317213000 +0530" channel="NAZARA.in">
+    <title lang="en">Teen Bahuraaniyaan</title>
+    <desc lang="en">Manjeet, Bindiya, and Janki, three daughters-in-law, tackle various family problems.</desc>
+    <credits>
+      <actor>Amrapali Gupta</actor>
+      <actor>Aman Verma</actor>
+      <actor>Kadambari Kadam</actor>
+      <actor>Manava Naik</actor>
+      <actor>Aanchal Anand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6F2B91B319342E12AA8A779EECAEBF1B1F9EF83C.jpg"/>
+  </programme>
+  <programme start="20240317213000 +0530" stop="20240317220000 +0530" channel="NAZARA.in">
+    <title lang="en">Teen Bahuraaniyaan</title>
+    <desc lang="en">Manjeet, Bindiya, and Janki, three daughters-in-law, tackle various family problems.</desc>
+    <credits>
+      <actor>Amrapali Gupta</actor>
+      <actor>Aman Verma</actor>
+      <actor>Kadambari Kadam</actor>
+      <actor>Manava Naik</actor>
+      <actor>Aanchal Anand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6F2B91B319342E12AA8A779EECAEBF1B1F9EF83C.jpg"/>
+  </programme>
+  <programme start="20240317220000 +0530" stop="20240317223000 +0530" channel="NAZARA.in">
+    <title lang="en">Teen Bahuraaniyaan</title>
+    <desc lang="en">Manjeet, Bindiya, and Janki, three daughters-in-law, tackle various family problems.</desc>
+    <credits>
+      <actor>Amrapali Gupta</actor>
+      <actor>Aman Verma</actor>
+      <actor>Kadambari Kadam</actor>
+      <actor>Manava Naik</actor>
+      <actor>Aanchal Anand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6F2B91B319342E12AA8A779EECAEBF1B1F9EF83C.jpg"/>
+  </programme>
+  <programme start="20240317223000 +0530" stop="20240317230000 +0530" channel="NAZARA.in">
+    <title lang="en">Teen Bahuraaniyaan</title>
+    <desc lang="en">Manjeet, Bindiya, and Janki, three daughters-in-law, tackle various family problems.</desc>
+    <credits>
+      <actor>Amrapali Gupta</actor>
+      <actor>Aman Verma</actor>
+      <actor>Kadambari Kadam</actor>
+      <actor>Manava Naik</actor>
+      <actor>Aanchal Anand</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F6F2B91B319342E12AA8A779EECAEBF1B1F9EF83C.jpg"/>
+  </programme>
+  <programme start="20240317230000 +0530" stop="20240317233000 +0530" channel="NAZARA.in">
+    <title lang="en">Dahej Daasi</title>
+    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
+    <credits>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Simran Sharma</actor>
+      <actor>Jahnavi Soni</actor>
+      <actor>Rajat Verma</actor>
+      <actor>Anuj Kohli</actor>
+      <actor>Pooja Sahu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
+  </programme>
+  <programme start="20240317233000 +0530" stop="20240318000000 +0530" channel="NAZARA.in">
+    <title lang="en">Dahej Daasi</title>
+    <desc lang="en">A girl with a dream of having a family finds herself in a situation of 'dahej daasi'.</desc>
+    <credits>
+      <actor>Sayantani Ghosh</actor>
+      <actor>Simran Sharma</actor>
+      <actor>Jahnavi Soni</actor>
+      <actor>Rajat Verma</actor>
+      <actor>Anuj Kohli</actor>
+      <actor>Pooja Sahu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0817C0325A92105B7585AE17C0C6CAB0D932793.jpg"/>
   </programme>
 </tv>

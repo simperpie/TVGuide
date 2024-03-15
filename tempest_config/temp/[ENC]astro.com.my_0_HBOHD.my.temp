@@ -4,114 +4,6 @@
     <display-name lang="mg">HBO 🄼</display-name>
     <icon src="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png"/>
   </channel>
-  <programme start="20240312215000 +0530" stop="20240312234000 +0530" channel="HBOHD.my">
-    <title lang="mg">Halloween Ends</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240312234000 +0530" stop="20240313013000 +0530" channel="HBOHD.my">
-    <title lang="mg">THE MUNSTERS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240313013000 +0530" stop="20240313034000 +0530" channel="HBOHD.my">
-    <title lang="mg">SHE SAID</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240313034000 +0530" stop="20240313040500 +0530" channel="HBOHD.my">
-    <title lang="mg">HOLLYWOOD on SET</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240313040500 +0530" stop="20240313060000 +0530" channel="HBOHD.my">
-    <title lang="mg">SUPER 8</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240313060000 +0530" stop="20240313073000 +0530" channel="HBOHD.my">
-    <title lang="mg">MADAGASCAR: ESCAPE 2 AFRICA</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240313073000 +0530" stop="20240313090500 +0530" channel="HBOHD.my">
-    <title lang="mg">MADAGASCAR 3: EUROPE'S MOST WANTED</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240313090500 +0530" stop="20240313122500 +0530" channel="HBOHD.my">
-    <title lang="mg">LOTR: THE RETURN OF THE KING</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240313122500 +0530" stop="20240313142000 +0530" channel="HBOHD.my">
-    <title lang="mg">A THOUSAND AND ONE</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240313142000 +0530" stop="20240313160500 +0530" channel="HBOHD.my">
-    <title lang="mg">LAND of GOLD</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240313160500 +0530" stop="20240313183000 +0530" channel="HBOHD.my">
-    <title lang="mg">INCEPTION</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240313183000 +0530" stop="20240313201500 +0530" channel="HBOHD.my">
-    <title lang="mg">TMNT: MUTANT MAYHEM</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240313201500 +0530" stop="20240313210500 +0530" channel="HBOHD.my">
-    <title lang="mg">THE REGIME</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240313210500 +0530" stop="20240313230000 +0530" channel="HBOHD.my">
-    <title lang="mg">PRAISE THIS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240313230000 +0530" stop="20240314004000 +0530" channel="HBOHD.my">
-    <title lang="mg">House Party</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240314004000 +0530" stop="20240314020500 +0530" channel="HBOHD.my">
-    <title lang="mg">SICK</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240314020500 +0530" stop="20240314033500 +0530" channel="HBOHD.my">
-    <title lang="mg">WHEN YOU FINISH SAVING THE WORLD</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240314033500 +0530" stop="20240314050000 +0530" channel="HBOHD.my">
-    <title lang="mg">Reality</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240314050000 +0530" stop="20240314063500 +0530" channel="HBOHD.my">
-    <title lang="mg">MADAGASCAR 3: EUROPE'S MOST WANTED</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240314063500 +0530" stop="20240314083500 +0530" channel="HBOHD.my">
-    <title lang="mg">Blinded by the Light (2019)</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240314083500 +0530" stop="20240314102000 +0530" channel="HBOHD.my">
-    <title lang="mg">LAND of GOLD</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240314102000 +0530" stop="20240314121500 +0530" channel="HBOHD.my">
-    <title lang="mg">PRAISE THIS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240314121500 +0530" stop="20240314144000 +0530" channel="HBOHD.my">
-    <title lang="mg">INCEPTION</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240314144000 +0530" stop="20240314162000 +0530" channel="HBOHD.my">
-    <title lang="mg">TMNT: MUTANT MAYHEM</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240314162000 +0530" stop="20240314183000 +0530" channel="HBOHD.my">
-    <title lang="mg">Miami Vice</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240314183000 +0530" stop="20240314205500 +0530" channel="HBOHD.my">
-    <title lang="mg">JURASSIC WORLD DOMINION</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240314205500 +0530" stop="20240314232500 +0530" channel="HBOHD.my">
-    <title lang="mg">COLD MOUNTAIN</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
   <programme start="20240314232500 +0530" stop="20240315010000 +0530" channel="HBOHD.my">
     <title lang="mg">The Eye</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
@@ -154,6 +46,118 @@
   </programme>
   <programme start="20240315203500 +0530" stop="20240315221500 +0530" channel="HBOHD.my">
     <title lang="mg">MAFIA MAMMA</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240315221500 +0530" stop="20240315234500 +0530" channel="HBOHD.my">
+    <title lang="mg">BABY RUBY</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240315234500 +0530" stop="20240316013500 +0530" channel="HBOHD.my">
+    <title lang="mg">ORGAN TRAIL</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240316013500 +0530" stop="20240316030500 +0530" channel="HBOHD.my">
+    <title lang="mg">Passengers</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240316030500 +0530" stop="20240316045000 +0530" channel="HBOHD.my">
+    <title lang="mg">17 AGAIN</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240316045000 +0530" stop="20240316063000 +0530" channel="HBOHD.my">
+    <title lang="mg">INSIDE</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240316063000 +0530" stop="20240316075500 +0530" channel="HBOHD.my">
+    <title lang="mg">MADAGASCAR</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240316075500 +0530" stop="20240316092500 +0530" channel="HBOHD.my">
+    <title lang="mg">TAD, THE LOST EXPLORER</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240316092500 +0530" stop="20240316110500 +0530" channel="HBOHD.my">
+    <title lang="mg">M3gan</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240316110500 +0530" stop="20240316123500 +0530" channel="HBOHD.my">
+    <title lang="mg">Minions</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240316123500 +0530" stop="20240316142500 +0530" channel="HBOHD.my">
+    <title lang="mg">GET SMART</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240316142500 +0530" stop="20240316162500 +0530" channel="HBOHD.my">
+    <title lang="mg">KONG: SKULL ISLAND</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240316162500 +0530" stop="20240316183000 +0530" channel="HBOHD.my">
+    <title lang="mg">TRANSFORMERS: RISE OF THE BEASTS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240316183000 +0530" stop="20240316195500 +0530" channel="HBOHD.my">
+    <title lang="mg">DISQUIET</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240316195500 +0530" stop="20240316222500 +0530" channel="HBOHD.my">
+    <title lang="mg">WONDER WOMAN 1984</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240316222500 +0530" stop="20240317000000 +0530" channel="HBOHD.my">
+    <title lang="mg">HAPPY DEATH DAY</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240317000000 +0530" stop="20240317002500 +0530" channel="HBOHD.my">
+    <title lang="mg">HOLLYWOOD on SET</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240317002500 +0530" stop="20240317015500 +0530" channel="HBOHD.my">
+    <title lang="mg">THE GRUDGE</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240317015500 +0530" stop="20240317034500 +0530" channel="HBOHD.my">
+    <title lang="mg">GET SMART</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240317034500 +0530" stop="20240317051500 +0530" channel="HBOHD.my">
+    <title lang="mg">Passengers</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240317051500 +0530" stop="20240317070500 +0530" channel="HBOHD.my">
+    <title lang="mg">PRAISE THIS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240317070500 +0530" stop="20240317083500 +0530" channel="HBOHD.my">
+    <title lang="mg">Minions</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240317083500 +0530" stop="20240317100500 +0530" channel="HBOHD.my">
+    <title lang="mg">MUMMIES</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240317100500 +0530" stop="20240317114500 +0530" channel="HBOHD.my">
+    <title lang="mg">Game Night</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240317114500 +0530" stop="20240317142000 +0530" channel="HBOHD.my">
+    <title lang="mg">ZODIAC</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240317142000 +0530" stop="20240317165000 +0530" channel="HBOHD.my">
+    <title lang="mg">WONDER WOMAN 1984</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240317165000 +0530" stop="20240317183000 +0530" channel="HBOHD.my">
+    <title lang="mg">TMNT: MUTANT MAYHEM</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240317183000 +0530" stop="20240317204000 +0530" channel="HBOHD.my">
+    <title lang="mg">Shazam! Fury of the Gods</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
+  </programme>
+  <programme start="20240317204000 +0530" stop="20240317232500 +0530" channel="HBOHD.my">
+    <title lang="mg">IT CHAPTER TWO</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
   </programme>
 </tv>

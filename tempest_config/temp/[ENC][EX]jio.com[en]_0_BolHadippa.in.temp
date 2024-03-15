@@ -4,169 +4,6 @@
     <display-name lang="en">Bol Hadippa</display-name>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bol_Hadippa.png"/>
   </channel>
-  <programme start="20240313000000 +0530" stop="20240313070000 +0530" channel="BolHadippa.in">
-    <title lang="en">Punjabi Tadka</title>
-    <desc lang="en">Back to back popular Punjabi songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403131248000_s.jpg"/>
-    <previously-shown/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313070000 +0530" stop="20240313090000 +0530" channel="BolHadippa.in">
-    <title lang="en">Tashan</title>
-    <desc lang="en">Fresh &amp; Trending Punjabi tracks</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403131248001_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313090000 +0530" stop="20240313100000 +0530" channel="BolHadippa.in">
-    <title lang="en">Hot Punjabi Beats</title>
-    <desc lang="en">An hour filled with the Top Performing Punjabi songs of the week.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403131248002_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313100000 +0530" stop="20240313120000 +0530" channel="BolHadippa.in">
-    <title lang="en">Dil Diya Gallan</title>
-    <desc lang="en">Punjabi Romantic Songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403131248003_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313120000 +0530" stop="20240313160000 +0530" channel="BolHadippa.in">
-    <title lang="en">Swag Punjabi</title>
-    <desc lang="en">Feel the Punjabi swag with hit Punjabi songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403131248004_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313160000 +0530" stop="20240313180000 +0530" channel="BolHadippa.in">
-    <title lang="en">Dil Diya Gallan</title>
-    <desc lang="en">Punjabi Romantic Songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403131248005_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313180000 +0530" stop="20240313200000 +0530" channel="BolHadippa.in">
-    <title lang="en">Tashan</title>
-    <desc lang="en">Fresh &amp; Trending Punjabi tracks</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403131248006_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313200000 +0530" stop="20240313210000 +0530" channel="BolHadippa.in">
-    <title lang="en">Hot Punjabi Beats</title>
-    <desc lang="en">An hour filled with the Top Performing Punjabi songs of the week.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403131248007_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313210000 +0530" stop="20240313235959 +0530" channel="BolHadippa.in">
-    <title lang="en">Bhangra Beats</title>
-    <desc lang="en">Get ready to dance to desi Punjabi beats</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-13/2403131248008_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314000000 +0530" stop="20240314070000 +0530" channel="BolHadippa.in">
-    <title lang="en">Punjabi Tadka</title>
-    <desc lang="en">Back to back popular Punjabi songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403141248000_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314070000 +0530" stop="20240314090000 +0530" channel="BolHadippa.in">
-    <title lang="en">Tashan</title>
-    <desc lang="en">Fresh &amp; Trending Punjabi tracks</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403141248001_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314090000 +0530" stop="20240314100000 +0530" channel="BolHadippa.in">
-    <title lang="en">Hot Punjabi Beats</title>
-    <desc lang="en">An hour filled with the Top Performing Punjabi songs of the week.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403141248002_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314100000 +0530" stop="20240314120000 +0530" channel="BolHadippa.in">
-    <title lang="en">Dil Diya Gallan</title>
-    <desc lang="en">Punjabi Romantic Songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403141248003_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314120000 +0530" stop="20240314160000 +0530" channel="BolHadippa.in">
-    <title lang="en">Swag Punjabi</title>
-    <desc lang="en">Feel the Punjabi swag with hit Punjabi songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403141248004_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314160000 +0530" stop="20240314180000 +0530" channel="BolHadippa.in">
-    <title lang="en">Dil Diya Gallan</title>
-    <desc lang="en">Punjabi Romantic Songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403141248005_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314180000 +0530" stop="20240314200000 +0530" channel="BolHadippa.in">
-    <title lang="en">Tashan</title>
-    <desc lang="en">Fresh &amp; Trending Punjabi tracks</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403141248006_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314200000 +0530" stop="20240314210000 +0530" channel="BolHadippa.in">
-    <title lang="en">Hot Punjabi Beats</title>
-    <desc lang="en">An hour filled with the Top Performing Punjabi songs of the week.</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403141248007_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314210000 +0530" stop="20240314235959 +0530" channel="BolHadippa.in">
-    <title lang="en">Bhangra Beats</title>
-    <desc lang="en">Get ready to dance to desi Punjabi beats</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-14/2403141248008_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20240315000000 +0530" stop="20240315070000 +0530" channel="BolHadippa.in">
     <title lang="en">Punjabi Tadka</title>
     <desc lang="en">Back to back popular Punjabi songs</desc>
@@ -244,6 +81,168 @@
     <desc lang="en">Get ready to dance to desi Punjabi beats</desc>
     <category lang="en">Devotional</category>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403151248008_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316000000 +0530" stop="20240316070000 +0530" channel="BolHadippa.in">
+    <title lang="en">Punjabi Tadka</title>
+    <desc lang="en">Back to back popular Punjabi songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161248000_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316070000 +0530" stop="20240316090000 +0530" channel="BolHadippa.in">
+    <title lang="en">Tashan</title>
+    <desc lang="en">Fresh &amp; Trending Punjabi tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161248001_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316090000 +0530" stop="20240316100000 +0530" channel="BolHadippa.in">
+    <title lang="en">Hot Punjabi Beats</title>
+    <desc lang="en">An hour filled with the Top Performing Punjabi songs of the week.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161248002_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316100000 +0530" stop="20240316120000 +0530" channel="BolHadippa.in">
+    <title lang="en">Dil Diya Gallan</title>
+    <desc lang="en">Punjabi Romantic Songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161248003_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316120000 +0530" stop="20240316160000 +0530" channel="BolHadippa.in">
+    <title lang="en">Swag Punjabi</title>
+    <desc lang="en">Feel the Punjabi swag with hit Punjabi songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161248004_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316160000 +0530" stop="20240316180000 +0530" channel="BolHadippa.in">
+    <title lang="en">Dil Diya Gallan</title>
+    <desc lang="en">Punjabi Romantic Songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161248005_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316180000 +0530" stop="20240316200000 +0530" channel="BolHadippa.in">
+    <title lang="en">Tashan</title>
+    <desc lang="en">Fresh &amp; Trending Punjabi tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161248006_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316200000 +0530" stop="20240316210000 +0530" channel="BolHadippa.in">
+    <title lang="en">Hot Punjabi Beats</title>
+    <desc lang="en">An hour filled with the Top Performing Punjabi songs of the week.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161248007_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316210000 +0530" stop="20240316235959 +0530" channel="BolHadippa.in">
+    <title lang="en">Bhangra Beats</title>
+    <desc lang="en">Get ready to dance to desi Punjabi beats</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161248008_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317000000 +0530" stop="20240317070000 +0530" channel="BolHadippa.in">
+    <title lang="en">Punjabi Tadka</title>
+    <desc lang="en">Back to back popular Punjabi songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171248000_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317070000 +0530" stop="20240317090000 +0530" channel="BolHadippa.in">
+    <title lang="en">Tashan</title>
+    <desc lang="en">Fresh &amp; Trending Punjabi tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171248001_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317090000 +0530" stop="20240317100000 +0530" channel="BolHadippa.in">
+    <title lang="en">Hot Punjabi Beats</title>
+    <desc lang="en">An hour filled with the Top Performing Punjabi songs of the week.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171248002_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317100000 +0530" stop="20240317120000 +0530" channel="BolHadippa.in">
+    <title lang="en">Dil Diya Gallan</title>
+    <desc lang="en">Punjabi Romantic Songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171248003_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317120000 +0530" stop="20240317160000 +0530" channel="BolHadippa.in">
+    <title lang="en">Swag Punjabi</title>
+    <desc lang="en">Feel the Punjabi swag with hit Punjabi songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171248004_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317160000 +0530" stop="20240317180000 +0530" channel="BolHadippa.in">
+    <title lang="en">Dil Diya Gallan</title>
+    <desc lang="en">Punjabi Romantic Songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171248005_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317180000 +0530" stop="20240317200000 +0530" channel="BolHadippa.in">
+    <title lang="en">Tashan</title>
+    <desc lang="en">Fresh &amp; Trending Punjabi tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171248006_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317200000 +0530" stop="20240317210000 +0530" channel="BolHadippa.in">
+    <title lang="en">Hot Punjabi Beats</title>
+    <desc lang="en">An hour filled with the Top Performing Punjabi songs of the week.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171248007_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317210000 +0530" stop="20240317235959 +0530" channel="BolHadippa.in">
+    <title lang="en">Bhangra Beats</title>
+    <desc lang="en">Get ready to dance to desi Punjabi beats</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171248008_s.jpg"/>
     <rating system="CBFC">
       <value>U</value>
     </rating>

@@ -4,317 +4,6 @@
     <display-name lang="en">SkySpMainEv</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb1301.png"/>
   </channel>
-  <programme start="20240313033000 +0530" stop="20240313063000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live Tennis: Indian Wells</title>
-    <desc lang="en">At Indian Wells, world number two Carlos Alcaraz meets Fabian Marozsan in the round of 16, while Jasmine Paolini plays Anastasia Potapova and Alex de Minaur faces Alexander Zverev. (12.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0df2f47c-11c5-3093-880a-c7e835eb2bd2/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240313063000 +0530" stop="20240313103000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live Tennis: Indian Wells</title>
-    <desc lang="en">At Indian Wells, United States star Ben Shelton clashes with Australian Open champion Jannik Sinner, while world number one Iga Swiatek plays Yulia Putintseva. (12.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://images.metadata.sky.com/pd-image/175455a5-6662-3510-a4d2-32f0a1df9e38/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240313103000 +0530" stop="20240313113000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/812b0cae-fde9-3114-a282-380324236c10/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240313113000 +0530" stop="20240313123000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/45e43bef-b7b5-3786-9ccc-d5323f8d103c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313123000 +0530" stop="20240313133000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Good Morning Sports Fans</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0d122c70-3c17-3a50-bdd1-0fe291f6576f/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313133000 +0530" stop="20240313143000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Good Morning Sports Fans</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/dd416226-24ff-31d7-a76c-bcf6bb9cf181/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240313143000 +0530" stop="20240313153000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Good Morning Sports Fans</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4fd83f2d-e598-3d76-91a1-911a2ff3bf6d/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240313153000 +0530" stop="20240313163000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">The Football Show</title>
-    <desc lang="en">A detailed look at all the major stories making the football headlines this morning, with discussion and analysis of the big talking points.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/500f2ded-d849-305c-bdd4-cc3538cffb60/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313163000 +0530" stop="20240313173000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">The Football Show</title>
-    <desc lang="en">A detailed look at all the major stories making the football headlines this morning, with discussion and analysis of the big talking points.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/500f2ded-d849-305c-bdd4-cc3538cffb60/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240313173000 +0530" stop="20240313183000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Lunchtime Live</title>
-    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/709c787c-60d1-3c4a-bd0d-54a53a5e35a4/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313183000 +0530" stop="20240313193000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Lunchtime Live</title>
-    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1a64b599-291a-3c22-9efa-8afe1949fa19/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240313193000 +0530" stop="20240313233000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live WPL: Delhi C v Gujarat G</title>
-    <desc lang="en">In the Women's Premier League, Delhi Capitals go up against Gujarat Giants. The Capitals squeezed past RCB on Sunday, with Jemimah Rodrigues hitting a half century. (13.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c07b9e83-3304-39f1-b230-316e557c568b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313233000 +0530" stop="20240314010000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live From The Players Championship</title>
-    <desc lang="en">Coming live from Ponte Vedra Beach, Florida, take a look at TPC Sawgrass, where the PGA Tour's best golfers compete in one of the game's most illustrious events.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2d42f286-563a-3364-bbf8-3e72fd99bda9/16-9"/>
-    <episode-num system="xmltv_ns">2023.5.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314010000 +0530" stop="20240314033000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live EFL: Peterborough v Stevenage</title>
-    <desc lang="en">At Weston Homes Stadium, Peterborough welcome Stevenage for a contest in Sky Bet League One. Only seven points separate the two promotion-pushing sides. (13.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/587fc437-867f-39da-bd7d-a66d66e32b9f/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314033000 +0530" stop="20240314063000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live Tennis: Indian Wells</title>
-    <desc lang="en">A star-studded field compete at Indian Wells - a joint ATP Tour Masters 1000 and WTA 1000 event. (13.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0eb29809-794c-325b-af92-95f9072794bf/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240314063000 +0530" stop="20240314103000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live Tennis: Indian Wells</title>
-    <desc lang="en">The evening session on day eight at Indian Wells, as a star-studded field compete at this joint ATP Tour Masters 1000 and WTA 1000 event. (13.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b3221b0a-0b1e-34a4-8091-8ce2cc8839c8/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240314103000 +0530" stop="20240314113000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1ade94eb-571d-309b-a0c8-68034968f9ae/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240314113000 +0530" stop="20240314123000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/24ff4849-154a-320d-ac9a-a2ce1756fcee/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314123000 +0530" stop="20240314133000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Good Morning Sports Fans</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/895c7452-f078-3b1e-96b4-2ae7610ac650/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314133000 +0530" stop="20240314143000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Good Morning Sports Fans</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/06658f32-3dd7-3924-aa85-e63cb4aa6475/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240314143000 +0530" stop="20240314163000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live NRL: Broncos v Rabbitohs</title>
-    <desc lang="en">The second round of the NRL season continues with a clash between Brisbane Broncos and Sydney Rabbitohs. The Broncos are returning to action after defeat in Vegas to the Roosters. (14.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b533279b-d7f1-3b01-a084-e71c601fda8d/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314163000 +0530" stop="20240314170000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">The Football Show</title>
-    <desc lang="en">A detailed look at all the major stories making the football headlines this morning, with discussion and analysis of the big talking points.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a0b28b2c-f773-3f4d-8cb4-16b48499b86b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240314170000 +0530" stop="20240315003000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live The Players Championship R1</title>
-    <desc lang="en">Day one of the 2024 Players Championship, taking place at TPC Sawgrass in Ponte Vedra Beach, Florida. Last year, Scottie Scheffler scooped the PGA Tour's richest prize. (09.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6543f273-50e2-335f-a0b8-e3d829a1a65c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
   <programme start="20240315003000 +0530" stop="20240315043000 +0530" channel="SkySpMainEvent.uk">
     <title lang="en">Live PL Darts: Nottingham</title>
     <desc lang="en">The BetMGM Premier League continues during 2024 with night seven in Nottingham. It was brilliance in Brighton for Luke Humphries who secured his first nightly win of the season. (14.03)</desc>
@@ -330,7 +19,7 @@
   </programme>
   <programme start="20240315043000 +0530" stop="20240315063000 +0530" channel="SkySpMainEvent.uk">
     <title lang="en">Live Tennis: Indian Wells</title>
-    <desc lang="en">A star-studded field compete in the quarter-finals at Indian Wells - a joint ATP Tour Masters 1000 and WTA 1000 event. (14.03)</desc>
+    <desc lang="en">Australian Open champion Jannik Sinner kicks off day nine at Indian Wells, as top seed Iga Swaitek takes on Caroline Wozniacki. Defending champion Carlos Alcaraz is also in action. (14.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://images.metadata.sky.com/pd-image/fe4990b6-0882-30ee-95bf-3e3f06c87b4a/16-9"/>
@@ -343,7 +32,7 @@
   </programme>
   <programme start="20240315063000 +0530" stop="20240315083000 +0530" channel="SkySpMainEvent.uk">
     <title lang="en">Live Tennis: Indian Wells</title>
-    <desc lang="en">The quarter-final actions runs into the evening session on day nine at Indian Wells, as a star-studded field compete at this joint ATP Tour Masters 1000 and WTA 1000 event. (14.03)</desc>
+    <desc lang="en">At Indian Wells, fourth seed Daniil Medvedev prepares for a quarter-final clash against Denmark's Holger Rune, who produced a thrilling comeback to overcome Taylor Fritz. (14.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://images.metadata.sky.com/pd-image/576c2ad8-f669-3f16-9248-bd564dd4d2ac/16-9"/>
@@ -477,7 +166,7 @@
   </programme>
   <programme start="20240316003000 +0530" stop="20240316023000 +0530" channel="SkySpMainEvent.uk">
     <title lang="en">Live WSL: Chelsea v Arsenal</title>
-    <desc lang="en">Chelsea and Arsenal compete in the WSL. (15.03)</desc>
+    <desc lang="en">A clash at the very top of the WSL, as champions and leaders Chelsea compete with Arsenal. Back in December, a Beth Mead rocket and an Alessia Russo double saw the Gunners win 4-1. (15.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/940a2b66-c968-38d0-bc59-e216e171b0d6/16-9"/>
@@ -501,20 +190,7 @@
       <stereo>Mono</stereo>
     </audio>
   </programme>
-  <programme start="20240316043000 +0530" stop="20240316050000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live: ATP Indian Wells Doubles Final</title>
-    <desc lang="en">On day 10 of Indian Wells - a joint ATP Masters and WTA 1000 event - the men's doubles final gets underway. (15.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://images.metadata.sky.com/pd-image/61ea8e95-6f42-3ca3-b2c6-e6a9033743f4/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240316050000 +0530" stop="20240316083000 +0530" channel="SkySpMainEvent.uk">
+  <programme start="20240316043000 +0530" stop="20240316083000 +0530" channel="SkySpMainEvent.uk">
     <title lang="en">Live WTA Indian Wells Semi-Finals</title>
     <desc lang="en">The semi-finals at Indian Wells - a WTA 1000 event. (15.03)</desc>
     <category lang="en">Sports</category>
@@ -526,5 +202,436 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
+  </programme>
+  <programme start="20240316083000 +0530" stop="20240316093000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3549bea1-ddf4-3599-9182-9f320dd5c434/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316093000 +0530" stop="20240316103000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/44b8d710-7992-3194-9187-265da516cd2c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316103000 +0530" stop="20240316113000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d7d5d1d9-dea7-3d7d-a3fc-8a4788deb3cc/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316113000 +0530" stop="20240316123000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4379b576-5930-3bed-b0c6-6e3dfd8d580d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316123000 +0530" stop="20240316133000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Good Morning Sports Fans</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b6a6fe26-13b8-326c-862c-efb7985067a3/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316133000 +0530" stop="20240316140000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Good Morning Sports Fans</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e50c3073-970d-3110-8995-9c7a5efcc3c4/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316140000 +0530" stop="20240316140500 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Super League Gold</title>
+    <desc lang="en">Relive some classic Super League matches. Here, a look back at the 2015 Grand Final, as Leeds Rhinos and Wigan Warriors played out a tense match at Old Trafford.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e5a42abc-68ee-402d-9427-b5091c790571/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316140500 +0530" stop="20240316160000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live NRL: Storm v Warriors</title>
+    <desc lang="en">The second round of the NRL season continues with a clash between Melbourne Storm and NZ Warriors. After beating the premiers, the Storm are now unbeaten in round one for 22 years. (16.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/69c43dbe-78c2-370d-90bd-28cc26092a89/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316160000 +0530" stop="20240316173000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Saturday Social - Live</title>
+    <desc lang="en">Ellis Platten and Dougie Critchley join Smithy and Joe. Plus, Marcus Tavernier and Adam Smith play Forbidden Words and Reiss Nelson and Eddie Nketiah have a game of Football Friends.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/70b1a69c-3826-3a3d-9c08-75969947c316/16-9"/>
+    <episode-num system="xmltv_ns">2022.31.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316173000 +0530" stop="20240316200000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live EFL: Swansea City v Cardiff</title>
+    <desc lang="en">The Sky Bet Championship sees an all-Welsh clash, as Swansea welcome Cardiff to the Swansea.com Stadium. The visitors have won their last four matches. (16.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c5ebc7cf-3fca-345f-aa1f-f052a36ccc31/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316200000 +0530" stop="20240316223000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live The Players Championship R3</title>
+    <desc lang="en">Day three of the 2024 Players Championship, taking place at TPC Sawgrass in Ponte Vedra Beach, Florida. Last year, Scottie Scheffler scooped the PGA Tour's richest prize. (16.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/812c9320-bd1e-37a5-9237-bbbe1c278b59/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316223000 +0530" stop="20240317013000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live SNF: Fulham v Tottenham</title>
+    <desc lang="en">Spurs take an impressive Villa Park showing into this Premier League encounter with Fulham on Saturday Night Football at Craven Cottage. The hosts lost away to Wolves previously. (16.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/58e4557b-2ac7-3263-8d03-68c2b4f04a8e/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317013000 +0530" stop="20240317043000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live The Players Championship R3</title>
+    <desc lang="en">Day three of the 2024 Players Championship, taking place at TPC Sawgrass in Ponte Vedra Beach, Florida. Last year, Scottie Scheffler scooped the PGA Tour's richest prize. (16.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/812c9320-bd1e-37a5-9237-bbbe1c278b59/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240317043000 +0530" stop="20240317060000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live ATP Indian Wells SFs</title>
+    <desc lang="en">The men's singles semi-finals at Indian Wells, an ATP 1000 event. (16.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6e90ce29-a121-362d-ae3c-da3f38368b57/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317060000 +0530" stop="20240317063000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/285fb9ac-34db-3e70-8f07-2810452ce63c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240317063000 +0530" stop="20240317073000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/687e4b05-b02c-36de-bf43-a74e3783f393/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240317073000 +0530" stop="20240317083000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b11c8e91-abe7-32f9-9d5a-bef274c1d7f6/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240317083000 +0530" stop="20240317093000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/32e0ecfb-5b99-3984-a8b7-b6eb5139f01d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240317093000 +0530" stop="20240317103000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c3f1a5c5-f876-3a82-912f-f039f4a990df/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240317103000 +0530" stop="20240317113000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/741bf585-72a6-38c9-8f30-6b685639e11f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240317113000 +0530" stop="20240317123000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1ee0bbe1-e4e1-3648-b14d-24ae303bd8e4/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317123000 +0530" stop="20240317124500 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">My Icon: John Amaechi</title>
+    <desc lang="en">In the next episode of this special series, former NBA star John Amaechi talks about the individuals that have inspired him over the course of his career.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e2b38044-c82e-4e1d-abab-97dec4d51c00/16-9"/>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317124500 +0530" stop="20240317144500 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live NRL: Dolphins v Dragons</title>
+    <desc lang="en">The second round of the NRL continues with a clash between the Dolphins and Dragons. A Tyrell Sloan hat-trick led the Dragons to a statement win over the Titans during round one. (17.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3dde5624-fff5-3217-89ba-64076f793a41/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317144500 +0530" stop="20240317150000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">S/Lge Hlts</title>
+    <desc lang="en">In the Betfred Super League, Salford Red Devils face the champions Wigan Warriors. Salford had to come from behind in round four to secure a third successive win. (14.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a4acccd9-47ae-364a-ba20-fda5868dadb1/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317150000 +0530" stop="20240317153000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Good Morning Sports Fans</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bc845f51-aaa9-3149-88df-55d4b44e96bd/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240317153000 +0530" stop="20240317163000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Super Sunday Matchday</title>
+    <desc lang="en">All the latest headlines ahead of another busy Sunday of football, with a look at the potential team news and analysis of the big talking points.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/28ee135b-825f-332b-9d5f-67956b491896/16-9"/>
+    <episode-num system="xmltv_ns">2023.10.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240317163000 +0530" stop="20240317200000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live SPFL: Dundee v Rangers</title>
+    <desc lang="en">Looking to bounce back from their last league defeat to Motherwell, Rangers clash with Dundee in the Scottish Premiership. The hosts drew with a 10-man Kilmarnock previously. (17.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0b7949db-f4c8-3748-aef6-c238b8337a72/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317200000 +0530" stop="20240317230000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live EFL: Leeds Utd v Millwall</title>
+    <desc lang="en">Leeds United play host to Millwall at Elland Road in the Sky Bet Championship. (17.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a1cc6539-200e-3382-b1bb-a968c2719a72/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317230000 +0530" stop="20240318033000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live The Players Championship R4</title>
+    <desc lang="en">Day four of the Players Championship, taking place at TPC Sawgrass in Ponte Vedra Beach, Florida. Who will follow Scottie Scheffler to scoop the PGA Tour's richest prize in 2024? (17.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0585a2f2-d23a-3b0b-9bae-b1694f68912f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240318033000 +0530" stop="20240318050000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live Tennis: Indian Wells Finals</title>
+    <desc lang="en">The men's and women's singles finals at Indian Wells, a joint ATP and WTA 1000 event. (17.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c0b12ca6-0293-3064-b421-b29d0d39b8df/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240318050000 +0530" stop="20240318053000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f893a438-3c64-3874-9961-76a44cd683e9/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
   </programme>
 </tv>

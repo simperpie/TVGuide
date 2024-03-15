@@ -4,958 +4,6 @@
     <display-name lang="en">SkySp Mix</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb4090.png"/>
   </channel>
-  <programme start="20240313033000 +0530" stop="20240313043000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Ladies European Tour Golf Hlts</title>
-    <desc lang="en">Revisit tournament highlights from Feather Sound Country Club in Clearwater as the Floridian venue staged the Aramco Team Series Presented by PIF.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/062f9499-b323-3593-8d1e-8f197553255c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313043000 +0530" stop="20240313053000 +0530" channel="SkySpMix.uk">
-    <title lang="en">PGA Tour Golf Highlights</title>
-    <desc lang="en">Tournament highlights from the Puerto Rico Open, held at the Grand Reserve Golf Club. Nico Echavarria was the previous winner of this PGA Tour event.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/14346c6c-792b-3e96-bef8-cdb1dbf70fba/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313053000 +0530" stop="20240313083000 +0530" channel="SkySpMix.uk">
-    <title lang="en">The Best of The 2010 T20 Blast</title>
-    <desc lang="en">A look back at a classic clash from the T20 Blast. Here, the dramatic 2010 final between the Hampshire Royals and Somerset at the Rose Bowl.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c59be4d9-834b-4fda-abc5-48d70d379de9/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313083000 +0530" stop="20240313093000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Players Championship 2009 Film</title>
-    <desc lang="en">The official review of the 2009 Players Championship at the TPC at Sawgrass, Florida. Sergio Garcia went into the event as the defending champion, having won the 2008 tournament.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b4bb066a-e7f7-4979-82da-fc01d8e6963d/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313093000 +0530" stop="20240313103000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Players Championship 2010 Film</title>
-    <desc lang="en">Relive the 2010 Players Championship which took place at TPC Sawgrass in Florida. A stunning final round saw a surprise name claim his first-ever PGA Tour title.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/17117aed-ef17-4bdd-9469-d5ad3a8cfa81/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313103000 +0530" stop="20240313110000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Golf Academy: Langer Driver</title>
-    <desc lang="en">Professional golfers give advice on how to improve your game from the tee to the green. Here, former Masters winner Bernhard Langer on how to best use the driver.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/91bdfef1-eb8d-4356-b9b1-25e04df414fc/16-9"/>
-    <episode-num system="xmltv_ns">2019.42.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313110000 +0530" stop="20240313113000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Golf Academy: Langer Bunker</title>
-    <desc lang="en">Professional golfers give advice on how to improve your game from the tee to the green. Here, former Masters winner Bernhard Langer on quality bunker play.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5c3f5a81-da7f-40e5-bc58-6d7be060b377/16-9"/>
-    <episode-num system="xmltv_ns">2019.41.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313113000 +0530" stop="20240313114500 +0530" channel="SkySpMix.uk">
-    <title lang="en">PL Greatest: Man City/Man Utd '13</title>
-    <desc lang="en">A chance to relive a classic match from the Premier League. Here, a captivating Manchester derby back in 2013 at the Etihad Stadium that saw five goals and one side run rampant.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/da3a43a7-5ce0-4161-bf51-d2b9f007e237/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313114500 +0530" stop="20240313120000 +0530" channel="SkySpMix.uk">
-    <title lang="en">PL Greatest Games: Chelsea/Arsenal</title>
-    <desc lang="en">A chance to remember a classic match from the Premier League. Here, Arsene Wenger's Arsenal meet Chelsea in a five-goal thriller back in 1997.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/605c05ea-68c4-4e50-9fa1-d9c566e5d04e/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313120000 +0530" stop="20240313121500 +0530" channel="SkySpMix.uk">
-    <title lang="en">PL Greatest Games:West H/Spurs '07</title>
-    <desc lang="en">A chance to relive a classic match from the Premier League. Here, London rivals West Ham and Spurs meet at Upton Park back in 2007 in a seven-goal thriller that saw some late, late drama.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ebe22c30-35cd-4ebd-a9ed-95f5a81d6ce6/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313121500 +0530" stop="20240313123000 +0530" channel="SkySpMix.uk">
-    <title lang="en">PL Greatest Games:Man U/Chelsea'00</title>
-    <desc lang="en">A chance to relive a classic match from the Premier League. Here, Manchester United take on Chelsea back in September 2000 in a thrilling game that saw six goals.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/840fd32b-b009-415a-9875-4c2e4addd1d1/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313123000 +0530" stop="20240313133000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Players Championship 2013 Film</title>
-    <desc lang="en">The story of the 2013 Players Championship at TPC Sawgrass in Ponte Vedra Beach, Florida. America's Matt Kuchar came out on top in the 2012 tournament.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c67716d6-6cf8-4a01-8677-389a73fa95cb/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313133000 +0530" stop="20240313134500 +0530" channel="SkySpMix.uk">
-    <title lang="en">PL Greatest: Man City/Man Utd '13</title>
-    <desc lang="en">A chance to relive a classic match from the Premier League. Here, a captivating Manchester derby back in 2013 at the Etihad Stadium that saw five goals and one side run rampant.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/da3a43a7-5ce0-4161-bf51-d2b9f007e237/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313134500 +0530" stop="20240313140000 +0530" channel="SkySpMix.uk">
-    <title lang="en">PL Greatest Games: Chelsea/Arsenal</title>
-    <desc lang="en">A chance to remember a classic match from the Premier League. Here, Arsene Wenger's Arsenal meet Chelsea in a five-goal thriller back in 1997.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/605c05ea-68c4-4e50-9fa1-d9c566e5d04e/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313140000 +0530" stop="20240313141500 +0530" channel="SkySpMix.uk">
-    <title lang="en">The Best of T20 Blast Finals Day</title>
-    <desc lang="en">A look back at some of the best ever T20 Blast finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fbbb5272-4de2-4698-9c69-e7943bc76ddb/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313141500 +0530" stop="20240313151500 +0530" channel="SkySpMix.uk">
-    <title lang="en">Ladies European Tour Golf Hlts</title>
-    <desc lang="en">Revisit tournament highlights from Feather Sound Country Club in Clearwater as the Floridian venue staged the Aramco Team Series Presented by PIF.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/062f9499-b323-3593-8d1e-8f197553255c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313151500 +0530" stop="20240313161500 +0530" channel="SkySpMix.uk">
-    <title lang="en">Players Championship 2016 Film</title>
-    <desc lang="en">The official film of the 2016 Players Championship from the Stadium Course at TPC Sawgrass in Florida. American Rickie Fowler came into the tournament as defending champion from 2015.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6cbd1ff9-b586-465a-b0c3-39d1aa4ff2ef/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313161500 +0530" stop="20240313171500 +0530" channel="SkySpMix.uk">
-    <title lang="en">Players Championship 2017 Film</title>
-    <desc lang="en">The official film of the 2017 Players Championship from the Stadium Course at TPC Sawgrass in Florida. This tournament would see the youngest winner in its history.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c4c5c11b-496d-4fb3-bbe4-203845739de7/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313171500 +0530" stop="20240313181500 +0530" channel="SkySpMix.uk">
-    <title lang="en">The Best of 2007 T20 Blast</title>
-    <desc lang="en">A look back at a classic clash from the T20 Blast. Here, the dramatic 2007 final between the Kent Spitfires and the Gloucester Gladiators at Edgbaston.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9009a401-efd6-410f-b55f-05817152c62c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313181500 +0530" stop="20240313182500 +0530" channel="SkySpMix.uk">
-    <title lang="en">George Russell Explains...</title>
-    <desc lang="en">Mercedes driver George Russell gives a detailed look at his Formula 1 steering wheel.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/01c78fb3-3ec2-3c09-aaea-e5e1cb9767c7/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313182500 +0530" stop="20240313192000 +0530" channel="SkySpMix.uk">
-    <title lang="en">WPL: Mumbai I v RCB Hlts</title>
-    <desc lang="en">In the Women's Premier League, Mumbai Indians are back in action after consecutive wins as they face a Royal Challengers Bangalore side who are without victory in two. (12.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f6226a64-861b-383e-8ecf-49cbbb588d34/16-9"/>
-    <episode-num system="xmltv_ns">.8.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313192000 +0530" stop="20240313233000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Live WPL: Delhi C v Gujarat G</title>
-    <desc lang="en">In the Women's Premier League, Delhi Capitals go up against Gujarat Giants. The Capitals squeezed past RCB on Sunday, with Jemimah Rodrigues hitting a half century. (13.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c07b9e83-3304-39f1-b230-316e557c568b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313233000 +0530" stop="20240313234500 +0530" channel="SkySpMix.uk">
-    <title lang="en">ICC Women's WC: WI v AUS 2013</title>
-    <desc lang="en">At the 2013 ICC Women's Cricket World Cup in India, the West Indies went toe to toe with Australia in the final. A sixth World Cup title was up for grabs for the Aussies.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/eb0f8ea1-d9a6-393e-8d87-930b415dd7b5/16-9"/>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240313234500 +0530" stop="20240314000000 +0530" channel="SkySpMix.uk">
-    <title lang="en">ICC Women's WC: ENG v AUS 2017</title>
-    <desc lang="en">At the 2017 ICC Women's Cricket World Cup in England, the hosts would meet Australia in the fifth round of group stage matches.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/34f0051a-2000-3d61-be19-7966a848ea20/16-9"/>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314000000 +0530" stop="20240314001500 +0530" channel="SkySpMix.uk">
-    <title lang="en">ICC Women's WC: ENG v SA 2017</title>
-    <desc lang="en">At the 2017 ICC Women's Cricket World Cup in England, the hosts met South Africa in the semi-final.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/38a2968f-ca12-49fe-861d-6f322901eae6/16-9"/>
-    <episode-num system="xmltv_ns">.5.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314001500 +0530" stop="20240314003000 +0530" channel="SkySpMix.uk">
-    <title lang="en">ICC Women's WC: ENG v IND 2017</title>
-    <desc lang="en">Revisit the final of the 2017 ICC Women's Cricket World Cup, as England - hosts of the tournament - clashed with 2005 runners-up India at Lord's. England were targeting title number four.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f1fa745e-8da5-45f9-bc7c-ea41a866fc3e/16-9"/>
-    <episode-num system="xmltv_ns">.6.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314003000 +0530" stop="20240314013000 +0530" channel="SkySpMix.uk">
-    <title lang="en">S. Arabian F1 GP Highlights</title>
-    <desc lang="en">The lights go out at the 2024 Saudi Arabian Grand Prix, staged at the Jeddah Corniche Circuit. For the fifth race in a row, Max Verstappen and Charles Leclerc share the front row. (09.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/64728059-fece-3ae6-a58d-45b81fe93d81/16-9"/>
-    <episode-num system="xmltv_ns">.34.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314013000 +0530" stop="20240314023000 +0530" channel="SkySpMix.uk">
-    <title lang="en">WPL: Delhi C v Gujarat G Hlts</title>
-    <desc lang="en">In the Women's Premier League, Delhi Capitals go up against Gujarat Giants. The Capitals squeezed past RCB on Sunday, with Jemimah Rodrigues hitting a half century. (13.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3de40bbe-5c6a-3e97-be15-7c20d034691a/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314023000 +0530" stop="20240314063000 +0530" channel="SkySpMix.uk">
-    <title lang="en">The Best of The 2021 T20 Blast</title>
-    <desc lang="en">The curtain closes on the 2021 Vitality Blast season as the Final takes place at Edgbaston, held between Kent Spitfires and Somerset.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/aa0a2c0e-7767-44b0-a69a-31233121f236/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314063000 +0530" stop="20240314073000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Players Championship 2016 Film</title>
-    <desc lang="en">The official film of the 2016 Players Championship from the Stadium Course at TPC Sawgrass in Florida. American Rickie Fowler came into the tournament as defending champion from 2015.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6cbd1ff9-b586-465a-b0c3-39d1aa4ff2ef/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314073000 +0530" stop="20240314083000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Players Championship 2017 Film</title>
-    <desc lang="en">The official film of the 2017 Players Championship from the Stadium Course at TPC Sawgrass in Florida. This tournament would see the youngest winner in its history.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c4c5c11b-496d-4fb3-bbe4-203845739de7/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314083000 +0530" stop="20240314104500 +0530" channel="SkySpMix.uk">
-    <title lang="en">Saudi Arabia F1 Grand Prix</title>
-    <desc lang="en">The lights go out at the 2024 Saudi Arabian Grand Prix, staged at the Jeddah Corniche Circuit. For the fifth race in a row, Max Verstappen and Charles Leclerc share the front row. (09.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/46cfae8b-7f74-3cae-bdbc-0069874cdd3b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314104500 +0530" stop="20240314111500 +0530" channel="SkySpMix.uk">
-    <title lang="en">Golf Academy: Langer Short Game</title>
-    <desc lang="en">Professional golfers give advice on how to improve your game from the tee to the green. Here, two-time Masters champion Bernhard Langer on how to boost your short game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1914c0c2-7843-4f3d-817a-8a487b4ca51f/16-9"/>
-    <episode-num system="xmltv_ns">2019.43.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314111500 +0530" stop="20240314113000 +0530" channel="SkySpMix.uk">
-    <title lang="en">The Best of T20 Blast Finals Day</title>
-    <desc lang="en">A look back at some of the best ever T20 Blast finals.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fbbb5272-4de2-4698-9c69-e7943bc76ddb/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314113000 +0530" stop="20240314114500 +0530" channel="SkySpMix.uk">
-    <title lang="en">PL Greatest Games:Newc/Leics '97</title>
-    <desc lang="en">A chance to relive a classic Premier League match. Here, Newcastle United host Leicester City in a seven-goal thriller at St James' Park in the 1996-97 season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/28fc601b-6df9-4352-bb77-b9253d3d4d8b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314114500 +0530" stop="20240314130500 +0530" channel="SkySpMix.uk">
-    <title lang="en">S. Arabian F2: Sprint</title>
-    <desc lang="en">Reversing the top 10 drivers from qualifying, the F2 Sprint Race grid in Jeddah is set. Paul Aron will line up from pole position after finishing 10th on Thursday. (08.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2209d926-ef01-399e-9cb4-631ba35907eb/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314130500 +0530" stop="20240314143000 +0530" channel="SkySpMix.uk">
-    <title lang="en">S. Arabian F2: Feature Race</title>
-    <desc lang="en">Race weekend for the F2 drivers reaches its conclusion with the Feature Race in Saudi Arabia. Oliver Bearman's F1 departure promotes Invicta Racing's Kush Maini to P1. (09.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/00ec1e90-32a3-3c0a-89a8-b449461fc826/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314143000 +0530" stop="20240314163000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Saudi Arabia F1 Grand Prix</title>
-    <desc lang="en">The lights go out at the 2024 Saudi Arabian Grand Prix, staged at the Jeddah Corniche Circuit. For the fifth race in a row, Max Verstappen and Charles Leclerc share the front row. (09.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/46cfae8b-7f74-3cae-bdbc-0069874cdd3b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314163000 +0530" stop="20240314173000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Sky Sports F1 Podcast</title>
-    <desc lang="en">Stay across all the biggest stories in Formula 1 as Matt Baker is joined each week by Sky F1 pundits, reporters and guests from inside the paddock.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/01ef4d46-fc26-3946-a085-afabcce4dce4/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314173000 +0530" stop="20240314183000 +0530" channel="SkySpMix.uk">
-    <title lang="en">WPL: Delhi C v Gujarat G Hlts</title>
-    <desc lang="en">In the Women's Premier League, Delhi Capitals go up against Gujarat Giants. The Capitals squeezed past RCB on Sunday, with Jemimah Rodrigues hitting a half century. (13.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3de40bbe-5c6a-3e97-be15-7c20d034691a/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314183000 +0530" stop="20240314184500 +0530" channel="SkySpMix.uk">
-    <title lang="en">PL Greatest: Swansea/C Palace '16</title>
-    <desc lang="en">A chance to relive a classic Premier League match. Here, Swansea City take on Crystal Palace at the Liberty Stadium in a high-scoring encounter in the 2016-17 season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3b685b11-97c0-4f1d-b012-0efa756845bd/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314184500 +0530" stop="20240314190000 +0530" channel="SkySpMix.uk">
-    <title lang="en">PL Greatest Games:Charlton/WHU '01</title>
-    <desc lang="en">Relive one of the Premier League's great games. Here, Charlton Athletic take on West Ham United at The Valley in November 2001 in a pulsating encounter that went down to the wire.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/85805f54-699a-49c4-ab28-6458037f9065/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314190000 +0530" stop="20240314200000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Indycar Highlights</title>
-    <desc lang="en">The Grand Prix of St Petersburg marks the start of 2024's IndyCar Series, as 100 laps of the Floridian circuit await. Marcus Ericsson is this year's defending winner of the race. (10.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c16da842-e717-3241-bbd4-ae993279bbf8/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314200000 +0530" stop="20240314210000 +0530" channel="SkySpMix.uk">
-    <title lang="en">ICC World Cup 2017 SF:Aus v Ind HL</title>
-    <desc lang="en">India take on Australia in the second semi-final from the 2017 ICC Women's World Cup at The County Cricket Ground, Derby. Australia are the reigning champions of this competition.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5e2ff350-f52d-4876-8558-905991f60057/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314210000 +0530" stop="20240314220000 +0530" channel="SkySpMix.uk">
-    <title lang="en">ICC World Cup 2017 Final Hlts</title>
-    <desc lang="en">It's all come down to this: the 2017 ICC Women's World Cup reaches a dramatic conclusion as England meet India in the final at Lord's.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/de5b0794-eab8-3386-aaa0-879e4c03216f/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314220000 +0530" stop="20240314221500 +0530" channel="SkySpMix.uk">
-    <title lang="en">PL Greatest: Swansea/C Palace '16</title>
-    <desc lang="en">A chance to relive a classic Premier League match. Here, Swansea City take on Crystal Palace at the Liberty Stadium in a high-scoring encounter in the 2016-17 season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3b685b11-97c0-4f1d-b012-0efa756845bd/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314221500 +0530" stop="20240314223000 +0530" channel="SkySpMix.uk">
-    <title lang="en">PL Greatest Games:Charlton/WHU '01</title>
-    <desc lang="en">Relive one of the Premier League's great games. Here, Charlton Athletic take on West Ham United at The Valley in November 2001 in a pulsating encounter that went down to the wire.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/85805f54-699a-49c4-ab28-6458037f9065/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314223000 +0530" stop="20240314224500 +0530" channel="SkySpMix.uk">
-    <title lang="en">PL Greatest Games:Newc/Leics '97</title>
-    <desc lang="en">A chance to relive a classic Premier League match. Here, Newcastle United host Leicester City in a seven-goal thriller at St James' Park in the 1996-97 season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/28fc601b-6df9-4352-bb77-b9253d3d4d8b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240314224500 +0530" stop="20240314234500 +0530" channel="SkySpMix.uk">
-    <title lang="en">Sky Sports F1 Podcast</title>
-    <desc lang="en">Stay across all the biggest stories in Formula 1 as Matt Baker is joined each week by Sky F1 pundits, reporters and guests from inside the paddock.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/01ef4d46-fc26-3946-a085-afabcce4dce4/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240314234500 +0530" stop="20240315000000 +0530" channel="SkySpMix.uk">
-    <title lang="en">PL Greatest Games:Charlton/WHU '01</title>
-    <desc lang="en">Relive one of the Premier League's great games. Here, Charlton Athletic take on West Ham United at The Valley in November 2001 in a pulsating encounter that went down to the wire.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/85805f54-699a-49c4-ab28-6458037f9065/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315000000 +0530" stop="20240315003000 +0530" channel="SkySpMix.uk">
-    <title lang="en">UNBEATABLE</title>
-    <desc lang="en">This weekly magazine show covers all the action of the British Basketball League including highlights of each week's games, original features, interviews, top plays and bloopers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/20e3ef22-d6dd-3372-973f-84a3ff9df850/16-9"/>
-    <episode-num system="xmltv_ns">2022.25.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240315003000 +0530" stop="20240315023000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Live NCAA</title>
-    <desc lang="en">An NCAA men's college basketball quarter-final match-up from the Big 12 Conference postseason tournament. (14.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8b7a2861-6c59-3112-9efa-8b57e5dcbcb2/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240315023000 +0530" stop="20240315024500 +0530" channel="SkySpMix.uk">
-    <title lang="en">PL Greatest Games:Charlton/WHU '01</title>
-    <desc lang="en">Relive one of the Premier League's great games. Here, Charlton Athletic take on West Ham United at The Valley in November 2001 in a pulsating encounter that went down to the wire.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/85805f54-699a-49c4-ab28-6458037f9065/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315024500 +0530" stop="20240315031500 +0530" channel="SkySpMix.uk">
-    <title lang="en">UNBEATABLE</title>
-    <desc lang="en">This weekly magazine show covers all the action of the British Basketball League including highlights of each week's games, original features, interviews, top plays and bloopers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/20e3ef22-d6dd-3372-973f-84a3ff9df850/16-9"/>
-    <episode-num system="xmltv_ns">2022.25.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240315031500 +0530" stop="20240315041500 +0530" channel="SkySpMix.uk">
-    <title lang="en">ICC World Cup 2017 Final Hlts</title>
-    <desc lang="en">It's all come down to this: the 2017 ICC Women's World Cup reaches a dramatic conclusion as England meet India in the final at Lord's.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/de5b0794-eab8-3386-aaa0-879e4c03216f/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20240315041500 +0530" stop="20240315043000 +0530" channel="SkySpMix.uk">
     <title lang="en">PL Greatest: Swansea/C Palace '16</title>
     <desc lang="en">A chance to relive a classic Premier League match. Here, Swansea City take on Crystal Palace at the Liberty Stadium in a high-scoring encounter in the 2016-17 season.</desc>
@@ -976,7 +24,7 @@
   </programme>
   <programme start="20240315043000 +0530" stop="20240315063000 +0530" channel="SkySpMix.uk">
     <title lang="en">Live NCAA</title>
-    <desc lang="en">An NCAA men's college basketball quarter-final match-up from the Atlantic Coast Conference postseason tournament. (14.03)</desc>
+    <desc lang="en">In the NCAA men's college basketball quarter-finals from the Atlantic Coast Conference, NC State Wolfpack - hot off their victory over Syracuse - meet Duke Blue Devils. (14.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://images.metadata.sky.com/pd-image/8b7a2861-6c59-3112-9efa-8b57e5dcbcb2/16-9"/>
@@ -1064,31 +112,37 @@
     </audio>
   </programme>
   <programme start="20240315163000 +0530" stop="20240315164500 +0530" channel="SkySpMix.uk">
-    <title lang="en">S/Lge: Leeds V St Helens Hlts</title>
-    <desc lang="en">Leeds Rhinos and St Helens meet in the Betfred Super League. Ash Handley was on hand again for the Rhinos previously, scoring the winner in a fiercely contested battle with Leigh. (15.03)</desc>
+    <title lang="en">My Icon: Henni Goya</title>
+    <desc lang="en">In the next episode of this special series, former professional golfer and broadcaster Henni Goya discusses the individuals that have inspired her during her life and career.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/72537e19-4878-340c-b64a-d44379ef7421/16-9"/>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2e5ce6ad-753d-43c9-b2dd-f20c2c779d69/16-9"/>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240315164500 +0530" stop="20240315170000 +0530" channel="SkySpMix.uk">
-    <title lang="en">S/Lge: Salford V Wigan Hlts</title>
+    <title lang="en">S/Lge: Leeds V St Helens Hlts</title>
     <desc lang="en">In the Betfred Super League, Salford Red Devils face the champions Wigan Warriors. Salford had to come from behind in round four to secure a third successive win. (14.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ad70aa8d-8793-37bd-a974-37862be74336/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/d4a29b66-5d88-3bfa-a115-31d2ab0e1096/16-9"/>
+    <episode-num system="xmltv_ns">2023.66.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
   </programme>
   <programme start="20240315170000 +0530" stop="20240315171500 +0530" channel="SkySpMix.uk">
@@ -1096,14 +150,19 @@
     <desc lang="en">At the 2013 ICC Women's Cricket World Cup in India, the West Indies went toe to toe with Australia in the final. A sixth World Cup title was up for grabs for the Aussies.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3973f85f-d3a7-3c7c-8aae-3652a7169d86/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/eb0f8ea1-d9a6-393e-8d87-930b415dd7b5/16-9"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240315171500 +0530" stop="20240315173000 +0530" channel="SkySpMix.uk">
     <title lang="en">ICC Women's WC: ENG v AUS 2017</title>
@@ -1126,7 +185,7 @@
   </programme>
   <programme start="20240315173000 +0530" stop="20240315183000 +0530" channel="SkySpMix.uk">
     <title lang="en">PSL Qualifier 1 Highlights</title>
-    <desc lang="en">A Qualifier match from the 2024 Pakistan Super League, with the winner advancing to the final and the loser going to the second Eliminator. (14.03)</desc>
+    <desc lang="en">Looking to go one better, last year's finalists Multan Sultans face Peshawar Zalmi in a PSL Qualifier match. The winner advances to the final, while the loser goes to an Eliminator. (14.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/e008ce6e-2ea9-3c41-ae59-992ed9fd39c0/16-9"/>
@@ -1140,18 +199,19 @@
   </programme>
   <programme start="20240315183000 +0530" stop="20240315193000 +0530" channel="SkySpMix.uk">
     <title lang="en">Sky Sports F1 Podcast</title>
-    <desc lang="en">Stay across all the biggest stories in Formula 1 as Matt Baker is joined each week by Sky F1 pundits, reporters and guests from inside the paddock.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
+    <desc lang="en">...Collins. The latest addition to the Sky Sports F1 team, Bernie Collins, joins Matt Baker as the former Head of Race Strategy at Aston Martin F1 outlines what strategists really do.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/01ef4d46-fc26-3946-a085-afabcce4dce4/16-9"/>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240315193000 +0530" stop="20240315200000 +0530" channel="SkySpMix.uk">
     <title lang="en">UNBEATABLE</title>
@@ -1165,8 +225,11 @@
       <quality>HDTV</quality>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240315200000 +0530" stop="20240315201000 +0530" channel="SkySpMix.uk">
     <title lang="en">Lewis's Helmet Designs</title>
@@ -1186,7 +249,7 @@
   </programme>
   <programme start="20240315201000 +0530" stop="20240315211000 +0530" channel="SkySpMix.uk">
     <title lang="en">PSL Qualifier 1 Highlights</title>
-    <desc lang="en">A Qualifier match from the 2024 Pakistan Super League, with the winner advancing to the final and the loser going to the second Eliminator. (14.03)</desc>
+    <desc lang="en">Looking to go one better, last year's finalists Multan Sultans face Peshawar Zalmi in a PSL Qualifier match. The winner advances to the final, while the loser goes to an Eliminator. (14.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/e008ce6e-2ea9-3c41-ae59-992ed9fd39c0/16-9"/>
@@ -1200,7 +263,7 @@
   </programme>
   <programme start="20240315211000 +0530" stop="20240316013000 +0530" channel="SkySpMix.uk">
     <title lang="en">Live PSL Eliminator</title>
-    <desc lang="en">The opening Eliminator from the 2024 Pakistan Super League. (15.03)</desc>
+    <desc lang="en">In a do or die Pakistan Super League Eliminator, only one team can advance as Islamabad United and Quetta Gladiators face off. The loser of the Qualifier awaits the winner here. (15.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/8bf97fd9-e306-3b58-9d6a-d9f0df7a8fb5/16-9"/>
@@ -1214,12 +277,12 @@
     <subtitles type="teletext"/>
   </programme>
   <programme start="20240316013000 +0530" stop="20240316014500 +0530" channel="SkySpMix.uk">
-    <title lang="en">S/Lge: Leeds v St Helens Hlts</title>
-    <desc lang="en">Leeds Rhinos and St Helens meet in the Betfred Super League. Ash Handley was on hand again for the Rhinos previously, scoring the winner in a fiercely contested battle with Leigh. (15.03)</desc>
+    <title lang="en">My Icon: Henni Goya</title>
+    <desc lang="en">In the next episode of this special series, former professional golfer and broadcaster Henni Goya discusses the individuals that have inspired her during her life and career.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/99200853-8e3f-3673-b332-da8c15436bd3/16-9"/>
-    <episode-num system="xmltv_ns">2023.67.</episode-num>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2e5ce6ad-753d-43c9-b2dd-f20c2c779d69/16-9"/>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
@@ -1227,9 +290,13 @@
     <audio>
       <stereo>Stereo</stereo>
     </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240316014500 +0530" stop="20240316020000 +0530" channel="SkySpMix.uk">
-    <title lang="en">S/Lge: Salford V Wigan Hlts</title>
+    <title lang="en">S/Lge: Leeds V St Helens Hlts</title>
     <desc lang="en">In the Betfred Super League, Salford Red Devils face the champions Wigan Warriors. Salford had to come from behind in round four to secure a third successive win. (14.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
@@ -1324,7 +391,856 @@
     <desc lang="en">The Grand Prix of St Petersburg marks the start of 2024's IndyCar Series. Josef Newgarden claimed pole, with last year's winner Marcus Ericsson starting in sixth. (10.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3683c9f3-ee46-3a8b-ba8c-044086ed0c2e/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/cd92549f-9dea-371c-8923-3e9fa6b82256/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316053000 +0530" stop="20240316063000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Sky Sports F1 Podcast</title>
+    <desc lang="en">...Collins. The latest addition to the Sky Sports F1 team, Bernie Collins, joins Matt Baker as the former Head of Race Strategy at Aston Martin F1 outlines what strategists really do.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/01ef4d46-fc26-3946-a085-afabcce4dce4/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316063000 +0530" stop="20240316073000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Players Championship Film 2022</title>
+    <desc lang="en">Rewind to the 2022 edition of the Players Championship, an unforgettable year for Australia's Cameron Smith as he came to the fore to claim a fifth PGA Tour title at TPC Sawgrass.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/12b83474-8275-4c6c-a8d1-7baab672a6b7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316073000 +0530" stop="20240316080000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Golf Academy: McGinley Short Game</title>
+    <desc lang="en">Professional golfers give advice on how to improve your game across all aspects, from the tee to the green. Here, Paul McGinley on improving your short game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6da91617-4893-4f34-8bd1-5e5132b3e992/16-9"/>
+    <episode-num system="xmltv_ns">2019.48.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316080000 +0530" stop="20240316081500 +0530" channel="SkySpMix.uk">
+    <title lang="en">S/Lge: Leeds v St Helens Hlts</title>
+    <desc lang="en">Leeds Rhinos and St Helens meet in the Betfred Super League. Ash Handley was on hand again for the Rhinos previously, scoring the winner in a fiercely contested battle with Leigh. (15.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/99200853-8e3f-3673-b332-da8c15436bd3/16-9"/>
+    <episode-num system="xmltv_ns">2023.67.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316081500 +0530" stop="20240316083000 +0530" channel="SkySpMix.uk">
+    <title lang="en">S/Lge: Leeds V St Helens Hlts</title>
+    <desc lang="en">In the Betfred Super League, Salford Red Devils face the champions Wigan Warriors. Salford had to come from behind in round four to secure a third successive win. (14.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d4a29b66-5d88-3bfa-a115-31d2ab0e1096/16-9"/>
+    <episode-num system="xmltv_ns">2023.66.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316083000 +0530" stop="20240316084500 +0530" channel="SkySpMix.uk">
+    <title lang="en">PL Greatest:Bradford/Liverpool '00</title>
+    <desc lang="en">A chance to relive a classic Premier League match. Here, Bradford City take on Liverpool at Valley Parade back in 2000 in one of the Bantams' great Premier League matches.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0a7cc234-3b29-471a-9f43-e93d36bcaf5f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316084500 +0530" stop="20240316090000 +0530" channel="SkySpMix.uk">
+    <title lang="en">PL Greatest: Leeds/Liverpool 2000</title>
+    <desc lang="en">A chance to relive a Premier League classic. Here, Leeds take on Liverpool at Elland Road in a captivating seven-goal thriller back in 2000 that saw Mark Viduka score four times.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ce2d10ff-b333-4c2d-846d-850093cbe124/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316090000 +0530" stop="20240316100000 +0530" channel="SkySpMix.uk">
+    <title lang="en">The Players Championship 2001</title>
+    <desc lang="en">The best of the action from the 2001 PLAYERS Championship at TPC Sawgrass. Tiger Woods was looking for a first-ever win at this prestigious event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2825013d-ab4b-409f-be7d-2c8243a8022b/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316100000 +0530" stop="20240316103000 +0530" channel="SkySpMix.uk">
+    <title lang="en">The Players Championship Hlts</title>
+    <desc lang="en">Day two of the 2024 Players Championship, taking place at TPC Sawgrass in Ponte Vedra Beach, Florida. Last year, Scottie Scheffler scooped the PGA Tour's richest prize. (10.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f95bd366-5391-39c8-828e-8b2087d95c07/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316103000 +0530" stop="20240316113000 +0530" channel="SkySpMix.uk">
+    <title lang="en">The Best of The 2018 T20 Blast</title>
+    <desc lang="en">A look back at a classic clash from the T20 Blast. Here, the dramatic 2018 final between the Worcestershire Rapids and the Sussex Sharks at Edgbaston.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5b434f52-47b8-4143-a08c-a0ff798042c9/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316113000 +0530" stop="20240316120000 +0530" channel="SkySpMix.uk">
+    <title lang="en">The Players Championship Hlts</title>
+    <desc lang="en">Day two of the 2024 Players Championship, taking place at TPC Sawgrass in Ponte Vedra Beach, Florida. Last year, Scottie Scheffler scooped the PGA Tour's richest prize. (10.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f95bd366-5391-39c8-828e-8b2087d95c07/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316120000 +0530" stop="20240316130000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Players Championship 2013 Film</title>
+    <desc lang="en">The story of the 2013 Players Championship at TPC Sawgrass in Ponte Vedra Beach, Florida. America's Matt Kuchar came out on top in the 2012 tournament.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c67716d6-6cf8-4a01-8677-389a73fa95cb/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316130000 +0530" stop="20240316133000 +0530" channel="SkySpMix.uk">
+    <title lang="en">The Players Championship Hlts</title>
+    <desc lang="en">Day two of the 2024 Players Championship, taking place at TPC Sawgrass in Ponte Vedra Beach, Florida. Last year, Scottie Scheffler scooped the PGA Tour's richest prize. (10.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f95bd366-5391-39c8-828e-8b2087d95c07/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316133000 +0530" stop="20240316150000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Rory McIlroy: Players Watchalong</title>
+    <desc lang="en">Rory McIlroy joins Sky Sports Golf to watch back over his win at the 2019 PLAYERS Championship, offering his insight and commentary on the key moments from the memorable victory.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/409d2b51-73ea-41e5-add9-c3244de27dd7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316150000 +0530" stop="20240316153000 +0530" channel="SkySpMix.uk">
+    <title lang="en">The Players Championship Hlts</title>
+    <desc lang="en">Day two of the 2024 Players Championship, taking place at TPC Sawgrass in Ponte Vedra Beach, Florida. Last year, Scottie Scheffler scooped the PGA Tour's richest prize. (10.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f95bd366-5391-39c8-828e-8b2087d95c07/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316153000 +0530" stop="20240316163000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Players Championship Film 2022</title>
+    <desc lang="en">Rewind to the 2022 edition of the Players Championship, an unforgettable year for Australia's Cameron Smith as he came to the fore to claim a fifth PGA Tour title at TPC Sawgrass.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/12b83474-8275-4c6c-a8d1-7baab672a6b7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316163000 +0530" stop="20240316183000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Bahrain F1 GP: Qualifying</title>
+    <desc lang="en">Qualifying commences ahead of Saturday's season-opening Bahrain Grand Prix, scheduled for a 3pm race start. As the sun set in Sakhir, two Spaniards topped the FP3 timesheets. (01.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9a298f99-00d4-3ff1-a739-c18124920eaa/16-9"/>
+    <episode-num system="xmltv_ns">.20.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240316183000 +0530" stop="20240317011500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Alastair Cook's Fairytale Finale</title>
+    <desc lang="en">Relive one of the finest moments in the career of Alastair Cook. After scoring a debut hundred in 2006, the former England captain signed off in style with a ton in his final match.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/576a2943-7456-494f-8d69-151707155b6d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317011500 +0530" stop="20240317013000 +0530" channel="SkySpMix.uk">
+    <title lang="en">My Icon: Linford Christie</title>
+    <desc lang="en">Former sprint superstar and Olympic gold medalist Linford Christie discusses the individuals that have inspired him in his life and career.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/55a0d712-3dae-40fd-a95a-3863b0174caf/16-9"/>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317013000 +0530" stop="20240317023000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Hagler v Mugabi 1986</title>
+    <desc lang="en">Relive a classic fight as the great Marvelous Marvin Hagler defended his middleweight crown against John Mugabi - a dangerous challenger who had won all of his fights by knockout.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/35794a33-3bf5-4e4b-b3f9-b121888b98f0/16-9"/>
+    <episode-num system="xmltv_ns">2021.8.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317023000 +0530" stop="20240317033000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night</title>
+    <desc lang="en">Joshua Buatsi and Dan Azeez's paths collide at the OVO Arena, Wembley, as the unbeaten light-heavyweight pair clash in this all-British WBA World Title Final Eliminator. (03.02)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/57165baa-38a7-3b6c-9675-ae03d21ef1f2/16-9"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317033000 +0530" stop="20240317040000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Hagler v Hearns 1985</title>
+    <desc lang="en">Re-watch the historic world middleweight championship boxing match between undisputed champion Marvelous Marvin Hagler and challenger Thomas Hearns.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a10c4246-467f-4357-b16b-7407d79e8124/16-9"/>
+    <episode-num system="xmltv_ns">2020.18.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317040000 +0530" stop="20240317051500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Bahrain F3: Feature Race</title>
+    <desc lang="en">Round one of the 2024 FIA F3 Championship sees the drivers take to the track for the first Feature Race of the season in Sakhir. PREMA Racing's Dino Beganovic will start from P1. (01.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e2fb1b0e-5719-3096-9389-c4d0edf146f5/16-9"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317051500 +0530" stop="20240317053000 +0530" channel="SkySpMix.uk">
+    <title lang="en">PL Greatest: Swansea/C Palace '16</title>
+    <desc lang="en">A chance to relive a classic Premier League match. Here, Swansea City take on Crystal Palace at the Liberty Stadium in a high-scoring encounter in the 2016-17 season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3b685b11-97c0-4f1d-b012-0efa756845bd/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317053000 +0530" stop="20240317060000 +0530" channel="SkySpMix.uk">
+    <title lang="en">UNBEATABLE</title>
+    <desc lang="en">This weekly magazine show covers all the action of the British Basketball League including highlights of each week's games, original features, interviews, top plays and bloopers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/20e3ef22-d6dd-3372-973f-84a3ff9df850/16-9"/>
+    <episode-num system="xmltv_ns">2022.25.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317060000 +0530" stop="20240317080000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Live NCAA</title>
+    <desc lang="en">NCAA men's college basketball action from the Atlantic Coast Conference championship game. (17.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/22d4c3a4-ae96-3d60-9067-c290c8e364a2/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240317080000 +0530" stop="20240317083000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Beaton v Taylor QF 2010</title>
+    <desc lang="en">In the quarter-final of the 2010 Grand Slam of Darts, Steve Beaton staged an incredible comeback, overcoming Phil Taylor. Contains flashing images.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b19505a5-d281-3a92-83ba-760418e66ddb/16-9"/>
+    <episode-num system="xmltv_ns">2022.7.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317083000 +0530" stop="20240317090000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Hagler v Hearns 1985</title>
+    <desc lang="en">Re-watch the historic world middleweight championship boxing match between undisputed champion Marvelous Marvin Hagler and challenger Thomas Hearns.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a10c4246-467f-4357-b16b-7407d79e8124/16-9"/>
+    <episode-num system="xmltv_ns">2020.18.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317090000 +0530" stop="20240317100000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Hagler v Mugabi 1986</title>
+    <desc lang="en">Relive a classic fight as the great Marvelous Marvin Hagler defended his middleweight crown against John Mugabi - a dangerous challenger who had won all of his fights by knockout.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/35794a33-3bf5-4e4b-b3f9-b121888b98f0/16-9"/>
+    <episode-num system="xmltv_ns">2021.8.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317100000 +0530" stop="20240317110000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night</title>
+    <desc lang="en">Joshua Buatsi and Dan Azeez's paths collide at the OVO Arena, Wembley, as the unbeaten light-heavyweight pair clash in this all-British WBA World Title Final Eliminator. (03.02)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/57165baa-38a7-3b6c-9675-ae03d21ef1f2/16-9"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317110000 +0530" stop="20240317113000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Hagler v Hearns 1985</title>
+    <desc lang="en">Re-watch the historic world middleweight championship boxing match between undisputed champion Marvelous Marvin Hagler and challenger Thomas Hearns.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a10c4246-467f-4357-b16b-7407d79e8124/16-9"/>
+    <episode-num system="xmltv_ns">2020.18.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317113000 +0530" stop="20240317123000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">The second divisional matchup in the NFL playoffs pits the San Francisco 49ers against the Green Bay Packers in the NFC. A place in the conference championships are at stake here. (20.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4be7d349-dab3-3c2e-905e-60588d5368b5/16-9"/>
+    <episode-num system="xmltv_ns">2023.47.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317123000 +0530" stop="20240317133000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Fresh from sending the Bills home in the divisional round, Patrick Mahomes and the Kansas City Chiefs return to the AFC championship game as they face the Ravens in Baltimore. (28.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0032abde-0687-3c21-88b9-5d8df409ad42/16-9"/>
+    <episode-num system="xmltv_ns">2023.59.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317133000 +0530" stop="20240317134500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights of Super Bowl LVIII, coming from Las Vegas, as the San Francisco 49ers and the Kansas City Chiefs set up a repeat of the same game four years ago. (11.02)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/47b84804-e50c-39f0-8a31-f76335a091c2/16-9"/>
+    <episode-num system="xmltv_ns">2023.76.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317134500 +0530" stop="20240317154500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Players Championship 1987 Film</title>
+    <desc lang="en">A special look back at the final round of the 1987 Players Championship at TPC Sawgrass, which ended in dramatic fashion in a sudden-death playoff.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/844aa575-03be-4053-b788-44580f66f5ba/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317154500 +0530" stop="20240317161500 +0530" channel="SkySpMix.uk">
+    <title lang="en">The Players Championship Hlts</title>
+    <desc lang="en">Day three of the 2024 Players Championship, taking place at TPC Sawgrass in Ponte Vedra Beach, Florida. Last year, Scottie Scheffler scooped the PGA Tour's richest prize. (16.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d6d6a50b-6512-3092-bccc-b0490b4b6233/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240317161500 +0530" stop="20240317174500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Rory McIlroy: Players Watchalong</title>
+    <desc lang="en">Rory McIlroy joins Sky Sports Golf to watch back over his win at the 2019 PLAYERS Championship, offering his insight and commentary on the key moments from the memorable victory.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/409d2b51-73ea-41e5-add9-c3244de27dd7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317174500 +0530" stop="20240317181500 +0530" channel="SkySpMix.uk">
+    <title lang="en">The Players Championship Hlts</title>
+    <desc lang="en">Day three of the 2024 Players Championship, taking place at TPC Sawgrass in Ponte Vedra Beach, Florida. Last year, Scottie Scheffler scooped the PGA Tour's richest prize. (16.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d6d6a50b-6512-3092-bccc-b0490b4b6233/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240317181500 +0530" stop="20240317182500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Vettel and the F1 Juniors</title>
+    <desc lang="en">Scarlet and Zac get to speak to four-time Formula 1 world champion Sebastian Vettel, as he prepares to drive the 1993 McLaren MP4-8.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a8d35f62-9dee-3356-b5b8-e1de5f5f068d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240317182500 +0530" stop="20240317192000 +0530" channel="SkySpMix.uk">
+    <title lang="en">WPL Eliminator Highlights</title>
+    <desc lang="en">In the Women's Premier League, second meets third in the sudden-death Eliminator. The winner here will advance to the final where the table toppers wait. (15.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/202150cb-82b7-3b96-925b-94c4629b97e6/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240317192000 +0530" stop="20240318000000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Live WPL Final</title>
+    <desc lang="en">The 2024 Women's Premier League champions are crowned in Delhi, as this year's final begins. Previously, Mumbai Indians clinched victory with a seven-wicket win over the Capitals. (17.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/171b4f76-3b03-3574-ac6a-8a98bdb24558/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240318000000 +0530" stop="20240318012000 +0530" channel="SkySpMix.uk">
+    <title lang="en">S. Arabian F2: Sprint</title>
+    <desc lang="en">Reversing the top 10 drivers from qualifying, the F2 Sprint Race grid in Jeddah is set. Paul Aron will line up from pole position after finishing 10th on Thursday. (08.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2209d926-ef01-399e-9cb4-631ba35907eb/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318012000 +0530" stop="20240318013000 +0530" channel="SkySpMix.uk">
+    <title lang="en">My Icon: Anthony Joshua</title>
+    <desc lang="en">In the first episode of this season, world heavyweight boxing champion Anthony Joshua discusses the individuals that have inspired him during his life and career.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5a0ffd4e-0773-4038-a538-8a8d0b9b395c/16-9"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318013000 +0530" stop="20240318030000 +0530" channel="SkySpMix.uk">
+    <title lang="en">S. Arabian F2: Feature Race</title>
+    <desc lang="en">Race weekend for the F2 drivers reaches its conclusion with the Feature Race in Saudi Arabia. Oliver Bearman's F1 departure promotes Invicta Racing's Kush Maini to P1. (09.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/00ec1e90-32a3-3c0a-89a8-b449461fc826/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318030000 +0530" stop="20240318031500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights as Patrick Mahomes and the Kansas City Chiefs return to the AFC championship game as they face the Ravens in Baltimore. (28.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e6fd8f26-dc48-3a9d-86d6-8781a914f566/16-9"/>
+    <episode-num system="xmltv_ns">2023.61.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318031500 +0530" stop="20240318033000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from the opening divisional round matchup during the NFL playoffs, as the Baltimore Ravens host the Houston Texans in the AFC. (20.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f087ecbc-2903-3ba9-ac86-78c364b1314c/16-9"/>
+    <episode-num system="xmltv_ns">2023.48.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318033000 +0530" stop="20240318034500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from the second divisional matchup in the NFL playoffs, as the San Francisco 49ers face the Green Bay Packers in the NFC. (20.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d43dabd8-7a1f-3944-972d-3bcc03ed5dbf/16-9"/>
+    <episode-num system="xmltv_ns">2023.49.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318034500 +0530" stop="20240318042500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Ashes Memories: Atherton</title>
+    <desc lang="en">Former England captain Michael Atherton shares his memories of playing in The Ashes, and why the historic rivalry marked the greatest games he'd ever played in.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/71dee092-5d17-462c-8b45-810ff4764fd7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240318042500 +0530" stop="20240318053000 +0530" channel="SkySpMix.uk">
+    <title lang="en">The Ashes: The Greatest Hour</title>
+    <desc lang="en">The thrilling final hour of the third Ashes Test between England and Australia at Headingley. At 286-9 and needing 73 to win, Ben Stokes and Jack Leach put on a partnership for the ages.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/69f62125-ecf8-4505-8af6-5dc26e4a369d/16-9"/>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>

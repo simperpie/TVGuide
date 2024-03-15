@@ -4,423 +4,13 @@
     <display-name lang="en">TNT Sports 3</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb5032.png"/>
   </channel>
-  <programme start="20240313023000 +0530" stop="20240313050000 +0530" channel="TNTSports3.uk">
-    <title lang="en">WWE Monday Night Raw</title>
-    <desc lang="en">Six superstars compete in a Gauntlet match to see who will face Gunther for the Intercontinental Championship at WrestleMania 40. And, Becky Lynch takes on Liv Morgan.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ee35f44f-3aea-3c4a-89b9-b24299911ba8/16-9"/>
-    <episode-num system="xmltv_ns">31.10.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240313050000 +0530" stop="20240313053000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Premier League Netbusters</title>
-    <desc lang="en">A unique and fast-paced look at all the best action from the Premier League, including Liverpool v Man City, Chelsea v Newcastle and Aston Villa v Tottenham.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8aac72a1-f677-38ca-8d82-d81be32b3af2/16-9"/>
-    <episode-num system="xmltv_ns">22.27.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313053000 +0530" stop="20240313060000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Isuzu A-League Highlights</title>
-    <desc lang="en">Highlights from the 20th round of Isuzu A-League fixtures</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a0592aa3-77d8-3dbf-943e-0e2ba53faaa3/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313060000 +0530" stop="20240313063000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Liberty A-League Women Highlights</title>
-    <desc lang="en">Highlights from the 19th round of Liberty A-League Women fixtures.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cf4cc3a9-8b2b-3f2c-8878-9c05ef923e04/16-9"/>
-    <episode-num system="xmltv_ns">2022.18.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313063000 +0530" stop="20240313073000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Arsenal v Porto</title>
-    <desc lang="en">UEFA Champions League Round of 16 action as Arsenal take on Porto at Emirates Stadium. Porto hold a one-goal lead after Galeno's stunning late strike in the first leg.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/921169c3-7738-336d-8eaa-fa7dc1e89eb4/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240313073000 +0530" stop="20240313083000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Barcelona v Napoli</title>
-    <desc lang="en">Action from the UEFA Champions League Round of 16 as Barcelona face Napoli at Estadi Olimpic Lluis Companys. The tie is evenly poised after a 1-1 draw in the first leg.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/21181f3e-992d-3590-9ecb-a2f0923ff8b4/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240313083000 +0530" stop="20240313090000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Isuzu A-League Highlights</title>
-    <desc lang="en">Highlights from the 20th round of Isuzu A-League fixtures</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/484418d2-2873-30ea-8509-ee9a2e7e2bab/16-9"/>
-    <episode-num system="xmltv_ns">2022.19.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313090000 +0530" stop="20240313093000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Liberty A-League Women Highlights</title>
-    <desc lang="en">Highlights from the 19th round of Liberty A-League Women fixtures.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cf4cc3a9-8b2b-3f2c-8878-9c05ef923e04/16-9"/>
-    <episode-num system="xmltv_ns">2022.18.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313093000 +0530" stop="20240313103000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Frankfurt Women v Bayern Munich W</title>
-    <desc lang="en">Action from the Women's Bundesliga as Eintracht Frankfurt take on Bayern Munich.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8e2c0c60-6f22-393e-85da-d426bf2a2db8/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313103000 +0530" stop="20240313113000 +0530" channel="TNTSports3.uk">
-    <title lang="en">The Football's On</title>
-    <desc lang="en">In front of a sell-out audience in London, Ian Stone chats about title-chasing Arsenal with Premier League winner Lee Dixon, podcaster James McNicholas and comedian Jacob Hawley.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5627f1e9-03dc-37af-ab03-bf9e29a3b595/16-9"/>
-    <episode-num system="xmltv_ns">7.5.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313113000 +0530" stop="20240313123000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Fishing: On The Bank - 2024</title>
-    <desc lang="en">Rob and Andy are excited to go fishing on a beautiful stretch of the River Test in Timsbury. Plus, Nick Speed gives insight into his process during a match.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Fishing</category>
-    <icon src="https://images.metadata.sky.com/pd-image/afa1038a-93c9-3813-be49-8d0e0a634724/16-9"/>
-    <episode-num system="xmltv_ns">23.2.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240313123000 +0530" stop="20240313150000 +0530" channel="TNTSports3.uk">
-    <title lang="en">WWE Monday Night Raw</title>
-    <desc lang="en">Six superstars compete in a Gauntlet match to see who will face Gunther for the Intercontinental Championship at WrestleMania 40. And, Becky Lynch takes on Liv Morgan.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ee35f44f-3aea-3c4a-89b9-b24299911ba8/16-9"/>
-    <episode-num system="xmltv_ns">31.10.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240313150000 +0530" stop="20240313153000 +0530" channel="TNTSports3.uk">
-    <title lang="en">TNT Sports Goals Reload</title>
-    <desc lang="en">We bring you the greatest goals from around the world this week, including action from the Premier League, Serie A and Ligue 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1cf80f65-218c-3ff2-b4d3-6969ef7e4b4f/16-9"/>
-    <episode-num system="xmltv_ns">22.28.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240313153000 +0530" stop="20240314020000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Live Badminton: All England Open</title>
-    <desc lang="en">Round of 32 action from the All England Open Badminton Championships at the Utilita Arena in Birmingham.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/dcb8b130-baae-3047-8844-2649813b1ce0/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314020000 +0530" stop="20240314023000 +0530" channel="TNTSports3.uk">
-    <title lang="en">TNT Sports Reload</title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/83f78fa7-24c9-39be-9217-7311476c5ef8/16-9"/>
-    <episode-num system="xmltv_ns">23.10.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314023000 +0530" stop="20240314033000 +0530" channel="TNTSports3.uk">
-    <title lang="en">WWE Raw Highlights</title>
-    <desc lang="en">Who will run the gauntlet and face Gunther for the Intercontinental Championship at WrestleMania 40? Becky Lynch takes on Liv Morgan, and Michael Cole interviews Cody Rhodes.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9ed1b852-fa4e-356b-9d0a-5e1ca46b5d5f/16-9"/>
-    <episode-num system="xmltv_ns">31.10.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314033000 +0530" stop="20240314063000 +0530" channel="TNTSports3.uk">
-    <title lang="en">UFC 299 - O'Malley v Vera 2</title>
-    <desc lang="en">Action from UFC 299 at Kaseya Center in Miami as Sean O'Malley defends his bantamweight title against Marlon Vera. And, Dustin Poirier faces Benoit Saint Denis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other</category>
-    <icon src="https://images.metadata.sky.com/pd-image/930fb9b7-fb0b-3960-8ee2-0c2b7b398741/16-9"/>
-    <episode-num system="xmltv_ns">2023.14.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314063000 +0530" stop="20240314073000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Atletico Madrid v Inter</title>
-    <desc lang="en">UEFA Champions League Round of 16 action as Atletico Madrid face Inter at Civitas Metropolitano. Inter hold a one-goal advantage after Marko Arnautovic's strike in the first leg.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/949d2581-9756-33e7-980a-93a0df4a3280/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240314073000 +0530" stop="20240314083000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Borussia Dortmund v PSV</title>
-    <desc lang="en">Action from the UEFA Champions League as Borussia Dortmund meet PSV Eindhoven at Signal Iduna Park. There's all to play for after a 1-1 draw in the first leg.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e9e36ca4-16d1-31ed-81cb-2a7a9e269aed/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240314083000 +0530" stop="20240314093000 +0530" channel="TNTSports3.uk">
-    <title lang="en">UEL &amp; UECL Magazine</title>
-    <desc lang="en">Amine Adli speaks about the personal heartache he has faced during Bayer Leverkusen's record-breaking season. Plus, Radamel Falcao reflects on his footballing roots in Colombia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5e664838-54a5-3135-9195-7f0d92ae6523/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314093000 +0530" stop="20240314110000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Southend United v Dag &amp; Red</title>
-    <desc lang="en">Action from the Vanarama National League as Southend United face Dagenham and Redbridge at Roots Hall.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d370a3a6-e99d-3500-aa67-20ed065228a7/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314110000 +0530" stop="20240314113000 +0530" channel="TNTSports3.uk">
-    <title lang="en">National League Highlights</title>
-    <desc lang="en">The best of the latest action from the Vanarama National League, including Barnet v Bromley, Chesterfield v Fylde and Barnet v Bromley.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c9a57787-0f7d-34d2-a750-6244d736be9d/16-9"/>
-    <episode-num system="xmltv_ns">2022.37.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314113000 +0530" stop="20240314123000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Atletico Madrid v Inter</title>
-    <desc lang="en">UEFA Champions League Round of 16 action as Atletico Madrid face Inter at Civitas Metropolitano. Inter hold a one-goal advantage after Marko Arnautovic's strike in the first leg.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/949d2581-9756-33e7-980a-93a0df4a3280/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314123000 +0530" stop="20240314133000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Borussia Dortmund v PSV</title>
-    <desc lang="en">Action from the UEFA Champions League as Borussia Dortmund meet PSV Eindhoven at Signal Iduna Park. There's all to play for after a 1-1 draw in the first leg.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e9e36ca4-16d1-31ed-81cb-2a7a9e269aed/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314133000 +0530" stop="20240314143000 +0530" channel="TNTSports3.uk">
-    <title lang="en">UEFA Champions League Highlights</title>
-    <desc lang="en">All the goals and highlights from the latest set of fixtures in the UEFA Champions League, including Atletico Madrid v Inter and Dortmund v PSV.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3ba4876e-3c6f-34f9-aada-2f79b86c7b33/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314143000 +0530" stop="20240314153000 +0530" channel="TNTSports3.uk">
-    <title lang="en">UEL &amp; UECL Magazine</title>
-    <desc lang="en">Amine Adli speaks about the personal heartache he has faced during Bayer Leverkusen's record-breaking season. Plus, Radamel Falcao reflects on his footballing roots in Colombia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/62ba24d9-0410-33f3-bc03-81cab32be2ca/16-9"/>
-    <episode-num system="xmltv_ns">22.10.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240314153000 +0530" stop="20240315010000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Live Badminton: All England Open</title>
-    <desc lang="en">Round of 16 action from the All England Open Badminton Championships at the Utilita Arena in Birmingham.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b0da7dc2-3c5c-3289-b61b-9352b410b696/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240315010000 +0530" stop="20240315040000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Live: Brighton v Roma</title>
-    <desc lang="en">Action from the UEFA Europa League Round of 16 as Brighton welcome Roma to the Amex Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/29fb8830-da29-3abf-b420-4fdc1d8a5cdd/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240315040000 +0530" stop="20240315041500 +0530" channel="TNTSports3.uk">
-    <title lang="en">Nathan Heaney - The Postman</title>
-    <desc lang="en">Action from TNT Sports Fight Night.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6127c77e-4524-3387-9bac-a33ef2726d4e/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
   <programme start="20240315041500 +0530" stop="20240315043000 +0530" channel="TNTSports3.uk">
     <title lang="en">TNT Sports Cricket Reload</title>
     <desc lang="en">A look at the best batting action from the fifth Test between India and England at Himachal Pradesh Cricket Association Stadium, including Shubman Gill's sublime century.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/da844d88-effd-3554-b743-098897682186/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/119d85c2-afc9-36f9-bf04-d1bffa86eff1/16-9"/>
+    <episode-num system="xmltv_ns">1.68.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -493,7 +83,8 @@
     <desc lang="en">Could an in-form Bologna side get a result against league leaders Inter? And, Fiorentina were out to defeat rivals Roma to force their way back into the European conversation.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d4ce0e38-dddd-3c5f-b014-6abfcd7faf68/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/15892180-6ef9-35ab-bd28-a29d2fc46d36/16-9"/>
+    <episode-num system="xmltv_ns">2020.27.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -504,7 +95,7 @@
   </programme>
   <programme start="20240315063000 +0530" stop="20240315070000 +0530" channel="TNTSports3.uk">
     <title lang="en">West Ham United v Freiburg</title>
-    <desc lang="en">Action from the UEFA Europa League Round of 16 as West Ham United face Freiburg at London Stadium.</desc>
+    <desc lang="en">Action from the UEFA Europa League Round of 16 as West Ham United face Freiburg at London Stadium. Can the Hammers overturn a one-goal deficit to reach the next round?</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/0484eb74-89e5-3ee7-af63-656e3311ff30/16-9"/>
@@ -514,11 +105,10 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240315070000 +0530" stop="20240315073000 +0530" channel="TNTSports3.uk">
     <title lang="en">Rangers v Benfica</title>
-    <desc lang="en">Action from the UEFA Europa League Round of 16 as Rangers face Benfica at Ibrox Stadium.</desc>
+    <desc lang="en">Action from the UEFA Europa League Round of 16 as Rangers face Benfica at Ibrox Stadium. The tie is in the balance after a 2-2 draw in the first leg.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/35d42a18-e9b0-3342-889f-e6901f12aa06/16-9"/>
@@ -528,11 +118,10 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240315073000 +0530" stop="20240315080000 +0530" channel="TNTSports3.uk">
     <title lang="en">Liverpool v Sparta Prague</title>
-    <desc lang="en">Action from the UEFA Europa League Round of 16 as Liverpool meet Sparta Prague at Anfield.</desc>
+    <desc lang="en">Action from the UEFA Europa League Round of 16 as Liverpool meet Sparta Prague at Anfield. The hosts hold a commanding lead after winning 5-1 in the first leg.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/f2af7f9f-aaed-3919-ab1b-fece5bdeb980/16-9"/>
@@ -542,11 +131,10 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240315080000 +0530" stop="20240315083000 +0530" channel="TNTSports3.uk">
     <title lang="en">Brighton v Roma</title>
-    <desc lang="en">Action from the UEFA Europa League Round of 16 as Brighton welcome Roma to the Amex Stadium.</desc>
+    <desc lang="en">Action from the UEFA Europa League Round of 16 as Brighton welcome Roma to the Amex Stadium. Can Brighton fight back after suffering a 4-0 defeat in the first leg?</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/35d42a18-e9b0-3342-889f-e6901f12aa06/16-9"/>
@@ -556,11 +144,10 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240315083000 +0530" stop="20240315090000 +0530" channel="TNTSports3.uk">
     <title lang="en">Aston Villa v Ajax</title>
-    <desc lang="en">Action from the UEFA Europa Conference League Round of 16 as Aston Villa host Ajax at Villa Park.</desc>
+    <desc lang="en">Action from the UEFA Europa Conference League Round of 16 as Aston Villa host Ajax at Villa Park. The tie is evenly poised following a goalless draw in the first leg.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/f2af7f9f-aaed-3919-ab1b-fece5bdeb980/16-9"/>
@@ -570,7 +157,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240315090000 +0530" stop="20240315110000 +0530" channel="TNTSports3.uk">
     <title lang="en">AFL: Carlton v Richmond</title>
@@ -583,7 +169,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240315110000 +0530" stop="20240315113000 +0530" channel="TNTSports3.uk">
     <title lang="en">TNT Sports Goals Reload</title>
@@ -601,7 +186,7 @@
   </programme>
   <programme start="20240315113000 +0530" stop="20240315120000 +0530" channel="TNTSports3.uk">
     <title lang="en">West Ham United v Freiburg</title>
-    <desc lang="en">Action from the UEFA Europa League Round of 16 as West Ham United face Freiburg at London Stadium.</desc>
+    <desc lang="en">Action from the UEFA Europa League Round of 16 as West Ham United face Freiburg at London Stadium. Can the Hammers overturn a one-goal deficit to reach the next round?</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/b4281aee-78c5-33c4-8886-c245c51a89e8/16-9"/>
@@ -611,11 +196,10 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240315120000 +0530" stop="20240315123000 +0530" channel="TNTSports3.uk">
     <title lang="en">Rangers v Benfica</title>
-    <desc lang="en">Action from the UEFA Europa League Round of 16 as Rangers face Benfica at Ibrox Stadium.</desc>
+    <desc lang="en">Action from the UEFA Europa League Round of 16 as Rangers face Benfica at Ibrox Stadium. The tie is in the balance after a 2-2 draw in the first leg.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/272ef025-f055-3fa9-b80a-f5a225321dc5/16-9"/>
@@ -625,11 +209,10 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240315123000 +0530" stop="20240315130000 +0530" channel="TNTSports3.uk">
     <title lang="en">Liverpool v Sparta Prague</title>
-    <desc lang="en">Action from the UEFA Europa League Round of 16 as Liverpool meet Sparta Prague at Anfield.</desc>
+    <desc lang="en">Action from the UEFA Europa League Round of 16 as Liverpool meet Sparta Prague at Anfield. The hosts hold a commanding lead after winning 5-1 in the first leg.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/0484eb74-89e5-3ee7-af63-656e3311ff30/16-9"/>
@@ -639,11 +222,10 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240315130000 +0530" stop="20240315133000 +0530" channel="TNTSports3.uk">
     <title lang="en">Brighton v Roma</title>
-    <desc lang="en">Action from the UEFA Europa League Round of 16 as Brighton welcome Roma to the Amex Stadium.</desc>
+    <desc lang="en">Action from the UEFA Europa League Round of 16 as Brighton welcome Roma to the Amex Stadium. Can Brighton fight back after suffering a 4-0 defeat in the first leg?</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/35d42a18-e9b0-3342-889f-e6901f12aa06/16-9"/>
@@ -653,11 +235,10 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240315133000 +0530" stop="20240315140000 +0530" channel="TNTSports3.uk">
     <title lang="en">Aston Villa v Ajax</title>
-    <desc lang="en">Action from the UEFA Europa Conference League Round of 16 as Aston Villa host Ajax at Villa Park.</desc>
+    <desc lang="en">Action from the UEFA Europa Conference League Round of 16 as Aston Villa host Ajax at Villa Park. The tie is evenly poised following a goalless draw in the first leg.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/f2af7f9f-aaed-3919-ab1b-fece5bdeb980/16-9"/>
@@ -667,7 +248,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240315140000 +0530" stop="20240315150000 +0530" channel="TNTSports3.uk">
     <title lang="en">UEFA Europa League Highlights Show</title>
@@ -682,7 +262,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240315150000 +0530" stop="20240315153000 +0530" channel="TNTSports3.uk">
     <title lang="en">Between The Lines</title>
@@ -714,7 +293,7 @@
   </programme>
   <programme start="20240315210000 +0530" stop="20240315211500 +0530" channel="TNTSports3.uk">
     <title lang="en">Nathan Heaney - The Postman</title>
-    <desc lang="en">Action from TNT Sports Fight Night.</desc>
+    <desc lang="en">Stoke-born boxer Nathan Heaney hand delivers 2,000 tickets to his fans all over his hometown ahead of his British middleweight title showdown with Brad Pauls.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
     <icon src="https://images.metadata.sky.com/pd-image/6127c77e-4524-3387-9bac-a33ef2726d4e/16-9"/>
@@ -773,6 +352,443 @@
     <desc lang="en">Action from the Australian Football League as Collingwood face Sydney Swans at Melbourne Cricket Ground.</desc>
     <category lang="en">Sports</category>
     <icon src="https://images.metadata.sky.com/pd-image/579d8f9e-bc69-34dc-a8db-71e0f879997e/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316060000 +0530" stop="20240316070000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Empoli v Bologna</title>
+    <desc lang="en">Action from Serie A as relegation-threatened Empoli take on Bologna at Stadio Carlo Castellani. Bologna cruised to a 3-0 victory when these two sides met in October.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cb85a832-faab-3b58-8e88-b9b59fd85a71/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316070000 +0530" stop="20240316080000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Toulouse v Lyon</title>
+    <desc lang="en">Action from Ligue 1 as Toulouse face Lyon at Stadium de Toulouse. Pierre Sage's resurgent Lyon are looking for their fourth away win in a row.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2dc983ef-b5c6-3aa0-8750-3654a5569f6e/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316080000 +0530" stop="20240316093000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Ultimate Pool</title>
+    <desc lang="en">Action from Ultimate Pool and the Champions League Group 10, featuring Arfan Dad, Neil Raybone, Gary Clarke and Kristi Caulfield.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3f8c197b-5c79-39c4-a16d-462d326f4bd1/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316093000 +0530" stop="20240316100000 +0530" channel="TNTSports3.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">Jamie Bynoe-Gittens discusses moving to Germany, scoring in the Champions League, and a pivotal time at Caversham Trents. Plus, a special look at Arsenal boss Mikel Arteta.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7b60c28f-a3dd-31e3-ac46-ccfcd95b3430/16-9"/>
+    <episode-num system="xmltv_ns">22.21.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316100000 +0530" stop="20240316103000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Rio Ferdinand's Between The Lines</title>
+    <desc lang="en">Rio speaks to Jurgen Klopp about the key moments from his time with Liverpool so far. They discuss heavy metal football, Champions League success, working with Trent, and more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3ef2097e-dcfd-3849-85be-77a9e4692e0a/16-9"/>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316103000 +0530" stop="20240316123000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live: Brisbane Roar v Macarthur FC</title>
+    <desc lang="en">Action from the Isuzu UTE A-League as Brisbane Roar take on Macarthur FC at Ballymore Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b354ff4e-b9f4-38ab-a074-20110fc29dff/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316123000 +0530" stop="20240316133000 +0530" channel="TNTSports3.uk">
+    <title lang="en">UEFA Champions League Highlights</title>
+    <desc lang="en">All the goals and highlights from the latest set of fixtures in the UEFA Champions League, including Atletico Madrid v Inter and Dortmund v PSV.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3ba4876e-3c6f-34f9-aada-2f79b86c7b33/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316133000 +0530" stop="20240316140000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A look ahead to all the upcoming action in the Premier League, including West Ham v Aston Villa, Fulham v Tottenham and Luton v Nottingham Forest.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fdacbfc1-68f3-30da-8047-1c1327c8af1e/16-9"/>
+    <episode-num system="xmltv_ns">22.28.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240316140000 +0530" stop="20240316153000 +0530" channel="TNTSports3.uk">
+    <title lang="en">WWE Friday Night SmackDown</title>
+    <desc lang="en">See all your favourite WWE SmackDown Superstars deliver edge-of-your-seat action, including Roman Reigns, Asuka, Rey Mysterio, Randy Orton and Bianca Belair.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://images.metadata.sky.com/pd-image/64b268af-d17f-36dd-913a-c25dfff794fe/16-9"/>
+    <episode-num system="xmltv_ns">25.10.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316153000 +0530" stop="20240316210000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live Badminton: All England Open</title>
+    <desc lang="en">Action from session one of the semi-finals of the All England Badminton Open Championships, part of the HSBC BWF World Tour.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ca0a3882-8bf5-3205-9c4f-1a7e1a6752f7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316210000 +0530" stop="20240316220000 +0530" channel="TNTSports3.uk">
+    <title lang="en">MotoGP Highlights: Qatar 2024</title>
+    <desc lang="en">MotoGP highlights from the Grand Prix of Qatar.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/668c4296-6f0c-3695-a304-092394206a78/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316220000 +0530" stop="20240316223000 +0530" channel="TNTSports3.uk">
+    <title lang="en">NBA On Fire</title>
+    <desc lang="en">The latest episode of NBA On Fire.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b9d1427e-06d8-35f8-989e-1b0665695b31/16-9"/>
+    <episode-num system="xmltv_ns">22.19.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240316223000 +0530" stop="20240317023000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live Badminton: All England Open</title>
+    <desc lang="en">Action from session two of the semi-finals of the All England Badminton Open Championships, part of the HSBC BWF World Tour.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/55aed870-7714-3ff5-ae14-a7adae7143eb/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317023000 +0530" stop="20240317043000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live: UFC Fight Night Prelims</title>
+    <desc lang="en">Action from UFC Fight Night Prelims in Las Vegas ahead of the heavyweight showdown between Tai Tuivasa and Marcin Tybura.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/95f4d064-4752-3c2c-b71c-adb7b497e692/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317043000 +0530" stop="20240317080000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live: UFC Fight Night</title>
+    <desc lang="en">Action from UFC Fight Night in Las Vegas as heavyweights Tai Tuivasa and Marcin Tybura face-off in the main event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1917727a-30a8-3ac2-942d-79a9ad0d9ed8/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317080000 +0530" stop="20240317083000 +0530" channel="TNTSports3.uk">
+    <title lang="en">What Went Down: Joanna Jedrzejczyk</title>
+    <desc lang="en">Joanna Jedrzejczyk revisits her historic UFC 248 fight with Weili Zhang and discusses her pride at being involved in this intense contest.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/228ec2f0-8b9f-3ac8-9086-372234924e8c/16-9"/>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317083000 +0530" stop="20240317103000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live: Wellington P W v Sydney W</title>
+    <desc lang="en">Action from the Liberty A-League Women as Wellington Phoenix take on Sydney FC.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4ea07e28-5741-3978-aba8-dd0d23e4a683/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317103000 +0530" stop="20240317104500 +0530" channel="TNTSports3.uk">
+    <title lang="en">What I Wore: Ellen White</title>
+    <desc lang="en">England legend Ellen White describes her passion for football via the shirts which have defined her life.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ea9072d0-2a9e-4840-8cba-5f046421dd5f/16-9"/>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317104500 +0530" stop="20240317111500 +0530" channel="TNTSports3.uk">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/83f78fa7-24c9-39be-9217-7311476c5ef8/16-9"/>
+    <episode-num system="xmltv_ns">23.10.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317111500 +0530" stop="20240317113000 +0530" channel="TNTSports3.uk">
+    <title lang="en">MotoGP Rewind: Qatar 2024</title>
+    <desc lang="en">A look back at the best of the action from the MotoGP Grand Prix of Qatar.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d862d177-d6da-3e68-aefa-f72c0999b916/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317113000 +0530" stop="20240317133000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Boxing: Heaney v Pauls/Joyce v Ali</title>
+    <desc lang="en">Action from Fight Night Live at Resorts World Arena as British middleweight champion Nathan Heaney defends his title against Brad Pauls. Plus, heavyweight Joe Joyce faces Kash Ali.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6fce6d17-8582-35ee-a0b1-52a438c84d42/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317133000 +0530" stop="20240317150000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Premiership Rugby Cup Final</title>
+    <desc lang="en">Action from the Premiership Rugby Cup final between Gloucester Rugby and Leicester Tigers at Kingsholm Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/85d767d7-fb24-3942-8822-9cf498b00a45/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317150000 +0530" stop="20240317153000 +0530" channel="TNTSports3.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">Jamie Bynoe-Gittens discusses moving to Germany, scoring in the Champions League, and a pivotal time at Caversham Trents. Plus, a special look at Arsenal boss Mikel Arteta.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1aa455ea-e9cd-369e-bc8b-ac6abe5f3352/16-9"/>
+    <episode-num system="xmltv_ns">2022.38.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317153000 +0530" stop="20240317173000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Boxing: Heaney v Pauls/Joyce v Ali</title>
+    <desc lang="en">Action from Fight Night Live at Resorts World Arena as British middleweight champion Nathan Heaney defends his title against Brad Pauls. Plus, heavyweight Joe Joyce faces Kash Ali.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6fce6d17-8582-35ee-a0b1-52a438c84d42/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317173000 +0530" stop="20240317193000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live: Brest v Lille</title>
+    <desc lang="en">Action from Ligue 1 as Brest welcome Lille to Stade Francis-Le Ble. Both sides will be out to claim a big win in the race for European football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9b33231c-259c-35c4-85c8-56e77092d486/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317193000 +0530" stop="20240317213000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live: Monaco v Lorient</title>
+    <desc lang="en">Action from Ligue 1 as Monaco meet Lorient at Stade Louis II. Monaco have not won any of their last five home games in the league.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a31930ef-e62e-354c-b38a-75de2e2fe761/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317213000 +0530" stop="20240317223000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Bayern Women v RB Leipzig Women</title>
+    <desc lang="en">Action from the Women's Bundesliga as Bayern Munich take on RB Leipzig.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/19000256-7cb4-3bf0-babf-383a3a0d618a/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240317223000 +0530" stop="20240318010000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live NBA: Suns @ Bucks</title>
+    <desc lang="en">Action from the NBA as Phoenix Suns take on Milwaukee Bucks at Fiserv Forum.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/aef04706-3353-3c5e-8d78-489fb8c201f0/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240318010000 +0530" stop="20240318033000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Live NBA: Nuggets @ Mavericks</title>
+    <desc lang="en">Action from the NBA as Denver Nuggets face Dallas Mavericks at American Airlines Center.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c2b3f6c9-e37d-3bc9-bf05-dfada3bf74e2/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240318033000 +0530" stop="20240318043000 +0530" channel="TNTSports3.uk">
+    <title lang="en">EuroCup Basketball</title>
+    <desc lang="en">Action from EuroCup Basketball as U-BT Cluj-Napoca take on London Lions.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cbb841e1-32e3-3ca4-81a5-5472c228e0cc/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240318043000 +0530" stop="20240318060000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Oxford City v FC Halifax Town</title>
+    <desc lang="en">Action from the Vanarama National League as Oxford City take on FC Halifax Town at RAW Charging Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/df2c58b6-dcc4-3190-acdd-39efabbf96ac/16-9"/>
     <video>
       <aspect>16:9</aspect>
     </video>

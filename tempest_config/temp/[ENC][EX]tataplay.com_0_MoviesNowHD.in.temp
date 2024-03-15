@@ -3,219 +3,20 @@
   <channel id="MoviesNowHD.in">
     <display-name lang="en">Movies Now HD</display-name>
   </channel>
-  <programme start="20240313004000 +0530" stop="20240313020100 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Hostel</title>
-    <desc lang="en">Three travellers meet a man who convinces them to visit a hostel in Slovakia with beautiful women. However, when they reach their destination, they encounter terrifying situations.</desc>
+  <programme start="20240315012800 +0530" stop="20240315030000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Love Is In The Air</title>
+    <desc lang="en">Antoine, a lawyer from New York, travels to France for the final round of a job interview. On the flight, he is seated next to Julie, his ex-girlfriend, with whom he has to make awkward conversation.</desc>
     <credits>
-      <actor>Jay Hernandez</actor>
-      <actor>Derek Richardson</actor>
-      <actor>Eythor Gudjonsson</actor>
-      <actor>Jennifer Lim</actor>
-      <actor>Barbara Nedeljakova</actor>
-      <actor>Jana Kaderabkova</actor>
+      <actor>Ludivine Sagnier</actor>
+      <actor>Nicolas Bedos</actor>
+      <actor>Jonathan Cohen</actor>
+      <actor>Arnaud Ducret</actor>
+      <actor>Brigitte Catillon</actor>
     </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A2DFE100813F6E9AB4695B8C5F66C8D382241013J.jpg"/>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04E46ED5B6FC1126713DB0A009164B64964D5130U.jpg"/>
   </programme>
-  <programme start="20240313020100 +0530" stop="20240313032500 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Land Of The Bears</title>
-    <desc lang="en">The filmmaker observes the mannerisms, daily activities and adventures of five wild brown bears in the Kamchatka Peninsula.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7855BA6DF421D14D58B8183E6CD1F3A515A90151.jpg"/>
-  </programme>
-  <programme start="20240313032500 +0530" stop="20240313035600 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Hollywood On Set</title>
-    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
-    <credits>
-      <actor>Angela Valley</actor>
-      <actor>Janett Hermosillo</actor>
-      <actor>Ann Marie Lariccia</actor>
-      <actor>Michelle Blenker</actor>
-    </credits>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
-  </programme>
-  <programme start="20240313035600 +0530" stop="20240313053300 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Wild For The Night</title>
-    <desc lang="en">When an ex-convict returns home to solve his sister's murder, the authority forces him to go undercover to help them bust illegal activities at a nightclub.</desc>
-    <credits>
-      <actor>James Maslow</actor>
-      <actor>Caitlin McHugh</actor>
-      <actor>Tommy Flanagan</actor>
-      <actor>R Marcos Taylor</actor>
-      <actor>Jade Tailor</actor>
-      <actor>Emilio Rivera</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/769AB22B846992D513798C06FB6E03C2227D5221N.jpg"/>
-  </programme>
-  <programme start="20240313053300 +0530" stop="20240313073900 +0530" channel="MoviesNowHD.in">
-    <title lang="en">The Great Dictator</title>
-    <desc lang="en">A Jewish barber loses his memory after a plane crash. When he finally tries to make sense of his surroundings, he finds himself subjected to a dictator's tyranny.</desc>
-    <credits>
-      <actor>Charles Chaplin</actor>
-      <actor>Paulette Goddard</actor>
-      <actor>Maurice Moscovich</actor>
-      <actor>Emma Dunn</actor>
-      <actor>Bernard Gorcey</actor>
-      <actor>Paul Weigel</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/568BD226B280545D5BEA9822F740228614967CF0R.jpg"/>
-  </programme>
-  <programme start="20240313073900 +0530" stop="20240313090900 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Fallen</title>
-    <desc lang="en">Detective John Hobbes witnesses the execution of a demonic serial killer, Edgar Reese. However, the killings resume and are very similar to the style of Reese.</desc>
-    <credits>
-      <actor>Denzel Washington</actor>
-      <actor>John Goodman</actor>
-      <actor>Donald Sutherland</actor>
-      <actor>Embeth Davidtz</actor>
-      <actor>James Gandolfini</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11FB6415A07B0AD7D073D4B3587CA22ED0BD830EM.jpg"/>
-  </programme>
-  <programme start="20240313090900 +0530" stop="20240313103700 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Modern Times</title>
-    <desc lang="en">A factory production line worker is thrown out on the street for his manic behaviour. He then meets a young, homeless girl, who is recently orphaned, and tries to build a home with her.</desc>
-    <credits>
-      <actor>Charles Chaplin</actor>
-      <actor>Paulette Goddard</actor>
-      <actor>Henry Bergman</actor>
-      <actor>Tiny Sandford</actor>
-      <actor>Chester Conklin</actor>
-      <actor>Al Ernest Garcia</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/056F0EC0F5A2FC33F5A45ACB3CBE477434D18801C.jpg"/>
-  </programme>
-  <programme start="20240313103700 +0530" stop="20240313121600 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Teenage Mutant Ninja Turtles</title>
-    <desc lang="en">When Shredder and his evil Foot Clan wreak havoc in New York, four genetically mutated turtles rise from the sewers to free the city from his control.</desc>
-    <credits>
-      <actor>Pete Ploszek</actor>
-      <actor>Jeremy Howard</actor>
-      <actor>Alan Ritchson</actor>
-      <actor>Noel Fisher</actor>
-      <actor>Megan Fox</actor>
-      <actor>Danny Woodburn</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3B71DF0DCC75471AB2D340A77C4BC6415805AAAF4.jpg"/>
-  </programme>
-  <programme start="20240313121600 +0530" stop="20240313141700 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Collateral</title>
-    <desc lang="en">Max, a cab driver, is shocked after he learns that his passenger, Vincent, is an assassin who is on a deadly mission to kill people. However, he must stop Vincent before it is too late.</desc>
-    <credits>
-      <actor>Tom Cruise</actor>
-      <actor>Jamie Foxx</actor>
-      <actor>Jada Pinkett Smith</actor>
-      <actor>Mark Ruffalo</actor>
-      <actor>Peter Berg</actor>
-      <actor>Bruce McGill</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F260405A574E419958BAA95BA6777EC4811B8133W.jpg"/>
-  </programme>
-  <programme start="20240313141700 +0530" stop="20240313155800 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Dora and the Lost City of Gold</title>
-    <desc lang="en">Dora Marquez embarks on a mission with her monkey, Boots, and her friends to rescue her missing parents and solve the mystery of a fabled city of gold.</desc>
-    <credits>
-      <actor>Isabela Moner</actor>
-      <actor>Eugenio Derbez</actor>
-      <actor>Michael Pena</actor>
-      <actor>Eva Longoria</actor>
-      <actor>Jeff Wahlberg</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/749273F971399E2D7F4C75B169145DD7D7C8F15DA.jpg"/>
-  </programme>
-  <programme start="20240313155800 +0530" stop="20240313174800 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Apocalypto</title>
-    <desc lang="en">Jaguar Paw, a young man, is captured by rulers of the Mayan kingdom. When they decide to sacrifice him, he makes a plan to escape death.</desc>
-    <credits>
-      <actor>Rudy Youngblood</actor>
-      <actor>Dalia Hernandez</actor>
-      <actor>Jonathan Brewer</actor>
-      <actor>Mayra Serbulo</actor>
-      <actor>Morris Birdyellowhead</actor>
-      <actor>Carlos Emilio Baez</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B1FB095F1BE56945668FB7600D55D121809B1892.jpg"/>
-  </programme>
-  <programme start="20240313174800 +0530" stop="20240313190000 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Piranha 3D</title>
-    <desc lang="en">After an earthquake splits a lake floor, a swarm of ancient piranhas are released. A group of strangers come together to stop themselves from becoming the victims of these deadly predators.</desc>
-    <credits>
-      <actor>Elisabeth Shue</actor>
-      <actor>Steven R McQueen</actor>
-      <actor>Adam Scott</actor>
-      <actor>Jerry O'Connell</actor>
-      <actor>Jessica Szohr</actor>
-      <actor>Kelly Brook</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/509DCA6292F96FC104677147635CE908053DE435T.jpg"/>
-  </programme>
-  <programme start="20240313190000 +0530" stop="20240313204500 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Men In Black 3</title>
-    <desc lang="en">Agent J of the Men in Black goes back in time to prevent the assassination of his partner, Agent K, at the hands of an alien criminal named Boris the Animal.</desc>
-    <credits>
-      <actor>Will Smith</actor>
-      <actor>Tommy Lee Jones</actor>
-      <actor>Josh Brolin</actor>
-      <actor>Jemaine Clement</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Alice Eve</actor>
-    </credits>
-    <category lang="en">Sci - Fi</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2E2BC59056D65B9BF7ECD8486825724A098BB426B.jpg"/>
-  </programme>
-  <programme start="20240313204500 +0530" stop="20240313221700 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Kung Fu Panda 2</title>
-    <desc lang="en">Dragon Warrior Po takes it upon himself to foil the plans of murderous peacock Shen who intends to conquer China and destroy kung fu. For this, Po has to unveil the mystery of his own past.</desc>
-    <credits>
-      <actor>Jack Black</actor>
-      <actor>Angelina Jolie</actor>
-      <actor>Gary Oldman</actor>
-      <actor>Michelle Yeoh</actor>
-      <actor>Seth Rogen</actor>
-      <actor>Lucy Liu</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D051C2D14F43EA5BB64E8A1CDA5493C4ED65339B0.jpg"/>
-  </programme>
-  <programme start="20240313221700 +0530" stop="20240313234800 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Resident Evil</title>
-    <desc lang="en">Two associates of an elite commando team fight an army of zombies controlled by an evil desktop computer in a genetic research facility.</desc>
-    <credits>
-      <actor>Milla Jovovich</actor>
-      <actor>Michelle Rodriguez</actor>
-      <actor>Eric Mabius</actor>
-      <actor>James Purefoy</actor>
-      <actor>Martin Crewes</actor>
-      <actor>Colin Salmon</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/835D2C13F44AFDFA8A52A0D41194536DE467ADFAW.jpg"/>
-  </programme>
-  <programme start="20240313234800 +0530" stop="20240314011100 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Crank</title>
-    <desc lang="en">Chev Chelios, a British assassin, gets injected with a poison that requires him to keep his adrenaline levels high in order to stay alive until he finds a cure.</desc>
-    <credits>
-      <actor>Jason Statham</actor>
-      <actor>Amy Smart</actor>
-      <actor>Jose Pablo Cantillo</actor>
-      <actor>Carlos Sanz</actor>
-      <actor>Dwight Yoakam</actor>
-      <actor>Efren Ramirez</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/39F2F73BD0F4AD80F4A1774F48125B4E034DE3BDV.jpg"/>
-  </programme>
-  <programme start="20240314011200 +0530" stop="20240314025300 +0530" channel="MoviesNowHD.in">
+  <programme start="20240315030000 +0530" stop="20240315045000 +0530" channel="MoviesNowHD.in">
     <title lang="en">Fly Me To The Moon</title>
     <desc lang="en">Isabelle plans to marry a stranger to break the family curse that ends every first marriage in divorce in order to get married to her long-time boyfriend Pierre.</desc>
     <credits>
@@ -229,7 +30,7 @@
     <category lang="en">Romance</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/626C11EEF06167C8742B0003EF5C747CB6D13D30Z.jpg"/>
   </programme>
-  <programme start="20240314025300 +0530" stop="20240314041000 +0530" channel="MoviesNowHD.in">
+  <programme start="20240315045000 +0530" stop="20240315061800 +0530" channel="MoviesNowHD.in">
     <title lang="en">Mune</title>
     <desc lang="en">When a group of evildoers steal the sun, the guardians of the moon and the sun set out on a journey to fight against the group and retrieve the sun.</desc>
     <credits>
@@ -243,253 +44,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2FDF98DAFFA63E1ED1CF8BE25006E8B88E5BDDFE.jpg"/>
   </programme>
-  <programme start="20240314041000 +0530" stop="20240314043500 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Hollywood On Set</title>
-    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
-    <credits>
-      <actor>Angela Valley</actor>
-      <actor>Janett Hermosillo</actor>
-      <actor>Ann Marie Lariccia</actor>
-      <actor>Michelle Blenker</actor>
-    </credits>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
-  </programme>
-  <programme start="20240314043500 +0530" stop="20240314050000 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Hollywood On Set</title>
-    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
-    <credits>
-      <actor>Angela Valley</actor>
-      <actor>Janett Hermosillo</actor>
-      <actor>Ann Marie Lariccia</actor>
-      <actor>Michelle Blenker</actor>
-    </credits>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
-  </programme>
-  <programme start="20240314050000 +0530" stop="20240314052500 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Hollywood On Set</title>
-    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
-    <credits>
-      <actor>Angela Valley</actor>
-      <actor>Janett Hermosillo</actor>
-      <actor>Ann Marie Lariccia</actor>
-      <actor>Michelle Blenker</actor>
-    </credits>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
-  </programme>
-  <programme start="20240314052500 +0530" stop="20240314070500 +0530" channel="MoviesNowHD.in">
-    <title lang="en">The Boxer From Shantung</title>
-    <desc lang="en">A boxer decides to bid farewell to the life of poverty. He goes to Shanghai but instead gets trapped in a world of criminal activity with only his fighting technique as the weapon.</desc>
-    <credits>
-      <actor>Kuan Tai Chen</actor>
-      <actor>Li Ching</actor>
-      <actor>David Chiang</actor>
-      <actor>Mario Milano</actor>
-      <actor>Ching Tien</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D26F5932FE16A82FE01D46B0DC448DC0BDD293FZ.jpg"/>
-  </programme>
-  <programme start="20240314070500 +0530" stop="20240314082500 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Hostel</title>
-    <desc lang="en">Three travellers meet a man who convinces them to visit a hostel in Slovakia with beautiful women. However, when they reach their destination, they encounter terrifying situations.</desc>
-    <credits>
-      <actor>Jay Hernandez</actor>
-      <actor>Derek Richardson</actor>
-      <actor>Eythor Gudjonsson</actor>
-      <actor>Jennifer Lim</actor>
-      <actor>Barbara Nedeljakova</actor>
-      <actor>Jana Kaderabkova</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A2DFE100813F6E9AB4695B8C5F66C8D382241013J.jpg"/>
-  </programme>
-  <programme start="20240314082500 +0530" stop="20240314104500 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Mission: Impossible - Rogue Nation</title>
-    <desc lang="en">With the IMF disbanded and the CIA hunting him, Ethan and his team race against time to prove the existence of the Syndicate, a highly-skilled terror organisation, before they plan their next attack.</desc>
-    <credits>
-      <actor>Tom Cruise</actor>
-      <actor>Jeremy Renner</actor>
-      <actor>Simon Pegg</actor>
-      <actor>Rebecca Ferguson</actor>
-      <actor>Ving Rhames</actor>
-      <actor>Sean Harris</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A5F9FABDC8E184B09CAF224679F2F35A33D3D4B3Z.jpg"/>
-  </programme>
-  <programme start="20240314104500 +0530" stop="20240314125000 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Die Hard With A Vengeance</title>
-    <desc lang="en">Detective John McClane plays a twisted game with a terrorist known only as Simon, who threatens to detonate bombs across New York City if John does not comply with his demands.</desc>
-    <credits>
-      <actor>Bruce Willis</actor>
-      <actor>Jeremy Irons</actor>
-      <actor>Samuel L Jackson</actor>
-      <actor>Henry Graham Greene</actor>
-      <actor>Colleen Camp</actor>
-      <actor>Larry Bryggman</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/13697FD3A3BC41170ACC4B54F196B9F56BDC9C0DI.jpg"/>
-  </programme>
-  <programme start="20240314125000 +0530" stop="20240314143000 +0530" channel="MoviesNowHD.in">
-    <title lang="en">How to Train Your Dragon</title>
-    <desc lang="en">Hiccup, a Viking, must kill a dragon to mark his passage into manhood and be initiated into his tribe. However, he ends up doing the exact opposite by befriending a deadly dragon, Night Fury.</desc>
-    <credits>
-      <actor>Jay Baruchel</actor>
-      <actor>America Ferrera</actor>
-      <actor>Gerard Butler</actor>
-      <actor>Craig Ferguson</actor>
-      <actor>Christopher Mintz Plasse</actor>
-      <actor>Jonah Hill</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF3C6EA9E9DA73160C3D2EE32E0FB6AE5595FC68I.jpg"/>
-  </programme>
-  <programme start="20240314143000 +0530" stop="20240314163000 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Gods of Egypt</title>
-    <desc lang="en">Set, the god of the underworld, seizes the throne from the previous king of the Egyptian Empire and spreads terror throughout the land until a flawed mortal attempts to challenge him.</desc>
-    <credits>
-      <actor>Nikolaj Coster Waldau</actor>
-      <actor>Brenton Thwaites</actor>
-      <actor>Chadwick Boseman</actor>
-      <actor>Elodie Yung</actor>
-      <actor>Courtney Eaton</actor>
-      <actor>Gerard Butler</actor>
-    </credits>
-    <category lang="en">Fantasy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB037CD9C52C5969E51C13C11A7E5B5511066314Z.jpg"/>
-  </programme>
-  <programme start="20240314163000 +0530" stop="20240314182000 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Now You See Me</title>
-    <desc lang="en">Four magicians who perform on streets steal a tremendous amount of money that belongs to an insurance magnate while they are pursued by police authorities.</desc>
-    <credits>
-      <actor>Jesse Eisenberg</actor>
-      <actor>Woody Harrelson</actor>
-      <actor>Isla Fisher</actor>
-      <actor>Dave Franco</actor>
-      <actor>Mark Ruffalo</actor>
-      <actor>Melanie Laurent</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC003F9DBC586ABE648CD58E01DD00C79F410A7FL.jpg"/>
-  </programme>
-  <programme start="20240314182000 +0530" stop="20240314204500 +0530" channel="MoviesNowHD.in">
-    <title lang="en">The Amazing Spider-Man 2</title>
-    <desc lang="en">Peter Parker faces Electro and his old friend who is dying and looks out for Spider-Man's blood in order to cure himself.</desc>
-    <credits>
-      <actor>Andrew Garfield</actor>
-      <actor>Emma Stone</actor>
-      <actor>Jamie Foxx</actor>
-      <actor>Dane DeHaan</actor>
-      <actor>Campbell Scott</actor>
-      <actor>Embeth Davidtz</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AFBCB20DBFB163034B1276E39730F798B4C23065T.jpg"/>
-  </programme>
-  <programme start="20240314204500 +0530" stop="20240314223500 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Mission: Impossible</title>
-    <desc lang="en">Ethan Hunt, an American special agent, struggles to prove his innocence and catch the real culprit when he is falsely accused of murdering his entire team.</desc>
-    <credits>
-      <actor>Tom Cruise</actor>
-      <actor>Jon Voight</actor>
-      <actor>Emmanuelle Beart</actor>
-      <actor>Ving Rhames</actor>
-      <actor>Vanessa Redgrave</actor>
-      <actor>Henry Czerny</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B3CC69E3803AA600D5689AB6144C26C86BB867DEF.jpg"/>
-  </programme>
-  <programme start="20240314223500 +0530" stop="20240314234500 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Piranha 3D</title>
-    <desc lang="en">After an earthquake splits a lake floor, a swarm of ancient piranhas are released. A group of strangers come together to stop themselves from becoming the victims of these deadly predators.</desc>
-    <credits>
-      <actor>Elisabeth Shue</actor>
-      <actor>Steven R McQueen</actor>
-      <actor>Adam Scott</actor>
-      <actor>Jerry O'Connell</actor>
-      <actor>Jessica Szohr</actor>
-      <actor>Kelly Brook</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/509DCA6292F96FC104677147635CE908053DE435T.jpg"/>
-  </programme>
-  <programme start="20240314234500 +0530" stop="20240315012000 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Sonic the Hedgehog</title>
-    <desc lang="en">An extraterrestrial hedgehog is discovered by a scientist with evil intentions and plans to use his superpowers for his selfish needs.</desc>
-    <credits>
-      <actor>Ben Schwartz</actor>
-      <actor>Jim Carrey</actor>
-      <actor>James Marsden</actor>
-      <actor>Tika Sumpter</actor>
-      <actor>Lee Majdoub</actor>
-      <actor>Natasha Rothwell</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F1E61FAFB8E864BF4E55B29A82611FE7BCD4264K.jpg"/>
-  </programme>
-  <programme start="20240315012000 +0530" stop="20240315030000 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Love Is In The Air</title>
-    <desc lang="en">Antoine, a lawyer from New York, travels to France for the final round of a job interview. On the flight, he is seated next to Julie, his ex-girlfriend, with whom he has to make awkward conversation.</desc>
-    <credits>
-      <actor>Ludivine Sagnier</actor>
-      <actor>Nicolas Bedos</actor>
-      <actor>Jonathan Cohen</actor>
-      <actor>Arnaud Ducret</actor>
-      <actor>Brigitte Catillon</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04E46ED5B6FC1126713DB0A009164B64964D5130U.jpg"/>
-  </programme>
-  <programme start="20240315030000 +0530" stop="20240315032500 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Hollywood On Set</title>
-    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
-    <credits>
-      <actor>Angela Valley</actor>
-      <actor>Janett Hermosillo</actor>
-      <actor>Ann Marie Lariccia</actor>
-      <actor>Michelle Blenker</actor>
-    </credits>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
-  </programme>
-  <programme start="20240315032500 +0530" stop="20240315035000 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Hollywood On Set</title>
-    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
-    <credits>
-      <actor>Angela Valley</actor>
-      <actor>Janett Hermosillo</actor>
-      <actor>Ann Marie Lariccia</actor>
-      <actor>Michelle Blenker</actor>
-    </credits>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
-  </programme>
-  <programme start="20240315035000 +0530" stop="20240315051000 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Land Of The Bears</title>
-    <desc lang="en">The filmmaker observes the mannerisms, daily activities and adventures of five wild brown bears in the Kamchatka Peninsula.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7855BA6DF421D14D58B8183E6CD1F3A515A90151.jpg"/>
-  </programme>
-  <programme start="20240315051000 +0530" stop="20240315063000 +0530" channel="MoviesNowHD.in">
-    <title lang="en">Mune</title>
-    <desc lang="en">When a group of evildoers steal the sun, the guardians of the moon and the sun set out on a journey to fight against the group and retrieve the sun.</desc>
-    <credits>
-      <actor>Omar Sy</actor>
-      <actor>Izia Higelin</actor>
-      <actor>Michael Gregorio</actor>
-      <actor>Joshua J Ballard</actor>
-      <actor>Nicole Provost</actor>
-      <actor>Trevor Devall</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2FDF98DAFFA63E1ED1CF8BE25006E8B88E5BDDFE.jpg"/>
-  </programme>
-  <programme start="20240315063000 +0530" stop="20240315080000 +0530" channel="MoviesNowHD.in">
+  <programme start="20240315061800 +0530" stop="20240315074700 +0530" channel="MoviesNowHD.in">
     <title lang="en">Fallen</title>
     <desc lang="en">Detective John Hobbes witnesses the execution of a demonic serial killer, Edgar Reese. However, the killings resume and are very similar to the style of Reese.</desc>
     <credits>
@@ -502,7 +57,7 @@
     <category lang="en">Thriller</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11FB6415A07B0AD7D073D4B3587CA22ED0BD830EM.jpg"/>
   </programme>
-  <programme start="20240315080000 +0530" stop="20240315094500 +0530" channel="MoviesNowHD.in">
+  <programme start="20240315074700 +0530" stop="20240315093500 +0530" channel="MoviesNowHD.in">
     <title lang="en">Three Musketeers</title>
     <desc lang="en">D'Artagnan and his friends Athos, Porthos and Aramis, battle to save France from the evil and dangerous Cardinal Richelieu. USA.</desc>
     <credits>
@@ -516,7 +71,7 @@
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51C361C187A0125C14699CEDEA17D8F9095DD85AH.jpg"/>
   </programme>
-  <programme start="20240315094500 +0530" stop="20240315112500 +0530" channel="MoviesNowHD.in">
+  <programme start="20240315093500 +0530" stop="20240315111400 +0530" channel="MoviesNowHD.in">
     <title lang="en">Epic</title>
     <desc lang="en">When Mary, a 17-year-old teenager, shrinks in size, she discovers a world inhabited by strange creatures. Soon, she finds herself reluctantly pulled into a battle between good and evil forces.</desc>
     <credits>
@@ -530,7 +85,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FAB418308A6D47870E1BCBF40AD2A6BBA280261T.jpg"/>
   </programme>
-  <programme start="20240315112500 +0530" stop="20240315131500 +0530" channel="MoviesNowHD.in">
+  <programme start="20240315111400 +0530" stop="20240315131100 +0530" channel="MoviesNowHD.in">
     <title lang="en">Mission: Impossible</title>
     <desc lang="en">Ethan Hunt, an American special agent, struggles to prove his innocence and catch the real culprit when he is falsely accused of murdering his entire team.</desc>
     <credits>
@@ -544,7 +99,7 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B3CC69E3803AA600D5689AB6144C26C86BB867DEF.jpg"/>
   </programme>
-  <programme start="20240315131500 +0530" stop="20240315153000 +0530" channel="MoviesNowHD.in">
+  <programme start="20240315131100 +0530" stop="20240315152800 +0530" channel="MoviesNowHD.in">
     <title lang="en">The Amazing Spider-Man 2</title>
     <desc lang="en">Peter Parker faces Electro and his old friend who is dying and looks out for Spider-Man's blood in order to cure himself.</desc>
     <credits>
@@ -558,7 +113,7 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AFBCB20DBFB163034B1276E39730F798B4C23065T.jpg"/>
   </programme>
-  <programme start="20240315153000 +0530" stop="20240315170000 +0530" channel="MoviesNowHD.in">
+  <programme start="20240315152800 +0530" stop="20240315165600 +0530" channel="MoviesNowHD.in">
     <title lang="en">Kung Fu Panda 2</title>
     <desc lang="en">Dragon Warrior Po takes it upon himself to foil the plans of murderous peacock Shen who intends to conquer China and destroy kung fu. For this, Po has to unveil the mystery of his own past.</desc>
     <credits>
@@ -572,7 +127,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D051C2D14F43EA5BB64E8A1CDA5493C4ED65339B0.jpg"/>
   </programme>
-  <programme start="20240315170000 +0530" stop="20240315190000 +0530" channel="MoviesNowHD.in">
+  <programme start="20240315165600 +0530" stop="20240315185300 +0530" channel="MoviesNowHD.in">
     <title lang="en">Pain &amp; Gain</title>
     <desc lang="en">Daniel, along with his friends Adrian and Doyle, kidnaps a wealthy businessman with the intention of extorting money. However, the plan soon backfires owing to the trio's foolishness.</desc>
     <credits>
@@ -586,7 +141,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D8AA12F54A24F7AFF4F81641287DE99A7C1E1ECDK.jpg"/>
   </programme>
-  <programme start="20240315190000 +0530" stop="20240315204500 +0530" channel="MoviesNowHD.in">
+  <programme start="20240315185300 +0530" stop="20240315204500 +0530" channel="MoviesNowHD.in">
     <title lang="en">Knight And Day</title>
     <desc lang="en">June Havens develops an interest in Roy Miller after meeting him at the airport. However, she discovers that he is a secret agent and soon gets involved in his dangerous mission.</desc>
     <credits>
@@ -600,7 +155,7 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0019F4DDF9EE2C3F63C76F5E7400495709A2109FU.jpg"/>
   </programme>
-  <programme start="20240315204500 +0530" stop="20240315222500 +0530" channel="MoviesNowHD.in">
+  <programme start="20240315204500 +0530" stop="20240315223000 +0530" channel="MoviesNowHD.in">
     <title lang="en">Dora and the Lost City of Gold</title>
     <desc lang="en">Dora Marquez embarks on a mission with her monkey, Boots, and her friends to rescue her missing parents and solve the mystery of a fabled city of gold.</desc>
     <credits>
@@ -613,7 +168,7 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/749273F971399E2D7F4C75B169145DD7D7C8F15DA.jpg"/>
   </programme>
-  <programme start="20240315222500 +0530" stop="20240316003000 +0530" channel="MoviesNowHD.in">
+  <programme start="20240315223000 +0530" stop="20240316003300 +0530" channel="MoviesNowHD.in">
     <title lang="en">Collateral</title>
     <desc lang="en">Max, a cab driver, is shocked after he learns that his passenger, Vincent, is an assassin who is on a deadly mission to kill people. However, he must stop Vincent before it is too late.</desc>
     <credits>
@@ -626,5 +181,259 @@
     </credits>
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F260405A574E419958BAA95BA6777EC4811B8133W.jpg"/>
+  </programme>
+  <programme start="20240316003000 +0530" stop="20240316030000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Men In Black 3</title>
+    <desc lang="en">Agent J of the Men in Black goes back in time to prevent the assassination of his partner, Agent K, at the hands of an alien criminal named Boris the Animal.</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Jemaine Clement</actor>
+      <actor>Emma Thompson</actor>
+      <actor>Alice Eve</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2E2BC59056D65B9BF7ECD8486825724A098BB426B.jpg"/>
+  </programme>
+  <programme start="20240316030000 +0530" stop="20240316060000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240316060000 +0530" stop="20240316090000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240316090000 +0530" stop="20240316120000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240316120000 +0530" stop="20240316150000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240316150000 +0530" stop="20240316180000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240316180000 +0530" stop="20240316210000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240316210000 +0530" stop="20240317011100 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240317000500 +0530" stop="20240317013000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">TMNT</title>
+    <desc lang="en">Follows the adventures of the four teenage mutated turtles gifted in the art of the ninja, as they attempt to stop a mysterious evil that threatens to end the world.</desc>
+    <credits>
+      <actor>Chris Evans</actor>
+      <actor>Sarah Michelle Gellar</actor>
+      <actor>Mako</actor>
+      <actor>Patrick Stewart</actor>
+      <actor>Kevin Smith</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/65620F83B79E59DE37E762C158517BF6CF9F3723P.jpg"/>
+  </programme>
+  <programme start="20240317013000 +0530" stop="20240317031000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Wild For The Night</title>
+    <desc lang="en">When an ex-convict returns home to solve his sister's murder, the authority forces him to go undercover to help them bust illegal activities at a nightclub.</desc>
+    <credits>
+      <actor>James Maslow</actor>
+      <actor>Caitlin McHugh</actor>
+      <actor>Tommy Flanagan</actor>
+      <actor>R Marcos Taylor</actor>
+      <actor>Jade Tailor</actor>
+      <actor>Emilio Rivera</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/769AB22B846992D513798C06FB6E03C2227D5221N.jpg"/>
+  </programme>
+  <programme start="20240317031000 +0530" stop="20240317033500 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
+    <credits>
+      <actor>Angela Valley</actor>
+      <actor>Janett Hermosillo</actor>
+      <actor>Ann Marie Lariccia</actor>
+      <actor>Michelle Blenker</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
+  </programme>
+  <programme start="20240317033500 +0530" stop="20240317050500 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Love Is In The Air</title>
+    <desc lang="en">Antoine, a lawyer from New York, travels to France for the final round of a job interview. On the flight, he is seated next to Julie, his ex-girlfriend, with whom he has to make awkward conversation.</desc>
+    <credits>
+      <actor>Ludivine Sagnier</actor>
+      <actor>Nicolas Bedos</actor>
+      <actor>Jonathan Cohen</actor>
+      <actor>Arnaud Ducret</actor>
+      <actor>Brigitte Catillon</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04E46ED5B6FC1126713DB0A009164B64964D5130U.jpg"/>
+  </programme>
+  <programme start="20240317050500 +0530" stop="20240317062500 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Mune</title>
+    <desc lang="en">When a group of evildoers steal the sun, the guardians of the moon and the sun set out on a journey to fight against the group and retrieve the sun.</desc>
+    <credits>
+      <actor>Omar Sy</actor>
+      <actor>Izia Higelin</actor>
+      <actor>Michael Gregorio</actor>
+      <actor>Joshua J Ballard</actor>
+      <actor>Nicole Provost</actor>
+      <actor>Trevor Devall</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2FDF98DAFFA63E1ED1CF8BE25006E8B88E5BDDFE.jpg"/>
+  </programme>
+  <programme start="20240317062500 +0530" stop="20240317075000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Land Of The Bears</title>
+    <desc lang="en">The filmmaker observes the mannerisms, daily activities and adventures of five wild brown bears in the Kamchatka Peninsula.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7855BA6DF421D14D58B8183E6CD1F3A515A90151.jpg"/>
+  </programme>
+  <programme start="20240317075000 +0530" stop="20240317094000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Assassin's Creed</title>
+    <desc lang="en">With the help of technology, Callum learns that he is a descendant of a dangerous society. He travels back in time to learn about his ancestors and acquire skills to defeat an evil organisation.</desc>
+    <credits>
+      <actor>Michael Fassbender</actor>
+      <actor>Marion Cotillard</actor>
+      <actor>Jeremy Irons</actor>
+      <actor>Brendan Gleeson</actor>
+      <actor>Charlotte Rampling</actor>
+      <actor>Michael Kenneth Williams</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA232FCA1DF93AD61D849D96892EAAF149CB1987Q.jpg"/>
+  </programme>
+  <programme start="20240317094000 +0530" stop="20240317112500 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Infinite</title>
+    <desc lang="en">Evan can remember things from the past and holds the key to the location of a device that can destroy the world. As a result, he is chased by groups that have their own agenda for the device.</desc>
+    <credits>
+      <actor>Mark Wahlberg</actor>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>Sophie Cookson</actor>
+      <actor>Dylan O'Brien</actor>
+      <actor>Jason Mantzoukas</actor>
+      <actor>Rupert Friend</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9545A6C913CC56F5C0D51F711910F551E7D64421V.jpg"/>
+  </programme>
+  <programme start="20240317112500 +0530" stop="20240317134000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Snake Eyes: G.I. Joe Origins</title>
+    <desc lang="en">Snake Eyes becomes a member of the Arashikage clan, an ancient ninja society, after saving Tommy's life. However, unknown to them, he is working with their enemy to steal a powerful gem.</desc>
+    <credits>
+      <actor>Henry Golding</actor>
+      <actor>Andrew Koji</actor>
+      <actor>Haruka Abe</actor>
+      <actor>Ursula Corbero</actor>
+      <actor>Samara Weaving</actor>
+      <actor>Takehiro Hira</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E4CE81E78F9DC22FCCF0AA81DA56EF9F3C11840E.jpg"/>
+  </programme>
+  <programme start="20240317134000 +0530" stop="20240317151000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Kung Fu Panda</title>
+    <desc lang="en">When Po the Panda, a kung fu enthusiast, gets selected as the Dragon Warrior, he decides to team up with the Furious Five and destroy the evil forces that threaten the Valley of Peace.</desc>
+    <credits>
+      <actor>Jack Black</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Angelina Jolie</actor>
+      <actor>Seth Rogen</actor>
+      <actor>Lucy Liu</actor>
+      <actor>David Cross</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152411034DA6397B6D8E3EE05CAAE0F8F6F42DC86.jpg"/>
+  </programme>
+  <programme start="20240317151000 +0530" stop="20240317172500 +0530" channel="MoviesNowHD.in">
+    <title lang="en">The Amazing Spider-Man</title>
+    <desc lang="en">Peter Parker, an outcast high school student, gets bitten by a radioactive spider and attains superpowers. Soon, he is forced to use his abilities to fight a monstrous foe.</desc>
+    <credits>
+      <actor>Andrew Garfield</actor>
+      <actor>Emma Stone</actor>
+      <actor>Rhys Ifans</actor>
+      <actor>Denis Leary</actor>
+      <actor>Campbell Scott</actor>
+      <actor>Irrfan Khan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D1BBB3B93E7780688637B120740CE6A59ED1473O.jpg"/>
+  </programme>
+  <programme start="20240317172500 +0530" stop="20240317185500 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Cloudy With A Chance Of Meatballs</title>
+    <desc lang="en">Flint Lockwood, an inventor who is considered a nuisance, puts his latest invention to work when his town faces an economic crisis. His invention makes him popular until it spirals out of control.</desc>
+    <credits>
+      <actor>Bill Hader</actor>
+      <actor>Anna Faris</actor>
+      <actor>Neil Patrick Harris</actor>
+      <actor>James Caan</actor>
+      <actor>Bruce Campbell</actor>
+      <actor>Andy Samberg</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF7396D87F58FCEA953F8703641348BF64202109V.jpg"/>
+  </programme>
+  <programme start="20240317185500 +0530" stop="20240317204500 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Scream</title>
+    <desc lang="en">Sam Carpenter returns to Woodsboro after her sister gets attacked by the Ghostface. She approaches Dewey Riley to help catch the killer, who warns Sidney and Gale.</desc>
+    <credits>
+      <actor>Melissa Barrera</actor>
+      <actor>Kyle Gallner</actor>
+      <actor>Mason Gooding</actor>
+      <actor>Mikey Madison</actor>
+      <actor>Dylan Minnette</actor>
+      <actor>Jenna Ortega</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8B6724E4B883CDEBFE82C1F6E0A56ABA95BA3152E.jpg"/>
+  </programme>
+  <programme start="20240317204500 +0530" stop="20240317222000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Venom: Let There Be Carnage</title>
+    <desc lang="en">Eddie Brock tries to revive his failing career by interviewing a serial killer, Cletus Kasady, who is on death row. When Carnage gains control over Cletus's body, he escapes from the prison.</desc>
+    <credits>
+      <actor>Tom Hardy</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Reid Scott</actor>
+      <actor>Stephen Graham</actor>
+      <actor>Woody Harrelson</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0E9E83A07B7C1C937B2FA431A0E6A4568DFE9505.jpg"/>
+  </programme>
+  <programme start="20240317222000 +0530" stop="20240318003000 +0530" channel="MoviesNowHD.in">
+    <title lang="en">Now You See Me 2</title>
+    <desc lang="en">The Four Horsemen, a group of illusionists, find themselves in Macau, China, planning to pull off a heist on the orders of a devious tech genius.</desc>
+    <credits>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Dave Franco</actor>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Lizzy Caplan</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C0705C910804FE8ADD2302BC5E02F8B53E2130D3Q.jpg"/>
   </programme>
 </tv>

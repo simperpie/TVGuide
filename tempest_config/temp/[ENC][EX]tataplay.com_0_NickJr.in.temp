@@ -3,363 +3,7 @@
   <channel id="NickJr.in">
     <display-name lang="en">Nick Jr</display-name>
   </channel>
-  <programme start="20240313000300 +0530" stop="20240313024100 +0530" channel="NickJr.in">
-    <title lang="en">Comedy Khiladigalu Championship</title>
-    <desc lang="en">Talented comedians compete against each other to impress the viewers and the judges.</desc>
-    <credits>
-      <actor>Master Anand</actor>
-      <actor>Rakshita</actor>
-      <actor>Jaggesh</actor>
-      <actor>Yograj Bhat</actor>
-    </credits>
-    <category lang="en">Talent Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D9BF53665AC29AEEFD55BCD04967FFD30D56639H.jpg"/>
-    <episode-num system="xmltv_ns">1.39.</episode-num>
-  </programme>
-  <programme start="20240313024100 +0530" stop="20240313030100 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240313030100 +0530" stop="20240313043000 +0530" channel="NickJr.in">
-    <title lang="en">Dance Karnataka Dance 2021</title>
-    <desc lang="en">Talented dancers showcase their skills in front of the judges to win the title in 2021.</desc>
-    <credits>
-      <actor>Anushree</actor>
-      <actor>Rakshita</actor>
-      <actor>Vijay Raghavendra</actor>
-      <actor>Arjun Janya</actor>
-    </credits>
-    <category lang="en">Dance Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/222CEAF593B6634A69309E99BD579BE804E8A1F14.jpg"/>
-    <episode-num system="xmltv_ns">.55.</episode-num>
-  </programme>
-  <programme start="20240313043000 +0530" stop="20240313050000 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240313050000 +0530" stop="20240313070000 +0530" channel="NickJr.in">
-    <title lang="en">Vijaya Kankana</title>
-    <desc lang="en">Four fierce individuals come together to fight the corrupt officials exploiting citizens.</desc>
-    <credits>
-      <actor>Ambarish</actor>
-      <actor>Devaraj</actor>
-      <actor>Shruthi</actor>
-      <actor>Sudharani</actor>
-      <actor>Hemanth Kumar</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1A81601834F939750C96CA24B09D9F85158B8C86C.jpg"/>
-  </programme>
-  <programme start="20240313070000 +0530" stop="20240313080000 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240313080000 +0530" stop="20240313090200 +0530" channel="NickJr.in">
-    <title lang="en">Harikathe</title>
-    <desc lang="en">Harikathe</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF38B484CCE723E4BB9CD38E7AEFE4C79E08B91DJ.jpg"/>
-  </programme>
-  <programme start="20240313090200 +0530" stop="20240313113100 +0530" channel="NickJr.in">
-    <title lang="en">MMCH</title>
-    <desc lang="en">A policewoman hunting a killer crosses paths with three girls trying to protect a friend.</desc>
-    <credits>
-      <actor>Ragini Dwivedi</actor>
-      <actor>Samyukta Hornad</actor>
-      <actor>Prathama Prasad</actor>
-      <actor>Meghana Raj</actor>
-      <actor>Nakshatra</actor>
-      <actor>Deepti</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8A75184E87B1052CD198D6D61D5EC471DAA49CBBJ.jpg"/>
-  </programme>
-  <programme start="20240313113100 +0530" stop="20240313120100 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240313120100 +0530" stop="20240313142500 +0530" channel="NickJr.in">
-    <title lang="en">Valimai</title>
-    <desc lang="en">When a city's crime rate rises, it is up to Arjun, a police officer, to restore order.</desc>
-    <credits>
-      <actor>Ajith Kumar</actor>
-      <actor>Kartikeya Gummakonda</actor>
-      <actor>Huma Qureshi</actor>
-      <actor>Gurbani Judge</actor>
-      <actor>Sumithra</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B8590A134E89C5ECA65DB44FD390E003EB36467B4.jpg"/>
-  </programme>
-  <programme start="20240313142500 +0530" stop="20240313150000 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240313150000 +0530" stop="20240313171500 +0530" channel="NickJr.in">
-    <title lang="en">Gowli</title>
-    <desc lang="en">A calm shepherd adopts violent demeanour to end the torture of a police officer.</desc>
-    <credits>
-      <actor>Srinagar Kitty</actor>
-      <actor>Gopalkrishna Deshpande</actor>
-      <actor>Guru Deshpande</actor>
-      <actor>Govinde Gowda</actor>
-      <actor>Pavana Gowda</actor>
-      <actor>Sharath Lohitashwa</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDFC2F2CE87993FA391AE8C58D0B034F8A143451P.jpg"/>
-  </programme>
-  <programme start="20240313171500 +0530" stop="20240313180000 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240313180000 +0530" stop="20240313201800 +0530" channel="NickJr.in">
-    <title lang="en">Yaare Neenu Cheluve</title>
-    <desc lang="en">Kamli and Surya start communicating with each other through letters and soon fall in love.</desc>
-    <credits>
-      <actor>Veeraswamy Ravichandran</actor>
-      <actor>Sangita</actor>
-      <actor>Heera</actor>
-      <actor>Tara</actor>
-      <actor>Doddanna</actor>
-      <actor>Vishnuvardhan</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/84807BA640120D4B8BC39A2874DEB2A01E90F5587.jpg"/>
-  </programme>
-  <programme start="20240313201800 +0530" stop="20240313210200 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240313210200 +0530" stop="20240313232200 +0530" channel="NickJr.in">
-    <title lang="en">My Autograph</title>
-    <desc lang="en">Shankar reflects on the years he spent with his friends during his journey to his village.</desc>
-    <credits>
-      <actor>Sudeep</actor>
-      <actor>Meena</actor>
-      <actor>Sridevika</actor>
-      <actor>Deepa Bhaskar</actor>
-      <actor>Rashmi Kulkarni</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/89DC6E00D2871E71966CF054F3262A6007F43375P.jpg"/>
-  </programme>
-  <programme start="20240313232200 +0530" stop="20240314000200 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240314000000 +0530" stop="20240314010900 +0530" channel="NickJr.in">
-    <title lang="en">Comedy Khiladigalu Championship</title>
-    <desc lang="en">Talented comedians compete against each other to impress the viewers and the judges.</desc>
-    <credits>
-      <actor>Master Anand</actor>
-      <actor>Rakshita</actor>
-      <actor>Jaggesh</actor>
-      <actor>Yograj Bhat</actor>
-    </credits>
-    <category lang="en">Talent Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D9BF53665AC29AEEFD55BCD04967FFD30D56639H.jpg"/>
-    <episode-num system="xmltv_ns">1.40.</episode-num>
-  </programme>
-  <programme start="20240314010900 +0530" stop="20240314012900 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240314012900 +0530" stop="20240314023400 +0530" channel="NickJr.in">
-    <title lang="en">Comedy Khiladigalu Championship</title>
-    <desc lang="en">Talented comedians compete against each other to impress the viewers and the judges.</desc>
-    <credits>
-      <actor>Master Anand</actor>
-      <actor>Rakshita</actor>
-      <actor>Jaggesh</actor>
-      <actor>Yograj Bhat</actor>
-    </credits>
-    <category lang="en">Talent Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D9BF53665AC29AEEFD55BCD04967FFD30D56639H.jpg"/>
-    <episode-num system="xmltv_ns">1.40.</episode-num>
-  </programme>
-  <programme start="20240314023400 +0530" stop="20240314025900 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240314025900 +0530" stop="20240314040900 +0530" channel="NickJr.in">
-    <title lang="en">Dance Karnataka Dance 2021</title>
-    <desc lang="en">Talented dancers showcase their skills in front of the judges to win the title in 2021.</desc>
-    <credits>
-      <actor>Anushree</actor>
-      <actor>Rakshita</actor>
-      <actor>Vijay Raghavendra</actor>
-      <actor>Arjun Janya</actor>
-    </credits>
-    <category lang="en">Dance Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/222CEAF593B6634A69309E99BD579BE804E8A1F14.jpg"/>
-    <episode-num system="xmltv_ns">.56.</episode-num>
-  </programme>
-  <programme start="20240314040900 +0530" stop="20240314042900 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240314042900 +0530" stop="20240314054200 +0530" channel="NickJr.in">
-    <title lang="en">Dance Karnataka Dance 2021</title>
-    <desc lang="en">Talented dancers showcase their skills in front of the judges to win the title in 2021.</desc>
-    <credits>
-      <actor>Anushree</actor>
-      <actor>Rakshita</actor>
-      <actor>Vijay Raghavendra</actor>
-      <actor>Arjun Janya</actor>
-    </credits>
-    <category lang="en">Dance Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/222CEAF593B6634A69309E99BD579BE804E8A1F14.jpg"/>
-    <episode-num system="xmltv_ns">.56.</episode-num>
-  </programme>
-  <programme start="20240314054200 +0530" stop="20240314060200 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240314060200 +0530" stop="20240314081300 +0530" channel="NickJr.in">
-    <title lang="en">Shwetha Gulabi</title>
-    <desc lang="en">A man sacrifices his love for his sister and marries a girl who has a mental illness.</desc>
-    <credits>
-      <actor>Anant Nag</actor>
-      <actor>Lakshmi</actor>
-      <actor>Lokesh</actor>
-      <actor>K S Ashwath</actor>
-      <actor>Urmila Gayathri</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B194A33810311D07063048FBAD9D748AFDC4909DU.jpg"/>
-  </programme>
-  <programme start="20240314081300 +0530" stop="20240314085800 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240314085800 +0530" stop="20240314111200 +0530" channel="NickJr.in">
-    <title lang="en">Jai Simha</title>
-    <desc lang="en">Narasimha, a mechanic, protects an innocent family from a kingpin and his thugs.</desc>
-    <credits>
-      <actor>Nandamuri Balakrishna</actor>
-      <actor>Nayanthara</actor>
-      <actor>Hariprriya</actor>
-      <actor>Natasha Doshi</actor>
-      <actor>Prakash Raj</actor>
-      <actor>Ashutosh Rana</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B25582255EF1F21CD4F034DD4AF9A2FE2D12FAA7J.jpg"/>
-  </programme>
-  <programme start="20240314111200 +0530" stop="20240314120200 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240314120200 +0530" stop="20240314142200 +0530" channel="NickJr.in">
-    <title lang="en">Bimbisara</title>
-    <desc lang="en">An ancient evil emperor is trapped in a mirror and transported to the modern world.</desc>
-    <credits>
-      <actor>Nandamuri Kalyan Ram</actor>
-      <actor>Catherine Tresa</actor>
-      <actor>Samyuktha Menon</actor>
-      <actor>Prakash Raj</actor>
-      <actor>Vivan Bhatena</actor>
-      <actor>Vennela Kishore</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AC97A121F248586FC97584F08124CF30B7302537O.jpg"/>
-  </programme>
-  <programme start="20240314142200 +0530" stop="20240314150200 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240314150200 +0530" stop="20240314171400 +0530" channel="NickJr.in">
-    <title lang="en">Raambo 2</title>
-    <desc lang="en">Mayuri gets kidnapped from a road trip with her friends but gets released with a message.</desc>
-    <credits>
-      <actor>Sharan</actor>
-      <actor>Ashika Ranganath</actor>
-      <actor>Chikkanna</actor>
-      <actor>P Ravishankar</actor>
-      <actor>Tabla Nani</actor>
-      <actor>Kuri Prathap</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63C8F37E84A08366226A23D66749EA102B638D44K.jpg"/>
-  </programme>
-  <programme start="20240314171400 +0530" stop="20240314175900 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240314175900 +0530" stop="20240314202600 +0530" channel="NickJr.in">
-    <title lang="en">Seetharama Kalyana</title>
-    <desc lang="en">Arya, a righteous man, falls in love with Geetha, unaware of the future that awaits them.</desc>
-    <credits>
-      <actor>Nikhil Kumar</actor>
-      <actor>Rachita Ram</actor>
-      <actor>R Sarathkumar</actor>
-      <actor>P Ravishankar</actor>
-      <actor>Madhoo</actor>
-      <actor>Sanjay Kapoor</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8394DAA9F62E5D98A05244C2EDCDFA70BEAF411DI.jpg"/>
-  </programme>
-  <programme start="20240314202600 +0530" stop="20240314210100 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240314210100 +0530" stop="20240314231800 +0530" channel="NickJr.in">
-    <title lang="en">Gaalipata 2</title>
-    <desc lang="en">A trio of college friends aid their college professor in seeking his estranged son.</desc>
-    <credits>
-      <actor>Ganesh</actor>
-      <actor>Anant Nag</actor>
-      <actor>Diganth</actor>
-      <actor>Pawan Kumar</actor>
-      <actor>Vaibhavi Shandilya</actor>
-      <actor>Samyuktha Menon</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1A354E54629578BC959E717436301338F29B0AC9J.jpg"/>
-  </programme>
-  <programme start="20240314231800 +0530" stop="20240315000000 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240315000300 +0530" stop="20240315020000 +0530" channel="NickJr.in">
+  <programme start="20240315000000 +0530" stop="20240315020000 +0530" channel="NickJr.in">
     <title lang="en">Comedy Khiladigalu Championship</title>
     <desc lang="en">Talented comedians compete against each other to impress the viewers and the judges.</desc>
     <credits>
@@ -492,5 +136,271 @@
     </credits>
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D86D153DBAC7AAB80F9D9C874E5AEC5D82D72087H.jpg"/>
+  </programme>
+  <programme start="20240316000000 +0530" stop="20240316020000 +0530" channel="NickJr.in">
+    <title lang="en">Comedy Khiladigalu Championship</title>
+    <desc lang="en">Talented comedians compete against each other to impress the viewers and the judges.</desc>
+    <credits>
+      <actor>Master Anand</actor>
+      <actor>Rakshita</actor>
+      <actor>Jaggesh</actor>
+      <actor>Yograj Bhat</actor>
+    </credits>
+    <category lang="en">Talent Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D9BF53665AC29AEEFD55BCD04967FFD30D56639H.jpg"/>
+    <episode-num system="xmltv_ns">1.140.</episode-num>
+  </programme>
+  <programme start="20240316020000 +0530" stop="20240316033000 +0530" channel="NickJr.in">
+    <title lang="en">Comedy Khiladigalu Championship</title>
+    <desc lang="en">Talented comedians compete against each other to impress the viewers and the judges.</desc>
+    <credits>
+      <actor>Master Anand</actor>
+      <actor>Rakshita</actor>
+      <actor>Jaggesh</actor>
+      <actor>Yograj Bhat</actor>
+    </credits>
+    <category lang="en">Talent Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D9BF53665AC29AEEFD55BCD04967FFD30D56639H.jpg"/>
+    <episode-num system="xmltv_ns">1.147.</episode-num>
+  </programme>
+  <programme start="20240316033000 +0530" stop="20240316050000 +0530" channel="NickJr.in">
+    <title lang="en">Dance Karnataka Dance 2021</title>
+    <desc lang="en">Talented dancers showcase their skills in front of the judges to win the title in 2021.</desc>
+    <credits>
+      <actor>Anushree</actor>
+      <actor>Rakshita</actor>
+      <actor>Vijay Raghavendra</actor>
+      <actor>Arjun Janya</actor>
+    </credits>
+    <category lang="en">Dance Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/222CEAF593B6634A69309E99BD579BE804E8A1F14.jpg"/>
+    <episode-num system="xmltv_ns">.140.</episode-num>
+  </programme>
+  <programme start="20240316050000 +0530" stop="20240316060000 +0530" channel="NickJr.in">
+    <title lang="en">Dance Karnataka Dance 2021</title>
+    <desc lang="en">Talented dancers showcase their skills in front of the judges to win the title in 2021.</desc>
+    <credits>
+      <actor>Anushree</actor>
+      <actor>Rakshita</actor>
+      <actor>Vijay Raghavendra</actor>
+      <actor>Arjun Janya</actor>
+    </credits>
+    <category lang="en">Dance Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/222CEAF593B6634A69309E99BD579BE804E8A1F14.jpg"/>
+    <episode-num system="xmltv_ns">.147.</episode-num>
+  </programme>
+  <programme start="20240316060000 +0530" stop="20240316090000 +0530" channel="NickJr.in">
+    <title lang="en">Chiravada Nenapu</title>
+    <desc lang="en">A wealthy student is dissatisfied with his life and longs for something more.</desc>
+    <credits>
+      <actor>Gurunandan</actor>
+      <actor>Sharanya</actor>
+      <actor>Snehith Gowda</actor>
+      <actor>Thaniya</actor>
+      <actor>Ramakrishna</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B2A9DDD1F526C7B647B902F32C29E6C16719EC1C9.jpg"/>
+  </programme>
+  <programme start="20240316090000 +0530" stop="20240316120000 +0530" channel="NickJr.in">
+    <title lang="en">Yada Yada Hi Dharmasya</title>
+    <desc lang="en">The lives of two friends who are part of the underworld sees many ups and down.</desc>
+    <credits>
+      <actor>Prajwal Devaraj</actor>
+      <actor>Vijay Raghavendra</actor>
+      <actor>Sai Kumar</actor>
+      <actor>Sadhu Kokila</actor>
+      <actor>Mamatha Rahuth</actor>
+      <actor>Shravya Rao</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/50778839099D698F66DD39B0DA91549241EEB9368.jpg"/>
+  </programme>
+  <programme start="20240316120000 +0530" stop="20240316153000 +0530" channel="NickJr.in">
+    <title lang="en">Naanu Matthu Gunda</title>
+    <desc lang="en">A man's love for an abandoned dog begins to turn his life upside down.</desc>
+    <credits>
+      <actor>Shivaraj KR Pete</actor>
+      <actor>Samyuktha Hornad</actor>
+      <actor>Govinde Gowda</actor>
+      <actor>Rockline Sudhakar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/66FB075DFA6C47D9455133DD9F212C6B65346DCEH.jpg"/>
+  </programme>
+  <programme start="20240316153000 +0530" stop="20240316180000 +0530" channel="NickJr.in">
+    <title lang="en">Gandhada Gudi</title>
+    <desc lang="en">When forest officer Kumar takes on poachers, his brother Anand becomes his main rival.</desc>
+    <credits>
+      <actor>Rajkumar</actor>
+      <actor>Kalpana</actor>
+      <actor>Vishnuvardhan</actor>
+      <actor>M P Shankar</actor>
+      <actor>Narasimharaju</actor>
+      <actor>Balkrishna</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A93EF6E109A2CF637AB419000DAB8C2F5BE555094.jpg"/>
+  </programme>
+  <programme start="20240316180000 +0530" stop="20240316210000 +0530" channel="NickJr.in">
+    <title lang="en">Hondisi Bareyiri</title>
+    <desc lang="en">A group of friends reunite after years and reminisce about their lives.</desc>
+    <credits>
+      <actor>Praveen Tej</actor>
+      <actor>Naveen Shankar</actor>
+      <actor>Aishani Shetty</actor>
+      <actor>Shri Mahadev</actor>
+      <actor>Bhavana Rao</actor>
+      <actor>Samyukta Hornad</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DB9B4213948D3E522F6ABEA3913EEF92785B57DZ.jpg"/>
+  </programme>
+  <programme start="20240316210000 +0530" stop="20240317000000 +0530" channel="NickJr.in">
+    <title lang="en">Kasthuri Mahal</title>
+    <desc lang="en">Upon discovering a mysterious book, an inquisitive archaeologist lands in trouble.</desc>
+    <credits>
+      <actor>Shanvi Srivastava</actor>
+      <actor>Skanda Ashok</actor>
+      <actor>Shruti Prakash</actor>
+      <actor>Rangayana Raghu</actor>
+      <actor>Kaashima Rafi</actor>
+      <actor>Kempegowda</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/50AE815E471B9F3F3D427B22B7ABAAF426C30A46I.jpg"/>
+  </programme>
+  <programme start="20240317000000 +0530" stop="20240317020000 +0530" channel="NickJr.in">
+    <title lang="en">Comedy Khiladigalu Championship</title>
+    <desc lang="en">Talented comedians compete against each other to impress the viewers and the judges.</desc>
+    <credits>
+      <actor>Master Anand</actor>
+      <actor>Rakshita</actor>
+      <actor>Jaggesh</actor>
+      <actor>Yograj Bhat</actor>
+    </credits>
+    <category lang="en">Talent Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D9BF53665AC29AEEFD55BCD04967FFD30D56639H.jpg"/>
+    <episode-num system="xmltv_ns">1.141.</episode-num>
+  </programme>
+  <programme start="20240317020000 +0530" stop="20240317033000 +0530" channel="NickJr.in">
+    <title lang="en">Comedy Khiladigalu Championship</title>
+    <desc lang="en">Talented comedians compete against each other to impress the viewers and the judges.</desc>
+    <credits>
+      <actor>Master Anand</actor>
+      <actor>Rakshita</actor>
+      <actor>Jaggesh</actor>
+      <actor>Yograj Bhat</actor>
+    </credits>
+    <category lang="en">Talent Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D9BF53665AC29AEEFD55BCD04967FFD30D56639H.jpg"/>
+    <episode-num system="xmltv_ns">1.148.</episode-num>
+  </programme>
+  <programme start="20240317033000 +0530" stop="20240317050000 +0530" channel="NickJr.in">
+    <title lang="en">Dance Karnataka Dance 2021</title>
+    <desc lang="en">Talented dancers showcase their skills in front of the judges to win the title in 2021.</desc>
+    <credits>
+      <actor>Anushree</actor>
+      <actor>Rakshita</actor>
+      <actor>Vijay Raghavendra</actor>
+      <actor>Arjun Janya</actor>
+    </credits>
+    <category lang="en">Dance Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/222CEAF593B6634A69309E99BD579BE804E8A1F14.jpg"/>
+    <episode-num system="xmltv_ns">.141.</episode-num>
+  </programme>
+  <programme start="20240317050000 +0530" stop="20240317060000 +0530" channel="NickJr.in">
+    <title lang="en">Dance Karnataka Dance 2021</title>
+    <desc lang="en">Talented dancers showcase their skills in front of the judges to win the title in 2021.</desc>
+    <credits>
+      <actor>Anushree</actor>
+      <actor>Rakshita</actor>
+      <actor>Vijay Raghavendra</actor>
+      <actor>Arjun Janya</actor>
+    </credits>
+    <category lang="en">Dance Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/222CEAF593B6634A69309E99BD579BE804E8A1F14.jpg"/>
+    <episode-num system="xmltv_ns">.148.</episode-num>
+  </programme>
+  <programme start="20240317060000 +0530" stop="20240317090000 +0530" channel="NickJr.in">
+    <title lang="en">Vijaya Kankana</title>
+    <desc lang="en">Four fierce individuals come together to fight the corrupt officials exploiting citizens.</desc>
+    <credits>
+      <actor>Ambarish</actor>
+      <actor>Devaraj</actor>
+      <actor>Shruthi</actor>
+      <actor>Sudharani</actor>
+      <actor>Hemanth Kumar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1A81601834F939750C96CA24B09D9F85158B8C86C.jpg"/>
+  </programme>
+  <programme start="20240317090000 +0530" stop="20240317120000 +0530" channel="NickJr.in">
+    <title lang="en">Mayura</title>
+    <desc lang="en">After learning that he belongs to a royal family, Mayura, a young boy, becomes a warrior.</desc>
+    <credits>
+      <actor>Rajkumar</actor>
+      <actor>Manjula</actor>
+      <actor>Srinath</actor>
+      <actor>K S Ashwath</actor>
+      <actor>Sampath</actor>
+      <actor>Vajramuni</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEF498E7021F61A8C7366A872CBC8B51EEC3EAC16.jpg"/>
+  </programme>
+  <programme start="20240317120000 +0530" stop="20240317150000 +0530" channel="NickJr.in">
+    <title lang="en">Gowli</title>
+    <desc lang="en">A calm shepherd adopts violent demeanour to end the torture of a police officer.</desc>
+    <credits>
+      <actor>Srinagar Kitty</actor>
+      <actor>Gopalkrishna Deshpande</actor>
+      <actor>Guru Deshpande</actor>
+      <actor>Govinde Gowda</actor>
+      <actor>Pavana Gowda</actor>
+      <actor>Sharath Lohitashwa</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDFC2F2CE87993FA391AE8C58D0B034F8A143451P.jpg"/>
+  </programme>
+  <programme start="20240317150000 +0530" stop="20240317180000 +0530" channel="NickJr.in">
+    <title lang="en">Pailwaan</title>
+    <desc lang="en">A wrestler faces seemingly insurmountable odds to fulfil his adoptive father's dream.</desc>
+    <credits>
+      <actor>Sudeep</actor>
+      <actor>Suniel Shetty</actor>
+      <actor>Aakanksha Singh</actor>
+      <actor>Kabir Duhan Singh</actor>
+      <actor>Sushant Singh</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A431AAE342250BD4B6B1153585043B83665BA71B5.jpg"/>
+  </programme>
+  <programme start="20240317180000 +0530" stop="20240317210000 +0530" channel="NickJr.in">
+    <title lang="en">Doddmane Hudga</title>
+    <desc lang="en">Surya comes back to his village to protect his father and land from a local criminal.</desc>
+    <credits>
+      <actor>Puneeth Rajkumar</actor>
+      <actor>Radhika Pandit</actor>
+      <actor>Ambarish</actor>
+      <actor>Avinash</actor>
+      <actor>Bharathi</actor>
+      <actor>Rangayana Raghu</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B195FD972711ACA3739ECC6BA7E64B66E0C483599.jpg"/>
+  </programme>
+  <programme start="20240317210000 +0530" stop="20240318000000 +0530" channel="NickJr.in">
+    <title lang="en">Ratnan Prapancha</title>
+    <desc lang="en">Rathnakara, an unhappy individual, gets a startling call that changes his life.</desc>
+    <credits>
+      <actor>Dhananjaya</actor>
+      <actor>Reba Monica John</actor>
+      <actor>Umashri</actor>
+      <actor>Shruti</actor>
+      <actor>Pramod Manju</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BB48EAC1ED336A2DBDBC4F9F8EF39DF86B9B39504.jpg"/>
   </programme>
 </tv>
