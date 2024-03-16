@@ -65,7 +65,7 @@
     <category lang="en">Dance Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/758C8101867D384A59E6A8572AD23277EF655619E.jpg"/>
   </programme>
-  <programme start="20240316103000 +0530" stop="20240316132300 +0530" channel="ColorsHD.in">
+  <programme start="20240316103000 +0530" stop="20240316132700 +0530" channel="ColorsHD.in">
     <title lang="en">Mangal Laxmi</title>
     <desc lang="en">Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
     <credits>
@@ -79,7 +79,7 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C283991708DDB49A954E87475BC40AB457834DCS.jpg"/>
   </programme>
-  <programme start="20240316132300 +0530" stop="20240316144800 +0530" channel="ColorsHD.in">
+  <programme start="20240316132700 +0530" stop="20240316155800 +0530" channel="ColorsHD.in">
     <title lang="en">Thapki Pyar Ki</title>
     <desc lang="en">Thapki, a lively and intelligent girl, faces certain problems that affect her life. She decides to move to a city in order to find a job and meets all challenges in a positive way.</desc>
     <credits>
@@ -93,7 +93,7 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ADACB45EDB8F24EF36A0A58666339FA1389DED924.jpg"/>
   </programme>
-  <programme start="20240316144800 +0530" stop="20240316173100 +0530" channel="ColorsHD.in">
+  <programme start="20240316155800 +0530" stop="20240316183000 +0530" channel="ColorsHD.in">
     <title lang="en">Balika Vadhu</title>
     <desc lang="en">Married into an affluent family at a tender age, a child bride, Anandi, struggles to cope with the traditions. She overcomes multiple personal struggles to emerge as an example for rural women.</desc>
     <credits>
@@ -106,20 +106,6 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/42F8BB0737361492FA7A21B9F17D8BB92741B6BAY.jpg"/>
-  </programme>
-  <programme start="20240316173100 +0530" stop="20240316183000 +0530" channel="ColorsHD.in">
-    <title lang="en">Mangal Laxmi</title>
-    <desc lang="en">Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
-    <credits>
-      <actor>Deepika Singh</actor>
-      <actor>Naman Shaw</actor>
-      <actor>RJ Sanika</actor>
-      <actor>Urvashi Upadhya</actor>
-      <actor>Gayatri Soham</actor>
-      <actor>Shubham Dipta</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C283991708DDB49A954E87475BC40AB457834DCS.jpg"/>
   </programme>
   <programme start="20240316183000 +0530" stop="20240316190000 +0530" channel="ColorsHD.in">
     <title lang="en">Suhaagan</title>
@@ -196,7 +182,7 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D8F1DFFDC506E6BC37FCFBEE616403A44C520816.jpg"/>
     <episode-num system="xmltv_ns">.18.</episode-num>
   </programme>
-  <programme start="20240316213000 +0530" stop="20240316231900 +0530" channel="ColorsHD.in">
+  <programme start="20240316213000 +0530" stop="20240316231400 +0530" channel="ColorsHD.in">
     <title lang="en">Dance Deewane</title>
     <desc lang="en">Talented contestants, belonging to different generations, showcase their dancing skills and use different styles to impress the judges and win the coveted title.</desc>
     <credits>
@@ -207,7 +193,7 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C75E19A1386099BD2780AECAE7832268696BAB2D.jpg"/>
     <episode-num system="xmltv_ns">3.12.</episode-num>
   </programme>
-  <programme start="20240316231900 +0530" stop="20240317010000 +0530" channel="ColorsHD.in">
+  <programme start="20240316231400 +0530" stop="20240317010000 +0530" channel="ColorsHD.in">
     <title lang="en">Dance Deewane</title>
     <desc lang="en">Talented contestants, belonging to different generations, showcase their dancing skills and use different styles to impress the judges and win the coveted title.</desc>
     <credits>

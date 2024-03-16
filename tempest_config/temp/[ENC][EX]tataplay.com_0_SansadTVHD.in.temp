@@ -81,15 +81,6 @@
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FB4164CFA3908D13C9CA58AFFD1029990BCC231C2.jpg"/>
   </programme>
-  <programme start="20240316053000 +0530" stop="20240316060000 +0530" channel="SansadTVHD.in">
-    <title lang="en">Apna Aasmaa</title>
-    <desc lang="en">Apna Aasmaa</desc>
-    <credits>
-      <actor>Deeksha Kohli</actor>
-    </credits>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7C7AA722EE48566F6EB792F982FF8DB55322B985P.jpg"/>
-  </programme>
   <programme start="20240316060000 +0530" stop="20240316063000 +0530" channel="SansadTVHD.in">
     <title lang="en">Sadan Din Bhar</title>
     <desc lang="en">Sadan Din Bhar</desc>
@@ -165,19 +156,7 @@
     <category lang="en">Special Report</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C115A14280D8F3B0F400252110286DFA2AC881789.jpg"/>
   </programme>
-  <programme start="20240316110000 +0530" stop="20240316190000 +0530" channel="SansadTVHD.in">
-    <title lang="en">House Proceedings Live</title>
-    <desc lang="en">House Proceedings Live</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1FC5BAC7290F7F26AE703A1AEC21115410F8633T.jpg"/>
-  </programme>
-  <programme start="20240316190000 +0530" stop="20240316200000 +0530" channel="SansadTVHD.in">
-    <title lang="en">House Proceedings Live</title>
-    <desc lang="en">House Proceedings Live</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1FC5BAC7290F7F26AE703A1AEC21115410F8633T.jpg"/>
-  </programme>
-  <programme start="20240316200000 +0530" stop="20240316203000 +0530" channel="SansadTVHD.in">
+  <programme start="20240316110000 +0530" stop="20240316112800 +0530" channel="SansadTVHD.in">
     <title lang="en">Sansad TV Special</title>
     <desc lang="en">Sansad TV Special</desc>
     <credits>
@@ -185,14 +164,185 @@
     </credits>
     <category lang="en">Talk Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ECC7B18BD22C675107B64E2E709808117307659CD.jpg"/>
+  </programme>
+  <programme start="20240316112800 +0530" stop="20240316113000 +0530" channel="SansadTVHD.in">
+    <title lang="en">SVS 60 Sec.</title>
+    <desc lang="en">SVS 60 Sec.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E250EE2CCD13867E87B429D80B9D64EE530D74EP.jpg"/>
+  </programme>
+  <programme start="20240316113000 +0530" stop="20240316115500 +0530" channel="SansadTVHD.in">
+    <title lang="en">Gati Shakti</title>
+    <desc lang="en">Gati Shakti</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/31817C320414AF0CCD93F3EC220CE74A713F67AC7.jpg"/>
+  </programme>
+  <programme start="20240316115500 +0530" stop="20240316120000 +0530" channel="SansadTVHD.in">
+    <title lang="en">SVS - MOC</title>
+    <desc lang="en">SVS - MOC</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C6C520B48061B845C22D34EB4381A85B5361ED7D.jpg"/>
+  </programme>
+  <programme start="20240316120000 +0530" stop="20240316122800 +0530" channel="SansadTVHD.in">
+    <title lang="en">Vishesh</title>
+    <desc lang="en">Vishesh</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/330F538D9DBF2FCA91B0E120F285CD86A801EB22M.jpg"/>
+  </programme>
+  <programme start="20240316122800 +0530" stop="20240316123000 +0530" channel="SansadTVHD.in">
+    <title lang="en">SVS 60 Sec.</title>
+    <desc lang="en">SVS 60 Sec.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E250EE2CCD13867E87B429D80B9D64EE530D74EP.jpg"/>
+  </programme>
+  <programme start="20240316123000 +0530" stop="20240316125500 +0530" channel="SansadTVHD.in">
+    <title lang="en">Make in India</title>
+    <desc lang="en">Make in India</desc>
+    <credits>
+      <actor>Kriti Mishra</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1A5B256A1B5C7371614F482CCF9361DBF7828D00F.jpg"/>
+  </programme>
+  <programme start="20240316125500 +0530" stop="20240316130000 +0530" channel="SansadTVHD.in">
+    <title lang="en">SVS - MOC</title>
+    <desc lang="en">SVS - MOC</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C6C520B48061B845C22D34EB4381A85B5361ED7D.jpg"/>
+  </programme>
+  <programme start="20240316130000 +0530" stop="20240316132800 +0530" channel="SansadTVHD.in">
+    <title lang="en">Sansad TV Special</title>
+    <desc lang="en">Sansad TV Special</desc>
+    <credits>
+      <actor>Amit Shah</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ECC7B18BD22C675107B64E2E709808117307659CD.jpg"/>
+  </programme>
+  <programme start="20240316132800 +0530" stop="20240316133000 +0530" channel="SansadTVHD.in">
+    <title lang="en">SVS 60 Sec.</title>
+    <desc lang="en">SVS 60 Sec.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E250EE2CCD13867E87B429D80B9D64EE530D74EP.jpg"/>
+  </programme>
+  <programme start="20240316133000 +0530" stop="20240316135500 +0530" channel="SansadTVHD.in">
+    <title lang="en">Parivartan</title>
+    <desc lang="en">Parivartan</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C46BFCC8760C515C17CA7DB22601ED1F9EC62CDQ.jpg"/>
+  </programme>
+  <programme start="20240316135500 +0530" stop="20240316140000 +0530" channel="SansadTVHD.in">
+    <title lang="en">SVS - MOC</title>
+    <desc lang="en">SVS - MOC</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C6C520B48061B845C22D34EB4381A85B5361ED7D.jpg"/>
+  </programme>
+  <programme start="20240316140000 +0530" stop="20240316142800 +0530" channel="SansadTVHD.in">
+    <title lang="en">Samvaad</title>
+    <desc lang="en">Samvaad</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CA1CBE6DA3B83AE84675E7E5F81D71102F3EAEDFZ.jpg"/>
+  </programme>
+  <programme start="20240316142800 +0530" stop="20240316143000 +0530" channel="SansadTVHD.in">
+    <title lang="en">SVS 60 Sec.</title>
+    <desc lang="en">SVS 60 Sec.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E250EE2CCD13867E87B429D80B9D64EE530D74EP.jpg"/>
+  </programme>
+  <programme start="20240316143000 +0530" stop="20240316145500 +0530" channel="SansadTVHD.in">
+    <title lang="en">Vishesh</title>
+    <desc lang="en">Vishesh</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/330F538D9DBF2FCA91B0E120F285CD86A801EB22M.jpg"/>
+  </programme>
+  <programme start="20240316145500 +0530" stop="20240316150000 +0530" channel="SansadTVHD.in">
+    <title lang="en">SVS - MOC</title>
+    <desc lang="en">SVS - MOC</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C6C520B48061B845C22D34EB4381A85B5361ED7D.jpg"/>
+  </programme>
+  <programme start="20240316150000 +0530" stop="20240316160000 +0530" channel="SansadTVHD.in">
+    <title lang="en">EC Press Conference Live</title>
+    <desc lang="en">EC Press Conference Live</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg"/>
+  </programme>
+  <programme start="20240316160000 +0530" stop="20240316162800 +0530" channel="SansadTVHD.in">
+    <title lang="en">Aawaz Desh Ki</title>
+    <desc lang="en">Aawaz Desh Ki</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99C2B049E00549B498E99C6BE179D9494630BD793.jpg"/>
+  </programme>
+  <programme start="20240316162800 +0530" stop="20240316163000 +0530" channel="SansadTVHD.in">
+    <title lang="en">SVS 60 Sec.</title>
+    <desc lang="en">SVS 60 Sec.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E250EE2CCD13867E87B429D80B9D64EE530D74EP.jpg"/>
+  </programme>
+  <programme start="20240316163000 +0530" stop="20240316170000 +0530" channel="SansadTVHD.in">
+    <title lang="en">Rajyapaal</title>
+    <desc lang="en">Rajyapaal</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F21B734CA554375323C90AF19D3865EF92C4B695V.jpg"/>
+  </programme>
+  <programme start="20240316170000 +0530" stop="20240316172800 +0530" channel="SansadTVHD.in">
+    <title lang="en">Apna Aasmaa</title>
+    <desc lang="en">Apna Aasmaa</desc>
+    <credits>
+      <actor>Deeksha Kohli</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7C7AA722EE48566F6EB792F982FF8DB55322B985P.jpg"/>
+  </programme>
+  <programme start="20240316172800 +0530" stop="20240316173000 +0530" channel="SansadTVHD.in">
+    <title lang="en">SVS 60 Sec.</title>
+    <desc lang="en">SVS 60 Sec.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E250EE2CCD13867E87B429D80B9D64EE530D74EP.jpg"/>
+  </programme>
+  <programme start="20240316173000 +0530" stop="20240316190000 +0530" channel="SansadTVHD.in">
+    <title lang="en">HVPI Live</title>
+    <desc lang="en">HVPI Live</desc>
+    <category lang="en">Events &amp; Festivals</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA4595E1B8E0DAB4789321D230885553B1A8B3078.jpg"/>
+  </programme>
+  <programme start="20240316190000 +0530" stop="20240316192800 +0530" channel="SansadTVHD.in">
+    <title lang="en">Vishesh</title>
+    <desc lang="en">Vishesh</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/330F538D9DBF2FCA91B0E120F285CD86A801EB22M.jpg"/>
+  </programme>
+  <programme start="20240316192800 +0530" stop="20240316193000 +0530" channel="SansadTVHD.in">
+    <title lang="en">SVS 60 Sec.</title>
+    <desc lang="en">SVS 60 Sec.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E250EE2CCD13867E87B429D80B9D64EE530D74EP.jpg"/>
+  </programme>
+  <programme start="20240316193000 +0530" stop="20240316200000 +0530" channel="SansadTVHD.in">
+    <title lang="en">Documentary</title>
+    <desc lang="en">Documentary</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/834FB95EC58F17E308B8AB9B1C98D9EC4EA3D04DT.jpg"/>
+  </programme>
+  <programme start="20240316200000 +0530" stop="20240316202800 +0530" channel="SansadTVHD.in">
+    <title lang="en">Samvaad</title>
+    <desc lang="en">Samvaad</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CA1CBE6DA3B83AE84675E7E5F81D71102F3EAEDFZ.jpg"/>
+  </programme>
+  <programme start="20240316202800 +0530" stop="20240316203000 +0530" channel="SansadTVHD.in">
+    <title lang="en">SVS 60 Sec.</title>
+    <desc lang="en">SVS 60 Sec.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E250EE2CCD13867E87B429D80B9D64EE530D74EP.jpg"/>
   </programme>
   <programme start="20240316203000 +0530" stop="20240316210000 +0530" channel="SansadTVHD.in">
-    <title lang="en">Mudda Aapka</title>
-    <desc lang="en">Mudda Aapka</desc>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ACF0093D58DED8BCBF4D9CF96D65CAC884EBBF4EM.jpg"/>
+    <title lang="en">The Journey Of Startups</title>
+    <desc lang="en">The Journey Of Startups</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5476E1B4F432324C3C8260654222708E25CC60D7Z.jpg"/>
   </programme>
-  <programme start="20240316210000 +0530" stop="20240316213000 +0530" channel="SansadTVHD.in">
+  <programme start="20240316210000 +0530" stop="20240316212800 +0530" channel="SansadTVHD.in">
     <title lang="en">Sansad TV Special</title>
     <desc lang="en">Sansad TV Special</desc>
     <credits>
@@ -200,20 +350,14 @@
     </credits>
     <category lang="en">Talk Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ECC7B18BD22C675107B64E2E709808117307659CD.jpg"/>
+  </programme>
+  <programme start="20240316212800 +0530" stop="20240316213000 +0530" channel="SansadTVHD.in">
+    <title lang="en">SVS 60 Sec.</title>
+    <desc lang="en">SVS 60 Sec.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E250EE2CCD13867E87B429D80B9D64EE530D74EP.jpg"/>
   </programme>
   <programme start="20240316213000 +0530" stop="20240316220000 +0530" channel="SansadTVHD.in">
-    <title lang="en">Perspective</title>
-    <desc lang="en">Perspective</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C0F48121FFEF2404738B91B978A10F45FCEB61087.jpg"/>
-  </programme>
-  <programme start="20240316220000 +0530" stop="20240316223000 +0530" channel="SansadTVHD.in">
-    <title lang="en">Sadan Din Bhar</title>
-    <desc lang="en">Sadan Din Bhar</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7ABBF4F0782638F2ACA4170DDC7A68667EA2B55DG.jpg"/>
-  </programme>
-  <programme start="20240316223000 +0530" stop="20240316230000 +0530" channel="SansadTVHD.in">
     <title lang="en">Sansad TV Special</title>
     <desc lang="en">Sansad TV Special</desc>
     <credits>
@@ -222,17 +366,26 @@
     <category lang="en">Talk Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ECC7B18BD22C675107B64E2E709808117307659CD.jpg"/>
   </programme>
+  <programme start="20240316220000 +0530" stop="20240316230000 +0530" channel="SansadTVHD.in">
+    <title lang="en">Documentary</title>
+    <desc lang="en">Documentary</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/834FB95EC58F17E308B8AB9B1C98D9EC4EA3D04DT.jpg"/>
+  </programme>
   <programme start="20240316230000 +0530" stop="20240316233000 +0530" channel="SansadTVHD.in">
-    <title lang="en">Prime Minister Speech</title>
-    <desc lang="en">Prime Minister Speech</desc>
+    <title lang="en">Vishesh</title>
+    <desc lang="en">Vishesh</desc>
     <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B676BBBE77C4170BBB61B31525EBDD04CA7484D9S.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/330F538D9DBF2FCA91B0E120F285CD86A801EB22M.jpg"/>
   </programme>
   <programme start="20240316233000 +0530" stop="20240317000000 +0530" channel="SansadTVHD.in">
-    <title lang="en">Atulya Bharat</title>
-    <desc lang="en">Atulya Bharat</desc>
-    <category lang="en">Travel</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/73AD026EE359BF414DFFA6386B2FFDB19DF65EC78.jpg"/>
+    <title lang="en">Make in India</title>
+    <desc lang="en">Make in India</desc>
+    <credits>
+      <actor>Kriti Mishra</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1A5B256A1B5C7371614F482CCF9361DBF7828D00F.jpg"/>
   </programme>
   <programme start="20240317000000 +0530" stop="20240317010000 +0530" channel="SansadTVHD.in">
     <title lang="en">FM Speech</title>
