@@ -1,0 +1,34 @@
+name: Copy File
+
+on:
+  push:
+    branches:
+      - main  # Change this to your main branch name
+
+jobs:
+  copy_file:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout source repo
+      uses: actions/checkout@v2
+      with:
+        repository: simperpie/TVGuide
+        ref: main  # Change this to your main branch name
+
+    - name: Copy file
+      run: |
+        cp tempest_config/epg/simper_epg.xml.gz
+
+    - name: Checkout destination repo
+      uses: actions/checkout@v2
+      with:
+        repository: simperpie/simperpie.github.io
+        token: ${{ saLKSJssnaskna*wi9281`92jqbaJSAHS02801029WNWqjkwnkQSAsW98091 }}
+    - name: Commit changes
+      run: |
+        git config --global user.email "91105635+simperpie@users.noreply.github.com"
+        git config --global user.name "simperpie"
+        git add .
+        git commit -m "Copy file from source repo"
+        git push origin main
