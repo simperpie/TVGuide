@@ -3,162 +3,106 @@
   <channel id="ZeeCinemaHD.in">
     <display-name lang="en">Zee Cinema HD</display-name>
   </channel>
-  <programme start="20240315011600 +0530" stop="20240315041000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Mr. And Mrs. Ramachari</title>
-    <desc lang="en">After Divya becomes a victim of college bullies, Ramachari saves her and they fall in love. However, they part ways when Divya begins to question his way of life.</desc>
+  <programme start="20240316013100 +0530" stop="20240316020000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240316020000 +0530" stop="20240316042000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Time Story</title>
+    <desc lang="en">A scientist invents a time-travelling watch, which his evil twin brother wants to get hold of. Years later, the scientist's son battles his uncle, who is still desperately in search of the watch.</desc>
     <credits>
-      <actor>Yash</actor>
-      <actor>Radhika Pandit</actor>
-      <actor>Srinath</actor>
-      <actor>Achyuth Kumar</actor>
-      <actor>Malavika</actor>
-      <actor>Vishal Hegde</actor>
+      <actor>Suriya</actor>
+      <actor>Nithya Menen</actor>
+      <actor>Samantha Ruth Prabhu</actor>
+      <actor>Saranya Ponvannan</actor>
+      <actor>Ajay</actor>
+      <actor>Girish Karnad</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90E02190B372BAA7B1196B2D8DE1221358F20641N.jpg"/>
+  </programme>
+  <programme start="20240316042000 +0530" stop="20240316065800 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Saina</title>
+    <desc lang="en">Saina Nehwal, a badminton enthusiast, considers pursuing the sport full-time. When she starts training under an efficient coach, she soon becomes the best and ranks number one in the sport.</desc>
+    <credits>
+      <actor>Parineeti Chopra</actor>
+      <actor>Manav Kaul</actor>
+      <actor>Eshan Naqvi</actor>
+      <actor>Meghna Malik</actor>
+      <actor>Subhrajyoti Barat</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9FB20D951EF4F7AAC0FA8A03AE1E8CEE9CF0151A7.jpg"/>
+  </programme>
+  <programme start="20240316065800 +0530" stop="20240316091600 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">The Kashmir Files</title>
+    <desc lang="en">Krishna endeavours to uncover the reason behind his parents' brutal killings in Kashmir. He is shocked to uncover a web of lies and conspiracies in connection with the massive genocide.</desc>
+    <credits>
+      <actor>Mithun Chakraborty</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Darshan Kumar</actor>
+      <actor>Pallavi Joshi</actor>
+      <actor>Chinmay Mandlekar</actor>
+      <actor>Prakash Belawadi</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2DE2EF3C2AE52415D962F954B47A050182676D9FY.jpg"/>
+  </programme>
+  <programme start="20240316091600 +0530" stop="20240316121200 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Bimbisara</title>
+    <desc lang="en">Betrayed by his brother, an ancient evil emperor is trapped in a mirror and transported into the modern world. He then desperately seeks the mirror to return to his kingdom.</desc>
+    <credits>
+      <actor>Nandamuri Kalyan Ram</actor>
+      <actor>Catherine Tresa</actor>
+      <actor>Samyuktha Menon</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Vivan Bhatena</actor>
+      <actor>Vennela Kishore</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AC97A121F248586FC97584F08124CF30B7302537O.jpg"/>
+  </programme>
+  <programme start="20240316121200 +0530" stop="20240316160200 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Hum Saath Saath Hain</title>
+    <desc lang="en">Ramkishan and Mamta lead a happy life with their three sons. But when their daughter faces a tragedy, Mamta gets instigated by her close friends, and she embitters her heart towards her stepson Vivek.</desc>
+    <credits>
+      <actor>Mohnish Behl</actor>
+      <actor>Salman Khan</actor>
+      <actor>Saif Ali Khan</actor>
+      <actor>Tabu</actor>
+      <actor>Sonali Bendre</actor>
+      <actor>Karisma Kapoor</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/54A3F145C760333FE15EF5AD4074134F85690624B.jpg"/>
+  </programme>
+  <programme start="20240316160200 +0530" stop="20240316193000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Ramaiya Vastavaiya</title>
+    <desc lang="en">City boy Ram falls in love with village belle Sona, who has been raised by her brother, Raghuveer. However, when his mother insults Sona, Raghuveer asks Ram to prove himself worthy of marrying Sona.</desc>
+    <credits>
+      <actor>Girish Taurani</actor>
+      <actor>Shruti K Haasan</actor>
+      <actor>Sonu Sood</actor>
+      <actor>Randhir Kapoor</actor>
+      <actor>Poonam Dhillon</actor>
+      <actor>Vinod Khanna</actor>
     </credits>
     <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6889C7ABF59B33E09DDD45A71246B18454D387EAP.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6F76610317290629FC1A64CCA8C679529EFFAAF44.jpg"/>
   </programme>
-  <programme start="20240315041000 +0530" stop="20240315070800 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Toofaan</title>
-    <desc lang="en">An orphan from the streets of Mumbai grows up to become a thug. However, his life changes when he meets Ananya, who leads him towards his true calling of boxing.</desc>
-    <credits>
-      <actor>Farhan Akhtar</actor>
-      <actor>Paresh Rawal</actor>
-      <actor>Mrunal Thakur</actor>
-      <actor>Hussain Dalal</actor>
-      <actor>Supriya Pathak</actor>
-    </credits>
+  <programme start="20240316193000 +0530" stop="20240316233000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Main Event</title>
+    <desc lang="en">Main Event</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E84235B7CE9F22840F876D94946356E0298C7F6F3.jpg"/>
+  </programme>
+  <programme start="20240316233000 +0530" stop="20240317024000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Jashn Jaari Hai</title>
+    <desc lang="en">Jashn Jaari Hai</desc>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1E9AB8B697B94E1E798F339DD96C55E5ED756C41.jpg"/>
-  </programme>
-  <programme start="20240315070800 +0530" stop="20240315100200 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Rowdy Rajkumar 2</title>
-    <desc lang="en">An emotionless man lives off his father's wealth. He learns a lesson when he runs into a poor man and decides to swap his life with him.</desc>
-    <credits>
-      <actor>Tottempudi Gopichand</actor>
-      <actor>Hansika Motwani</actor>
-      <actor>Catherine Tresa</actor>
-      <actor>Mukesh Rishi</actor>
-      <actor>Nikitin Dheer</actor>
-      <actor>Sachin Khedekar</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B39C98343C0F3132AEF9211E4409129B83F051A7I.jpg"/>
-  </programme>
-  <programme start="20240315102700 +0530" stop="20240315131000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Daringbaaz 3</title>
-    <desc lang="en">Chey, a young man, falls for Meera but finds out she loves another man. He follows her to India where he meets Chandramukhi, a village girl, who falls in love with him.</desc>
-    <credits>
-      <actor>Varun Tej</actor>
-      <actor>Lavanya Tripathi</actor>
-      <actor>Hebah Patel</actor>
-      <actor>Prince Cecil</actor>
-      <actor>Nikitin Dheer</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E45FF64B4D03CE71AB6049A56E9AC9E743C73787O.jpg"/>
-  </programme>
-  <programme start="20240315131000 +0530" stop="20240315163400 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Prem Granth</title>
-    <desc lang="en">Somen, the son of a wealthy upper-caste Hindu priest, falls in love with Kajri, a beautiful woman from a lower social group. However, she suddenly leaves the village due to unknown reasons.</desc>
-    <credits>
-      <actor>Shammi Kapoor</actor>
-      <actor>Rishi Kapoor</actor>
-      <actor>Madhuri Dixit Nene</actor>
-      <actor>Anupam Kher</actor>
-      <actor>Om Puri</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/86D1483A6B7B768E45586BD3BB75A63FF7F6FFB4Z.jpg"/>
-  </programme>
-  <programme start="20240315163400 +0530" stop="20240315190000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Forensic</title>
-    <desc lang="en">When a psychotic murderer sets out on a killing spree, Samuel, a medico-legal advisor, uses his forensic skills to unravel the truth behind the heinous deeds.</desc>
-    <credits>
-      <actor>Tovino Thomas</actor>
-      <actor>Mamta Mohandas</actor>
-      <actor>Saiju Kurup</actor>
-      <actor>Giju John</actor>
-      <actor>Prathap Pothan</actor>
-      <actor>Reba Monica John</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C65DB868913DF269D65AFD81C3E6980A97DACCADZ.jpg"/>
-  </programme>
-  <programme start="20240315190000 +0530" stop="20240315195300 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Zee Cine Awards 2024 - Curtain Raiser</title>
-    <desc lang="en">Zee Cine Awards 2024 - Curtain Raiser</desc>
-    <category lang="en">Award Shows</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg"/>
-  </programme>
-  <programme start="20240315195300 +0530" stop="20240315224400 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Dhamaal</title>
-    <desc lang="en">Four lazy friends learn about a hidden treasure in Goa and set out to find it. However, a police inspector learns about their plan and begins to pursue them.</desc>
-    <credits>
-      <actor>Sanjay Dutt</actor>
-      <actor>Riteish Deshmukh</actor>
-      <actor>Arshad Warsi</actor>
-      <actor>Aashish Chaudhary</actor>
-      <actor>Javed Jaffrey</actor>
-      <actor>Prem Chopra</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46D48C327DEA815246745C7B245C4327A113CEB8I.jpg"/>
-  </programme>
-  <programme start="20240315224400 +0530" stop="20240316020000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Pralay The Destroyer</title>
-    <desc lang="en">When a criminal gang slaughters an entire family, the baby survives. He is taken in by a family and the forces of nature work together to bring him face to face with the gang again when he grows up.</desc>
-    <credits>
-      <actor>Bellamkonda Sai Sreenivas</actor>
-      <actor>Pooja Hegde</actor>
-      <actor>Sarath Kumar</actor>
-      <actor>Meena</actor>
-      <actor>Jagapathi Babu</actor>
-      <actor>Pavithra Lokesh</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/650E147C7E98A585B5A67521FBFB2B6E6CCC7F94C.jpg"/>
-  </programme>
-  <programme start="20240316030000 +0530" stop="20240316060000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316060000 +0530" stop="20240316090000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316090000 +0530" stop="20240316120000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316120000 +0530" stop="20240316150000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316150000 +0530" stop="20240316180000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316180000 +0530" stop="20240316210000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316210000 +0530" stop="20240317030000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"/>
   </programme>
   <programme start="20240317030000 +0530" stop="20240317060000 +0530" channel="ZeeCinemaHD.in">
     <title lang="en">Movie</title>
@@ -197,6 +141,48 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
   <programme start="20240317210000 +0530" stop="20240318030000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318030000 +0530" stop="20240318060000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318060000 +0530" stop="20240318090000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318090000 +0530" stop="20240318120000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318120000 +0530" stop="20240318150000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318150000 +0530" stop="20240318180000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318180000 +0530" stop="20240318210000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318210000 +0530" stop="20240319030000 +0530" channel="ZeeCinemaHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

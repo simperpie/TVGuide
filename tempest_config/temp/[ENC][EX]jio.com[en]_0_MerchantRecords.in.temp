@@ -4,154 +4,6 @@
     <display-name lang="en">Merchant Records</display-name>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Merchant_Records.png"/>
   </channel>
-  <programme start="20240315000000 +0530" stop="20240315010000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Love Radio</title>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064000_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315010000 +0530" stop="20240315020000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Chill Station</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064001_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315020000 +0530" stop="20240315030000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Dance Kar Le</title>
-    <category lang="en">TV Show</category>
-    <category lang="en">Reality &amp; Game Shows</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064002_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315030000 +0530" stop="20240315040000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Pump it Up</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064003_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315040000 +0530" stop="20240315050000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Jashn-E-Sufi</title>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064004_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315050000 +0530" stop="20240315060000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Bhakti Sagar</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064005_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315060000 +0530" stop="20240315070000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Bhakti Sagar</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064006_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315070000 +0530" stop="20240315080000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Jashn-E-Sufi</title>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064007_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315080000 +0530" stop="20240315090000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Love Radio</title>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064008_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315090000 +0530" stop="20240315100000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Chill Station</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064009_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315100000 +0530" stop="20240315110000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Dance Kar Le</title>
-    <category lang="en">TV Show</category>
-    <category lang="en">Reality &amp; Game Shows</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064010_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315110000 +0530" stop="20240315120000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Pump it Up</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064011_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315120000 +0530" stop="20240315130000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Jashn-E-Sufi</title>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064012_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315130000 +0530" stop="20240315140000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Bhoomi 2</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064013_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315140000 +0530" stop="20240315150000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Bhoomi 1</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064014_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315150000 +0530" stop="20240315160000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Indie Showcase</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064015_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315160000 +0530" stop="20240315170000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Love Radio</title>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064016_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315170000 +0530" stop="20240315180000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Chill Station</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064017_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315180000 +0530" stop="20240315190000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Dance Kar Le</title>
-    <category lang="en">TV Show</category>
-    <category lang="en">Reality &amp; Game Shows</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064018_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315190000 +0530" stop="20240315200000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Pump it Up</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064019_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315200000 +0530" stop="20240315210000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Bhoomi 1</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064020_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315210000 +0530" stop="20240315220000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Bhoomi 2</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064021_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315220000 +0530" stop="20240315230000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Dance Kar Le</title>
-    <category lang="en">TV Show</category>
-    <category lang="en">Reality &amp; Game Shows</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064022_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240315230000 +0530" stop="20240315235959 +0530" channel="MerchantRecords.in">
-    <title lang="en">Pump it Up</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152064023_s.jpg"/>
-    <previously-shown/>
-  </programme>
   <programme start="20240316000000 +0530" stop="20240316010000 +0530" channel="MerchantRecords.in">
     <title lang="en">Love Radio</title>
     <category lang="en">Music</category>
@@ -446,6 +298,154 @@
     <title lang="en">Pump it Up</title>
     <category lang="en">TV Show</category>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403172064023_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318000000 +0530" stop="20240318010000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Love Radio</title>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064000_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318010000 +0530" stop="20240318020000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Chill Station</title>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064001_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318020000 +0530" stop="20240318030000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Dance Kar Le</title>
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality &amp; Game Shows</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064002_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318030000 +0530" stop="20240318040000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Pump it Up</title>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064003_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318040000 +0530" stop="20240318050000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Jashn-E-Sufi</title>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064004_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318050000 +0530" stop="20240318060000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Bhakti Sagar</title>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064005_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318060000 +0530" stop="20240318070000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Bhakti Sagar</title>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064006_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318070000 +0530" stop="20240318080000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Jashn-E-Sufi</title>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064007_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318080000 +0530" stop="20240318090000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Love Radio</title>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064008_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318090000 +0530" stop="20240318100000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Chill Station</title>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064009_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318100000 +0530" stop="20240318110000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Dance Kar Le</title>
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality &amp; Game Shows</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064010_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318110000 +0530" stop="20240318120000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Pump it Up</title>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064011_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318120000 +0530" stop="20240318130000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Jashn-E-Sufi</title>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064012_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318130000 +0530" stop="20240318140000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Bhoomi 2</title>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064013_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318140000 +0530" stop="20240318150000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Bhoomi 1</title>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064014_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318150000 +0530" stop="20240318160000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Indie Showcase</title>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064015_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318160000 +0530" stop="20240318170000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Love Radio</title>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064016_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318170000 +0530" stop="20240318180000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Chill Station</title>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064017_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318180000 +0530" stop="20240318190000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Dance Kar Le</title>
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality &amp; Game Shows</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064018_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318190000 +0530" stop="20240318200000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Pump it Up</title>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064019_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318200000 +0530" stop="20240318210000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Bhoomi 1</title>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064020_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318210000 +0530" stop="20240318220000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Bhoomi 2</title>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064021_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318220000 +0530" stop="20240318230000 +0530" channel="MerchantRecords.in">
+    <title lang="en">Dance Kar Le</title>
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality &amp; Game Shows</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064022_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318230000 +0530" stop="20240318235959 +0530" channel="MerchantRecords.in">
+    <title lang="en">Pump it Up</title>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064023_s.jpg"/>
     <previously-shown/>
   </programme>
 </tv>

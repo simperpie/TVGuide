@@ -4,120 +4,12 @@
     <display-name lang="en">Pop Pataka</display-name>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pop_Pataka.png"/>
   </channel>
-  <programme start="20240315000000 +0530" stop="20240315030000 +0530" channel="PopPataka.in">
-    <title lang="en">Café Ishq</title>
-    <desc lang="en">Popular pop romantic songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152037000_s.jpg"/>
-    <previously-shown/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315030000 +0530" stop="20240315090000 +0530" channel="PopPataka.in">
-    <title lang="en">Non-Stop Pop</title>
-    <desc lang="en">Back to Back trending and popular Indian Pop songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152037001_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315090000 +0530" stop="20240315100000 +0530" channel="PopPataka.in">
-    <title lang="en">Pop Busters</title>
-    <desc lang="en">An hour of Trending &amp; New Pop releases</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152037002_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315100000 +0530" stop="20240315110000 +0530" channel="PopPataka.in">
-    <title lang="en">Amazing Acoustics</title>
-    <desc lang="en">The best of Acoustic &amp; Unplugged version of Hit B'wood tracks</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152037003_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315110000 +0530" stop="20240315130000 +0530" channel="PopPataka.in">
-    <title lang="en">Café Ishq</title>
-    <desc lang="en">Popular pop romantic songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152037004_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315130000 +0530" stop="20240315140000 +0530" channel="PopPataka.in">
-    <title lang="en">Pop Rewind</title>
-    <desc lang="en">90's Hit Indian Pop Tracks</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152037005_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315140000 +0530" stop="20240315160000 +0530" channel="PopPataka.in">
-    <title lang="en">Non-Stop Pop</title>
-    <desc lang="en">Back to Back trending and popular Indian Pop songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152037006_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315160000 +0530" stop="20240315170000 +0530" channel="PopPataka.in">
-    <title lang="en">Amazing Acoustics</title>
-    <desc lang="en">The best of Acoustic &amp; Unplugged version of Hit B'wood tracks</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152037007_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315170000 +0530" stop="20240315190000 +0530" channel="PopPataka.in">
-    <title lang="en">Café Ishq</title>
-    <desc lang="en">Popular pop romantic songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152037008_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315190000 +0530" stop="20240315200000 +0530" channel="PopPataka.in">
-    <title lang="en">Pop Busters</title>
-    <desc lang="en">An hour of Trending &amp; New Pop releases</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152037009_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315200000 +0530" stop="20240315230000 +0530" channel="PopPataka.in">
-    <title lang="en">Non-Stop Pop</title>
-    <desc lang="en">Back to Back trending and popular Indian Pop songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152037010_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315230000 +0530" stop="20240315235959 +0530" channel="PopPataka.in">
-    <title lang="en">Amazing Acoustics</title>
-    <desc lang="en">The best of Acoustic &amp; Unplugged version of Hit B'wood tracks</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-15/2403152037011_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20240316000000 +0530" stop="20240316030000 +0530" channel="PopPataka.in">
     <title lang="en">Café Ishq</title>
     <desc lang="en">Popular pop romantic songs</desc>
     <category lang="en">Devotional</category>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403162037000_s.jpg"/>
+    <previously-shown/>
     <rating system="CBFC">
       <value>U</value>
     </rating>
@@ -325,6 +217,114 @@
     <desc lang="en">The best of Acoustic &amp; Unplugged version of Hit B'wood tracks</desc>
     <category lang="en">Devotional</category>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403172037011_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318000000 +0530" stop="20240318030000 +0530" channel="PopPataka.in">
+    <title lang="en">Café Ishq</title>
+    <desc lang="en">Popular pop romantic songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182037000_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318030000 +0530" stop="20240318090000 +0530" channel="PopPataka.in">
+    <title lang="en">Non-Stop Pop</title>
+    <desc lang="en">Back to Back trending and popular Indian Pop songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182037001_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318090000 +0530" stop="20240318100000 +0530" channel="PopPataka.in">
+    <title lang="en">Pop Busters</title>
+    <desc lang="en">An hour of Trending &amp; New Pop releases</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182037002_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318100000 +0530" stop="20240318110000 +0530" channel="PopPataka.in">
+    <title lang="en">Amazing Acoustics</title>
+    <desc lang="en">The best of Acoustic &amp; Unplugged version of Hit B'wood tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182037003_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318110000 +0530" stop="20240318130000 +0530" channel="PopPataka.in">
+    <title lang="en">Café Ishq</title>
+    <desc lang="en">Popular pop romantic songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182037004_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318130000 +0530" stop="20240318140000 +0530" channel="PopPataka.in">
+    <title lang="en">Pop Rewind</title>
+    <desc lang="en">90's Hit Indian Pop Tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182037005_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318140000 +0530" stop="20240318160000 +0530" channel="PopPataka.in">
+    <title lang="en">Non-Stop Pop</title>
+    <desc lang="en">Back to Back trending and popular Indian Pop songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182037006_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318160000 +0530" stop="20240318170000 +0530" channel="PopPataka.in">
+    <title lang="en">Amazing Acoustics</title>
+    <desc lang="en">The best of Acoustic &amp; Unplugged version of Hit B'wood tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182037007_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318170000 +0530" stop="20240318190000 +0530" channel="PopPataka.in">
+    <title lang="en">Café Ishq</title>
+    <desc lang="en">Popular pop romantic songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182037008_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318190000 +0530" stop="20240318200000 +0530" channel="PopPataka.in">
+    <title lang="en">Pop Busters</title>
+    <desc lang="en">An hour of Trending &amp; New Pop releases</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182037009_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318200000 +0530" stop="20240318230000 +0530" channel="PopPataka.in">
+    <title lang="en">Non-Stop Pop</title>
+    <desc lang="en">Back to Back trending and popular Indian Pop songs</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182037010_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318230000 +0530" stop="20240318235959 +0530" channel="PopPataka.in">
+    <title lang="en">Amazing Acoustics</title>
+    <desc lang="en">The best of Acoustic &amp; Unplugged version of Hit B'wood tracks</desc>
+    <category lang="en">Devotional</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182037011_s.jpg"/>
     <rating system="CBFC">
       <value>U</value>
     </rating>

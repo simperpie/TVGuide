@@ -3,765 +3,85 @@
   <channel id="SuperHungama.in">
     <display-name lang="en">Super Hungama</display-name>
   </channel>
-  <programme start="20240315001500 +0530" stop="20240315003600 +0530" channel="SuperHungama.in">
-    <title lang="en">Kiteretsu</title>
-    <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
-    <episode-num system="xmltv_ns">.291.</episode-num>
-  </programme>
-  <programme start="20240315003600 +0530" stop="20240315005700 +0530" channel="SuperHungama.in">
-    <title lang="en">Kiteretsu</title>
-    <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
-    <episode-num system="xmltv_ns">.292.</episode-num>
-  </programme>
-  <programme start="20240315005700 +0530" stop="20240315011800 +0530" channel="SuperHungama.in">
-    <title lang="en">Kiteretsu</title>
-    <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
-    <episode-num system="xmltv_ns">.293.</episode-num>
-  </programme>
-  <programme start="20240315011800 +0530" stop="20240315013900 +0530" channel="SuperHungama.in">
-    <title lang="en">Kiteretsu</title>
-    <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
-    <episode-num system="xmltv_ns">.294.</episode-num>
-  </programme>
-  <programme start="20240315013900 +0530" stop="20240315020000 +0530" channel="SuperHungama.in">
-    <title lang="en">Kiteretsu</title>
-    <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
-    <episode-num system="xmltv_ns">.295.</episode-num>
-  </programme>
-  <programme start="20240315020000 +0530" stop="20240315021900 +0530" channel="SuperHungama.in">
-    <title lang="en">Bola Kampung</title>
-    <desc lang="en">A group of schoolboys who are passionate about football embark on an adventure beyond their small village with the arrival of their team's new coach.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/48F34C288C1D57506C226F653AA8B79995C7A1ACK.jpg"/>
-  </programme>
-  <programme start="20240315021900 +0530" stop="20240315023800 +0530" channel="SuperHungama.in">
-    <title lang="en">Bola Kampung</title>
-    <desc lang="en">A group of schoolboys who are passionate about football embark on an adventure beyond their small village with the arrival of their team's new coach.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/48F34C288C1D57506C226F653AA8B79995C7A1ACK.jpg"/>
-  </programme>
-  <programme start="20240315023800 +0530" stop="20240315025700 +0530" channel="SuperHungama.in">
-    <title lang="en">Bola Kampung</title>
-    <desc lang="en">A group of schoolboys who are passionate about football embark on an adventure beyond their small village with the arrival of their team's new coach.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/48F34C288C1D57506C226F653AA8B79995C7A1ACK.jpg"/>
-  </programme>
-  <programme start="20240315025700 +0530" stop="20240315031800 +0530" channel="SuperHungama.in">
-    <title lang="en">Gon The Stone Age Boy</title>
-    <desc lang="en">This episode features the adventurous stories of a mischievous young boy, Gon and his friend Dotechin.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/33F266790A5108EDE92D8EB056AA7E55B7FF27B5Z.jpg"/>
-  </programme>
-  <programme start="20240315031800 +0530" stop="20240315033900 +0530" channel="SuperHungama.in">
-    <title lang="en">Gon The Stone Age Boy</title>
-    <desc lang="en">Gon, a curious, mischievous young boy full of energy, lives with his mother, father and his girlfriend Piko. His life is full of adventures that he shares with his best friend Dotechin.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/33F266790A5108EDE92D8EB056AA7E55B7FF27B5Z.jpg"/>
-  </programme>
-  <programme start="20240315033900 +0530" stop="20240315040100 +0530" channel="SuperHungama.in">
-    <title lang="en">Gon The Stone Age Boy</title>
-    <desc lang="en">This episode features the adventurous stories of a mischievous young boy, Gon and his friend Dotechin.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/33F266790A5108EDE92D8EB056AA7E55B7FF27B5Z.jpg"/>
-  </programme>
-  <programme start="20240315040100 +0530" stop="20240315042000 +0530" channel="SuperHungama.in">
-    <title lang="en">Kick Buttowski: Suburban Daredevil</title>
-    <desc lang="en">Sleepy River Wild/ Power Play: Clarence Buttowski, a young boy, aspires to become the world's greatest daredevil, as he gets help from Gunther, his loyal friend and partner-in-crime.</desc>
-    <credits>
-      <actor>Charlie Schlatter</actor>
-      <actor>Matt L. Jones</actor>
-      <actor>Danny Cooksey</actor>
-      <actor>John DiMaggio</actor>
-      <actor>Eric Christian Olsen</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BAB2A75115C3E86C1A9F62C3DAD193EF65BA296FL.jpg"/>
-  </programme>
-  <programme start="20240315042000 +0530" stop="20240315044000 +0530" channel="SuperHungama.in">
-    <title lang="en">Kick Buttowski: Suburban Daredevil</title>
-    <desc lang="en">K-Nein/ Bromance: Clarence Buttowski, a young boy, aspires to become the world's greatest daredevil, as he gets help from Gunther, his loyal friend and partner-in-crime.</desc>
-    <credits>
-      <actor>Charlie Schlatter</actor>
-      <actor>Matt L. Jones</actor>
-      <actor>Danny Cooksey</actor>
-      <actor>John DiMaggio</actor>
-      <actor>Eric Christian Olsen</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BAB2A75115C3E86C1A9F62C3DAD193EF65BA296FL.jpg"/>
-  </programme>
-  <programme start="20240315044000 +0530" stop="20240315050000 +0530" channel="SuperHungama.in">
-    <title lang="en">Kick Buttowski: Suburban Daredevil</title>
-    <desc lang="en">Attic-a/ Free Gunther: Clarence Buttowski, a young boy, aspires to become the world's greatest daredevil, as he gets help from Gunther, his loyal friend and partner-in-crime.</desc>
-    <credits>
-      <actor>Charlie Schlatter</actor>
-      <actor>Matt L. Jones</actor>
-      <actor>Danny Cooksey</actor>
-      <actor>John DiMaggio</actor>
-      <actor>Eric Christian Olsen</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BAB2A75115C3E86C1A9F62C3DAD193EF65BA296FL.jpg"/>
-  </programme>
-  <programme start="20240315050000 +0530" stop="20240315052000 +0530" channel="SuperHungama.in">
-    <title lang="en">Phineas And Ferb</title>
-    <desc lang="en">Operation Crumb Cake/ Mandace: Isabella writes to Phineas admitting her feelings and then tries to get the letter back. Meanwhile, Doof invents an Inator to make him look like the pizza delivery boy.</desc>
-    <credits>
-      <actor>Vincent Martella</actor>
-      <actor>Thomas Brodie Sangster</actor>
-      <actor>Ashley Tisdale</actor>
-      <actor>Dee Bradley Baker</actor>
-      <actor>Dan Povenmire</actor>
-      <actor>Jeff Marsh</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7ADB37C316704C9E52E09CBB4BB778F1DFAD6E5F2.jpg"/>
-  </programme>
-  <programme start="20240315052000 +0530" stop="20240315054000 +0530" channel="SuperHungama.in">
-    <title lang="en">Phineas And Ferb</title>
-    <desc lang="en">Tales From The Resistance: Phineas, Ferb, Candace and her fighters must fight against a new enemy, after there is a new threat to the 2nd Dimension.</desc>
-    <credits>
-      <actor>Vincent Martella</actor>
-      <actor>Thomas Brodie Sangster</actor>
-      <actor>Ashley Tisdale</actor>
-      <actor>Dee Bradley Baker</actor>
-      <actor>Dan Povenmire</actor>
-      <actor>Jeff Marsh</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7ADB37C316704C9E52E09CBB4BB778F1DFAD6E5F2.jpg"/>
-  </programme>
-  <programme start="20240315054000 +0530" stop="20240315060000 +0530" channel="SuperHungama.in">
-    <title lang="en">Phineas And Ferb</title>
-    <desc lang="en">The Return Of The Rogue Rabbit/ Live And Let Drive: Phineas and Ferb embark on various adventures during their summer vacation, while trying to keep their sister from interfering with their plans.</desc>
-    <credits>
-      <actor>Vincent Martella</actor>
-      <actor>Thomas Brodie Sangster</actor>
-      <actor>Ashley Tisdale</actor>
-      <actor>Dee Bradley Baker</actor>
-      <actor>Dan Povenmire</actor>
-      <actor>Jeff Marsh</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7ADB37C316704C9E52E09CBB4BB778F1DFAD6E5F2.jpg"/>
-  </programme>
-  <programme start="20240315060000 +0530" stop="20240315062100 +0530" channel="SuperHungama.in">
-    <title lang="en">Supa Strikas</title>
-    <desc lang="en">To lift the Super League trophy, the world's greatest football team Supa Strikas, led by its striker Shakes, tries to understand the global origins of the game and meets its past and present players.</desc>
-    <credits>
-      <actor>Corny Rempel</actor>
-      <actor>Kevin Aichele</actor>
-      <actor>Nolan Balzer</actor>
-      <actor>Ryan DeLong</actor>
-      <actor>William Jordan</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
-  </programme>
-  <programme start="20240315062100 +0530" stop="20240315064100 +0530" channel="SuperHungama.in">
-    <title lang="en">Supa Strikas</title>
-    <desc lang="en">To lift the Super League trophy, the world's greatest football team Supa Strikas, led by its striker Shakes, tries to understand the global origins of the game and meets its past and present players.</desc>
-    <credits>
-      <actor>Corny Rempel</actor>
-      <actor>Kevin Aichele</actor>
-      <actor>Nolan Balzer</actor>
-      <actor>Ryan DeLong</actor>
-      <actor>William Jordan</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
-  </programme>
-  <programme start="20240315064100 +0530" stop="20240315070000 +0530" channel="SuperHungama.in">
-    <title lang="en">Supa Strikas</title>
-    <desc lang="en">To lift the Super League trophy, the world's greatest football team Supa Strikas, led by its striker Shakes, tries to understand the global origins of the game and meets its past and present players.</desc>
-    <credits>
-      <actor>Corny Rempel</actor>
-      <actor>Kevin Aichele</actor>
-      <actor>Nolan Balzer</actor>
-      <actor>Ryan DeLong</actor>
-      <actor>William Jordan</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
-  </programme>
-  <programme start="20240315070000 +0530" stop="20240315073400 +0530" channel="SuperHungama.in">
-    <title lang="en">Kiteretsu</title>
-    <desc lang="en">Butagorrila - The Alien: Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
-    <episode-num system="xmltv_ns">.7.</episode-num>
-  </programme>
-  <programme start="20240315073400 +0530" stop="20240315075400 +0530" channel="SuperHungama.in">
-    <title lang="en">Beyblade Generation 01</title>
-    <desc lang="en">Four teenagers skillfully manoeuvre Beyblades, the spinning tops and participate in various competitions whilst enjoying their adventures.</desc>
-    <credits>
-      <actor>Marlowe Gardiner-Heslin</actor>
-      <actor>Alex Hood</actor>
-      <actor>Gage Knox</actor>
-      <actor>Daniel DeSanto</actor>
-      <actor>David Reale</actor>
-      <actor>Julie Lemieux</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/95FBD755761F212C2CE1394F4151731A96DB6B41X.jpg"/>
-  </programme>
-  <programme start="20240315075400 +0530" stop="20240315081300 +0530" channel="SuperHungama.in">
-    <title lang="en">Beyblade Generation 01</title>
-    <desc lang="en">Four teenagers skillfully manoeuvre Beyblades, the spinning tops and participate in various competitions whilst enjoying their adventures.</desc>
-    <credits>
-      <actor>Marlowe Gardiner-Heslin</actor>
-      <actor>Alex Hood</actor>
-      <actor>Gage Knox</actor>
-      <actor>Daniel DeSanto</actor>
-      <actor>David Reale</actor>
-      <actor>Julie Lemieux</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/95FBD755761F212C2CE1394F4151731A96DB6B41X.jpg"/>
-  </programme>
-  <programme start="20240315081300 +0530" stop="20240315083200 +0530" channel="SuperHungama.in">
-    <title lang="en">Beyblade Generation 01</title>
-    <desc lang="en">Four teenagers skillfully manoeuvre Beyblades, the spinning tops and participate in various competitions whilst enjoying their adventures.</desc>
-    <credits>
-      <actor>Marlowe Gardiner-Heslin</actor>
-      <actor>Alex Hood</actor>
-      <actor>Gage Knox</actor>
-      <actor>Daniel DeSanto</actor>
-      <actor>David Reale</actor>
-      <actor>Julie Lemieux</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/95FBD755761F212C2CE1394F4151731A96DB6B41X.jpg"/>
-  </programme>
-  <programme start="20240315083200 +0530" stop="20240315090000 +0530" channel="SuperHungama.in">
-    <title lang="en">Ultimate Spider Man</title>
-    <desc lang="en">For Your Eye Only: After a year of being Spider-Man, Peter Parker gets the chance of a lifetime when Nick Fury offers him an opportunity to become a real superhero. However, he needs to train with four other champions.</desc>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D10BBDF7C98385CC41BD4900ED8ACD71B5B95B2B6.jpg"/>
-    <episode-num system="xmltv_ns">.14.</episode-num>
-  </programme>
-  <programme start="20240315090000 +0530" stop="20240315092000 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315092000 +0530" stop="20240315094000 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315094000 +0530" stop="20240315100000 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315100000 +0530" stop="20240315102800 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315102800 +0530" stop="20240315105400 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315105400 +0530" stop="20240315111400 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315111400 +0530" stop="20240315113400 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315113400 +0530" stop="20240315115400 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315115400 +0530" stop="20240315122200 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315122200 +0530" stop="20240315124200 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315124200 +0530" stop="20240315130200 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315130200 +0530" stop="20240315132200 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315132200 +0530" stop="20240315134200 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315134200 +0530" stop="20240315140200 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315140200 +0530" stop="20240315141300 +0530" channel="SuperHungama.in">
-    <title lang="en">Selfie With Bajrangi</title>
-    <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
-  </programme>
-  <programme start="20240315141300 +0530" stop="20240315142300 +0530" channel="SuperHungama.in">
-    <title lang="en">Selfie With Bajrangi</title>
-    <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
-  </programme>
-  <programme start="20240315142300 +0530" stop="20240315143400 +0530" channel="SuperHungama.in">
-    <title lang="en">Selfie With Bajrangi</title>
-    <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
-  </programme>
-  <programme start="20240315143400 +0530" stop="20240315144500 +0530" channel="SuperHungama.in">
-    <title lang="en">Selfie With Bajrangi</title>
-    <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
-  </programme>
-  <programme start="20240315144500 +0530" stop="20240315145600 +0530" channel="SuperHungama.in">
-    <title lang="en">Selfie With Bajrangi</title>
-    <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
-  </programme>
-  <programme start="20240315145600 +0530" stop="20240315151700 +0530" channel="SuperHungama.in">
-    <title lang="en">Ultimate Spider Man</title>
-    <desc lang="en">Not A Toy: After a year of being Spider-Man, Peter Parker gets the chance of a lifetime when Nick Fury offers him an opportunity to become a real superhero. However, he needs to train with four other champions.</desc>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D10BBDF7C98385CC41BD4900ED8ACD71B5B95B2B6.jpg"/>
-    <episode-num system="xmltv_ns">.22.</episode-num>
-  </programme>
-  <programme start="20240315151700 +0530" stop="20240315154500 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">The Moment Of Lumiose Truth!: A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315154500 +0530" stop="20240315160500 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">Garchomp's Mega Bond!: A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315160500 +0530" stop="20240315162600 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">Defending The Homeland!: A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315162600 +0530" stop="20240315164600 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">Beyond The Rainbow!: A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315164600 +0530" stop="20240315170600 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">So You're Having A Bad Day!: A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315170600 +0530" stop="20240315172600 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">Scary Hospitality!: A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315172600 +0530" stop="20240315175300 +0530" channel="SuperHungama.in">
-    <title lang="en">Beyblade Generation 3</title>
-    <desc lang="en">Four teenagers embark on adventures around the world to win a championship of Beyblade, spinning tops that have supernatural powers.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B22CCF04870DB2274AC841F0CFE9C0E8B469ED556.jpg"/>
-  </programme>
-  <programme start="20240315175300 +0530" stop="20240315181300 +0530" channel="SuperHungama.in">
-    <title lang="en">Beyblade Generation 3</title>
-    <desc lang="en">Four teenagers embark on adventures around the world to win a championship of Beyblade, spinning tops that have supernatural powers.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B22CCF04870DB2274AC841F0CFE9C0E8B469ED556.jpg"/>
-  </programme>
-  <programme start="20240315181300 +0530" stop="20240315183300 +0530" channel="SuperHungama.in">
-    <title lang="en">Beyblade Generation 3</title>
-    <desc lang="en">Four teenagers embark on adventures around the world to win a championship of Beyblade, spinning tops that have supernatural powers.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B22CCF04870DB2274AC841F0CFE9C0E8B469ED556.jpg"/>
-  </programme>
-  <programme start="20240315183300 +0530" stop="20240315190100 +0530" channel="SuperHungama.in">
-    <title lang="en">Beyblade Generation 3</title>
-    <desc lang="en">Four teenagers embark on adventures around the world to win a championship of Beyblade, spinning tops that have supernatural powers.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B22CCF04870DB2274AC841F0CFE9C0E8B469ED556.jpg"/>
-  </programme>
-  <programme start="20240315190100 +0530" stop="20240315191200 +0530" channel="SuperHungama.in">
-    <title lang="en">Selfie With Bajrangi</title>
-    <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
-  </programme>
-  <programme start="20240315191200 +0530" stop="20240315193000 +0530" channel="SuperHungama.in">
-    <title lang="en">Selfie With Bajrangi</title>
-    <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
-  </programme>
-  <programme start="20240315193000 +0530" stop="20240315195000 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315195000 +0530" stop="20240315201000 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315201000 +0530" stop="20240315203000 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315203000 +0530" stop="20240315205700 +0530" channel="SuperHungama.in">
-    <title lang="en">Pokemon</title>
-    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
-    <credits>
-      <actor>Ikue Otani</actor>
-      <actor>Rica Matsumoto</actor>
-      <actor>Rodger Parsons</actor>
-      <actor>Kayzie Rogers</actor>
-      <actor>Unsho Ishizuka</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
-  </programme>
-  <programme start="20240315205700 +0530" stop="20240315211700 +0530" channel="SuperHungama.in">
-    <title lang="en">Ultimate Spider Man</title>
-    <desc lang="en">Electro: After a year of being Spider-Man, Peter Parker gets the chance of a lifetime when Nick Fury offers him an opportunity to become a real superhero. However, he needs to train with four other champions.</desc>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D10BBDF7C98385CC41BD4900ED8ACD71B5B95B2B6.jpg"/>
-    <episode-num system="xmltv_ns">.27.</episode-num>
-  </programme>
-  <programme start="20240315211700 +0530" stop="20240315214500 +0530" channel="SuperHungama.in">
-    <title lang="en">Beyblade Generation 2</title>
-    <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
-    <episode-num system="xmltv_ns">.36.</episode-num>
-  </programme>
-  <programme start="20240315214500 +0530" stop="20240315221200 +0530" channel="SuperHungama.in">
-    <title lang="en">Beyblade Generation 2</title>
-    <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
-    <episode-num system="xmltv_ns">.37.</episode-num>
-  </programme>
-  <programme start="20240315221200 +0530" stop="20240315223200 +0530" channel="SuperHungama.in">
-    <title lang="en">Beyblade Generation 2</title>
-    <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
-    <episode-num system="xmltv_ns">.38.</episode-num>
-  </programme>
-  <programme start="20240315223200 +0530" stop="20240315230100 +0530" channel="SuperHungama.in">
-    <title lang="en">Beyblade Generation 2</title>
-    <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
-    <episode-num system="xmltv_ns">.39.</episode-num>
-  </programme>
-  <programme start="20240315230100 +0530" stop="20240315232200 +0530" channel="SuperHungama.in">
-    <title lang="en">Supa Strikas</title>
-    <desc lang="en">Wearing the captain's armband is a great honour for Dancing Rasta but he is concerned about his leadership abilities.</desc>
-    <credits>
-      <actor>Corny Rempel</actor>
-      <actor>Kevin Aichele</actor>
-      <actor>Nolan Balzer</actor>
-      <actor>Ryan DeLong</actor>
-      <actor>William Jordan</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
-  </programme>
-  <programme start="20240315232200 +0530" stop="20240315234200 +0530" channel="SuperHungama.in">
-    <title lang="en">Supa Strikas</title>
-    <desc lang="en">Funky Cool Joe gets into the rhythm before every game with his favourite song, but when the evil Toni Vern switches his record, the star player cannot understand why he is useless on the field.</desc>
-    <credits>
-      <actor>Corny Rempel</actor>
-      <actor>Kevin Aichele</actor>
-      <actor>Nolan Balzer</actor>
-      <actor>Ryan DeLong</actor>
-      <actor>William Jordan</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
-  </programme>
-  <programme start="20240315234200 +0530" stop="20240316000200 +0530" channel="SuperHungama.in">
-    <title lang="en">Supa Strikas</title>
-    <desc lang="en">In a beach game, the Supa Strikas are totally taken down. Now, the only person who can help them is a legend of the game who has been missing for 30 years.</desc>
-    <credits>
-      <actor>Corny Rempel</actor>
-      <actor>Kevin Aichele</actor>
-      <actor>Nolan Balzer</actor>
-      <actor>Ryan DeLong</actor>
-      <actor>William Jordan</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
-  </programme>
-  <programme start="20240316000000 +0530" stop="20240316003000 +0530" channel="SuperHungama.in">
+  <programme start="20240316000200 +0530" stop="20240316002300 +0530" channel="SuperHungama.in">
     <title lang="en">Kiteretsu</title>
     <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
     <episode-num system="xmltv_ns">.296.</episode-num>
   </programme>
-  <programme start="20240316003000 +0530" stop="20240316010000 +0530" channel="SuperHungama.in">
+  <programme start="20240316002300 +0530" stop="20240316004400 +0530" channel="SuperHungama.in">
     <title lang="en">Kiteretsu</title>
     <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
     <episode-num system="xmltv_ns">.297.</episode-num>
   </programme>
-  <programme start="20240316010000 +0530" stop="20240316013000 +0530" channel="SuperHungama.in">
+  <programme start="20240316004400 +0530" stop="20240316010500 +0530" channel="SuperHungama.in">
     <title lang="en">Kiteretsu</title>
     <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
     <episode-num system="xmltv_ns">.298.</episode-num>
   </programme>
-  <programme start="20240316013000 +0530" stop="20240316020000 +0530" channel="SuperHungama.in">
+  <programme start="20240316010500 +0530" stop="20240316012600 +0530" channel="SuperHungama.in">
     <title lang="en">Kiteretsu</title>
     <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
     <episode-num system="xmltv_ns">.299.</episode-num>
   </programme>
-  <programme start="20240316020000 +0530" stop="20240316023000 +0530" channel="SuperHungama.in">
+  <programme start="20240316012600 +0530" stop="20240316014700 +0530" channel="SuperHungama.in">
+    <title lang="en">Kiteretsu</title>
+    <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
+    <episode-num system="xmltv_ns">.300.</episode-num>
+  </programme>
+  <programme start="20240316014700 +0530" stop="20240316020800 +0530" channel="SuperHungama.in">
+    <title lang="en">Kiteretsu</title>
+    <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
+    <episode-num system="xmltv_ns">.301.</episode-num>
+  </programme>
+  <programme start="20240316020800 +0530" stop="20240316022700 +0530" channel="SuperHungama.in">
     <title lang="en">Bola Kampung</title>
     <desc lang="en">A group of schoolboys who are passionate about football embark on an adventure beyond their small village with the arrival of their team's new coach.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/48F34C288C1D57506C226F653AA8B79995C7A1ACK.jpg"/>
   </programme>
-  <programme start="20240316023000 +0530" stop="20240316030000 +0530" channel="SuperHungama.in">
+  <programme start="20240316022700 +0530" stop="20240316024500 +0530" channel="SuperHungama.in">
     <title lang="en">Bola Kampung</title>
     <desc lang="en">A group of schoolboys who are passionate about football embark on an adventure beyond their small village with the arrival of their team's new coach.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/48F34C288C1D57506C226F653AA8B79995C7A1ACK.jpg"/>
   </programme>
-  <programme start="20240316030000 +0530" stop="20240316033000 +0530" channel="SuperHungama.in">
+  <programme start="20240316024500 +0530" stop="20240316030400 +0530" channel="SuperHungama.in">
+    <title lang="en">Bola Kampung</title>
+    <desc lang="en">A group of schoolboys who are passionate about football embark on an adventure beyond their small village with the arrival of their team's new coach.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/48F34C288C1D57506C226F653AA8B79995C7A1ACK.jpg"/>
+  </programme>
+  <programme start="20240316030400 +0530" stop="20240316032500 +0530" channel="SuperHungama.in">
     <title lang="en">Gon The Stone Age Boy</title>
     <desc lang="en">Gon, a curious, mischievous young boy full of energy, lives with his mother, father and his girlfriend Piko. His life is full of adventures that he shares with his best friend Dotechin.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/33F266790A5108EDE92D8EB056AA7E55B7FF27B5Z.jpg"/>
   </programme>
-  <programme start="20240316033000 +0530" stop="20240316040000 +0530" channel="SuperHungama.in">
+  <programme start="20240316032500 +0530" stop="20240316034700 +0530" channel="SuperHungama.in">
     <title lang="en">Gon The Stone Age Boy</title>
     <desc lang="en">This episode features the adventurous stories of a mischievous young boy, Gon and his friend Dotechin.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/33F266790A5108EDE92D8EB056AA7E55B7FF27B5Z.jpg"/>
   </programme>
-  <programme start="20240316040000 +0530" stop="20240316043000 +0530" channel="SuperHungama.in">
+  <programme start="20240316034700 +0530" stop="20240316040800 +0530" channel="SuperHungama.in">
+    <title lang="en">Gon The Stone Age Boy</title>
+    <desc lang="en">This episode features the adventurous stories of a mischievous young boy, Gon and his friend Dotechin.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/33F266790A5108EDE92D8EB056AA7E55B7FF27B5Z.jpg"/>
+  </programme>
+  <programme start="20240316040800 +0530" stop="20240316042700 +0530" channel="SuperHungama.in">
     <title lang="en">Kick Buttowski: Suburban Daredevil</title>
     <desc lang="en">Swap Meet/ Bee Awesome!: Clarence Buttowski, a young boy, aspires to become the world's greatest daredevil, as he gets help from Gunther, his loyal friend and partner-in-crime.</desc>
     <credits>
@@ -774,7 +94,7 @@
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BAB2A75115C3E86C1A9F62C3DAD193EF65BA296FL.jpg"/>
   </programme>
-  <programme start="20240316043000 +0530" stop="20240316050000 +0530" channel="SuperHungama.in">
+  <programme start="20240316042700 +0530" stop="20240316044700 +0530" channel="SuperHungama.in">
     <title lang="en">Kick Buttowski: Suburban Daredevil</title>
     <desc lang="en">Poll Position/ Jock Wilder'S Nature Camp: Clarence Buttowski, a young boy, aspires to become the world's greatest daredevil, as he gets help from Gunther, his loyal friend and partner-in-crime.</desc>
     <credits>
@@ -787,7 +107,20 @@
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BAB2A75115C3E86C1A9F62C3DAD193EF65BA296FL.jpg"/>
   </programme>
-  <programme start="20240316050000 +0530" stop="20240316053000 +0530" channel="SuperHungama.in">
+  <programme start="20240316044700 +0530" stop="20240316045700 +0530" channel="SuperHungama.in">
+    <title lang="en">Kick Buttowski: Suburban Daredevil</title>
+    <desc lang="en">Trash Talk/ Nerves Of Steal: Clarence Buttowski, a young boy, aspires to become the world's greatest daredevil, as he gets help from Gunther, his loyal friend and partner-in-crime.</desc>
+    <credits>
+      <actor>Charlie Schlatter</actor>
+      <actor>Matt L. Jones</actor>
+      <actor>Danny Cooksey</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Eric Christian Olsen</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BAB2A75115C3E86C1A9F62C3DAD193EF65BA296FL.jpg"/>
+  </programme>
+  <programme start="20240316045700 +0530" stop="20240316051800 +0530" channel="SuperHungama.in">
     <title lang="en">Phineas And Ferb</title>
     <desc lang="en">Lost In Danville/ The Inator Method: A mysterious capsule falls into Phineas and Ferb's back yard and unleashes something they cannot control. Perry also discovers that Doofenshmirtz has been abducted.</desc>
     <credits>
@@ -801,7 +134,7 @@
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7ADB37C316704C9E52E09CBB4BB778F1DFAD6E5F2.jpg"/>
   </programme>
-  <programme start="20240316053000 +0530" stop="20240316060000 +0530" channel="SuperHungama.in">
+  <programme start="20240316051800 +0530" stop="20240316053900 +0530" channel="SuperHungama.in">
     <title lang="en">Phineas And Ferb</title>
     <desc lang="en">Act Your Age: Phineas, a teenager, must decide which college he wants to go to.</desc>
     <credits>
@@ -815,7 +148,21 @@
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7ADB37C316704C9E52E09CBB4BB778F1DFAD6E5F2.jpg"/>
   </programme>
-  <programme start="20240316060000 +0530" stop="20240316063000 +0530" channel="SuperHungama.in">
+  <programme start="20240316053900 +0530" stop="20240316060000 +0530" channel="SuperHungama.in">
+    <title lang="en">Phineas And Ferb</title>
+    <desc lang="en">Phineas &amp; Ferb Save Summer: Phineas and Ferb embark on various adventures during their summer vacation, while trying to keep their sister from interfering with their plans.</desc>
+    <credits>
+      <actor>Vincent Martella</actor>
+      <actor>Thomas Brodie Sangster</actor>
+      <actor>Ashley Tisdale</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Dan Povenmire</actor>
+      <actor>Jeff Marsh</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7ADB37C316704C9E52E09CBB4BB778F1DFAD6E5F2.jpg"/>
+  </programme>
+  <programme start="20240316060000 +0530" stop="20240316062100 +0530" channel="SuperHungama.in">
     <title lang="en">Supa Strikas</title>
     <desc lang="en">To lift the Super League trophy, the world's greatest football team Supa Strikas, led by its striker Shakes, tries to understand the global origins of the game and meets its past and present players.</desc>
     <credits>
@@ -828,7 +175,7 @@
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
   </programme>
-  <programme start="20240316063000 +0530" stop="20240316070000 +0530" channel="SuperHungama.in">
+  <programme start="20240316062100 +0530" stop="20240316064100 +0530" channel="SuperHungama.in">
     <title lang="en">Supa Strikas</title>
     <desc lang="en">To lift the Super League trophy, the world's greatest football team Supa Strikas, led by its striker Shakes, tries to understand the global origins of the game and meets its past and present players.</desc>
     <credits>
@@ -841,35 +188,55 @@
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
   </programme>
-  <programme start="20240316070000 +0530" stop="20240316073000 +0530" channel="SuperHungama.in">
+  <programme start="20240316064100 +0530" stop="20240316070000 +0530" channel="SuperHungama.in">
+    <title lang="en">Supa Strikas</title>
+    <desc lang="en">To lift the Super League trophy, the world's greatest football team Supa Strikas, led by its striker Shakes, tries to understand the global origins of the game and meets its past and present players.</desc>
+    <credits>
+      <actor>Corny Rempel</actor>
+      <actor>Kevin Aichele</actor>
+      <actor>Nolan Balzer</actor>
+      <actor>Ryan DeLong</actor>
+      <actor>William Jordan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
+  </programme>
+  <programme start="20240316070000 +0530" stop="20240316073400 +0530" channel="SuperHungama.in">
     <title lang="en">Kiteretsu</title>
     <desc lang="en">Butagorrila - The Alien: Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
     <episode-num system="xmltv_ns">.7.</episode-num>
   </programme>
-  <programme start="20240316073000 +0530" stop="20240316080000 +0530" channel="SuperHungama.in">
+  <programme start="20240316073400 +0530" stop="20240316075400 +0530" channel="SuperHungama.in">
     <title lang="en">Beyblade Generation 1</title>
     <desc lang="en">Four teenagers and their intelligent friend Kenny encounter various adventures as they compete to win a championship of Beyblade.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/023F0F7AED99A34615F76280D46A94A72ED23271X.jpg"/>
     <episode-num system="xmltv_ns">.126.</episode-num>
   </programme>
-  <programme start="20240316080000 +0530" stop="20240316083000 +0530" channel="SuperHungama.in">
+  <programme start="20240316075400 +0530" stop="20240316081300 +0530" channel="SuperHungama.in">
     <title lang="en">Beyblade Generation 1</title>
     <desc lang="en">Four teenagers and their intelligent friend Kenny encounter various adventures as they compete to win a championship of Beyblade.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/023F0F7AED99A34615F76280D46A94A72ED23271X.jpg"/>
     <episode-num system="xmltv_ns">.127.</episode-num>
   </programme>
-  <programme start="20240316083000 +0530" stop="20240316090000 +0530" channel="SuperHungama.in">
+  <programme start="20240316081300 +0530" stop="20240316083200 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 1</title>
+    <desc lang="en">Four teenagers and their intelligent friend Kenny encounter various adventures as they compete to win a championship of Beyblade.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/023F0F7AED99A34615F76280D46A94A72ED23271X.jpg"/>
+    <episode-num system="xmltv_ns">.128.</episode-num>
+  </programme>
+  <programme start="20240316083200 +0530" stop="20240316090000 +0530" channel="SuperHungama.in">
     <title lang="en">Ultimate Spider Man</title>
     <desc lang="en">For Your Eye Only: After a year of being Spider-Man, Peter Parker gets the chance of a lifetime when Nick Fury offers him an opportunity to become a real superhero. However, he needs to train with four other champions.</desc>
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D10BBDF7C98385CC41BD4900ED8ACD71B5B95B2B6.jpg"/>
     <episode-num system="xmltv_ns">.14.</episode-num>
   </programme>
-  <programme start="20240316090000 +0530" stop="20240316093000 +0530" channel="SuperHungama.in">
+  <programme start="20240316090000 +0530" stop="20240316092000 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -882,7 +249,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316093000 +0530" stop="20240316100000 +0530" channel="SuperHungama.in">
+  <programme start="20240316092000 +0530" stop="20240316094000 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -895,7 +262,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316100000 +0530" stop="20240316103000 +0530" channel="SuperHungama.in">
+  <programme start="20240316094000 +0530" stop="20240316100000 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -908,7 +275,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316103000 +0530" stop="20240316110000 +0530" channel="SuperHungama.in">
+  <programme start="20240316100000 +0530" stop="20240316102800 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -921,7 +288,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316110000 +0530" stop="20240316113000 +0530" channel="SuperHungama.in">
+  <programme start="20240316102800 +0530" stop="20240316105400 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -934,7 +301,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316113000 +0530" stop="20240316120000 +0530" channel="SuperHungama.in">
+  <programme start="20240316105400 +0530" stop="20240316111400 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -947,7 +314,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316120000 +0530" stop="20240316123000 +0530" channel="SuperHungama.in">
+  <programme start="20240316111400 +0530" stop="20240316113400 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -960,7 +327,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316123000 +0530" stop="20240316130000 +0530" channel="SuperHungama.in">
+  <programme start="20240316113400 +0530" stop="20240316115400 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -973,7 +340,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316130000 +0530" stop="20240316133000 +0530" channel="SuperHungama.in">
+  <programme start="20240316115400 +0530" stop="20240316122200 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -986,7 +353,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316133000 +0530" stop="20240316140000 +0530" channel="SuperHungama.in">
+  <programme start="20240316122200 +0530" stop="20240316124200 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -999,26 +366,96 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316140000 +0530" stop="20240316141500 +0530" channel="SuperHungama.in">
+  <programme start="20240316124200 +0530" stop="20240316130200 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240316130200 +0530" stop="20240316132200 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240316132200 +0530" stop="20240316134200 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240316134200 +0530" stop="20240316140200 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240316140200 +0530" stop="20240316141300 +0530" channel="SuperHungama.in">
     <title lang="en">Selfie With Bajrangi</title>
     <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
   </programme>
-  <programme start="20240316141500 +0530" stop="20240316150000 +0530" channel="SuperHungama.in">
+  <programme start="20240316141300 +0530" stop="20240316142300 +0530" channel="SuperHungama.in">
     <title lang="en">Selfie With Bajrangi</title>
     <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
   </programme>
-  <programme start="20240316150000 +0530" stop="20240316153000 +0530" channel="SuperHungama.in">
+  <programme start="20240316142300 +0530" stop="20240316143400 +0530" channel="SuperHungama.in">
+    <title lang="en">Selfie With Bajrangi</title>
+    <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
+  </programme>
+  <programme start="20240316143400 +0530" stop="20240316144500 +0530" channel="SuperHungama.in">
+    <title lang="en">Selfie With Bajrangi</title>
+    <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
+  </programme>
+  <programme start="20240316144500 +0530" stop="20240316145600 +0530" channel="SuperHungama.in">
+    <title lang="en">Selfie With Bajrangi</title>
+    <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
+  </programme>
+  <programme start="20240316145600 +0530" stop="20240316151700 +0530" channel="SuperHungama.in">
     <title lang="en">Ultimate Spider Man</title>
     <desc lang="en">Not A Toy: After a year of being Spider-Man, Peter Parker gets the chance of a lifetime when Nick Fury offers him an opportunity to become a real superhero. However, he needs to train with four other champions.</desc>
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D10BBDF7C98385CC41BD4900ED8ACD71B5B95B2B6.jpg"/>
     <episode-num system="xmltv_ns">.22.</episode-num>
   </programme>
-  <programme start="20240316153000 +0530" stop="20240316160000 +0530" channel="SuperHungama.in">
+  <programme start="20240316151700 +0530" stop="20240316154500 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">The Moment Of Lumiose Truth!: A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -1031,7 +468,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316160000 +0530" stop="20240316163000 +0530" channel="SuperHungama.in">
+  <programme start="20240316154500 +0530" stop="20240316160500 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">Garchomp's Mega Bond!: A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -1044,7 +481,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316163000 +0530" stop="20240316170000 +0530" channel="SuperHungama.in">
+  <programme start="20240316160500 +0530" stop="20240316162600 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">Defending The Homeland!: A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -1057,7 +494,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316170000 +0530" stop="20240316173000 +0530" channel="SuperHungama.in">
+  <programme start="20240316162600 +0530" stop="20240316164600 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">Beyond The Rainbow!: A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -1070,37 +507,69 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316173000 +0530" stop="20240316180000 +0530" channel="SuperHungama.in">
+  <programme start="20240316164600 +0530" stop="20240316170600 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">So You're Having A Bad Day!: A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240316170600 +0530" stop="20240316172600 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">Scary Hospitality!: A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240316172600 +0530" stop="20240316175300 +0530" channel="SuperHungama.in">
     <title lang="en">Beyblade Generation 3</title>
     <desc lang="en">Four teenagers embark on adventures around the world to win a championship of Beyblade, spinning tops that have supernatural powers.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B22CCF04870DB2274AC841F0CFE9C0E8B469ED556.jpg"/>
   </programme>
-  <programme start="20240316180000 +0530" stop="20240316183000 +0530" channel="SuperHungama.in">
+  <programme start="20240316175300 +0530" stop="20240316181300 +0530" channel="SuperHungama.in">
     <title lang="en">Beyblade Generation 3</title>
     <desc lang="en">Four teenagers embark on adventures around the world to win a championship of Beyblade, spinning tops that have supernatural powers.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B22CCF04870DB2274AC841F0CFE9C0E8B469ED556.jpg"/>
   </programme>
-  <programme start="20240316183000 +0530" stop="20240316190000 +0530" channel="SuperHungama.in">
+  <programme start="20240316181300 +0530" stop="20240316183300 +0530" channel="SuperHungama.in">
     <title lang="en">Beyblade Generation 3</title>
     <desc lang="en">Four teenagers embark on adventures around the world to win a championship of Beyblade, spinning tops that have supernatural powers.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B22CCF04870DB2274AC841F0CFE9C0E8B469ED556.jpg"/>
   </programme>
-  <programme start="20240316190000 +0530" stop="20240316191500 +0530" channel="SuperHungama.in">
+  <programme start="20240316183300 +0530" stop="20240316190100 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 3</title>
+    <desc lang="en">Four teenagers embark on adventures around the world to win a championship of Beyblade, spinning tops that have supernatural powers.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B22CCF04870DB2274AC841F0CFE9C0E8B469ED556.jpg"/>
+  </programme>
+  <programme start="20240316190100 +0530" stop="20240316191200 +0530" channel="SuperHungama.in">
     <title lang="en">Selfie With Bajrangi</title>
     <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
   </programme>
-  <programme start="20240316191500 +0530" stop="20240316193000 +0530" channel="SuperHungama.in">
+  <programme start="20240316191200 +0530" stop="20240316193000 +0530" channel="SuperHungama.in">
     <title lang="en">Selfie With Bajrangi</title>
     <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
   </programme>
-  <programme start="20240316193000 +0530" stop="20240316200000 +0530" channel="SuperHungama.in">
+  <programme start="20240316193000 +0530" stop="20240316195000 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -1113,7 +582,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316200000 +0530" stop="20240316203000 +0530" channel="SuperHungama.in">
+  <programme start="20240316195000 +0530" stop="20240316201000 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -1126,7 +595,7 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316203000 +0530" stop="20240316210000 +0530" channel="SuperHungama.in">
+  <programme start="20240316201000 +0530" stop="20240316203000 +0530" channel="SuperHungama.in">
     <title lang="en">Pokemon</title>
     <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
     <credits>
@@ -1139,37 +608,57 @@
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
   </programme>
-  <programme start="20240316210000 +0530" stop="20240316213000 +0530" channel="SuperHungama.in">
+  <programme start="20240316203000 +0530" stop="20240316205700 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240316205700 +0530" stop="20240316211700 +0530" channel="SuperHungama.in">
     <title lang="en">Ultimate Spider Man</title>
     <desc lang="en">Electro: After a year of being Spider-Man, Peter Parker gets the chance of a lifetime when Nick Fury offers him an opportunity to become a real superhero. However, he needs to train with four other champions.</desc>
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D10BBDF7C98385CC41BD4900ED8ACD71B5B95B2B6.jpg"/>
     <episode-num system="xmltv_ns">.27.</episode-num>
   </programme>
-  <programme start="20240316213000 +0530" stop="20240316220000 +0530" channel="SuperHungama.in">
+  <programme start="20240316211700 +0530" stop="20240316214500 +0530" channel="SuperHungama.in">
     <title lang="en">Beyblade Generation 2</title>
     <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
     <episode-num system="xmltv_ns">.36.</episode-num>
   </programme>
-  <programme start="20240316220000 +0530" stop="20240316223000 +0530" channel="SuperHungama.in">
+  <programme start="20240316214500 +0530" stop="20240316221200 +0530" channel="SuperHungama.in">
     <title lang="en">Beyblade Generation 2</title>
     <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
     <episode-num system="xmltv_ns">.37.</episode-num>
   </programme>
-  <programme start="20240316223000 +0530" stop="20240316230000 +0530" channel="SuperHungama.in">
+  <programme start="20240316221200 +0530" stop="20240316223200 +0530" channel="SuperHungama.in">
     <title lang="en">Beyblade Generation 2</title>
     <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
     <episode-num system="xmltv_ns">.38.</episode-num>
   </programme>
-  <programme start="20240316230000 +0530" stop="20240316233000 +0530" channel="SuperHungama.in">
+  <programme start="20240316223200 +0530" stop="20240316230100 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 2</title>
+    <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
+  </programme>
+  <programme start="20240316230100 +0530" stop="20240316232200 +0530" channel="SuperHungama.in">
     <title lang="en">Supa Strikas</title>
-    <desc lang="en">To lift the Super League trophy, the world's greatest football team Supa Strikas, led by its striker Shakes, tries to understand the global origins of the game and meets its past and present players.</desc>
+    <desc lang="en">Wearing the captain's armband is a great honour for Dancing Rasta but he is concerned about his leadership abilities.</desc>
     <credits>
       <actor>Corny Rempel</actor>
       <actor>Kevin Aichele</actor>
@@ -1180,9 +669,22 @@
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
   </programme>
-  <programme start="20240316233000 +0530" stop="20240317000700 +0530" channel="SuperHungama.in">
+  <programme start="20240316232200 +0530" stop="20240316234200 +0530" channel="SuperHungama.in">
     <title lang="en">Supa Strikas</title>
-    <desc lang="en">To lift the Super League trophy, the world's greatest football team Supa Strikas, led by its striker Shakes, tries to understand the global origins of the game and meets its past and present players.</desc>
+    <desc lang="en">Funky Cool Joe gets into the rhythm before every game with his favourite song, but when the evil Toni Vern switches his record, the star player cannot understand why he is useless on the field.</desc>
+    <credits>
+      <actor>Corny Rempel</actor>
+      <actor>Kevin Aichele</actor>
+      <actor>Nolan Balzer</actor>
+      <actor>Ryan DeLong</actor>
+      <actor>William Jordan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
+  </programme>
+  <programme start="20240316234200 +0530" stop="20240317000700 +0530" channel="SuperHungama.in">
+    <title lang="en">Supa Strikas</title>
+    <desc lang="en">In a beach game, the Supa Strikas are totally taken down. Now, the only person who can help them is a legend of the game who has been missing for 30 years.</desc>
     <credits>
       <actor>Corny Rempel</actor>
       <actor>Kevin Aichele</actor>
@@ -1869,5 +1371,661 @@
     </credits>
     <category lang="en">Animation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318000400 +0530" stop="20240318002600 +0530" channel="SuperHungama.in">
+    <title lang="en">Kiteretsu</title>
+    <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
+    <episode-num system="xmltv_ns">.296.</episode-num>
+  </programme>
+  <programme start="20240318002600 +0530" stop="20240318004700 +0530" channel="SuperHungama.in">
+    <title lang="en">Kiteretsu</title>
+    <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
+    <episode-num system="xmltv_ns">.297.</episode-num>
+  </programme>
+  <programme start="20240318004700 +0530" stop="20240318010800 +0530" channel="SuperHungama.in">
+    <title lang="en">Kiteretsu</title>
+    <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
+    <episode-num system="xmltv_ns">.298.</episode-num>
+  </programme>
+  <programme start="20240318010800 +0530" stop="20240318012900 +0530" channel="SuperHungama.in">
+    <title lang="en">Kiteretsu</title>
+    <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
+    <episode-num system="xmltv_ns">.299.</episode-num>
+  </programme>
+  <programme start="20240318012900 +0530" stop="20240318014900 +0530" channel="SuperHungama.in">
+    <title lang="en">Kiteretsu</title>
+    <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
+    <episode-num system="xmltv_ns">.300.</episode-num>
+  </programme>
+  <programme start="20240318014900 +0530" stop="20240318021000 +0530" channel="SuperHungama.in">
+    <title lang="en">Kiteretsu</title>
+    <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
+    <episode-num system="xmltv_ns">.301.</episode-num>
+  </programme>
+  <programme start="20240318021000 +0530" stop="20240318022900 +0530" channel="SuperHungama.in">
+    <title lang="en">Bola Kampung Xtreme</title>
+    <desc lang="en">Iwan and his friends enjoy playing football in the lanes of their village. However, when their principal and coach request the team to represent their school, Iwan's father refuses to permit him.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/43579556BDB625599BFADA02B45BF983757C945AT.jpg"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20240318022900 +0530" stop="20240318024800 +0530" channel="SuperHungama.in">
+    <title lang="en">Bola Kampung Xtreme</title>
+    <desc lang="en">Iwan and his friends enjoy playing football in the lanes of their village. However, when their principal and coach request the team to represent their school, Iwan's father refuses to permit him.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/43579556BDB625599BFADA02B45BF983757C945AT.jpg"/>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20240318024800 +0530" stop="20240318030700 +0530" channel="SuperHungama.in">
+    <title lang="en">Bola Kampung Xtreme</title>
+    <desc lang="en">Iwan and his friends enjoy playing football in the lanes of their village. However, when their principal and coach request the team to represent their school, Iwan's father refuses to permit him.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/43579556BDB625599BFADA02B45BF983757C945AT.jpg"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20240318030700 +0530" stop="20240318032500 +0530" channel="SuperHungama.in">
+    <title lang="en">Bola Kampung Xtreme</title>
+    <desc lang="en">Iwan and his friends enjoy playing football in the lanes of their village. However, when their principal and coach request the team to represent their school, Iwan's father refuses to permit him.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/43579556BDB625599BFADA02B45BF983757C945AT.jpg"/>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20240318032500 +0530" stop="20240318033600 +0530" channel="SuperHungama.in">
+    <title lang="en">Chacha Chaudhary</title>
+    <desc lang="en">Chacha Chaudhary is a wise old man who offers his solutions to various problems and helps people by defeating the villains with his alien friend Sabu.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDBB8FC35E01996F26905B0A74775E3655D906DDY.jpg"/>
+  </programme>
+  <programme start="20240318033600 +0530" stop="20240318034800 +0530" channel="SuperHungama.in">
+    <title lang="en">Chacha Chaudhary</title>
+    <desc lang="en">Chacha Chaudhary is a wise old man who offers his solutions to various problems and helps people by defeating the villains with his alien friend Sabu.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDBB8FC35E01996F26905B0A74775E3655D906DDY.jpg"/>
+  </programme>
+  <programme start="20240318034800 +0530" stop="20240318035900 +0530" channel="SuperHungama.in">
+    <title lang="en">Chacha Chaudhary</title>
+    <desc lang="en">Chacha Chaudhary is a wise old man who offers his solutions to various problems and helps people by defeating the villains with his alien friend Sabu.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDBB8FC35E01996F26905B0A74775E3655D906DDY.jpg"/>
+  </programme>
+  <programme start="20240318035900 +0530" stop="20240318041000 +0530" channel="SuperHungama.in">
+    <title lang="en">Chacha Chaudhary</title>
+    <desc lang="en">Chacha Chaudhary is a wise old man who offers his solutions to various problems and helps people by defeating the villains with his alien friend Sabu.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDBB8FC35E01996F26905B0A74775E3655D906DDY.jpg"/>
+  </programme>
+  <programme start="20240318041000 +0530" stop="20240318042100 +0530" channel="SuperHungama.in">
+    <title lang="en">Chacha Chaudhary</title>
+    <desc lang="en">Chacha Chaudhary is a wise old man who offers his solutions to various problems and helps people by defeating the villains with his alien friend Sabu.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDBB8FC35E01996F26905B0A74775E3655D906DDY.jpg"/>
+  </programme>
+  <programme start="20240318042100 +0530" stop="20240318043300 +0530" channel="SuperHungama.in">
+    <title lang="en">Chacha Chaudhary</title>
+    <desc lang="en">Chacha Chaudhary is a wise old man who offers his solutions to various problems and helps people by defeating the villains with his alien friend Sabu.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDBB8FC35E01996F26905B0A74775E3655D906DDY.jpg"/>
+  </programme>
+  <programme start="20240318043300 +0530" stop="20240318044400 +0530" channel="SuperHungama.in">
+    <title lang="en">Chacha Chaudhary</title>
+    <desc lang="en">Chacha Chaudhary is a wise old man who offers his solutions to various problems and helps people by defeating the villains with his alien friend Sabu.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDBB8FC35E01996F26905B0A74775E3655D906DDY.jpg"/>
+  </programme>
+  <programme start="20240318044400 +0530" stop="20240318045400 +0530" channel="SuperHungama.in">
+    <title lang="en">Chacha Chaudhary</title>
+    <desc lang="en">Chacha Chaudhary is a wise old man who offers his solutions to various problems and helps people by defeating the villains with his alien friend Sabu.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDBB8FC35E01996F26905B0A74775E3655D906DDY.jpg"/>
+  </programme>
+  <programme start="20240318045400 +0530" stop="20240318050500 +0530" channel="SuperHungama.in">
+    <title lang="en">Chacha Chaudhary</title>
+    <desc lang="en">Chacha Chaudhary is a wise old man who offers his solutions to various problems and helps people by defeating the villains with his alien friend Sabu.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDBB8FC35E01996F26905B0A74775E3655D906DDY.jpg"/>
+  </programme>
+  <programme start="20240318050500 +0530" stop="20240318051600 +0530" channel="SuperHungama.in">
+    <title lang="en">Chacha Chaudhary</title>
+    <desc lang="en">Chacha Chaudhary is a wise old man who offers his solutions to various problems and helps people by defeating the villains with his alien friend Sabu.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDBB8FC35E01996F26905B0A74775E3655D906DDY.jpg"/>
+  </programme>
+  <programme start="20240318051600 +0530" stop="20240318052700 +0530" channel="SuperHungama.in">
+    <title lang="en">Chacha Chaudhary</title>
+    <desc lang="en">Chacha Chaudhary is a wise old man who offers his solutions to various problems and helps people by defeating the villains with his alien friend Sabu.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDBB8FC35E01996F26905B0A74775E3655D906DDY.jpg"/>
+  </programme>
+  <programme start="20240318052700 +0530" stop="20240318053800 +0530" channel="SuperHungama.in">
+    <title lang="en">Chacha Chaudhary</title>
+    <desc lang="en">Chacha Chaudhary is a wise old man who offers his solutions to various problems and helps people by defeating the villains with his alien friend Sabu.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDBB8FC35E01996F26905B0A74775E3655D906DDY.jpg"/>
+  </programme>
+  <programme start="20240318053800 +0530" stop="20240318054900 +0530" channel="SuperHungama.in">
+    <title lang="en">Chacha Chaudhary</title>
+    <desc lang="en">Chacha Chaudhary is a wise old man who offers his solutions to various problems and helps people by defeating the villains with his alien friend Sabu.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDBB8FC35E01996F26905B0A74775E3655D906DDY.jpg"/>
+  </programme>
+  <programme start="20240318054900 +0530" stop="20240318060000 +0530" channel="SuperHungama.in">
+    <title lang="en">Chacha Chaudhary</title>
+    <desc lang="en">Chacha Chaudhary is a wise old man who offers his solutions to various problems and helps people by defeating the villains with his alien friend Sabu.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDBB8FC35E01996F26905B0A74775E3655D906DDY.jpg"/>
+  </programme>
+  <programme start="20240318060000 +0530" stop="20240318062000 +0530" channel="SuperHungama.in">
+    <title lang="en">Supa Strikas</title>
+    <desc lang="en">To lift the Super League trophy, the world's greatest football team Supa Strikas, led by its striker Shakes, tries to understand the global origins of the game and meets its past and present players.</desc>
+    <credits>
+      <actor>Corny Rempel</actor>
+      <actor>Kevin Aichele</actor>
+      <actor>Nolan Balzer</actor>
+      <actor>Ryan DeLong</actor>
+      <actor>William Jordan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
+  </programme>
+  <programme start="20240318062000 +0530" stop="20240318064000 +0530" channel="SuperHungama.in">
+    <title lang="en">Supa Strikas</title>
+    <desc lang="en">To lift the Super League trophy, the world's greatest football team Supa Strikas, led by its striker Shakes, tries to understand the global origins of the game and meets its past and present players.</desc>
+    <credits>
+      <actor>Corny Rempel</actor>
+      <actor>Kevin Aichele</actor>
+      <actor>Nolan Balzer</actor>
+      <actor>Ryan DeLong</actor>
+      <actor>William Jordan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
+  </programme>
+  <programme start="20240318064000 +0530" stop="20240318070000 +0530" channel="SuperHungama.in">
+    <title lang="en">Supa Strikas</title>
+    <desc lang="en">To lift the Super League trophy, the world's greatest football team Supa Strikas, led by its striker Shakes, tries to understand the global origins of the game and meets its past and present players.</desc>
+    <credits>
+      <actor>Corny Rempel</actor>
+      <actor>Kevin Aichele</actor>
+      <actor>Nolan Balzer</actor>
+      <actor>Ryan DeLong</actor>
+      <actor>William Jordan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
+  </programme>
+  <programme start="20240318070000 +0530" stop="20240318072700 +0530" channel="SuperHungama.in">
+    <title lang="en">Kiteretsu</title>
+    <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
+    <episode-num system="xmltv_ns">.219.</episode-num>
+  </programme>
+  <programme start="20240318072700 +0530" stop="20240318074800 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318074800 +0530" stop="20240318081200 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318081200 +0530" stop="20240318083200 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318083200 +0530" stop="20240318085400 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318085400 +0530" stop="20240318100800 +0530" channel="SuperHungama.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318100800 +0530" stop="20240318103300 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 2</title>
+    <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
+    <episode-num system="xmltv_ns">.154.</episode-num>
+  </programme>
+  <programme start="20240318103300 +0530" stop="20240318105700 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 2</title>
+    <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
+    <episode-num system="xmltv_ns">.155.</episode-num>
+  </programme>
+  <programme start="20240318105700 +0530" stop="20240318111800 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 2</title>
+    <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
+    <episode-num system="xmltv_ns">.156.</episode-num>
+  </programme>
+  <programme start="20240318111800 +0530" stop="20240318113900 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 2</title>
+    <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
+    <episode-num system="xmltv_ns">.157.</episode-num>
+  </programme>
+  <programme start="20240318113900 +0530" stop="20240318115800 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318115800 +0530" stop="20240318121900 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318121900 +0530" stop="20240318123800 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318123800 +0530" stop="20240318125700 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318125700 +0530" stop="20240318131600 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318131600 +0530" stop="20240318133600 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318133600 +0530" stop="20240318140200 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 3</title>
+    <desc lang="en">Four teenagers embark on adventures around the world to win a championship of Beyblade, spinning tops that have supernatural powers.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B22CCF04870DB2274AC841F0CFE9C0E8B469ED556.jpg"/>
+  </programme>
+  <programme start="20240318140200 +0530" stop="20240318142100 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 3</title>
+    <desc lang="en">Four teenagers embark on adventures around the world to win a championship of Beyblade, spinning tops that have supernatural powers.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B22CCF04870DB2274AC841F0CFE9C0E8B469ED556.jpg"/>
+  </programme>
+  <programme start="20240318142100 +0530" stop="20240318144000 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 3</title>
+    <desc lang="en">Four teenagers embark on adventures around the world to win a championship of Beyblade, spinning tops that have supernatural powers.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B22CCF04870DB2274AC841F0CFE9C0E8B469ED556.jpg"/>
+  </programme>
+  <programme start="20240318144000 +0530" stop="20240318145100 +0530" channel="SuperHungama.in">
+    <title lang="en">Selfie With Bajrangi</title>
+    <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
+  </programme>
+  <programme start="20240318145100 +0530" stop="20240318150200 +0530" channel="SuperHungama.in">
+    <title lang="en">Selfie With Bajrangi</title>
+    <desc lang="en">Ankush's life changes when he meets a mysterious nine-year-old child named Bajrangi, who is visible to nobody but him alone.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6056C6358F33F85BF17D69FF8FECBC4960EFFE6EJ.jpg"/>
+  </programme>
+  <programme start="20240318150200 +0530" stop="20240318152200 +0530" channel="SuperHungama.in">
+    <title lang="en">Ultimate Spider Man</title>
+    <desc lang="en">After a year of being Spider-Man, Peter Parker gets the chance of a lifetime when Nick Fury offers him an opportunity to become a real superhero. However, he needs to train with four other champions.</desc>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D10BBDF7C98385CC41BD4900ED8ACD71B5B95B2B6.jpg"/>
+    <episode-num system="xmltv_ns">.17.</episode-num>
+  </programme>
+  <programme start="20240318152200 +0530" stop="20240318154400 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318154400 +0530" stop="20240318160400 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318160400 +0530" stop="20240318162400 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318162400 +0530" stop="20240318164800 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318164800 +0530" stop="20240318170800 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318170800 +0530" stop="20240318173300 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318173300 +0530" stop="20240318175400 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 2</title>
+    <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
+    <episode-num system="xmltv_ns">.167.</episode-num>
+  </programme>
+  <programme start="20240318175400 +0530" stop="20240318181400 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 2</title>
+    <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
+    <episode-num system="xmltv_ns">.168.</episode-num>
+  </programme>
+  <programme start="20240318181400 +0530" stop="20240318184000 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 2</title>
+    <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
+    <episode-num system="xmltv_ns">.169.</episode-num>
+  </programme>
+  <programme start="20240318184000 +0530" stop="20240318190000 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 2</title>
+    <desc lang="en">Beyblade players embark on a quest full of adventure as they travel across the globe in an attempt to win various Beyblade championships.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E143F2133B8A7A6E2B4447F93083D8565A599306E.jpg"/>
+    <episode-num system="xmltv_ns">.170.</episode-num>
+  </programme>
+  <programme start="20240318190000 +0530" stop="20240318192100 +0530" channel="SuperHungama.in">
+    <title lang="en">Milo Murphy's Law</title>
+    <desc lang="en">Career Day gives Milo a lot of potential job options; at a dude ranch, Milo and his friends meet an ancestor of Calamity Jane.</desc>
+    <credits>
+      <actor>Weird Al Yankovic</actor>
+      <actor>Sabrina Carpenter</actor>
+      <actor>Mekai Curtis</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Pamela Adlon</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B33E1AC2A8437FD25B58B5128892CFC7A2C0FBCF2.jpg"/>
+  </programme>
+  <programme start="20240318192100 +0530" stop="20240318194000 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318194000 +0530" stop="20240318195900 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318195900 +0530" stop="20240318201900 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318201900 +0530" stop="20240318204200 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318204200 +0530" stop="20240318210600 +0530" channel="SuperHungama.in">
+    <title lang="en">Pokemon</title>
+    <desc lang="en">A Pokemon master, along with his small group of friends, travels around the world to capture as many pocket monsters as he can.</desc>
+    <credits>
+      <actor>Ikue Otani</actor>
+      <actor>Rica Matsumoto</actor>
+      <actor>Rodger Parsons</actor>
+      <actor>Kayzie Rogers</actor>
+      <actor>Unsho Ishizuka</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D24B0419E08F44D66F4361EEA2D8387ECE5483D42.jpg"/>
+  </programme>
+  <programme start="20240318210600 +0530" stop="20240318212600 +0530" channel="SuperHungama.in">
+    <title lang="en">Ultimate Spider Man</title>
+    <desc lang="en">After a year of being Spider-Man, Peter Parker gets the chance of a lifetime when Nick Fury offers him an opportunity to become a real superhero. However, he needs to train with four other champions.</desc>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D10BBDF7C98385CC41BD4900ED8ACD71B5B95B2B6.jpg"/>
+    <episode-num system="xmltv_ns">.19.</episode-num>
+  </programme>
+  <programme start="20240318212600 +0530" stop="20240318214600 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 3</title>
+    <desc lang="en">Four teenagers embark on adventures around the world to win a championship of Beyblade, spinning tops that have supernatural powers.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B22CCF04870DB2274AC841F0CFE9C0E8B469ED556.jpg"/>
+  </programme>
+  <programme start="20240318214600 +0530" stop="20240318221200 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 3</title>
+    <desc lang="en">Four teenagers embark on adventures around the world to win a championship of Beyblade, spinning tops that have supernatural powers.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B22CCF04870DB2274AC841F0CFE9C0E8B469ED556.jpg"/>
+  </programme>
+  <programme start="20240318221200 +0530" stop="20240318223100 +0530" channel="SuperHungama.in">
+    <title lang="en">Beyblade Generation 3</title>
+    <desc lang="en">Four teenagers embark on adventures around the world to win a championship of Beyblade, spinning tops that have supernatural powers.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B22CCF04870DB2274AC841F0CFE9C0E8B469ED556.jpg"/>
+  </programme>
+  <programme start="20240318223100 +0530" stop="20240318225900 +0530" channel="SuperHungama.in">
+    <title lang="en">Kiteretsu</title>
+    <desc lang="en">Kiteretsu, an elementary school student who uses his inventions to help people, and Korosuke, his robot, partake in various adventures along with his friends.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B4A4DB602A5F9E6C49754D61701E4A5088274D11.jpg"/>
+    <episode-num system="xmltv_ns">.235.</episode-num>
+  </programme>
+  <programme start="20240318225900 +0530" stop="20240318232000 +0530" channel="SuperHungama.in">
+    <title lang="en">Supa Strikas</title>
+    <desc lang="en">To lift the Super League trophy, the world's greatest football team Supa Strikas, led by its striker Shakes, tries to understand the global origins of the game and meets its past and present players.</desc>
+    <credits>
+      <actor>Corny Rempel</actor>
+      <actor>Kevin Aichele</actor>
+      <actor>Nolan Balzer</actor>
+      <actor>Ryan DeLong</actor>
+      <actor>William Jordan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
+  </programme>
+  <programme start="20240318232000 +0530" stop="20240318234100 +0530" channel="SuperHungama.in">
+    <title lang="en">Supa Strikas</title>
+    <desc lang="en">To lift the Super League trophy, the world's greatest football team Supa Strikas, led by its striker Shakes, tries to understand the global origins of the game and meets its past and present players.</desc>
+    <credits>
+      <actor>Corny Rempel</actor>
+      <actor>Kevin Aichele</actor>
+      <actor>Nolan Balzer</actor>
+      <actor>Ryan DeLong</actor>
+      <actor>William Jordan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
+  </programme>
+  <programme start="20240318234100 +0530" stop="20240319000000 +0530" channel="SuperHungama.in">
+    <title lang="en">Supa Strikas</title>
+    <desc lang="en">To lift the Super League trophy, the world's greatest football team Supa Strikas, led by its striker Shakes, tries to understand the global origins of the game and meets its past and present players.</desc>
+    <credits>
+      <actor>Corny Rempel</actor>
+      <actor>Kevin Aichele</actor>
+      <actor>Nolan Balzer</actor>
+      <actor>Ryan DeLong</actor>
+      <actor>William Jordan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/904AA97CC074ED0314D5F55EA82B12A3B2D33AEEP.jpg"/>
   </programme>
 </tv>

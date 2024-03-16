@@ -3,222 +3,17 @@
   <channel id="TataPlayBollywoodPremiere.in">
     <display-name lang="en">Tata Play Bollywood Premiere</display-name>
   </channel>
-  <programme start="20240315000000 +0530" stop="20240315015400 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Bekhudi</title>
-    <desc lang="en">Bekhudi is a Bollywood drama, helmed by Amit Kasaria. The movie stars Adhyayan Suman. The movie depicts the story of an affluent man who falls in love with a woman who has a dark past</desc>
-    <credits>
-      <actor>Adhyayan Suman</actor>
-      <actor>Angel</actor>
-      <actor>Anurag Sharma</actor>
-      <actor>Dev Sharma</actor>
-      <actor>Gulki Joshi</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BAB9399608D93D3532B562356329A52649EBBA57L.jpg"/>
-  </programme>
-  <programme start="20240315015400 +0530" stop="20240315020000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240315020000 +0530" stop="20240315041100 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">A Winter Tale At Shimla (Premiere)</title>
-    <desc lang="en">A Winter Tale at Shimla - 2023 - A Mature Sensible Love Story Where A Man Meets His Long Lost Love After Two Decades .The rekindled affair could be ruinous, for the jealous husband who is a DIG Police Officer, a brute with a unenviable reputation.</desc>
-    <credits>
-      <actor>Gauri Pradhan</actor>
-      <actor>Indraneil Sengupta</actor>
-      <actor>Deepraj Rana</actor>
-      <actor>Rituraj Singh</actor>
-      <actor>Niharika Chouksey</actor>
-      <actor>Nikhita Chopra</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F29AA91CDAB8AC42C02BF142B8109A8FE29862F4.jpg"/>
-  </programme>
-  <programme start="20240315041100 +0530" stop="20240315054300 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Chippa</title>
-    <desc lang="en">Chippa - 2019 - On the eve of his tenth birthday, when Chippa receives a letter for his long-absent father, he decides to leave his pavement abode to find out more.</desc>
-    <credits>
-      <actor>Sunny Pawar</actor>
-      <actor>Chandan Roy Sanyal</actor>
-      <actor>Gautam Sarkar</actor>
-      <actor>Sumeet Thakur</actor>
-      <actor>Masood Akhtar</actor>
-      <actor>Tanaji Dasgupta</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A2B43ABC0B9C18A02E18462C6456120CF1AC96E7R.jpg"/>
-  </programme>
-  <programme start="20240315054300 +0530" stop="20240315054500 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240315054500 +0530" stop="20240315075600 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">A Winter Tale At Shimla (Premiere)</title>
-    <desc lang="en">A Winter Tale at Shimla - 2023 - A Mature Sensible Love Story Where A Man Meets His Long Lost Love After Two Decades .The rekindled affair could be ruinous, for the jealous husband who is a DIG Police Officer, a brute with a unenviable reputation.</desc>
-    <credits>
-      <actor>Gauri Pradhan</actor>
-      <actor>Indraneil Sengupta</actor>
-      <actor>Deepraj Rana</actor>
-      <actor>Rituraj Singh</actor>
-      <actor>Niharika Chouksey</actor>
-      <actor>Nikhita Chopra</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F29AA91CDAB8AC42C02BF142B8109A8FE29862F4.jpg"/>
-  </programme>
-  <programme start="20240315075600 +0530" stop="20240315080000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240315080000 +0530" stop="20240315092400 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Albert Pinto Ko Gussa Kyun Aata Hai?</title>
-    <desc lang="en">Albert Pinto goes missing one day and his girlfriend and family start making rounds at the police station to track him down. Unknown to them, he is on his way to Goa to carry out his first assignment as a hitman.</desc>
-    <credits>
-      <actor>Manav Kaul</actor>
-      <actor>Nandita Das</actor>
-      <actor>Saurabh Shukla</actor>
-      <actor>Yusuf Hussain</actor>
-      <actor>Kishor Kadam</actor>
-      <actor>Omkar Das Manikpuri</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/393DA276BEAFC214ED4E3BF7F514DE832F720DA0W.jpg"/>
-  </programme>
-  <programme start="20240315092400 +0530" stop="20240315093000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240315093000 +0530" stop="20240315115200 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Sam Bahadur</title>
-    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
-    <credits>
-      <actor>Vicky Kaushal</actor>
-      <actor>Bobby Arora</actor>
-      <actor>Monuj Borkotoky</actor>
-      <actor>Krishnakant Singh Bundela</actor>
-      <actor>Dhanveer Singh</actor>
-      <actor>Sanya Malhotra</actor>
-    </credits>
-    <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
-  </programme>
-  <programme start="20240315115200 +0530" stop="20240315115500 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240315115500 +0530" stop="20240315140600 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">A Winter Tale At Shimla (Premiere)</title>
-    <desc lang="en">A Winter Tale at Shimla - 2023 - A Mature Sensible Love Story Where A Man Meets His Long Lost Love After Two Decades .The rekindled affair could be ruinous, for the jealous husband who is a DIG Police Officer, a brute with a unenviable reputation.</desc>
-    <credits>
-      <actor>Gauri Pradhan</actor>
-      <actor>Indraneil Sengupta</actor>
-      <actor>Deepraj Rana</actor>
-      <actor>Rituraj Singh</actor>
-      <actor>Niharika Chouksey</actor>
-      <actor>Nikhita Chopra</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F29AA91CDAB8AC42C02BF142B8109A8FE29862F4.jpg"/>
-  </programme>
-  <programme start="20240315140600 +0530" stop="20240315162800 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Sam Bahadur</title>
-    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
-    <credits>
-      <actor>Vicky Kaushal</actor>
-      <actor>Bobby Arora</actor>
-      <actor>Monuj Borkotoky</actor>
-      <actor>Krishnakant Singh Bundela</actor>
-      <actor>Dhanveer Singh</actor>
-      <actor>Sanya Malhotra</actor>
-    </credits>
-    <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
-  </programme>
-  <programme start="20240315162800 +0530" stop="20240315163000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240315163000 +0530" stop="20240315183900 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Cirkus</title>
-    <desc lang="en">Cirkus - 2022 - Two sets of identical twins are accidentally separated at birth. Several years later, when they are coincidentally in the same town, there is a lot of confusion and misunderstanding when people mistake them for each other.</desc>
-    <credits>
-      <actor>Ranveer Singh</actor>
-      <actor>Pooja Hegde</actor>
-      <actor>Jacqueline Fernandez</actor>
-      <actor>Varun Sharma</actor>
-      <actor>Murali Sharma</actor>
-      <actor>Sanjay Mishra</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7F67B0A07CD36B617CBB17FDE5335D1ED03185BQ.jpg"/>
-  </programme>
-  <programme start="20240315183900 +0530" stop="20240315184000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240315184000 +0530" stop="20240315210200 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Sam Bahadur</title>
-    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
-    <credits>
-      <actor>Vicky Kaushal</actor>
-      <actor>Bobby Arora</actor>
-      <actor>Monuj Borkotoky</actor>
-      <actor>Krishnakant Singh Bundela</actor>
-      <actor>Dhanveer Singh</actor>
-      <actor>Sanya Malhotra</actor>
-    </credits>
-    <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
-  </programme>
-  <programme start="20240315210200 +0530" stop="20240315210500 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240315210500 +0530" stop="20240315232700 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Sam Bahadur</title>
-    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
-    <credits>
-      <actor>Vicky Kaushal</actor>
-      <actor>Bobby Arora</actor>
-      <actor>Monuj Borkotoky</actor>
-      <actor>Krishnakant Singh Bundela</actor>
-      <actor>Dhanveer Singh</actor>
-      <actor>Sanya Malhotra</actor>
-    </credits>
-    <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
-  </programme>
-  <programme start="20240315232700 +0530" stop="20240315233000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Filler / Promo</title>
-    <desc lang="en">Filler/ Promo's</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
-  </programme>
-  <programme start="20240315233000 +0530" stop="20240316000000 +0530" channel="TataPlayBollywoodPremiere.in">
-    <title lang="en">Movies &amp; More - Kabir Singh</title>
-    <desc lang="en">Movies_And_More</desc>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B7DE2534080A129CDFD0BBB605F67B796B2F06D62.jpg"/>
-  </programme>
   <programme start="20240316000000 +0530" stop="20240316021100 +0530" channel="TataPlayBollywoodPremiere.in">
     <title lang="en">A Winter Tale At Shimla</title>
     <desc lang="en">A Winter Tale at Shimla - 2023 - A Mature Sensible Love Story Where A Man Meets His Long Lost Love After Two Decades .The rekindled affair could be ruinous, for the jealous husband who is a DIG Police Officer, a brute with a unenviable reputation.</desc>
+    <credits>
+      <actor>Gauri Pradhan</actor>
+      <actor>Indraneil Sengupta</actor>
+      <actor>Deepraj Rana</actor>
+      <actor>Rituraj Singh</actor>
+      <actor>Niharika Chouksey</actor>
+      <actor>Nikhita Chopra</actor>
+    </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F29AA91CDAB8AC42C02BF142B8109A8FE29862F4.jpg"/>
   </programme>
@@ -245,6 +40,14 @@
   <programme start="20240316041000 +0530" stop="20240316062100 +0530" channel="TataPlayBollywoodPremiere.in">
     <title lang="en">A Winter Tale At Shimla</title>
     <desc lang="en">A Winter Tale at Shimla - 2023 - A Mature Sensible Love Story Where A Man Meets His Long Lost Love After Two Decades .The rekindled affair could be ruinous, for the jealous husband who is a DIG Police Officer, a brute with a unenviable reputation.</desc>
+    <credits>
+      <actor>Gauri Pradhan</actor>
+      <actor>Indraneil Sengupta</actor>
+      <actor>Deepraj Rana</actor>
+      <actor>Rituraj Singh</actor>
+      <actor>Niharika Chouksey</actor>
+      <actor>Nikhita Chopra</actor>
+    </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F29AA91CDAB8AC42C02BF142B8109A8FE29862F4.jpg"/>
   </programme>
@@ -265,6 +68,14 @@
   <programme start="20240316080500 +0530" stop="20240316101600 +0530" channel="TataPlayBollywoodPremiere.in">
     <title lang="en">A Winter Tale At Shimla</title>
     <desc lang="en">A Winter Tale at Shimla - 2023 - A Mature Sensible Love Story Where A Man Meets His Long Lost Love After Two Decades .The rekindled affair could be ruinous, for the jealous husband who is a DIG Police Officer, a brute with a unenviable reputation.</desc>
+    <credits>
+      <actor>Gauri Pradhan</actor>
+      <actor>Indraneil Sengupta</actor>
+      <actor>Deepraj Rana</actor>
+      <actor>Rituraj Singh</actor>
+      <actor>Niharika Chouksey</actor>
+      <actor>Nikhita Chopra</actor>
+    </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F29AA91CDAB8AC42C02BF142B8109A8FE29862F4.jpg"/>
   </programme>
@@ -562,5 +373,227 @@
     <desc lang="en">Filler/ Promo's</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240318000000 +0530" stop="20240318021100 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">A Winter Tale At Shimla</title>
+    <desc lang="en">A Winter Tale at Shimla - 2023 - A Mature Sensible Love Story Where A Man Meets His Long Lost Love After Two Decades .The rekindled affair could be ruinous, for the jealous husband who is a DIG Police Officer, a brute with a unenviable reputation.</desc>
+    <credits>
+      <actor>Gauri Pradhan</actor>
+      <actor>Indraneil Sengupta</actor>
+      <actor>Deepraj Rana</actor>
+      <actor>Rituraj Singh</actor>
+      <actor>Niharika Chouksey</actor>
+      <actor>Nikhita Chopra</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F29AA91CDAB8AC42C02BF142B8109A8FE29862F4.jpg"/>
+  </programme>
+  <programme start="20240318021100 +0530" stop="20240318021500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240318021500 +0530" stop="20240318033600 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">My Angel My Teacher</title>
+    <desc lang="en">My Angel My Teacher depicts the professional journey of Shoiab Nikash Shah as a primary teacher at a small town in the state of Jammu and Kashmir. The story focuses on the struggles that he faces and overcomes to educate the children in his town.</desc>
+    <credits>
+      <actor>Shoib Nikash Shah</actor>
+      <actor>Azmat Khwaja</actor>
+      <actor>Varun Choudhary</actor>
+      <actor>Chandni</actor>
+      <actor>Shamim Sheikh</actor>
+      <actor>Rehana</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76BAFF36B5CAEA899B1975B42BB4E8BC4897A6382.jpg"/>
+  </programme>
+  <programme start="20240318033600 +0530" stop="20240318033800 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240318033800 +0530" stop="20240318054900 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">A Winter Tale At Shimla</title>
+    <desc lang="en">A Winter Tale at Shimla - 2023 - A Mature Sensible Love Story Where A Man Meets His Long Lost Love After Two Decades .The rekindled affair could be ruinous, for the jealous husband who is a DIG Police Officer, a brute with a unenviable reputation.</desc>
+    <credits>
+      <actor>Gauri Pradhan</actor>
+      <actor>Indraneil Sengupta</actor>
+      <actor>Deepraj Rana</actor>
+      <actor>Rituraj Singh</actor>
+      <actor>Niharika Chouksey</actor>
+      <actor>Nikhita Chopra</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F29AA91CDAB8AC42C02BF142B8109A8FE29862F4.jpg"/>
+  </programme>
+  <programme start="20240318054900 +0530" stop="20240318055000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240318055000 +0530" stop="20240318072200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Phullu</title>
+    <desc lang="en">Phullu is a good for nothing so his mother gets him married thinking that he will become mature after marriage. After marriage, he comes to know about menstruation and how the women of his village use cloth etc. The film is about what he does after he understands their inconveniences.</desc>
+    <credits>
+      <actor>Sharib Hashmi</actor>
+      <actor>Jyotii Sethi</actor>
+      <actor>Nutan Surya</actor>
+      <actor>Paras Raj Gandhi</actor>
+      <actor>Inaamulhaq</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/60AA2D935918E35F64B0BBA9BBA4A211920AE9A67.jpg"/>
+  </programme>
+  <programme start="20240318072200 +0530" stop="20240318072500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240318072500 +0530" stop="20240318093600 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">A Winter Tale At Shimla</title>
+    <desc lang="en">A Winter Tale at Shimla - 2023 - A Mature Sensible Love Story Where A Man Meets His Long Lost Love After Two Decades .The rekindled affair could be ruinous, for the jealous husband who is a DIG Police Officer, a brute with a unenviable reputation.</desc>
+    <credits>
+      <actor>Gauri Pradhan</actor>
+      <actor>Indraneil Sengupta</actor>
+      <actor>Deepraj Rana</actor>
+      <actor>Rituraj Singh</actor>
+      <actor>Niharika Chouksey</actor>
+      <actor>Nikhita Chopra</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9F29AA91CDAB8AC42C02BF142B8109A8FE29862F4.jpg"/>
+  </programme>
+  <programme start="20240318093600 +0530" stop="20240318112300 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Attack: Part 1</title>
+    <desc lang="en">Attack- Part-1 -2022 - Witness the rise of an army soldier as he realizes his destiny and comes to terms to becoming India's first super soldier created to combat terrorists as he fights his inner demons and outer enemies.With lots of action</desc>
+    <credits>
+      <actor>John Abraham</actor>
+      <actor>Rakul Preet Singh</actor>
+      <actor>Jacqueline Fernandez</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Ratna Pathak Shah</actor>
+      <actor>Serena Walia</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8AB56BF1C032C1B68DF472F4D82E8EEEB49444E7S.jpg"/>
+  </programme>
+  <programme start="20240318112300 +0530" stop="20240318113000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240318113000 +0530" stop="20240318135200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240318135200 +0530" stop="20240318140000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240318140000 +0530" stop="20240318154500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Helmet</title>
+    <desc lang="en">A quirky comedy from the heartland of India, it touches upon a topic that is considered embarrassing for most people in India and will showcase the same in a hilariously entertaining manner.</desc>
+    <credits>
+      <actor>Aparshakti Khurana</actor>
+      <actor>Pranutan Bahl</actor>
+      <actor>Anurita Jha</actor>
+      <actor>Abhishek Banerjee</actor>
+      <actor>Ashish Vidyarthi</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6688FC02A38CAB463A49C7A3FFACD8237AC0030E1.jpg"/>
+  </programme>
+  <programme start="20240318154500 +0530" stop="20240318155000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240318155000 +0530" stop="20240318181200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240318181200 +0530" stop="20240318181500 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240318181500 +0530" stop="20240318205600 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Kabir Singh</title>
+    <desc lang="en">Kabir, a genius yet hostile house surgeon, falls in love with Preeti, a first-year student. When Preeti's father spots the couple kissing, he opposes their relationship and decides to get her married.</desc>
+    <credits>
+      <actor>Shahid Kapoor</actor>
+      <actor>Kiara Advani</actor>
+      <actor>Soham Majumdar</actor>
+      <actor>Arjan Bajwa</actor>
+      <actor>Suresh Oberoi</actor>
+      <actor>Kamini Kaushal</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7A7D95671468B764687B893D836010D6BEFF912U.jpg"/>
+  </programme>
+  <programme start="20240318205600 +0530" stop="20240318210000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240318210000 +0530" stop="20240318232200 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Sam Bahadur</title>
+    <desc lang="en">Sam Bahadur - 2023 - Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Bobby Arora</actor>
+      <actor>Monuj Borkotoky</actor>
+      <actor>Krishnakant Singh Bundela</actor>
+      <actor>Dhanveer Singh</actor>
+      <actor>Sanya Malhotra</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/22FF20D390D8DFC86CF193FBF9ADF5A5AB280933S.jpg"/>
+  </programme>
+  <programme start="20240318232200 +0530" stop="20240318233000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Filler / Promo</title>
+    <desc lang="en">Filler/ Promo's</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A68802A2E7F0EC9E4B15471280E0DF378EA05431.jpg"/>
+  </programme>
+  <programme start="20240318233000 +0530" stop="20240319000000 +0530" channel="TataPlayBollywoodPremiere.in">
+    <title lang="en">Movies &amp; More - Uri</title>
+    <desc lang="en">Movies_And_More</desc>
+    <credits>
+      <actor>Vicky Kaushal</actor>
+      <actor>Yami Gautam</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/91DCFC88E15455D95DDAB4A60EB8DFC8A788D46AJ.jpg"/>
   </programme>
 </tv>

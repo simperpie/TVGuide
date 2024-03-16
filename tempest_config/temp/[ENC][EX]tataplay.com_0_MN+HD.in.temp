@@ -3,20 +3,7 @@
   <channel id="MN+HD.in">
     <display-name lang="en">MN+ HD</display-name>
   </channel>
-  <programme start="20240315004800 +0530" stop="20240315022000 +0530" channel="MN+HD.in">
-    <title lang="en">Love Is In The Air</title>
-    <desc lang="en">Antoine, a lawyer from New York, travels to France for the final round of a job interview. On the flight, he is seated next to Julie, his ex-girlfriend, with whom he has to make awkward conversation.</desc>
-    <credits>
-      <actor>Ludivine Sagnier</actor>
-      <actor>Nicolas Bedos</actor>
-      <actor>Jonathan Cohen</actor>
-      <actor>Arnaud Ducret</actor>
-      <actor>Brigitte Catillon</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04E46ED5B6FC1126713DB0A009164B64964D5130U.jpg"/>
-  </programme>
-  <programme start="20240315022000 +0530" stop="20240315024500 +0530" channel="MN+HD.in">
+  <programme start="20240316020900 +0530" stop="20240316023400 +0530" channel="MN+HD.in">
     <title lang="en">Hollywood On Set</title>
     <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
     <credits>
@@ -28,22 +15,19 @@
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
   </programme>
-  <programme start="20240315024500 +0530" stop="20240315025000 +0530" channel="MN+HD.in">
-    <title lang="en">Curtis Hanson - His Way To Hollywood</title>
-    <desc lang="en">American film director Curtis Hanson provides insights into how he ventured into Hollywood whilst sharing amusing anecdotes surrounding the same.</desc>
+  <programme start="20240316023400 +0530" stop="20240316030000 +0530" channel="MN+HD.in">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
     <credits>
-      <actor>Curtis Hanson</actor>
+      <actor>Angela Valley</actor>
+      <actor>Janett Hermosillo</actor>
+      <actor>Ann Marie Lariccia</actor>
+      <actor>Michelle Blenker</actor>
     </credits>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FC710401FF0E0FC8936818B132CF5728EDA23EBK.jpg"/>
-  </programme>
-  <programme start="20240315025000 +0530" stop="20240315025600 +0530" channel="MN+HD.in">
-    <title lang="en">Curtis Hanson - LA Confidential</title>
-    <desc lang="en">Curtis Hanson, director of the American movie 'LA Confidential', shares interesting anecdotes and stories about making the film.</desc>
     <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EEFB9FFE033DE89D12FCE42F6EBA76F0E4E12BBCU.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
   </programme>
-  <programme start="20240315025600 +0530" stop="20240315030000 +0530" channel="MN+HD.in">
+  <programme start="20240316030000 +0530" stop="20240316030500 +0530" channel="MN+HD.in">
     <title lang="en">Andy Tennant - Will Smith And Hitch</title>
     <desc lang="en">The host talks with Andy Tennant and Will Smith about their experiences while shooting the romantic comedy film, 'Hitch'.</desc>
     <credits>
@@ -53,7 +37,7 @@
     <category lang="en">Chat Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ADCAD8ADE57B14B12698AE2F92BA9583735B113J.jpg"/>
   </programme>
-  <programme start="20240315030000 +0530" stop="20240315032500 +0530" channel="MN+HD.in">
+  <programme start="20240316030500 +0530" stop="20240316033100 +0530" channel="MN+HD.in">
     <title lang="en">Hollywood On Set</title>
     <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
     <credits>
@@ -65,102 +49,27 @@
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
   </programme>
-  <programme start="20240315032500 +0530" stop="20240315035100 +0530" channel="MN+HD.in">
-    <title lang="en">Hollywood On Set</title>
-    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
-    <credits>
-      <actor>Angela Valley</actor>
-      <actor>Janett Hermosillo</actor>
-      <actor>Ann Marie Lariccia</actor>
-      <actor>Michelle Blenker</actor>
-    </credits>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
+  <programme start="20240316033100 +0530" stop="20240316045200 +0530" channel="MN+HD.in">
+    <title lang="en">Land Of The Bears</title>
+    <desc lang="en">The filmmaker observes the mannerisms, daily activities and adventures of five wild brown bears in the Kamchatka Peninsula.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7855BA6DF421D14D58B8183E6CD1F3A515A90151.jpg"/>
   </programme>
-  <programme start="20240315035100 +0530" stop="20240315051900 +0530" channel="MN+HD.in">
-    <title lang="en">Fallen</title>
-    <desc lang="en">Detective John Hobbes witnesses the execution of a demonic serial killer, Edgar Reese. However, the killings resume and are very similar to the style of Reese.</desc>
+  <programme start="20240316045200 +0530" stop="20240316063800 +0530" channel="MN+HD.in">
+    <title lang="en">If Beale Street Could Talk</title>
+    <desc lang="en">The lives of childhood friends and lovers Tish and Fonny take a drastic turn when Fonny gets falsely accused of rape. A pregnant Tish then sets out to prove his innocence.</desc>
     <credits>
-      <actor>Denzel Washington</actor>
-      <actor>John Goodman</actor>
-      <actor>Donald Sutherland</actor>
-      <actor>Embeth Davidtz</actor>
-      <actor>James Gandolfini</actor>
+      <actor>Kiki Layne</actor>
+      <actor>Stephan James</actor>
+      <actor>Regina King</actor>
+      <actor>Teyonah Parris</actor>
+      <actor>Colman Domingo</actor>
+      <actor>Brian Tyree Henry</actor>
     </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11FB6415A07B0AD7D073D4B3587CA22ED0BD830EM.jpg"/>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/746870E4A2B112549CB02D4CE6F35CE739E49792B.jpg"/>
   </programme>
-  <programme start="20240315051900 +0530" stop="20240315071300 +0530" channel="MN+HD.in">
-    <title lang="en">Rocketman</title>
-    <desc lang="en">After completing his studies, Reginald begins to perform rock music at local pubs. Later, he meets John Reid, a music manager, who helps him rise to fame, but also creates chaos in his life.</desc>
-    <credits>
-      <actor>Taron Egerton</actor>
-      <actor>Jamie Bell</actor>
-      <actor>Richard Madden</actor>
-      <actor>Gemma Jones</actor>
-      <actor>Bryce Dallas Howard</actor>
-      <actor>Stephen Graham</actor>
-    </credits>
-    <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DA8828045F0F85EF7D8061C77893DBC36E592F17E.jpg"/>
-  </programme>
-  <programme start="20240315071300 +0530" stop="20240315092500 +0530" channel="MN+HD.in">
-    <title lang="en">The Revenant</title>
-    <desc lang="en">Frontiersman Hugh Glass is severely injured in a bear attack and abandoned by his hunting crew. Refusing to give up, he uses his skills to survive and take revenge on the companion who betrayed him.</desc>
-    <credits>
-      <actor>Leonardo DiCaprio</actor>
-      <actor>Tom Hardy</actor>
-      <actor>Domhnall Gleeson</actor>
-      <actor>Will Poulter</actor>
-      <actor>Forrest Goodluck</actor>
-      <actor>Paul Anderson</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C37906502E418098A417498603BA3D4354ECCF4C1.jpg"/>
-  </programme>
-  <programme start="20240315092500 +0530" stop="20240315123100 +0530" channel="MN+HD.in">
-    <title lang="en">JFK</title>
-    <desc lang="en">When attorney Jim Garrison sets out to uncover the mystery behind the assassination of former US President John Kennedy, he faces strong opposition from the government.</desc>
-    <credits>
-      <actor>Kevin Costner</actor>
-      <actor>Kevin Bacon</actor>
-      <actor>Tommy Lee Jones</actor>
-      <actor>Laurie Metcalf</actor>
-      <actor>Gary Oldman</actor>
-      <actor>Michael Rooker</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/822EBA7EB10DCC3C3C9CE4759ED049CB1DB902663.jpg"/>
-  </programme>
-  <programme start="20240315123100 +0530" stop="20240315151900 +0530" channel="MN+HD.in">
-    <title lang="en">Heat</title>
-    <desc lang="en">Lieutenant Hanna, a detective, decides to catch a highly intelligent seasonal criminal who has vowed to pull off one last robbery before he retires for good.</desc>
-    <credits>
-      <actor>Al Pacino</actor>
-      <actor>Robert De Niro</actor>
-      <actor>Val Kilmer</actor>
-      <actor>Jon Voight</actor>
-      <actor>Tom Sizemore</actor>
-      <actor>Diane Venora</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3E5610769D060AF5B7790C509CE36C4CA87F7D3F.jpg"/>
-  </programme>
-  <programme start="20240315151900 +0530" stop="20240315164900 +0530" channel="MN+HD.in">
-    <title lang="en">The Fountain</title>
-    <desc lang="en">Three people living in different centuries embark on a search for the tree of life in order to protect their loved ones and receive the gift of immortality.</desc>
-    <credits>
-      <actor>Hugh Jackman</actor>
-      <actor>Rachel Weisz</actor>
-      <actor>Ellen Burstyn</actor>
-      <actor>Stephen McHattie</actor>
-      <actor>Mark Margolis</actor>
-      <actor>Cliff Curtis</actor>
-    </credits>
-    <category lang="en">Sci - Fi</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E606254A5B904C75AA2484F86C63F28528E367D6.jpg"/>
-  </programme>
-  <programme start="20240315164900 +0530" stop="20240315185700 +0530" channel="MN+HD.in">
+  <programme start="20240316063800 +0530" stop="20240316084400 +0530" channel="MN+HD.in">
     <title lang="en">The Big Short</title>
     <desc lang="en">In the mid-2000s, a few finance experts observe the instability in the US housing market and predict its collapse. Through their research, they discover the flaws and corruption in the system.</desc>
     <credits>
@@ -174,176 +83,91 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85507FA715E620B46ED2831BCE5A1620101FA190M.jpg"/>
   </programme>
-  <programme start="20240315185700 +0530" stop="20240315210000 +0530" channel="MN+HD.in">
-    <title lang="en">The Kite Runner</title>
-    <desc lang="en">Amir lives in California with his wife Soraya. He receives a call from his uncle Rahim Khan who urges him to travel to Afghanistan and rescue the son of Amir's childhood servant and friend, Hassan.</desc>
+  <programme start="20240316084400 +0530" stop="20240316105500 +0530" channel="MN+HD.in">
+    <title lang="en">Shutter Island</title>
+    <desc lang="en">Teddy Daniels and Chuck Aule, two US marshals, are sent to an asylum on a remote island in order to investigate the disappearance of a patient, where Teddy uncovers a shocking truth about the place.</desc>
     <credits>
-      <actor>Khalid Abdalla</actor>
-      <actor>Zekeria Ebrahimi</actor>
-      <actor>Ahmad Khan Mahmoodzada</actor>
-      <actor>Homayoun Ershadi</actor>
-      <actor>Atossa Leoni</actor>
-      <actor>Shaun Toub</actor>
+      <actor>Leonardo DiCaprio</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Ben Kingsley</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Emily Mortimer</actor>
+      <actor>Max Von Sydow</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E2280094D9245A666EAE8B1DB5E697F60F2C3ABFL.jpg"/>
+  </programme>
+  <programme start="20240316105500 +0530" stop="20240316132200 +0530" channel="MN+HD.in">
+    <title lang="en">Blade Runner 2049</title>
+    <desc lang="en">The host sheds light on the making of 'Blade Runner 2049', directed by Denis Villeneuve and shares some lesser known insights. UK 2017.</desc>
+    <credits>
+      <actor>Ana de Armas</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Harrison Ford</actor>
+      <actor>Jared Leto</actor>
+      <actor>Robin Wright</actor>
+      <actor>Ryan Gosling</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F810B2552A8392701C6F75DF57CB8CA187D59FF8J.jpg"/>
+  </programme>
+  <programme start="20240316132200 +0530" stop="20240316150600 +0530" channel="MN+HD.in">
+    <title lang="en">Guilty By Suspicion</title>
+    <desc lang="en">Owing to his alleged involvement with communist parties, film director David Merrill is forbidden from working in Hollywood. He decides to fight for his rights and faces numerous challenges.</desc>
+    <credits>
+      <actor>Robert De Niro</actor>
+      <actor>Annette Bening</actor>
+      <actor>George Wendt</actor>
+      <actor>Patricia Wettig</actor>
+      <actor>Sam Wanamaker</actor>
+      <actor>Luke Edwards</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/67723A17D2783D7505D0F6E5A083F8B62FAA2465G.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4AEE93B63C363DCA47B9E9A5083A7F911DFF6BB0.jpg"/>
   </programme>
-  <programme start="20240315210000 +0530" stop="20240315233800 +0530" channel="MN+HD.in">
-    <title lang="en">The Godfather Coda: The Death of Michael Corleone</title>
-    <desc lang="en">A guilt-ridden Michael Corleone tries to quit the world of crime and legitimize his family's interests. However, he has to battle rising members of the underworld and is helped by his nephew.</desc>
+  <programme start="20240316150600 +0530" stop="20240316173000 +0530" channel="MN+HD.in">
+    <title lang="en">Pulp Fiction</title>
+    <desc lang="en">In the realm of underworld, a series of incidents intertwines the lives of two Los Angeles mobsters, a gangster's wife, a boxer and two small-time criminals.</desc>
     <credits>
-      <actor>Al Pacino</actor>
-      <actor>Diane Keaton</actor>
-      <actor>Talia Shire</actor>
-      <actor>Andy Garcia</actor>
-      <actor>Eli Wallach</actor>
+      <actor>John Travolta</actor>
+      <actor>Samuel L Jackson</actor>
+      <actor>Uma Thurman</actor>
+      <actor>Harvey Keitel</actor>
+      <actor>Tim Roth</actor>
+      <actor>Amanda Plummer</actor>
     </credits>
     <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/00426AC3D8F64301447F32CD9196BCD030A6A278S.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5D5DC372E10DAA591408DDBCBF7491D500A7E058R.jpg"/>
   </programme>
-  <programme start="20240315233800 +0530" stop="20240316020900 +0530" channel="MN+HD.in">
-    <title lang="en">Munich</title>
-    <desc lang="en">In 1972, after a group of terrorists kill eleven athletes from Israel at the Olympics in Munich, five men are selected to terminate all the culprits.</desc>
+  <programme start="20240316173000 +0530" stop="20240316210000 +0530" channel="MN+HD.in">
+    <title lang="en">Once Upon A Time In America</title>
+    <desc lang="en">Noodles, a former gangster during the Prohibition Era, returns to New York after a self-imposed exile to confront his past and make amends for his mistakes.</desc>
     <credits>
-      <actor>Eric Bana</actor>
-      <actor>Daniel Craig</actor>
-      <actor>Ciaran Hinds</actor>
-      <actor>Mathieu Kassovitz</actor>
-      <actor>Hanns Zischler</actor>
-      <actor>Ayelet Zurer</actor>
+      <actor>Robert De Niro</actor>
+      <actor>James Woods</actor>
+      <actor>Elizabeth McGovern</actor>
+      <actor>Jennifer Connelly</actor>
+      <actor>Joe Pesci</actor>
+      <actor>Burt Young</actor>
     </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44B3E7A27BF45E0F6D3285AFFD1FE8A9943A871EZ.jpg"/>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/227B1B47617A172DC905E2212E7C7282635A81D68.jpg"/>
   </programme>
-  <programme start="20240316000000 +0530" stop="20240316023500 +0530" channel="MN+HD.in">
-    <title lang="en">Munich</title>
-    <desc lang="en">In 1972, after a group of terrorists kill eleven athletes from Israel at the Olympics in Munich, five men are selected to terminate all the culprits.</desc>
+  <programme start="20240316210000 +0530" stop="20240317001000 +0530" channel="MN+HD.in">
+    <title lang="en">JFK</title>
+    <desc lang="en">When lawyer Jim Garrison sets out to uncover the mystery behind the assassination of former US President John F Kennedy, he faces strong opposition from the government.</desc>
     <credits>
-      <actor>Eric Bana</actor>
-      <actor>Daniel Craig</actor>
-      <actor>Ciaran Hinds</actor>
-      <actor>Mathieu Kassovitz</actor>
-      <actor>Hanns Zischler</actor>
-      <actor>Ayelet Zurer</actor>
+      <actor>Kevin Costner</actor>
+      <actor>Kevin Bacon</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Michael Rooker</actor>
     </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44B3E7A27BF45E0F6D3285AFFD1FE8A9943A871EZ.jpg"/>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/822EBA7EB10DCC3C3C9CE4759ED049CB1DB902663.jpg"/>
   </programme>
-  <programme start="20240316023500 +0530" stop="20240316030000 +0530" channel="MN+HD.in">
-    <title lang="en">Hollywood On Set</title>
-    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
-    <credits>
-      <actor>Angela Valley</actor>
-      <actor>Janett Hermosillo</actor>
-      <actor>Ann Marie Lariccia</actor>
-      <actor>Michelle Blenker</actor>
-    </credits>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
-  </programme>
-  <programme start="20240316030000 +0530" stop="20240316032500 +0530" channel="MN+HD.in">
-    <title lang="en">Hollywood On Set</title>
-    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
-    <credits>
-      <actor>Angela Valley</actor>
-      <actor>Janett Hermosillo</actor>
-      <actor>Ann Marie Lariccia</actor>
-      <actor>Michelle Blenker</actor>
-    </credits>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
-  </programme>
-  <programme start="20240316032500 +0530" stop="20240316032900 +0530" channel="MN+HD.in">
-    <title lang="en">Rob Reiner - The Casting</title>
-    <desc lang="en">Rob Reiner, director of 'The Casting' movie, talks about his experiences, the best shortcuts he took, and special moments from the shoot. USA 2016.</desc>
-    <credits>
-      <actor>Rob Reiner</actor>
-    </credits>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/321CD2A2DD10D326147F9BE8E8163EF3C49CEDCBW.jpg"/>
-  </programme>
-  <programme start="20240316032900 +0530" stop="20240316033400 +0530" channel="MN+HD.in">
-    <title lang="en">Rob Reiner - When Harry Met Sally</title>
-    <desc lang="en">Director Rob Reiner talks about his 1989 movie 'When Harry Met Sally...', shares his on-set experiences and reveals interesting information about the film.</desc>
-    <credits>
-      <actor>Rob Reiner</actor>
-    </credits>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/162CEB989D6448B564BA8E16026D12AA40490E3DQ.jpg"/>
-  </programme>
-  <programme start="20240316033400 +0530" stop="20240316033800 +0530" channel="MN+HD.in">
-    <title lang="en">Doug Liman - Mr &amp; Mrs Smith</title>
-    <desc lang="en">The host interviews director, Doug Liman, about his movie 'Mr &amp; Mrs Smith', as he shares interesting trivia and behind-the-scenes stories about his film.</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77FCC0340677A1C4EDC20596FB918FE32F4015C7U.jpg"/>
-  </programme>
-  <programme start="20240316033800 +0530" stop="20240316052000 +0530" channel="MN+HD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316052000 +0530" stop="20240316065500 +0530" channel="MN+HD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316065500 +0530" stop="20240316094200 +0530" channel="MN+HD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316094200 +0530" stop="20240316115100 +0530" channel="MN+HD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316115100 +0530" stop="20240316132500 +0530" channel="MN+HD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316132500 +0530" stop="20240316152000 +0530" channel="MN+HD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316152000 +0530" stop="20240316173000 +0530" channel="MN+HD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316173000 +0530" stop="20240316185900 +0530" channel="MN+HD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316185900 +0530" stop="20240316210000 +0530" channel="MN+HD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316210000 +0530" stop="20240316225000 +0530" channel="MN+HD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316225000 +0530" stop="20240317020400 +0530" channel="MN+HD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317001000 +0530" stop="20240318015000 +0530" channel="MN+HD.in">
+  <programme start="20240317001000 +0530" stop="20240317015000 +0530" channel="MN+HD.in">
     <title lang="en">Stay</title>
     <desc lang="en">Sam, a psychiatrist, embarks on a nightmarish journey when Henry, a student, informs him of his plans to commit suicide. However, he must maintain his grip on reality while trying to save his patient.</desc>
     <credits>
@@ -357,7 +181,7 @@
     <category lang="en">Thriller</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/16764ACBC99CAFC59DBEBC90B4AA3E37077A4954T.jpg"/>
   </programme>
-  <programme start="20240317015000 +0530" stop="20240318033000 +0530" channel="MN+HD.in">
+  <programme start="20240317015000 +0530" stop="20240317033000 +0530" channel="MN+HD.in">
     <title lang="en">Wild For The Night</title>
     <desc lang="en">When an ex-convict returns home to solve his sister's murder, the authority forces him to go undercover to help them bust illegal activities at a nightclub.</desc>
     <credits>
@@ -371,7 +195,7 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/769AB22B846992D513798C06FB6E03C2227D5221N.jpg"/>
   </programme>
-  <programme start="20240317033000 +0530" stop="20240318035500 +0530" channel="MN+HD.in">
+  <programme start="20240317033000 +0530" stop="20240317035500 +0530" channel="MN+HD.in">
     <title lang="en">Hollywood On Set</title>
     <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
     <credits>
@@ -383,7 +207,7 @@
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
   </programme>
-  <programme start="20240317035500 +0530" stop="20240318042000 +0530" channel="MN+HD.in">
+  <programme start="20240317035500 +0530" stop="20240317042000 +0530" channel="MN+HD.in">
     <title lang="en">Hollywood On Set</title>
     <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
     <credits>
@@ -395,7 +219,7 @@
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
   </programme>
-  <programme start="20240317042000 +0530" stop="20240318042500 +0530" channel="MN+HD.in">
+  <programme start="20240317042000 +0530" stop="20240317042500 +0530" channel="MN+HD.in">
     <title lang="en">Rob Reiner - When Harry Met Sally</title>
     <desc lang="en">Director Rob Reiner talks about his 1989 movie 'When Harry Met Sally...', shares his on-set experiences and reveals interesting information about the film.</desc>
     <credits>
@@ -404,19 +228,19 @@
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/162CEB989D6448B564BA8E16026D12AA40490E3DQ.jpg"/>
   </programme>
-  <programme start="20240317042500 +0530" stop="20240318043000 +0530" channel="MN+HD.in">
+  <programme start="20240317042500 +0530" stop="20240317043000 +0530" channel="MN+HD.in">
     <title lang="en">Michael Mann -Collateral</title>
     <desc lang="en">Michael Mann, director of the 2004 American movie 'Collateral', shares interesting facts, anecdotes and stories about making the film.</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E9187C4F07B1EA915D0DD94E4D16CF4D2AC5E562A.jpg"/>
   </programme>
-  <programme start="20240317043000 +0530" stop="20240318060500 +0530" channel="MN+HD.in">
+  <programme start="20240317043000 +0530" stop="20240317060500 +0530" channel="MN+HD.in">
     <title lang="en">Land Of The Bears</title>
     <desc lang="en">The filmmaker observes the mannerisms, daily activities and adventures of five wild brown bears in the Kamchatka Peninsula.</desc>
     <category lang="en">Nature</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7855BA6DF421D14D58B8183E6CD1F3A515A90151.jpg"/>
   </programme>
-  <programme start="20240317060500 +0530" stop="20240318073500 +0530" channel="MN+HD.in">
+  <programme start="20240317060500 +0530" stop="20240317073500 +0530" channel="MN+HD.in">
     <title lang="en">Fallen</title>
     <desc lang="en">Detective John Hobbes witnesses the execution of a demonic serial killer, Edgar Reese. However, the killings resume and are very similar to the style of Reese.</desc>
     <credits>
@@ -429,7 +253,7 @@
     <category lang="en">Thriller</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11FB6415A07B0AD7D073D4B3587CA22ED0BD830EM.jpg"/>
   </programme>
-  <programme start="20240317073500 +0530" stop="20240318090000 +0530" channel="MN+HD.in">
+  <programme start="20240317073500 +0530" stop="20240317090000 +0530" channel="MN+HD.in">
     <title lang="en">The Fountain</title>
     <desc lang="en">Three people living in different centuries embark on a search for the tree of life in order to protect their loved ones and receive the gift of immortality.</desc>
     <credits>
@@ -443,7 +267,7 @@
     <category lang="en">Sci - Fi</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E606254A5B904C75AA2484F86C63F28528E367D6.jpg"/>
   </programme>
-  <programme start="20240317090000 +0530" stop="20240318114500 +0530" channel="MN+HD.in">
+  <programme start="20240317090000 +0530" stop="20240317114500 +0530" channel="MN+HD.in">
     <title lang="en">Heat</title>
     <desc lang="en">Lieutenant Hanna, a detective, decides to catch a highly intelligent seasonal criminal who has vowed to pull off one last robbery before he retires for good.</desc>
     <credits>
@@ -457,7 +281,7 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A3E5610769D060AF5B7790C509CE36C4CA87F7D3F.jpg"/>
   </programme>
-  <programme start="20240317114500 +0530" stop="20240318133500 +0530" channel="MN+HD.in">
+  <programme start="20240317114500 +0530" stop="20240317133500 +0530" channel="MN+HD.in">
     <title lang="en">Salvatore: Shoemaker of Dreams</title>
     <desc lang="en">The filmmaker sheds light on the illustrative life and career of Salvatore Ferragamo, a well-known shoe designer from Italy.</desc>
     <credits>
@@ -468,7 +292,7 @@
     <category lang="en">Biography</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/437D724A14EFAE842D6E56CAA085D2D50C892B6F4.jpg"/>
   </programme>
-  <programme start="20240317133500 +0530" stop="20240318151000 +0530" channel="MN+HD.in">
+  <programme start="20240317133500 +0530" stop="20240317151000 +0530" channel="MN+HD.in">
     <title lang="en">Single White Female</title>
     <desc lang="en">While struggling with her engagement, Allison welcomes Hedra, her new roommate. However, as the two women grow closer to each other, Hedra starts forming a dangerous obsession with Allison.</desc>
     <credits>
@@ -482,7 +306,7 @@
     <category lang="en">Thriller</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A988EBF23574ED00EC546D0C93551FCD0EC54AF8L.jpg"/>
   </programme>
-  <programme start="20240317151000 +0530" stop="20240318171500 +0530" channel="MN+HD.in">
+  <programme start="20240317151000 +0530" stop="20240317171500 +0530" channel="MN+HD.in">
     <title lang="en">Rocketman</title>
     <desc lang="en">After completing his studies, Reginald begins to perform rock music at local pubs. Later, he meets John Reid, a music manager, who helps him rise to fame, but also creates chaos in his life.</desc>
     <credits>
@@ -496,7 +320,7 @@
     <category lang="en">Biography</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DA8828045F0F85EF7D8061C77893DBC36E592F17E.jpg"/>
   </programme>
-  <programme start="20240317171500 +0530" stop="20240318190000 +0530" channel="MN+HD.in">
+  <programme start="20240317171500 +0530" stop="20240317190000 +0530" channel="MN+HD.in">
     <title lang="en">What Men Want</title>
     <desc lang="en">After years of being overpowered by men in the industry, a female sports agent gains the ability to hear men's thoughts and uses it to her advantage.</desc>
     <credits>
@@ -509,7 +333,7 @@
     <category lang="en">Romance</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D38848A57AFE9F8543FB148845AE8C654DDA0F6Q.jpg"/>
   </programme>
-  <programme start="20240317190000 +0530" stop="20240318210000 +0530" channel="MN+HD.in">
+  <programme start="20240317190000 +0530" stop="20240317210000 +0530" channel="MN+HD.in">
     <title lang="en">Hugo</title>
     <desc lang="en">In 1931, Hugo, a young boy, who lives in the window of the railway station in Paris, gets embroiled in a mystery surrounding his late father's automation and the pioneer filmmaker Georges Melies.</desc>
     <credits>
@@ -523,7 +347,7 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C223C29022CF019A73162DB051065B222101FFCH.jpg"/>
   </programme>
-  <programme start="20240317210000 +0530" stop="20240318230500 +0530" channel="MN+HD.in">
+  <programme start="20240317210000 +0530" stop="20240317230500 +0530" channel="MN+HD.in">
     <title lang="en">Knives Out</title>
     <desc lang="en">Harlan Thrombey, a reputable crime novelist, is found dead after his 85th birthday celebrations. However, as detective Benoit Blanc investigates the case, it unravels a ploy of sinister intentions.</desc>
     <credits>
@@ -537,7 +361,7 @@
     <category lang="en">Mystery</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4910D5EEA5FC10C5062C33F36300973184A737E7R.jpg"/>
   </programme>
-  <programme start="20240317230500 +0530" stop="20240319005000 +0530" channel="MN+HD.in">
+  <programme start="20240317230500 +0530" stop="20240318005000 +0530" channel="MN+HD.in">
     <title lang="en">Labor Day</title>
     <desc lang="en">Adele and Henry, a mother and son duo, offer a ride to a wounded and frightening man. However, they soon learn about his mysterious past.</desc>
     <credits>
@@ -550,5 +374,154 @@
     </credits>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D380D94FF340631BEEC57E6FA3B680602D3B820DC.jpg"/>
+  </programme>
+  <programme start="20240318003800 +0530" stop="20240318020200 +0530" channel="MN+HD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318020200 +0530" stop="20240318022800 +0530" channel="MN+HD.in">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
+    <credits>
+      <actor>Angela Valley</actor>
+      <actor>Janett Hermosillo</actor>
+      <actor>Ann Marie Lariccia</actor>
+      <actor>Michelle Blenker</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
+  </programme>
+  <programme start="20240318022800 +0530" stop="20240318025300 +0530" channel="MN+HD.in">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
+    <credits>
+      <actor>Angela Valley</actor>
+      <actor>Janett Hermosillo</actor>
+      <actor>Ann Marie Lariccia</actor>
+      <actor>Michelle Blenker</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
+  </programme>
+  <programme start="20240318025300 +0530" stop="20240318030000 +0530" channel="MN+HD.in">
+    <title lang="en">Rob Reiner - When Harry Met Sally</title>
+    <desc lang="en">Director Rob Reiner talks about his 1989 movie 'When Harry Met Sally...', shares his on-set experiences and reveals interesting information about the film.</desc>
+    <credits>
+      <actor>Rob Reiner</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/162CEB989D6448B564BA8E16026D12AA40490E3DQ.jpg"/>
+  </programme>
+  <programme start="20240318030000 +0530" stop="20240318030500 +0530" channel="MN+HD.in">
+    <title lang="en">Francis Ford Coppola - The Way He Works With Actors</title>
+    <desc lang="en">Francis Ford Coppola, a prominent American film director, sheds light on his collaboration with actors whilst highlighting interesting anecdotes surrounding the same.</desc>
+    <credits>
+      <actor>Francis Ford Coppola</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF6320DABCE5DF54CDB571BA70713D377D926DECU.jpg"/>
+  </programme>
+  <programme start="20240318030500 +0530" stop="20240318030900 +0530" channel="MN+HD.in">
+    <title lang="en">Curtis Hanson - His Way To Hollywood</title>
+    <desc lang="en">American film director Curtis Hanson provides insights into how he ventured into Hollywood whilst sharing amusing anecdotes surrounding the same.</desc>
+    <credits>
+      <actor>Curtis Hanson</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FC710401FF0E0FC8936818B132CF5728EDA23EBK.jpg"/>
+  </programme>
+  <programme start="20240318030900 +0530" stop="20240318031400 +0530" channel="MN+HD.in">
+    <title lang="en">Curtis Hanson - LA Confidential</title>
+    <desc lang="en">Curtis Hanson, director of the American movie 'LA Confidential', shares interesting anecdotes and stories about making the film.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EEFB9FFE033DE89D12FCE42F6EBA76F0E4E12BBCU.jpg"/>
+  </programme>
+  <programme start="20240318031400 +0530" stop="20240318031800 +0530" channel="MN+HD.in">
+    <title lang="en">Doug Liman - Mr &amp; Mrs Smith</title>
+    <desc lang="en">The host interviews director, Doug Liman, about his movie 'Mr &amp; Mrs Smith', as he shares interesting trivia and behind-the-scenes stories about his film.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77FCC0340677A1C4EDC20596FB918FE32F4015C7U.jpg"/>
+  </programme>
+  <programme start="20240318031800 +0530" stop="20240318054100 +0530" channel="MN+HD.in">
+    <title lang="en">Blade Runner 2049</title>
+    <desc lang="en">The host sheds light on the making of 'Blade Runner 2049', directed by Denis Villeneuve and shares some lesser known insights. UK 2017.</desc>
+    <credits>
+      <actor>Ana de Armas</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Harrison Ford</actor>
+      <actor>Jared Leto</actor>
+      <actor>Robin Wright</actor>
+      <actor>Ryan Gosling</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F810B2552A8392701C6F75DF57CB8CA187D59FF8J.jpg"/>
+  </programme>
+  <programme start="20240318054100 +0530" stop="20240318070500 +0530" channel="MN+HD.in">
+    <title lang="en">Land Of The Bears</title>
+    <desc lang="en">The filmmaker observes the mannerisms, daily activities and adventures of five wild brown bears in the Kamchatka Peninsula.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7855BA6DF421D14D58B8183E6CD1F3A515A90151.jpg"/>
+  </programme>
+  <programme start="20240318070500 +0530" stop="20240318082700 +0530" channel="MN+HD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318082700 +0530" stop="20240318101800 +0530" channel="MN+HD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318101800 +0530" stop="20240318113400 +0530" channel="MN+HD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318113400 +0530" stop="20240318134500 +0530" channel="MN+HD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318134500 +0530" stop="20240318152900 +0530" channel="MN+HD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318152900 +0530" stop="20240318170800 +0530" channel="MN+HD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318170800 +0530" stop="20240318184500 +0530" channel="MN+HD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318184500 +0530" stop="20240318210000 +0530" channel="MN+HD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318210000 +0530" stop="20240318235400 +0530" channel="MN+HD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240318235400 +0530" stop="20240319014200 +0530" channel="MN+HD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
 </tv>

@@ -3,288 +3,6 @@
   <channel id="StarSports1HindiHD.in">
     <display-name lang="en">Star Sports 1 Hindi HD</display-name>
   </channel>
-  <programme start="20240315000000 +0530" stop="20240315003000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL 2018 Highlights</title>
-    <desc lang="en">Match 7, Sunrisers Hyderabad vs. Mumbai Indians- Rajiv Gandhi International Cricket Stadium, Hyderabad, India</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE66B4BC676C3DBC887AECA3F5957C85500211A7P.jpg"/>
-  </programme>
-  <programme start="20240315003000 +0530" stop="20240315010000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL 2019 Hlts KXIP v SRH</title>
-    <desc lang="en">Match 22, Kings XI Punjab vs. Sunrisers Hyderabad- Punjab Cricket Association Inderjit Singh Bindra Stadium, Mohali, India</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EE360004974B221C75D8929843D7143711C42BBH.jpg"/>
-  </programme>
-  <programme start="20240315010000 +0530" stop="20240315013000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL 2020 H/L's SRH v RR</title>
-    <desc lang="en">Match 26, Sunrisers Hyderabad vs. Rajasthan Royals- Dubai International Stadium, Dubai, UAE</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3438C7C1180E847BD898B76D96480BA9AFA8EA7C6.jpg"/>
-  </programme>
-  <programme start="20240315013000 +0530" stop="20240315020000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">Vivo IPL 2021 Hlts. MI v CSK</title>
-    <desc lang="en">Match 27, Mumbai Indians vs. Chennai Super Kings- Arun Jaitley Stadium, New Delhi, India</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/59817087201BBA5ADC71B2680E1D6D30467EE9AAV.jpg"/>
-  </programme>
-  <programme start="20240315020000 +0530" stop="20240315023000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">TATA IPL Highlights GT v SRH</title>
-    <desc lang="en">Gujarat Titans vs. Sunrisers Hyderabad- Wankhede Stadium, Mumbai, India</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/633FC87CCEDA0F1580766C3FF69CDA99F055B931J.jpg"/>
-  </programme>
-  <programme start="20240315023000 +0530" stop="20240315030000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">TATA IPL 2023 HIGHLIGHTS CSK v GT</title>
-    <desc lang="en">Chennai Super Kings vs. Gujarat Titans- Narendra Modi Stadium, Ahmedabad, India</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BCF70F323C869DF4490C6D431977F9AD3C13387ET.jpg"/>
-  </programme>
-  <programme start="20240315030000 +0530" stop="20240315033000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL 2018 Highlights</title>
-    <desc lang="en">Match 9, Mumbai Indians vs. Delhi Daredevils- Wankhede Stadium, Mumbai, India</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE66B4BC676C3DBC887AECA3F5957C85500211A7P.jpg"/>
-  </programme>
-  <programme start="20240315033000 +0530" stop="20240315040000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL 2019 Hlts</title>
-    <desc lang="en">Match 24, Mumbai Indians vs. Kings XI Punjab- Wankhede Stadium, Mumbai, India</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EE360004974B221C75D8929843D7143711C42BBH.jpg"/>
-  </programme>
-  <programme start="20240315040000 +0530" stop="20240315043000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL 2020 H/L's MI v DC</title>
-    <desc lang="en">Match 27, Mumbai Indians vs. Delhi Capitals- Sheikh Zayed Stadium, Abu Dhabi, UAE</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/67BDA7644FDEC1DB7770E8A939C5982F280BFEE0V.jpg"/>
-  </programme>
-  <programme start="20240315043000 +0530" stop="20240315050000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">Vivo IPL 2021 Hlts. PBKS v RR</title>
-    <desc lang="en">Match 32, Punjab Kings vs. Rajasthan Royals- Dubai International Cricket Stadium, Dubai, UAE</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/165969BB9CF61151E6C039D93B8430A91E354C4CC.jpg"/>
-  </programme>
-  <programme start="20240315050000 +0530" stop="20240315053000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">TATA IPL Highlights DC v LSG</title>
-    <desc lang="en">Delhi Capitals vs. Lucknow Super Giants- Wankhede Stadium, Mumbai, India</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/74107214AE2F9404B9A6605694D9426FABE6693B5.jpg"/>
-  </programme>
-  <programme start="20240315053000 +0530" stop="20240315060000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">TATA IPL 2023 HIGHLIGHTS CSK v LSG</title>
-    <desc lang="en">Chennai Super Kings vs. Lucknow Super Giants- M A Chidambaram Stadium, Chennai, India</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B2E453342F27C3E6BABC9B109558DC7DBD04FA709.jpg"/>
-  </programme>
-  <programme start="20240315060000 +0530" stop="20240315063000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL 2018 Highlights</title>
-    <desc lang="en">Match 12, Kings XI Punjab vs. Chennai Super Kings- Punjab Cricket Association Inderjit Singh Bindra Stadium, Mohali, India</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE66B4BC676C3DBC887AECA3F5957C85500211A7P.jpg"/>
-  </programme>
-  <programme start="20240315063000 +0530" stop="20240315070000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL 2019 Hlts</title>
-    <desc lang="en">Match 25, Rajasthan Royals vs. Chennai Super Kings- Sawai Mansingh Stadium, Jaipur, India</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4EE360004974B221C75D8929843D7143711C42BBH.jpg"/>
-  </programme>
-  <programme start="20240315070000 +0530" stop="20240315071500 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">Legends Cricket Trophy Hlts 2024 Giants v Royal</title>
-    <desc lang="en">Dubai Giants vs. Punjab Royals- Pallekele International Cricket Stadium, Kandy, Sri Lanka</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C698BAB6BF60C8E97098A4549F1F5E50AD7931E5.jpg"/>
-  </programme>
-  <programme start="20240315071500 +0530" stop="20240315073000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">Legends Cricket Trophy Hlts 2024 Devils v Kings</title>
-    <desc lang="en">Delhi Devils vs. Rajasthan Kings- Pallekele International Cricket Stadium, Kandy, Sri Lanka</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C698BAB6BF60C8E97098A4549F1F5E50AD7931E5.jpg"/>
-  </programme>
-  <programme start="20240315073000 +0530" stop="20240315074500 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL Today</title>
-    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
-  </programme>
-  <programme start="20240315074500 +0530" stop="20240315080000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">Incredible Shades Of Virat</title>
-    <desc lang="en">The presenter provides an insight into multiple facets of the personal and professional lives of celebrated Indian cricketer Virat Kohli.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/721C4CFDBDDF0420509661FD7045A3992D680E4AW.jpg"/>
-  </programme>
-  <programme start="20240315080000 +0530" stop="20240315083000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL : Incredible Opening Day Matches</title>
-    <desc lang="en">Sports experts discuss and analyse the best opening day matches in the Indian Premier League before the start of the 2024 season.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AD96A61BF496512D3EC9767DAE4010F325949A4E.jpg"/>
-  </programme>
-  <programme start="20240315083000 +0530" stop="20240315090000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL : Incredible Opening Day Matches</title>
-    <desc lang="en">Sports experts discuss and analyse the best opening day matches in the Indian Premier League before the start of the 2024 season.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AD96A61BF496512D3EC9767DAE4010F325949A4E.jpg"/>
-  </programme>
-  <programme start="20240315090000 +0530" stop="20240315093000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL : Incredible Opening Day Matches</title>
-    <desc lang="en">Sports experts discuss and analyse the best opening day matches in the Indian Premier League before the start of the 2024 season.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AD96A61BF496512D3EC9767DAE4010F325949A4E.jpg"/>
-  </programme>
-  <programme start="20240315093000 +0530" stop="20240315100000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL : Incredible Opening Day Matches</title>
-    <desc lang="en">Sports experts discuss and analyse the best opening day matches in the Indian Premier League before the start of the 2024 season.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AD96A61BF496512D3EC9767DAE4010F325949A4E.jpg"/>
-  </programme>
-  <programme start="20240315100000 +0530" stop="20240315103000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">Kohli's Sweet 16</title>
-    <desc lang="en">A countdown of some of the best moments from various professional cricket matches played around the world by various teams in 2024.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/37325B6522846F1D5550ED9F700D731D478B9DC17.jpg"/>
-  </programme>
-  <programme start="20240315103000 +0530" stop="20240315104500 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">Incredible Shades Of Virat</title>
-    <desc lang="en">The presenter provides an insight into multiple facets of the personal and professional lives of celebrated Indian cricketer Virat Kohli.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/721C4CFDBDDF0420509661FD7045A3992D680E4AW.jpg"/>
-  </programme>
-  <programme start="20240315104500 +0530" stop="20240315111500 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL Heroes 2024</title>
-    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
-  </programme>
-  <programme start="20240315111500 +0530" stop="20240315113000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">Incredible 3 2024</title>
-    <desc lang="en">The host shares career journeys and incredible life stories of notable players from the cricket team ahead of the prestigious Indian Premier League of 2024.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/23FD594989F21EE5347657C3D2D539C3B3648F2DB.jpg"/>
-  </programme>
-  <programme start="20240315113000 +0530" stop="20240315114500 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL Today</title>
-    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
-  </programme>
-  <programme start="20240315114500 +0530" stop="20240315121500 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL Heroes 2024</title>
-    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
-  </programme>
-  <programme start="20240315121500 +0530" stop="20240315123000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">16 INCREDIBLE YEARS - BEST OF RR</title>
-    <desc lang="en">Best Of RR: The host presents a compilation of the top 16 moments of the team Rajasthan Royals, a professional franchise cricket team based in Jaipur.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A69FFF3667618435120107F9B04E51F14B0E528Y.jpg"/>
-  </programme>
-  <programme start="20240315123000 +0530" stop="20240315130000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">Game Plan:IPL 2024</title>
-    <desc lang="en">Experts discuss the possible team and player strategies and player profiles for the 2024 edition of the Indian Premier League.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A8F4B8FC0E900ABF0C20D5CD2A5A8D7C636BC03L.jpg"/>
-  </programme>
-  <programme start="20240315130000 +0530" stop="20240315133000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL : Incredible Opening Day Matches</title>
-    <desc lang="en">Sports experts discuss and analyse the best opening day matches in the Indian Premier League before the start of the 2024 season.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AD96A61BF496512D3EC9767DAE4010F325949A4E.jpg"/>
-  </programme>
-  <programme start="20240315133000 +0530" stop="20240315140000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL : Incredible Opening Day Matches</title>
-    <desc lang="en">Sports experts discuss and analyse the best opening day matches in the Indian Premier League before the start of the 2024 season.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AD96A61BF496512D3EC9767DAE4010F325949A4E.jpg"/>
-  </programme>
-  <programme start="20240315140000 +0530" stop="20240315143000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL : Incredible Opening Day Matches</title>
-    <desc lang="en">Sports experts discuss and analyse the best opening day matches in the Indian Premier League before the start of the 2024 season.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2AD96A61BF496512D3EC9767DAE4010F325949A4E.jpg"/>
-  </programme>
-  <programme start="20240315143000 +0530" stop="20240315150000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL Heroes 2024</title>
-    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
-  </programme>
-  <programme start="20240315150000 +0530" stop="20240315150500 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">Cricket Fillers - Others Hindi</title>
-    <desc lang="en">Others Hindi: Take a look at some of the most memorable cricket matches and other interesting moments.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD442FE00A76CFE44D2967C546653E5C6E94AEC57.jpg"/>
-  </programme>
-  <programme start="20240315150500 +0530" stop="20240315152000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">Incredible Shades Of Virat</title>
-    <desc lang="en">The presenter provides an insight into multiple facets of the personal and professional lives of celebrated Indian cricketer Virat Kohli.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/721C4CFDBDDF0420509661FD7045A3992D680E4AW.jpg"/>
-  </programme>
-  <programme start="20240315152000 +0530" stop="20240315155000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">The King's Quest</title>
-    <desc lang="en">The presenter brings attention to the journey of renowned Indian cricketer Virat Kohli over the years and highlights his career achievements.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E500E1779288D9CAFF9F7AC3C4BBCA5E5A2C35BB.jpg"/>
-  </programme>
-  <programme start="20240315155000 +0530" stop="20240315183000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">Live Legends Cricket Trophy Royal v Lions</title>
-    <desc lang="en">Punjab Royals vs. Colombo Lions- Pallekele International Cricket Stadium, Kandy, Sri Lanka</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/264C9A6F2C54821F8B6470BC501BEB3CE71D6D7CU.jpg"/>
-  </programme>
-  <programme start="20240315183000 +0530" stop="20240315184500 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL Today</title>
-    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
-  </programme>
-  <programme start="20240315184500 +0530" stop="20240315185000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">Cricket Fillers - Others Hindi</title>
-    <desc lang="en">Others Hindi: Take a look at some of the most memorable cricket matches and other interesting moments.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BD442FE00A76CFE44D2967C546653E5C6E94AEC57.jpg"/>
-  </programme>
-  <programme start="20240315185000 +0530" stop="20240315213000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">Live Legends Cricket Trophy Army v Giants</title>
-    <desc lang="en">Kandy Samp Army vs. Dubai Giants- Pallekele International Cricket Stadium, Kandy, Sri Lanka</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/264C9A6F2C54821F8B6470BC501BEB3CE71D6D7CU.jpg"/>
-  </programme>
-  <programme start="20240315213000 +0530" stop="20240315220000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL Heroes 2024</title>
-    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
-  </programme>
-  <programme start="20240315220000 +0530" stop="20240315221500 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL Today</title>
-    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
-  </programme>
-  <programme start="20240315221500 +0530" stop="20240315224500 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL Heroes 2024</title>
-    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
-  </programme>
-  <programme start="20240315224500 +0530" stop="20240315230000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">16 INCREDIBLE YEARS - BEST OF KKR</title>
-    <desc lang="en">Best Of KKR: The host presents a compilation of the top 16 moments of the team Kolkata Knight Riders, a professional franchise cricket team representing the city of Kolkata.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A69FFF3667618435120107F9B04E51F14B0E528Y.jpg"/>
-  </programme>
-  <programme start="20240315230000 +0530" stop="20240315233000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL on Star:Action Replay 2023</title>
-    <desc lang="en">The host sheds light on some of the most exciting moments and highlights from the 2023 edition of the Indian Premier League.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9BB4ECCD4A6B06F24241901B51D51B9B91D3D162.jpg"/>
-  </programme>
-  <programme start="20240315233000 +0530" stop="20240316000000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL Heroes 2024</title>
-    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
-  </programme>
   <programme start="20240316000000 +0530" stop="20240316003000 +0530" channel="StarSports1HindiHD.in">
     <title lang="en">IPL Heroes 2024</title>
     <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
@@ -298,10 +16,10 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE66B4BC676C3DBC887AECA3F5957C85500211A7P.jpg"/>
   </programme>
   <programme start="20240316010000 +0530" stop="20240316013000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL 2020 H/L's DC v KKR</title>
-    <desc lang="en">Match 16, Delhi Capitals vs. Kolkata Knight Riders- Sharjah Cricket Stadium, Sharjah, UAE</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D4D7285C27F72E74A2BBAECA8494F1453102C74V.jpg"/>
+    <title lang="en">IPL:Incredible Rivalries</title>
+    <desc lang="en">A compilation of the most fierce matches between rival teams in the Indian Premier League, a prestigious Twenty20 tournament.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B752E544B8E63624EEA0943770F6848CCE6BA8DA.jpg"/>
   </programme>
   <programme start="20240316013000 +0530" stop="20240316020000 +0530" channel="StarSports1HindiHD.in">
     <title lang="en">IPL Heroes 2024</title>
@@ -310,10 +28,10 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
   </programme>
   <programme start="20240316020000 +0530" stop="20240316023000 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL:Incredible Rivalries</title>
-    <desc lang="en">A compilation of the most fierce matches between rival teams in the Indian Premier League, a prestigious Twenty20 tournament.</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B752E544B8E63624EEA0943770F6848CCE6BA8DA.jpg"/>
+    <title lang="en">IPL 2020 H/L's DC v KXIP</title>
+    <desc lang="en">Match 2, Delhi Capitals vs. Kings XI Punjab- Dubai International Stadium, Dubai, UAE</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B93D8C0A21B52172186BBD8F0D7437F7A036D89A3.jpg"/>
   </programme>
   <programme start="20240316023000 +0530" stop="20240316030000 +0530" channel="StarSports1HindiHD.in">
     <title lang="en">Vivo IPL 2021 Hlts. RR v PBKS</title>
@@ -382,7 +100,7 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C698BAB6BF60C8E97098A4549F1F5E50AD7931E5.jpg"/>
   </programme>
   <programme start="20240316073000 +0530" stop="20240316074500 +0530" channel="StarSports1HindiHD.in">
-    <title lang="en">IPL 360</title>
+    <title lang="en">IPL Today</title>
     <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
     <category lang="en">Other Sports</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69667FE10E9A90EEAFEF6F6F11B3428FBAE97C7EL.jpg"/>
@@ -800,5 +518,323 @@
     <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
     <category lang="en">Other Sports</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96DBAF16049E297544918055A4CCED5DAE694F88S.jpg"/>
+  </programme>
+  <programme start="20240318000000 +0530" stop="20240318003000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318003000 +0530" stop="20240318010000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318010000 +0530" stop="20240318013000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318013000 +0530" stop="20240318020000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318020000 +0530" stop="20240318023000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318023000 +0530" stop="20240318030000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318030000 +0530" stop="20240318033000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318033000 +0530" stop="20240318040000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318040000 +0530" stop="20240318043000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318043000 +0530" stop="20240318050000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318050000 +0530" stop="20240318053000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318053000 +0530" stop="20240318060000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318060000 +0530" stop="20240318063000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318063000 +0530" stop="20240318070000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318070000 +0530" stop="20240318071500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318071500 +0530" stop="20240318073000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318073000 +0530" stop="20240318074500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318074500 +0530" stop="20240318080000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318080000 +0530" stop="20240318083000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318083000 +0530" stop="20240318090000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318090000 +0530" stop="20240318093000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318093000 +0530" stop="20240318100000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318100000 +0530" stop="20240318103000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318103000 +0530" stop="20240318104500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318104500 +0530" stop="20240318110000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318110000 +0530" stop="20240318111500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318111500 +0530" stop="20240318113000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318113000 +0530" stop="20240318114500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318114500 +0530" stop="20240318121500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318121500 +0530" stop="20240318123000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318123000 +0530" stop="20240318130000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318130000 +0530" stop="20240318133000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318133000 +0530" stop="20240318140000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318140000 +0530" stop="20240318143000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318143000 +0530" stop="20240318150000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318150000 +0530" stop="20240318150500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318150500 +0530" stop="20240318152000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318152000 +0530" stop="20240318155000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318155000 +0530" stop="20240318170000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318170000 +0530" stop="20240318171500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318171500 +0530" stop="20240318183000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318183000 +0530" stop="20240318184500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318184500 +0530" stop="20240318185000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318185000 +0530" stop="20240318200000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318200000 +0530" stop="20240318201500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318201500 +0530" stop="20240318213000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318213000 +0530" stop="20240318214500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318214500 +0530" stop="20240318220000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318220000 +0530" stop="20240318221500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318221500 +0530" stop="20240318224500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318224500 +0530" stop="20240318231500 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318231500 +0530" stop="20240318233000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+  </programme>
+  <programme start="20240318233000 +0530" stop="20240319020000 +0530" channel="StarSports1HindiHD.in">
+    <title lang="en">Sports Programme</title>
+    <desc lang="en">Sports Programme</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
   </programme>
 </tv>

@@ -3,32 +3,19 @@
   <channel id="MTVHD.in">
     <display-name lang="en">MTV HD</display-name>
   </channel>
-  <programme start="20240315000000 +0530" stop="20240315005000 +0530" channel="MTVHD.in">
-    <title lang="en">Love School</title>
-    <desc lang="en">The hosts try to help estranged young couples by giving them special tasks and challenges. While competing in the tasks, they automatically bond with each other, leaving behind past misunderstandings.</desc>
-    <credits>
-      <actor>Upen Patel</actor>
-      <actor>Karishma Tanna</actor>
-      <actor>Karan Kundra</actor>
-      <actor>Anusha Dandekar</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/902DDF9F43A875868D84702353592752BDF6C241U.jpg"/>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-  </programme>
-  <programme start="20240315005000 +0530" stop="20240315060000 +0530" channel="MTVHD.in">
+  <programme start="20240316005000 +0530" stop="20240316060000 +0530" channel="MTVHD.in">
     <title lang="en">Night Out</title>
     <desc lang="en">An engaging compilation of soothing and relaxing musical numbers recorded and performed by various artists and musicians.</desc>
     <category lang="en">Music</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A4394DF319E7ED2F6F0F04B2499A4B6C796932E8N.jpg"/>
   </programme>
-  <programme start="20240315060000 +0530" stop="20240315092500 +0530" channel="MTVHD.in">
+  <programme start="20240316060000 +0530" stop="20240316091000 +0530" channel="MTVHD.in">
     <title lang="en">Pump Up Mornings</title>
     <desc lang="en">A comprehensive compilation of energetic and popular songs performed by various renowned artists and musicians, played back to back.</desc>
     <category lang="en">Music</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E3227DDE92E292CDD84EE381581E39BEFF7ACC4BC.jpg"/>
   </programme>
-  <programme start="20240315092500 +0530" stop="20240315100000 +0530" channel="MTVHD.in">
+  <programme start="20240316091000 +0530" stop="20240316095500 +0530" channel="MTVHD.in">
     <title lang="en">Splitsvilla</title>
     <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
     <credits>
@@ -38,92 +25,9 @@
     </credits>
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/948ED68BC4F1591088FEF53513AB97298ADCBFF1U.jpg"/>
-    <episode-num system="xmltv_ns">10.14.</episode-num>
+    <episode-num system="xmltv_ns">10.15.</episode-num>
   </programme>
-  <programme start="20240315100000 +0530" stop="20240315105000 +0530" channel="MTVHD.in">
-    <title lang="en">Splitsvilla</title>
-    <desc lang="en">Special Eps: Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
-    <credits>
-      <actor>Nikhil Chinappa</actor>
-      <actor>Sunny Leone</actor>
-      <actor>Rannvijay Singh</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDDBB8DFA181278F4635789FD463DEA33DA8F842Q.jpg"/>
-    <episode-num system="xmltv_ns">9.10.</episode-num>
-  </programme>
-  <programme start="20240315105000 +0530" stop="20240315114500 +0530" channel="MTVHD.in">
-    <title lang="en">Roadies Karm Ya Kaand</title>
-    <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D88D090D641610567B083CBD5FF9B6C5E0DC0FB66.jpg"/>
-    <episode-num system="xmltv_ns">.27.</episode-num>
-  </programme>
-  <programme start="20240315114500 +0530" stop="20240315123000 +0530" channel="MTVHD.in">
-    <title lang="en">Splitsvilla</title>
-    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
-    <credits>
-      <actor>Nikhil Chinappa</actor>
-      <actor>Sunny Leone</actor>
-      <actor>Rannvijay Singh</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5EDB69E071147CE99C4D1990B2855C22555367D58.jpg"/>
-    <episode-num system="xmltv_ns">13.20.</episode-num>
-  </programme>
-  <programme start="20240315123000 +0530" stop="20240315141500 +0530" channel="MTVHD.in">
-    <title lang="en">Khatron Ke Khiladi</title>
-    <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
-    <credits>
-      <actor>Rohit Shetty</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90121A036A80A970C517CB90B19C0B2DE7898880T.jpg"/>
-    <episode-num system="xmltv_ns">12.20.</episode-num>
-  </programme>
-  <programme start="20240315141500 +0530" stop="20240315154000 +0530" channel="MTVHD.in">
-    <title lang="en">Khatron Ke Khiladi</title>
-    <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
-    <credits>
-      <actor>Rohit Shetty</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90121A036A80A970C517CB90B19C0B2DE7898880T.jpg"/>
-    <episode-num system="xmltv_ns">12.21.</episode-num>
-  </programme>
-  <programme start="20240315154000 +0530" stop="20240315163000 +0530" channel="MTVHD.in">
-    <title lang="en">Splitsvilla</title>
-    <desc lang="en">Special Eps: Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
-    <credits>
-      <actor>Nikhil Chinappa</actor>
-      <actor>Sunny Leone</actor>
-      <actor>Rannvijay Singh</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5EDB69E071147CE99C4D1990B2855C22555367D58.jpg"/>
-    <episode-num system="xmltv_ns">13.11.</episode-num>
-  </programme>
-  <programme start="20240315163000 +0530" stop="20240315182000 +0530" channel="MTVHD.in">
-    <title lang="en">Khatron Ke Khiladi</title>
-    <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
-    <credits>
-      <actor>Rohit Shetty</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AFF5FF5F6F318D2ECDB0438CC4CC81D945AF46D22.jpg"/>
-    <episode-num system="xmltv_ns">12.0.</episode-num>
-  </programme>
-  <programme start="20240315182000 +0530" stop="20240315200000 +0530" channel="MTVHD.in">
-    <title lang="en">Khatron Ke Khiladi</title>
-    <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
-    <credits>
-      <actor>Rohit Shetty</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D60E456661F2A7AC2DBF23A1F64D2D37C426B5E5P.jpg"/>
-    <episode-num system="xmltv_ns">12.1.</episode-num>
-  </programme>
-  <programme start="20240315200000 +0530" stop="20240315204000 +0530" channel="MTVHD.in">
+  <programme start="20240316095500 +0530" stop="20240316104000 +0530" channel="MTVHD.in">
     <title lang="en">Splitsvilla</title>
     <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
     <credits>
@@ -133,9 +37,9 @@
     </credits>
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDDBB8DFA181278F4635789FD463DEA33DA8F842Q.jpg"/>
-    <episode-num system="xmltv_ns">9.17.</episode-num>
+    <episode-num system="xmltv_ns">9.0.</episode-num>
   </programme>
-  <programme start="20240315204000 +0530" stop="20240315213000 +0530" channel="MTVHD.in">
+  <programme start="20240316104000 +0530" stop="20240316113000 +0530" channel="MTVHD.in">
     <title lang="en">Splitsvilla</title>
     <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
     <credits>
@@ -144,83 +48,8 @@
       <actor>Rannvijay Singh</actor>
     </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5EDB69E071147CE99C4D1990B2855C22555367D58.jpg"/>
-    <episode-num system="xmltv_ns">13.8.</episode-num>
-  </programme>
-  <programme start="20240315213000 +0530" stop="20240315230000 +0530" channel="MTVHD.in">
-    <title lang="en">MTV Ace Of Space</title>
-    <desc lang="en">In this game of survival, 18 spirited contestants from all over the country must compete in a series of challenges to win a bigger space to live in. In the process, they rediscover themselves.</desc>
-    <credits>
-      <actor>Vikas Gupta</actor>
-      <actor>Nia Sharma</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F00BCC4A1DCF60767F62982FF4E67B0B6D521D7BE.jpg"/>
-    <episode-num system="xmltv_ns">.61.</episode-num>
-  </programme>
-  <programme start="20240315230000 +0530" stop="20240315235000 +0530" channel="MTVHD.in">
-    <title lang="en">MTV Ace Of Space</title>
-    <desc lang="en">In this game of survival, 18 spirited contestants from all over the country must compete in a series of challenges to win a bigger space to live in. In the process, they rediscover themselves.</desc>
-    <credits>
-      <actor>Vikas Gupta</actor>
-      <actor>Nia Sharma</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F00BCC4A1DCF60767F62982FF4E67B0B6D521D7BE.jpg"/>
-    <episode-num system="xmltv_ns">.62.</episode-num>
-  </programme>
-  <programme start="20240315235000 +0530" stop="20240316005000 +0530" channel="MTVHD.in">
-    <title lang="en">Love School</title>
-    <desc lang="en">The hosts try to help estranged young couples by giving them special tasks and challenges. While competing in the tasks, they automatically bond with each other, leaving behind past misunderstandings.</desc>
-    <credits>
-      <actor>Upen Patel</actor>
-      <actor>Karishma Tanna</actor>
-      <actor>Karan Kundra</actor>
-      <actor>Anusha Dandekar</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/902DDF9F43A875868D84702353592752BDF6C241U.jpg"/>
-    <episode-num system="xmltv_ns">3.6.</episode-num>
-  </programme>
-  <programme start="20240316005000 +0530" stop="20240316060000 +0530" channel="MTVHD.in">
-    <title lang="en">Night Out</title>
-    <desc lang="en">An engaging compilation of soothing and relaxing musical numbers recorded and performed by various artists and musicians.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A4394DF319E7ED2F6F0F04B2499A4B6C796932E8N.jpg"/>
-  </programme>
-  <programme start="20240316060000 +0530" stop="20240316092500 +0530" channel="MTVHD.in">
-    <title lang="en">Pump Up Mornings</title>
-    <desc lang="en">A comprehensive compilation of energetic and popular songs performed by various renowned artists and musicians, played back to back.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E3227DDE92E292CDD84EE381581E39BEFF7ACC4BC.jpg"/>
-  </programme>
-  <programme start="20240316092500 +0530" stop="20240316100000 +0530" channel="MTVHD.in">
-    <title lang="en">Splitsvilla</title>
-    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
-    <credits>
-      <actor>Nikhil Chinappa</actor>
-      <actor>Sunny Leone</actor>
-      <actor>Rannvijay Singh</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
-  </programme>
-  <programme start="20240316100000 +0530" stop="20240316105000 +0530" channel="MTVHD.in">
-    <title lang="en">Splitsvilla</title>
-    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
-    <credits>
-      <actor>Nikhil Chinappa</actor>
-      <actor>Sunny Leone</actor>
-      <actor>Rannvijay Singh</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
-  </programme>
-  <programme start="20240316105000 +0530" stop="20240316113000 +0530" channel="MTVHD.in">
-    <title lang="en">Roadies Karm Ya Kaand</title>
-    <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D88D090D641610567B083CBD5FF9B6C5E0DC0FB66.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F36F1817C7F68B5944A78CB5315161B09B3B7F4F1.jpg"/>
+    <episode-num system="xmltv_ns">11.2.</episode-num>
   </programme>
   <programme start="20240316113000 +0530" stop="20240316122000 +0530" channel="MTVHD.in">
     <title lang="en">Splitsvilla</title>
@@ -231,7 +60,8 @@
       <actor>Rannvijay Singh</actor>
     </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5EDB69E071147CE99C4D1990B2855C22555367D58.jpg"/>
+    <episode-num system="xmltv_ns">13.21.</episode-num>
   </programme>
   <programme start="20240316122000 +0530" stop="20240316130000 +0530" channel="MTVHD.in">
     <title lang="en">Splitsvilla</title>
@@ -242,9 +72,40 @@
       <actor>Rannvijay Singh</actor>
     </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDDBB8DFA181278F4635789FD463DEA33DA8F842Q.jpg"/>
+    <episode-num system="xmltv_ns">9.9.</episode-num>
   </programme>
   <programme start="20240316130000 +0530" stop="20240316134000 +0530" channel="MTVHD.in">
+    <title lang="en">Kaisi Yeh Yaariaan</title>
+    <desc lang="en">The FAB5, a musical band in college, along with Nandini and Navya, struggle to achieve their goals while battling issues of the heart.</desc>
+    <credits>
+      <actor>Parth Samthaan</actor>
+      <actor>Niti Taylor</actor>
+      <actor>Ayaz Ahmed</actor>
+      <actor>Veebha Anand</actor>
+      <actor>Utkarsh Gupta</actor>
+      <actor>Krissann Barretto</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BF6E0CB396DA143E57FDCBAEE8EAA2119B78F13N.jpg"/>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+  </programme>
+  <programme start="20240316134000 +0530" stop="20240316141500 +0530" channel="MTVHD.in">
+    <title lang="en">Jab Mila Tu</title>
+    <desc lang="en">Things get chaotic with a mixture of adventures and surprises as a new couple joins Maddy and Aneri, in their new journey.</desc>
+    <credits>
+      <actor>Mohsin Khan</actor>
+      <actor>Eisha Singh</actor>
+      <actor>Pratik Sehajpal</actor>
+      <actor>Alisha Chopra</actor>
+      <actor>Punesh Tripathi</actor>
+      <actor>Anupam K Sinha</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/810B2A219B6D868CEED13B94EEE371C5C0C158339.jpg"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20240316141500 +0530" stop="20240316145000 +0530" channel="MTVHD.in">
     <title lang="en">Splitsvilla</title>
     <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
     <credits>
@@ -253,62 +114,55 @@
       <actor>Rannvijay Singh</actor>
     </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F36F1817C7F68B5944A78CB5315161B09B3B7F4F1.jpg"/>
+    <episode-num system="xmltv_ns">11.7.</episode-num>
   </programme>
-  <programme start="20240316134000 +0530" stop="20240316143000 +0530" channel="MTVHD.in">
-    <title lang="en">Troll Police</title>
-    <desc lang="en">The host addresses the sensitive issue of cyberbullying as various popular personalities confront trolls who spread negativity online.</desc>
+  <programme start="20240316145000 +0530" stop="20240316154000 +0530" channel="MTVHD.in">
+    <title lang="en">Roadies Rising</title>
+    <desc lang="en">Aspiring youngsters from different corners of India compete against each other in a series of rounds to prove themselves superior and win the ultimate title.</desc>
     <credits>
+      <actor>Gaelyn Mendonca</actor>
+      <actor>Harbhajan Singh</actor>
+      <actor>Neha Dhupia</actor>
       <actor>Rannvijay Singh</actor>
-      <actor>Zareen Khan</actor>
-      <actor>Mandira Bedi</actor>
-      <actor>Shibani Dandekar</actor>
-      <actor>Nora Fatehi</actor>
+      <actor>Nikhil Chinapa</actor>
+      <actor>Prince Narula</actor>
     </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E30E480FE31FED8D380EACB8DD1081D31DA6E1E7L.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/01A6EF0469579B75F03BAE9F6917679FEECCBBF3P.jpg"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
   </programme>
-  <programme start="20240316143000 +0530" stop="20240316151500 +0530" channel="MTVHD.in">
-    <title lang="en">Splitsvilla</title>
-    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
-    <credits>
-      <actor>Nikhil Chinappa</actor>
-      <actor>Sunny Leone</actor>
-      <actor>Rannvijay Singh</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
-  </programme>
-  <programme start="20240316151500 +0530" stop="20240316173000 +0530" channel="MTVHD.in">
+  <programme start="20240316154000 +0530" stop="20240316172500 +0530" channel="MTVHD.in">
     <title lang="en">Khatron Ke Khiladi</title>
     <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
     <credits>
       <actor>Rohit Shetty</actor>
     </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E6B07CC55FC1F0843629EDF27408AD5D2A3696DK.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90121A036A80A970C517CB90B19C0B2DE7898880T.jpg"/>
+    <episode-num system="xmltv_ns">12.4.</episode-num>
   </programme>
-  <programme start="20240316173000 +0530" stop="20240316183000 +0530" channel="MTVHD.in">
-    <title lang="en">Splitsvilla</title>
-    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+  <programme start="20240316172500 +0530" stop="20240316180000 +0530" channel="MTVHD.in">
+    <title lang="en">Roadies Xtreme</title>
+    <desc lang="en">Participants, who are selected via auditions from all over India, visit different locations and compete in challenging tasks to win the title and prize money.</desc>
     <credits>
-      <actor>Nikhil Chinappa</actor>
-      <actor>Sunny Leone</actor>
-      <actor>Rannvijay Singh</actor>
+      <actor>Gaelyn Mendonca</actor>
     </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F2E792C261E846488F52F7442C5BB2108438A350.jpg"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
-  <programme start="20240316183000 +0530" stop="20240316201000 +0530" channel="MTVHD.in">
+  <programme start="20240316180000 +0530" stop="20240316194000 +0530" channel="MTVHD.in">
     <title lang="en">Khatron Ke Khiladi</title>
     <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
     <credits>
       <actor>Rohit Shetty</actor>
     </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E6B07CC55FC1F0843629EDF27408AD5D2A3696DK.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90121A036A80A970C517CB90B19C0B2DE7898880T.jpg"/>
+    <episode-num system="xmltv_ns">12.22.</episode-num>
   </programme>
-  <programme start="20240316201000 +0530" stop="20240316210000 +0530" channel="MTVHD.in">
+  <programme start="20240316194000 +0530" stop="20240316202000 +0530" channel="MTVHD.in">
     <title lang="en">Splitsvilla</title>
     <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
     <credits>
@@ -317,9 +171,10 @@
       <actor>Rannvijay Singh</actor>
     </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDDBB8DFA181278F4635789FD463DEA33DA8F842Q.jpg"/>
+    <episode-num system="xmltv_ns">9.14.</episode-num>
   </programme>
-  <programme start="20240316210000 +0530" stop="20240316215000 +0530" channel="MTVHD.in">
+  <programme start="20240316202000 +0530" stop="20240316211000 +0530" channel="MTVHD.in">
     <title lang="en">Splitsvilla</title>
     <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
     <credits>
@@ -328,9 +183,10 @@
       <actor>Rannvijay Singh</actor>
     </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F36F1817C7F68B5944A78CB5315161B09B3B7F4F1.jpg"/>
+    <episode-num system="xmltv_ns">11.5.</episode-num>
   </programme>
-  <programme start="20240316215000 +0530" stop="20240316225000 +0530" channel="MTVHD.in">
+  <programme start="20240316211000 +0530" stop="20240316220000 +0530" channel="MTVHD.in">
     <title lang="en">Splitsvilla</title>
     <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
     <credits>
@@ -339,30 +195,33 @@
       <actor>Rannvijay Singh</actor>
     </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5EDB69E071147CE99C4D1990B2855C22555367D58.jpg"/>
+    <episode-num system="xmltv_ns">13.9.</episode-num>
   </programme>
-  <programme start="20240316225000 +0530" stop="20240316235000 +0530" channel="MTVHD.in">
-    <title lang="en">Splitsvilla</title>
-    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+  <programme start="20240316220000 +0530" stop="20240316224000 +0530" channel="MTVHD.in">
+    <title lang="en">Roadies</title>
+    <desc lang="en">Participants, selected from different parts of the country via auditions, compete against each other in various tasks to win the grand prize.</desc>
     <credits>
-      <actor>Nikhil Chinappa</actor>
-      <actor>Sunny Leone</actor>
       <actor>Rannvijay Singh</actor>
+      <actor>Raghu Ram</actor>
+      <actor>Rajiv Lakshman</actor>
+      <actor>Bumpy</actor>
+      <actor>Neha Dhupia</actor>
+      <actor>Karan Kundrra</actor>
     </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63AB2B98B825ACC7BF57C6210DAF8084071F26EAE.jpg"/>
+    <episode-num system="xmltv_ns">13.1.</episode-num>
   </programme>
-  <programme start="20240316235000 +0530" stop="20240317005000 +0530" channel="MTVHD.in">
-    <title lang="en">Love School</title>
-    <desc lang="en">The hosts try to help estranged young couples by giving them special tasks and challenges. While competing in the tasks, they automatically bond with each other, leaving behind past misunderstandings.</desc>
+  <programme start="20240316224000 +0530" stop="20240317000000 +0530" channel="MTVHD.in">
+    <title lang="en">Khatron Ke Khiladi</title>
+    <desc lang="en">Rohit Shetty asks the contestants to perform the stunts in pairs. During one of the tasks, Rajiv gets a literal shock due to electricity.</desc>
     <credits>
-      <actor>Upen Patel</actor>
-      <actor>Karishma Tanna</actor>
-      <actor>Karan Kundra</actor>
-      <actor>Anusha Dandekar</actor>
+      <actor>Rohit Shetty</actor>
     </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/72C49382DF7AF2B37D900602D7A2A4BDC44618F4E.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90121A036A80A970C517CB90B19C0B2DE7898880T.jpg"/>
+    <episode-num system="xmltv_ns">12.6.</episode-num>
   </programme>
   <programme start="20240317005000 +0530" stop="20240317060000 +0530" channel="MTVHD.in">
     <title lang="en">Night Out</title>
@@ -543,5 +402,173 @@
     </credits>
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+  </programme>
+  <programme start="20240318000000 +0530" stop="20240318005000 +0530" channel="MTVHD.in">
+    <title lang="en">Love School</title>
+    <desc lang="en">The hosts try to help estranged young couples by giving them special tasks and challenges. While competing in the tasks, they automatically bond with each other, leaving behind past misunderstandings.</desc>
+    <credits>
+      <actor>Upen Patel</actor>
+      <actor>Karishma Tanna</actor>
+      <actor>Karan Kundra</actor>
+      <actor>Anusha Dandekar</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/72C49382DF7AF2B37D900602D7A2A4BDC44618F4E.jpg"/>
+  </programme>
+  <programme start="20240318005000 +0530" stop="20240318060000 +0530" channel="MTVHD.in">
+    <title lang="en">Night Out</title>
+    <desc lang="en">An engaging compilation of soothing and relaxing musical numbers recorded and performed by various artists and musicians.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A4394DF319E7ED2F6F0F04B2499A4B6C796932E8N.jpg"/>
+  </programme>
+  <programme start="20240318060000 +0530" stop="20240318092500 +0530" channel="MTVHD.in">
+    <title lang="en">Pump Up Mornings</title>
+    <desc lang="en">A comprehensive compilation of energetic and popular songs performed by various renowned artists and musicians, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E3227DDE92E292CDD84EE381581E39BEFF7ACC4BC.jpg"/>
+  </programme>
+  <programme start="20240318092500 +0530" stop="20240318100000 +0530" channel="MTVHD.in">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <actor>Nikhil Chinappa</actor>
+      <actor>Sunny Leone</actor>
+      <actor>Rannvijay Singh</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+  </programme>
+  <programme start="20240318100000 +0530" stop="20240318110000 +0530" channel="MTVHD.in">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <actor>Nikhil Chinappa</actor>
+      <actor>Sunny Leone</actor>
+      <actor>Rannvijay Singh</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+  </programme>
+  <programme start="20240318110000 +0530" stop="20240318114500 +0530" channel="MTVHD.in">
+    <title lang="en">Roadies Karm Ya Kaand</title>
+    <desc lang="en">With high-stakes challenges and intense drama, aspiring roadies face a series of grueling tests that push them to their limits.</desc>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D88D090D641610567B083CBD5FF9B6C5E0DC0FB66.jpg"/>
+  </programme>
+  <programme start="20240318114500 +0530" stop="20240318134000 +0530" channel="MTVHD.in">
+    <title lang="en">Khatron Ke Khiladi</title>
+    <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
+    <credits>
+      <actor>Rohit Shetty</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E6B07CC55FC1F0843629EDF27408AD5D2A3696DK.jpg"/>
+  </programme>
+  <programme start="20240318134000 +0530" stop="20240318141500 +0530" channel="MTVHD.in">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <actor>Nikhil Chinappa</actor>
+      <actor>Sunny Leone</actor>
+      <actor>Rannvijay Singh</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+  </programme>
+  <programme start="20240318141500 +0530" stop="20240318151500 +0530" channel="MTVHD.in">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <actor>Nikhil Chinappa</actor>
+      <actor>Sunny Leone</actor>
+      <actor>Rannvijay Singh</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+  </programme>
+  <programme start="20240318151500 +0530" stop="20240318165000 +0530" channel="MTVHD.in">
+    <title lang="en">Khatron Ke Khiladi</title>
+    <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
+    <credits>
+      <actor>Rohit Shetty</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E6B07CC55FC1F0843629EDF27408AD5D2A3696DK.jpg"/>
+  </programme>
+  <programme start="20240318165000 +0530" stop="20240318185000 +0530" channel="MTVHD.in">
+    <title lang="en">Khatron Ke Khiladi</title>
+    <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
+    <credits>
+      <actor>Rohit Shetty</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E6B07CC55FC1F0843629EDF27408AD5D2A3696DK.jpg"/>
+  </programme>
+  <programme start="20240318185000 +0530" stop="20240318193000 +0530" channel="MTVHD.in">
+    <title lang="en">Troll Police</title>
+    <desc lang="en">The host addresses the sensitive issue of cyberbullying as various popular personalities confront trolls who spread negativity online.</desc>
+    <credits>
+      <actor>Rannvijay Singh</actor>
+      <actor>Zareen Khan</actor>
+      <actor>Mandira Bedi</actor>
+      <actor>Shibani Dandekar</actor>
+      <actor>Nora Fatehi</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E30E480FE31FED8D380EACB8DD1081D31DA6E1E7L.jpg"/>
+  </programme>
+  <programme start="20240318193000 +0530" stop="20240318201000 +0530" channel="MTVHD.in">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <actor>Nikhil Chinappa</actor>
+      <actor>Sunny Leone</actor>
+      <actor>Rannvijay Singh</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+  </programme>
+  <programme start="20240318201000 +0530" stop="20240318210000 +0530" channel="MTVHD.in">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <actor>Nikhil Chinappa</actor>
+      <actor>Sunny Leone</actor>
+      <actor>Rannvijay Singh</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+  </programme>
+  <programme start="20240318210000 +0530" stop="20240318215000 +0530" channel="MTVHD.in">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women try to find the perfect partner for themselves while going through various rounds and performing challenging tasks.</desc>
+    <credits>
+      <actor>Nikhil Chinappa</actor>
+      <actor>Sunny Leone</actor>
+      <actor>Rannvijay Singh</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C326769EBA0DFD18691AC39E40ACBD1FC4CA052S.jpg"/>
+  </programme>
+  <programme start="20240318215000 +0530" stop="20240318235000 +0530" channel="MTVHD.in">
+    <title lang="en">Khatron Ke Khiladi</title>
+    <desc lang="en">Contestants travel to exotic locales, where they face their worst fears and perform various death-defying stunts in order to win the competition.</desc>
+    <credits>
+      <actor>Rohit Shetty</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E6B07CC55FC1F0843629EDF27408AD5D2A3696DK.jpg"/>
+  </programme>
+  <programme start="20240318235000 +0530" stop="20240319005000 +0530" channel="MTVHD.in">
+    <title lang="en">Love School</title>
+    <desc lang="en">The hosts try to help estranged young couples by giving them special tasks and challenges. While competing in the tasks, they automatically bond with each other, leaving behind past misunderstandings.</desc>
+    <credits>
+      <actor>Upen Patel</actor>
+      <actor>Karishma Tanna</actor>
+      <actor>Karan Kundra</actor>
+      <actor>Anusha Dandekar</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/72C49382DF7AF2B37D900602D7A2A4BDC44618F4E.jpg"/>
   </programme>
 </tv>

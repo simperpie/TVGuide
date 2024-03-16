@@ -4,358 +4,6 @@
     <display-name lang="en">SkySp Cricket</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb1302.png"/>
   </channel>
-  <programme start="20240315033000 +0530" stop="20240315043000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">PSL Qualifier 1 Highlights</title>
-    <desc lang="en">Looking to go one better, last year's finalists Multan Sultans face Peshawar Zalmi in a PSL Qualifier match. The winner advances to the final, while the loser goes to an Eliminator. (14.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e008ce6e-2ea9-3c41-ae59-992ed9fd39c0/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240315043000 +0530" stop="20240315053000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">WPL: Delhi C v Gujarat G Hlts</title>
-    <desc lang="en">In the Women's Premier League, Delhi Capitals go up against Gujarat Giants. The Capitals squeezed past RCB on Sunday, with Jemimah Rodrigues hitting a half century. (13.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3de40bbe-5c6a-3e97-be15-7c20d034691a/16-9"/>
-    <episode-num system="xmltv_ns">.19.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240315053000 +0530" stop="20240315093000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">PSL Qualifier 1</title>
-    <desc lang="en">Looking to go one better, last year's finalists Multan Sultans face Peshawar Zalmi in a PSL Qualifier match. The winner advances to the final, while the loser goes to an Eliminator. (14.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/60d13ceb-dad3-3661-9852-36ee250d4def/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240315093000 +0530" stop="20240315094500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: WI v SL 2012</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit the 2012 final between the West Indies and Sri Lanka.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/400b7e5b-e27f-498a-a665-0915fc79b893/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315094500 +0530" stop="20240315100000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: SA v NZ 2014</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit South Africa's 2014 collision with New Zealand.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/bba3113d-9038-4ba9-a3cf-0161ef4cfb92/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315100000 +0530" stop="20240315101500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: ENG v SL 2014</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2014 contest with Sri Lanka.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e8cc9802-9cef-4612-9154-e4cbf406919c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315101500 +0530" stop="20240315103000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: IND v SL 2014</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit the 2014 final between India and Sri Lanka.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3a23f80e-fd45-4a8f-afa9-8d7186d9f923/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315103000 +0530" stop="20240315113000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">PSL Qualifier 1 Highlights</title>
-    <desc lang="en">Looking to go one better, last year's finalists Multan Sultans face Peshawar Zalmi in a PSL Qualifier match. The winner advances to the final, while the loser goes to an Eliminator. (14.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e008ce6e-2ea9-3c41-ae59-992ed9fd39c0/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240315113000 +0530" stop="20240315153000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">PSL Qualifier 1</title>
-    <desc lang="en">Looking to go one better, last year's finalists Multan Sultans face Peshawar Zalmi in a PSL Qualifier match. The winner advances to the final, while the loser goes to an Eliminator. (14.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/60d13ceb-dad3-3661-9852-36ee250d4def/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240315153000 +0530" stop="20240315154500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: ENG v IND 2007</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2007 contest with India at the inaugural edition of the competition.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/36ea0e24-ce96-4555-89ab-2e7f8f1e5952/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315154500 +0530" stop="20240315160000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: IND v PAK 2007</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit the final of the inaugural edition of the competition between Pakistan and India.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9c23d731-9286-40a8-b2c9-83936e831fa0/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315160000 +0530" stop="20240315161500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: ENG v NED 2009</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2009 clash with the Netherlands.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/900e609b-daf7-44f6-8b21-3d5be9ddb540/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315161500 +0530" stop="20240315163000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: ENG v IND 2009</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2009 clash with India at Lord's.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/daf35102-0a5c-4dfc-80bb-cbf5a859de3a/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315163000 +0530" stop="20240315173000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">PSL Qualifier 1 Highlights</title>
-    <desc lang="en">Looking to go one better, last year's finalists Multan Sultans face Peshawar Zalmi in a PSL Qualifier match. The winner advances to the final, while the loser goes to an Eliminator. (14.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e008ce6e-2ea9-3c41-ae59-992ed9fd39c0/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240315173000 +0530" stop="20240315182500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">WPL: Mumbai I v Delhi C Hlts</title>
-    <desc lang="en">The second season of the Women's Premier League - a franchise T20 league - gets underway with the defending champions, Mumbai Indians, challenging Delhi Capitals in Bengaluru. (23.02)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1bf242f5-591f-3ec1-806d-fc57af4d88f0/16-9"/>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240315182500 +0530" stop="20240315192000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">PSL Qualifier 1 Highlights</title>
-    <desc lang="en">Looking to go one better, last year's finalists Multan Sultans face Peshawar Zalmi in a PSL Qualifier match. The winner advances to the final, while the loser goes to an Eliminator. (14.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e008ce6e-2ea9-3c41-ae59-992ed9fd39c0/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240315192000 +0530" stop="20240315233000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">Live WPL Eliminator</title>
-    <desc lang="en">In the Women's Premier League, second meets third in the sudden-death Eliminator. The winner here will advance to the final where the table toppers wait. (15.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f7c9fa1e-b0a3-33f7-90f7-2757287ce966/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240315233000 +0530" stop="20240316013000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">Live PSL Eliminator</title>
-    <desc lang="en">In a do or die Pakistan Super League Eliminator, only one team can advance as Islamabad United and Quetta Gladiators face off. The loser of the Qualifier awaits the winner here. (15.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8bf97fd9-e306-3b58-9d6a-d9f0df7a8fb5/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240316013000 +0530" stop="20240316023000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">WPL Eliminator Highlights</title>
-    <desc lang="en">In the Women's Premier League, second meets third in the sudden-death Eliminator. The winner here will advance to the final where the table toppers wait. (15.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/202150cb-82b7-3b96-925b-94c4629b97e6/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240316023000 +0530" stop="20240316024500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: ENG v IND 2007</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2007 contest with India at the inaugural edition of the competition.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/36ea0e24-ce96-4555-89ab-2e7f8f1e5952/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316024500 +0530" stop="20240316030000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: IND v PAK 2007</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit the final of the inaugural edition of the competition between Pakistan and India.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9c23d731-9286-40a8-b2c9-83936e831fa0/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316030000 +0530" stop="20240316031500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: ENG v NED 2009</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2009 clash with the Netherlands.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/900e609b-daf7-44f6-8b21-3d5be9ddb540/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316031500 +0530" stop="20240316033000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: ENG v IND 2009</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2009 clash with India at Lord's.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/daf35102-0a5c-4dfc-80bb-cbf5a859de3a/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20240316033000 +0530" stop="20240316043000 +0530" channel="SkySpCricket.uk">
     <title lang="en">PSL Eliminator Highlights</title>
     <desc lang="en">In a do or die Pakistan Super League Eliminator, only one team can advance as Islamabad United and Quetta Gladiators face off. The loser of the Qualifier awaits the winner here. (15.03)</desc>
@@ -371,7 +19,7 @@
   </programme>
   <programme start="20240316043000 +0530" stop="20240316053000 +0530" channel="SkySpCricket.uk">
     <title lang="en">WPL Eliminator Highlights</title>
-    <desc lang="en">In the Women's Premier League, second meets third in the sudden-death Eliminator. The winner here will advance to the final where the table toppers wait. (15.03)</desc>
+    <desc lang="en">With Delhi Capitals in waiting, only one can advance to the final as the champions Mumbai Indians look to set up a repeat of the 2023 decider by beating RCB in this WPL Eliminator. (15.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/202150cb-82b7-3b96-925b-94c4629b97e6/16-9"/>
@@ -382,7 +30,7 @@
       <stereo>Stereo</stereo>
     </audio>
   </programme>
-  <programme start="20240316053000 +0530" stop="20240316093000 +0530" channel="SkySpCricket.uk">
+  <programme start="20240316053000 +0530" stop="20240316093500 +0530" channel="SkySpCricket.uk">
     <title lang="en">PSL Eliminator</title>
     <desc lang="en">In a do or die Pakistan Super League Eliminator, only one team can advance as Islamabad United and Quetta Gladiators face off. The loser of the Qualifier awaits the winner here. (15.03)</desc>
     <category lang="en">Sports</category>
@@ -395,9 +43,9 @@
       <stereo>Stereo</stereo>
     </audio>
   </programme>
-  <programme start="20240316093000 +0530" stop="20240316103000 +0530" channel="SkySpCricket.uk">
+  <programme start="20240316093500 +0530" stop="20240316103500 +0530" channel="SkySpCricket.uk">
     <title lang="en">WPL Eliminator Highlights</title>
-    <desc lang="en">In the Women's Premier League, second meets third in the sudden-death Eliminator. The winner here will advance to the final where the table toppers wait. (15.03)</desc>
+    <desc lang="en">With Delhi Capitals in waiting, only one can advance to the final as the champions Mumbai Indians look to set up a repeat of the 2023 decider by beating RCB in this WPL Eliminator. (15.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/202150cb-82b7-3b96-925b-94c4629b97e6/16-9"/>
@@ -408,19 +56,18 @@
       <stereo>Stereo</stereo>
     </audio>
   </programme>
-  <programme start="20240316103000 +0530" stop="20240316104500 +0530" channel="SkySpCricket.uk">
-    <title lang="en">ICC Men's T20 WC: ENG v IND 2007</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2007 contest with India at the inaugural edition of the competition.</desc>
+  <programme start="20240316103500 +0530" stop="20240316104500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">My Icon: Michael Holding</title>
+    <desc lang="en">In the next episode of this special series, West Indian cricketing legend Michael Holding discusses the individuals that have inspired him during his life and career.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/36ea0e24-ce96-4555-89ab-2e7f8f1e5952/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/155625e0-8822-3f86-95b6-6ecacdb65c26/16-9"/>
     <video>
       <aspect>16:9</aspect>
     </video>
     <audio>
       <stereo>Stereo</stereo>
     </audio>
-    <subtitles type="teletext"/>
     <rating system="BBFC">
       <value>U</value>
     </rating>
@@ -478,7 +125,7 @@
   </programme>
   <programme start="20240316113000 +0530" stop="20240316154000 +0530" channel="SkySpCricket.uk">
     <title lang="en">WPL Eliminator</title>
-    <desc lang="en">In the Women's Premier League, second meets third in the sudden-death Eliminator. The winner here will advance to the final where the table toppers wait. (15.03)</desc>
+    <desc lang="en">With Delhi Capitals in waiting, only one can advance to the final as the champions Mumbai Indians look to set up a repeat of the 2023 decider by beating RCB in this WPL Eliminator. (15.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/c6ac6be2-4607-3827-bb27-4a1128823c74/16-9"/>
@@ -529,12 +176,17 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/e008ce6e-2ea9-3c41-ae59-992ed9fd39c0/16-9"/>
+    <episode-num system="xmltv_ns">.30.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240316171500 +0530" stop="20240316181500 +0530" channel="SkySpCricket.uk">
     <title lang="en">PSL Eliminator Highlights</title>
@@ -551,7 +203,7 @@
   </programme>
   <programme start="20240316181500 +0530" stop="20240316191500 +0530" channel="SkySpCricket.uk">
     <title lang="en">WPL Eliminator Highlights</title>
-    <desc lang="en">In the Women's Premier League, second meets third in the sudden-death Eliminator. The winner here will advance to the final where the table toppers wait. (15.03)</desc>
+    <desc lang="en">With Delhi Capitals in waiting, only one can advance to the final as the champions Mumbai Indians look to set up a repeat of the 2023 decider by beating RCB in this WPL Eliminator. (15.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/202150cb-82b7-3b96-925b-94c4629b97e6/16-9"/>
@@ -568,12 +220,17 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/e008ce6e-2ea9-3c41-ae59-992ed9fd39c0/16-9"/>
+    <episode-num system="xmltv_ns">.30.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240316201000 +0530" stop="20240316211000 +0530" channel="SkySpCricket.uk">
     <title lang="en">PSL Eliminator Highlights</title>
@@ -590,7 +247,7 @@
   </programme>
   <programme start="20240316211000 +0530" stop="20240317013000 +0530" channel="SkySpCricket.uk">
     <title lang="en">Live PSL Eliminator 2</title>
-    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier meets the winner of the opening Eliminator match with a place in the final on the line. (16.03)</desc>
+    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier, Peshawar Zalmi, face Islamabad United - who beat Quetta Gladiators by 39 runs in the first Eliminator. (16.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/e79eecdb-0ce1-3744-a24e-5775dc912f94/16-9"/>
@@ -671,7 +328,7 @@
   </programme>
   <programme start="20240317023000 +0530" stop="20240317033000 +0530" channel="SkySpCricket.uk">
     <title lang="en">WPL Eliminator Highlights</title>
-    <desc lang="en">In the Women's Premier League, second meets third in the sudden-death Eliminator. The winner here will advance to the final where the table toppers wait. (15.03)</desc>
+    <desc lang="en">With Delhi Capitals in waiting, only one can advance to the final as the champions Mumbai Indians look to set up a repeat of the 2023 decider by beating RCB in this WPL Eliminator. (15.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/202150cb-82b7-3b96-925b-94c4629b97e6/16-9"/>
@@ -684,7 +341,7 @@
   </programme>
   <programme start="20240317033000 +0530" stop="20240317043000 +0530" channel="SkySpCricket.uk">
     <title lang="en">PSL Eliminator 2 Highlights</title>
-    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier meets the winner of the opening Eliminator match with a place in the final on the line. (16.03)</desc>
+    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier, Peshawar Zalmi, face Islamabad United - who beat Quetta Gladiators by 39 runs in the first Eliminator. (16.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/46e64688-b8c4-3ece-9318-7cc770d0a748/16-9"/>
@@ -697,7 +354,7 @@
   </programme>
   <programme start="20240317043000 +0530" stop="20240317053000 +0530" channel="SkySpCricket.uk">
     <title lang="en">WPL Eliminator Highlights</title>
-    <desc lang="en">In the Women's Premier League, second meets third in the sudden-death Eliminator. The winner here will advance to the final where the table toppers wait. (15.03)</desc>
+    <desc lang="en">With Delhi Capitals in waiting, only one can advance to the final as the champions Mumbai Indians look to set up a repeat of the 2023 decider by beating RCB in this WPL Eliminator. (15.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/202150cb-82b7-3b96-925b-94c4629b97e6/16-9"/>
@@ -710,7 +367,7 @@
   </programme>
   <programme start="20240317053000 +0530" stop="20240317093000 +0530" channel="SkySpCricket.uk">
     <title lang="en">PSL Eliminator 2</title>
-    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier meets the winner of the opening Eliminator match with a place in the final on the line. (16.03)</desc>
+    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier, Peshawar Zalmi, face Islamabad United - who beat Quetta Gladiators by 39 runs in the first Eliminator. (16.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/326136b0-a7fa-3a60-be92-6a897f6d1ed5/16-9"/>
@@ -791,7 +448,7 @@
   </programme>
   <programme start="20240317103000 +0530" stop="20240317113000 +0530" channel="SkySpCricket.uk">
     <title lang="en">PSL Eliminator 2 Highlights</title>
-    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier meets the winner of the opening Eliminator match with a place in the final on the line. (16.03)</desc>
+    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier, Peshawar Zalmi, face Islamabad United - who beat Quetta Gladiators by 39 runs in the first Eliminator. (16.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/46e64688-b8c4-3ece-9318-7cc770d0a748/16-9"/>
@@ -808,12 +465,17 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/e008ce6e-2ea9-3c41-ae59-992ed9fd39c0/16-9"/>
+    <episode-num system="xmltv_ns">.30.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240317123000 +0530" stop="20240317133000 +0530" channel="SkySpCricket.uk">
     <title lang="en">PSL Eliminator Highlights</title>
@@ -825,12 +487,15 @@
       <aspect>16:9</aspect>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240317133000 +0530" stop="20240317143000 +0530" channel="SkySpCricket.uk">
     <title lang="en">PSL Eliminator 2 Highlights</title>
-    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier meets the winner of the opening Eliminator match with a place in the final on the line. (16.03)</desc>
+    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier, Peshawar Zalmi, face Islamabad United - who beat Quetta Gladiators by 39 runs in the first Eliminator. (16.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/46e64688-b8c4-3ece-9318-7cc770d0a748/16-9"/>
@@ -843,7 +508,7 @@
   </programme>
   <programme start="20240317143000 +0530" stop="20240317153000 +0530" channel="SkySpCricket.uk">
     <title lang="en">WPL Eliminator Highlights</title>
-    <desc lang="en">In the Women's Premier League, second meets third in the sudden-death Eliminator. The winner here will advance to the final where the table toppers wait. (15.03)</desc>
+    <desc lang="en">With Delhi Capitals in waiting, only one can advance to the final as the champions Mumbai Indians look to set up a repeat of the 2023 decider by beating RCB in this WPL Eliminator. (15.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/202150cb-82b7-3b96-925b-94c4629b97e6/16-9"/>
@@ -851,8 +516,11 @@
       <aspect>16:9</aspect>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240317153000 +0530" stop="20240317163000 +0530" channel="SkySpCricket.uk">
     <title lang="en">PSL Qualifier 1 Highlights</title>
@@ -860,12 +528,17 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/e008ce6e-2ea9-3c41-ae59-992ed9fd39c0/16-9"/>
+    <episode-num system="xmltv_ns">.30.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240317163000 +0530" stop="20240317173000 +0530" channel="SkySpCricket.uk">
     <title lang="en">PSL Eliminator Highlights</title>
@@ -877,12 +550,15 @@
       <aspect>16:9</aspect>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240317173000 +0530" stop="20240317182500 +0530" channel="SkySpCricket.uk">
     <title lang="en">PSL Eliminator 2 Highlights</title>
-    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier meets the winner of the opening Eliminator match with a place in the final on the line. (16.03)</desc>
+    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier, Peshawar Zalmi, face Islamabad United - who beat Quetta Gladiators by 39 runs in the first Eliminator. (16.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/46e64688-b8c4-3ece-9318-7cc770d0a748/16-9"/>
@@ -895,7 +571,7 @@
   </programme>
   <programme start="20240317182500 +0530" stop="20240317192000 +0530" channel="SkySpCricket.uk">
     <title lang="en">WPL Eliminator Highlights</title>
-    <desc lang="en">In the Women's Premier League, second meets third in the sudden-death Eliminator. The winner here will advance to the final where the table toppers wait. (15.03)</desc>
+    <desc lang="en">With Delhi Capitals in waiting, only one can advance to the final as the champions Mumbai Indians look to set up a repeat of the 2023 decider by beating RCB in this WPL Eliminator. (15.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/202150cb-82b7-3b96-925b-94c4629b97e6/16-9"/>
@@ -903,12 +579,15 @@
       <aspect>16:9</aspect>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240317192000 +0530" stop="20240318000000 +0530" channel="SkySpCricket.uk">
     <title lang="en">Live WPL Final</title>
-    <desc lang="en">The 2024 Women's Premier League champions are crowned in Delhi, as this year's final begins. Previously, Mumbai Indians clinched victory with a seven-wicket win over the Capitals. (17.03)</desc>
+    <desc lang="en">The 2024 Women's Premier League champions are crowned as this year's final sees Royal Challengers Bangalore challenge the table-topping Delhi Capitals in their own backyard. (17.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/171b4f76-3b03-3574-ac6a-8a98bdb24558/16-9"/>
@@ -1025,7 +704,7 @@
   </programme>
   <programme start="20240318013000 +0530" stop="20240318023000 +0530" channel="SkySpCricket.uk">
     <title lang="en">WPL Final Highlights</title>
-    <desc lang="en">The 2024 Women's Premier League champions are crowned in Delhi, as this year's final begins. Previously, Mumbai Indians clinched victory with a seven-wicket win over the Capitals. (17.03)</desc>
+    <desc lang="en">The 2024 Women's Premier League champions are crowned as this year's final sees Royal Challengers Bangalore challenge the table-topping Delhi Capitals in their own backyard. (17.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/3b4821e8-a3be-32b6-a937-ee9a59e8b50b/16-9"/>
@@ -1038,7 +717,7 @@
   </programme>
   <programme start="20240318023000 +0530" stop="20240318033000 +0530" channel="SkySpCricket.uk">
     <title lang="en">PSL Eliminator 2 Highlights</title>
-    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier meets the winner of the opening Eliminator match with a place in the final on the line. (16.03)</desc>
+    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier, Peshawar Zalmi, face Islamabad United - who beat Quetta Gladiators by 39 runs in the first Eliminator. (16.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/46e64688-b8c4-3ece-9318-7cc770d0a748/16-9"/>
@@ -1051,7 +730,7 @@
   </programme>
   <programme start="20240318033000 +0530" stop="20240318043000 +0530" channel="SkySpCricket.uk">
     <title lang="en">WPL Final Highlights</title>
-    <desc lang="en">The 2024 Women's Premier League champions are crowned in Delhi, as this year's final begins. Previously, Mumbai Indians clinched victory with a seven-wicket win over the Capitals. (17.03)</desc>
+    <desc lang="en">The 2024 Women's Premier League champions are crowned as this year's final sees Royal Challengers Bangalore challenge the table-topping Delhi Capitals in their own backyard. (17.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/3b4821e8-a3be-32b6-a937-ee9a59e8b50b/16-9"/>
@@ -1064,10 +743,313 @@
   </programme>
   <programme start="20240318043000 +0530" stop="20240318053000 +0530" channel="SkySpCricket.uk">
     <title lang="en">PSL Eliminator 2 Highlights</title>
-    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier meets the winner of the opening Eliminator match with a place in the final on the line. (16.03)</desc>
+    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier, Peshawar Zalmi, face Islamabad United - who beat Quetta Gladiators by 39 runs in the first Eliminator. (16.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/46e64688-b8c4-3ece-9318-7cc770d0a748/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240318053000 +0530" stop="20240318101000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">WPL Final</title>
+    <desc lang="en">The 2024 Women's Premier League champions are crowned as this year's final sees Royal Challengers Bangalore challenge the table-topping Delhi Capitals in their own backyard. (17.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a916672d-8b20-380c-96bd-3415ecdfbbec/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240318101000 +0530" stop="20240318103000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: IND v PAK 2007</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit the final of the inaugural edition of the competition between Pakistan and India.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9c23d731-9286-40a8-b2c9-83936e831fa0/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318103000 +0530" stop="20240318113000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">WPL Final Highlights</title>
+    <desc lang="en">The 2024 Women's Premier League champions are crowned as this year's final sees Royal Challengers Bangalore challenge the table-topping Delhi Capitals in their own backyard. (17.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3b4821e8-a3be-32b6-a937-ee9a59e8b50b/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240318113000 +0530" stop="20240318153000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">PSL Qualifier 2</title>
+    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier, Peshawar Zalmi, face Islamabad United - who beat Quetta Gladiators by 39 runs in the first Eliminator. (16.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/326136b0-a7fa-3a60-be92-6a897f6d1ed5/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240318153000 +0530" stop="20240318154500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: IND v BAN 2016</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit India's 2016 clash with Bangladesh.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/419567ce-e664-45e3-b309-192879b8043a/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318154500 +0530" stop="20240318160000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: IND v AUS 2016</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit a match between India and Australia in 2016.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8521a8fa-8f80-4d00-95e0-ee7d9fbf8718/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318160000 +0530" stop="20240318161500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: IND v WI 2016</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, India fought the West Indies in 2016.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bae8430b-a5f0-41af-88b1-c0d680c04112/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318161500 +0530" stop="20240318163000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: ENG v SA 2016</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2016 clash with South Africa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2ab84dac-99e4-4cb0-b71c-7bd37d361203/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318163000 +0530" stop="20240318164500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Women's WC: WI v AUS 2013</title>
+    <desc lang="en">At the 2013 ICC Women's Cricket World Cup in India, the West Indies went toe to toe with Australia in the final. A sixth World Cup title was up for grabs for the Aussies.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eb0f8ea1-d9a6-393e-8d87-930b415dd7b5/16-9"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318164500 +0530" stop="20240318171500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">Talking Cricket: Wasim &amp; Waqar</title>
+    <desc lang="en">One of cricket's most feared bowling attacks, Wasim Akram and Waqar Younis were game-changers for Pakistan during their careers. Sky Sports Cricket investigates what made them so good.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a13502bb-54f5-447a-9f1c-9109b0b9617b/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318171500 +0530" stop="20240318181500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">WPL Final Highlights</title>
+    <desc lang="en">The 2024 Women's Premier League champions are crowned as this year's final sees Royal Challengers Bangalore challenge the table-topping Delhi Capitals in their own backyard. (17.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3b4821e8-a3be-32b6-a937-ee9a59e8b50b/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240318181500 +0530" stop="20240318191500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">PSL Qualifier 1 Highlights</title>
+    <desc lang="en">Looking to go one better, last year's finalists Multan Sultans face Peshawar Zalmi in a PSL Qualifier match. The winner advances to the final, while the loser goes to an Eliminator. (14.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e008ce6e-2ea9-3c41-ae59-992ed9fd39c0/16-9"/>
+    <episode-num system="xmltv_ns">.30.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318191500 +0530" stop="20240318201000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">PSL Eliminator Highlights</title>
+    <desc lang="en">In a do or die Pakistan Super League Eliminator, only one team can advance as Islamabad United and Quetta Gladiators face off. The loser of the Qualifier awaits the winner here. (15.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/531ff35f-de52-3562-a1d3-192d60f98979/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318201000 +0530" stop="20240318211000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">PSL Eliminator 2 Highlights</title>
+    <desc lang="en">In the second Pakistan Super League Eliminator, the loser of the Qualifier, Peshawar Zalmi, face Islamabad United - who beat Quetta Gladiators by 39 runs in the first Eliminator. (16.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/46e64688-b8c4-3ece-9318-7cc770d0a748/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240318211000 +0530" stop="20240319020000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">Live PSL Final</title>
+    <desc lang="en">The champions of the 2024 Pakistan Super League are crowned in Karachi as the final gets underway. Last year, Lahore Qalandars came out on top, winning the 2023 showpiece by a run. (18.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7da2b543-e75c-399a-8b23-79f9d489ca80/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319020000 +0530" stop="20240319021500 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: IND v WI 2016</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, India fought the West Indies in 2016.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bae8430b-a5f0-41af-88b1-c0d680c04112/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319021500 +0530" stop="20240319023000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">ICC Men's T20 WC: ENG v SA 2016</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2016 clash with South Africa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2ab84dac-99e4-4cb0-b71c-7bd37d361203/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319023000 +0530" stop="20240319033000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">WPL Final Highlights</title>
+    <desc lang="en">The 2024 Women's Premier League champions are crowned as this year's final sees Royal Challengers Bangalore challenge the table-topping Delhi Capitals in their own backyard. (17.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3b4821e8-a3be-32b6-a937-ee9a59e8b50b/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319033000 +0530" stop="20240319043000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">PSL Final Highlights</title>
+    <desc lang="en">The champions of the 2024 Pakistan Super League are crowned in Karachi as the final gets underway. Last year, Lahore Qalandars came out on top, winning the 2023 showpiece by a run. (18.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/34cef060-4c92-3cf0-8fcb-d54f9a0d0bce/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319043000 +0530" stop="20240319053000 +0530" channel="SkySpCricket.uk">
+    <title lang="en">WPL Final Highlights</title>
+    <desc lang="en">The 2024 Women's Premier League champions are crowned as this year's final sees Royal Challengers Bangalore challenge the table-topping Delhi Capitals in their own backyard. (17.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3b4821e8-a3be-32b6-a937-ee9a59e8b50b/16-9"/>
     <video>
       <aspect>16:9</aspect>
     </video>
