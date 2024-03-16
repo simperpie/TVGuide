@@ -24,7 +24,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         repository: simperpie/simperpie.github.io
-        token: ${{ saLKSJssnaskna*wi9281`92jqbaJSAHS02801029WNWqjkwnkQSAsW98091 }}
+        token: ${{ secrets.DESTINATION_REPO_TOKEN }}
     - name: Commit changes
       run: |
         git config --global user.email "91105635+simperpie@users.noreply.github.com"
