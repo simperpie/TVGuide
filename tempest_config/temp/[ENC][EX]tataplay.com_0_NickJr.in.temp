@@ -142,13 +142,13 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C14B1958F4BD43BBD8BBE469F07EB08BD310D0EC.jpg"/>
   </programme>
-  <programme start="20240318230500 +0530" stop="20240319000200 +0530" channel="NickJr.in">
+  <programme start="20240318230500 +0530" stop="20240319000000 +0530" channel="NickJr.in">
     <title lang="en">Filler</title>
     <desc lang="en">Filler</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
   </programme>
-  <programme start="20240319000200 +0530" stop="20240319030000 +0530" channel="NickJr.in">
+  <programme start="20240319000000 +0530" stop="20240319012400 +0530" channel="NickJr.in">
     <title lang="en">Comedy Khiladigalu Championship</title>
     <desc lang="en">Talented comedians compete against each other to impress the viewers and the judges.</desc>
     <credits>
@@ -159,9 +159,34 @@
     </credits>
     <category lang="en">Talent Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D9BF53665AC29AEEFD55BCD04967FFD30D56639H.jpg"/>
-    <episode-num system="xmltv_ns">1.41.</episode-num>
+    <episode-num system="xmltv_ns">1.45.</episode-num>
   </programme>
-  <programme start="20240319030000 +0530" stop="20240319041200 +0530" channel="NickJr.in">
+  <programme start="20240319012400 +0530" stop="20240319012900 +0530" channel="NickJr.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240319012900 +0530" stop="20240319024400 +0530" channel="NickJr.in">
+    <title lang="en">Comedy Khiladigalu Championship</title>
+    <desc lang="en">Talented comedians compete against each other to impress the viewers and the judges.</desc>
+    <credits>
+      <actor>Master Anand</actor>
+      <actor>Rakshita</actor>
+      <actor>Jaggesh</actor>
+      <actor>Yograj Bhat</actor>
+    </credits>
+    <category lang="en">Talent Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D9BF53665AC29AEEFD55BCD04967FFD30D56639H.jpg"/>
+    <episode-num system="xmltv_ns">1.45.</episode-num>
+  </programme>
+  <programme start="20240319024400 +0530" stop="20240319025900 +0530" channel="NickJr.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240319025900 +0530" stop="20240319041200 +0530" channel="NickJr.in">
     <title lang="en">Dance Karnataka Dance 2021</title>
     <desc lang="en">Talented dancers showcase their skills in front of the judges to win the title in 2021.</desc>
     <credits>
@@ -172,7 +197,7 @@
     </credits>
     <category lang="en">Dance Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/222CEAF593B6634A69309E99BD579BE804E8A1F14.jpg"/>
-    <episode-num system="xmltv_ns">.56.</episode-num>
+    <episode-num system="xmltv_ns">.60.</episode-num>
   </programme>
   <programme start="20240319041200 +0530" stop="20240319050200 +0530" channel="NickJr.in">
     <title lang="en">Filler</title>
@@ -180,117 +205,121 @@
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
   </programme>
-  <programme start="20240319050200 +0530" stop="20240319080000 +0530" channel="NickJr.in">
-    <title lang="en">Chiravada Nenapu</title>
-    <desc lang="en">A wealthy student is dissatisfied with his life and longs for something more.</desc>
+  <programme start="20240319050200 +0530" stop="20240319073600 +0530" channel="NickJr.in">
+    <title lang="en">Nee Tata Naa Birla</title>
+    <desc lang="en">Hilarious events follow when two friends are sent on a secret mission by a politician.</desc>
     <credits>
-      <actor>Gurunandan</actor>
-      <actor>Sharanya</actor>
-      <actor>Snehith Gowda</actor>
-      <actor>Thaniya</actor>
-      <actor>Ramakrishna</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B2A9DDD1F526C7B647B902F32C29E6C16719EC1C9.jpg"/>
-  </programme>
-  <programme start="20240319080000 +0530" stop="20240319090000 +0530" channel="NickJr.in">
-    <title lang="en">Harikathe</title>
-    <desc lang="en">Harikathe</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF38B484CCE723E4BB9CD38E7AEFE4C79E08B91DJ.jpg"/>
-  </programme>
-  <programme start="20240319090000 +0530" stop="20240319105500 +0530" channel="NickJr.in">
-    <title lang="en">Govindaya Namaha</title>
-    <desc lang="en">Govinda, who cheats and abandons three women, finds that the woman he loves cheats on him.</desc>
-    <credits>
-      <actor>Komal Kumar</actor>
-      <actor>Parul Yadav</actor>
-      <actor>Madhulika</actor>
-      <actor>Rekha Vedavyas</actor>
-      <actor>Anna Georgia</actor>
-      <actor>Mukhyamantri Chandru</actor>
+      <actor>Ravichandran</actor>
+      <actor>Jaggesh</actor>
+      <actor>Jennifer Kotwal</actor>
+      <actor>Pooja Gandhi</actor>
+      <actor>Urvashi</actor>
     </credits>
     <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D7642B7B724335CE81E5477D52183E171BFE6ADF.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44BE8D9A3C61697BF7D46AD27ED91D20F8708296Y.jpg"/>
   </programme>
-  <programme start="20240319105500 +0530" stop="20240319120000 +0530" channel="NickJr.in">
+  <programme start="20240319073600 +0530" stop="20240319080100 +0530" channel="NickJr.in">
     <title lang="en">Filler</title>
     <desc lang="en">Filler</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
   </programme>
-  <programme start="20240319120000 +0530" stop="20240319143500 +0530" channel="NickJr.in">
-    <title lang="en">Johnny Johnny Yes Papa</title>
-    <desc lang="en">The routine lives of Johnny and his father change when he meets Priya.</desc>
-    <credits>
-      <actor>Duniya Vijay</actor>
-      <actor>Rangayana Raghu</actor>
-      <actor>Rachita Ram</actor>
-      <actor>Sadhu Kokila</actor>
-      <actor>Zachary Coffin</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE1F0A49A3138A50365508445289B0A9712F8C0F.jpg"/>
+  <programme start="20240319080100 +0530" stop="20240319084500 +0530" channel="NickJr.in">
+    <title lang="en">Harikathe Manjiri</title>
+    <desc lang="en">Devotional stories are narrated by Harikatha artists who blend storytelling with music.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C9200FC20094E7E1C9D4A883CD140D2878F5E0DR.jpg"/>
   </programme>
-  <programme start="20240319143500 +0530" stop="20240319150000 +0530" channel="NickJr.in">
+  <programme start="20240319084500 +0530" stop="20240319090000 +0530" channel="NickJr.in">
     <title lang="en">Filler</title>
     <desc lang="en">Filler</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
   </programme>
-  <programme start="20240319150000 +0530" stop="20240319172300 +0530" channel="NickJr.in">
-    <title lang="en">Bhupathi</title>
-    <desc lang="en">Bhupathi tries to take revenge on a minister for assaulting his mother and niece.</desc>
-    <credits>
-      <actor>Darshan Thoogudeepa</actor>
-      <actor>Shirin</actor>
-      <actor>Sumalatha Ambarish</actor>
-      <actor>K.S. Ashwath</actor>
-      <actor>Mukesh Rishi</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF0A70524985F2165A55D4FEA6B4C01BC0E34F8CH.jpg"/>
-  </programme>
-  <programme start="20240319172300 +0530" stop="20240319180300 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240319180300 +0530" stop="20240319200500 +0530" channel="NickJr.in">
-    <title lang="en">Shivaji Surathkal</title>
-    <desc lang="en">A policeman sets out to investigate a murder while dealing with his wife's death.</desc>
+  <programme start="20240319090000 +0530" stop="20240319113200 +0530" channel="NickJr.in">
+    <title lang="en">America America</title>
+    <desc lang="en">Childhood friends, Shashank and Bhoomi get married but fate has different plans for them.</desc>
     <credits>
       <actor>Ramesh Aravind</actor>
-      <actor>Radhika Narayan</actor>
-      <actor>Aarohi Narayan</actor>
-      <actor>Avinash</actor>
-      <actor>Rohith Bhanuprakash</actor>
+      <actor>Akshay Anand</actor>
+      <actor>Hema Panchamukhi</actor>
+      <actor>H G Dattatreya</actor>
+      <actor>Vaishali Kasaravalli</actor>
+      <actor>C R Simha</actor>
     </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/532BACCD78E242FB32EB4B4597FEB287CA0623DC5.jpg"/>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/20E54C9E0CB1D2CC1C90F55E4340801B60140DE26.jpg"/>
   </programme>
-  <programme start="20240319200500 +0530" stop="20240319210000 +0530" channel="NickJr.in">
+  <programme start="20240319113200 +0530" stop="20240319120200 +0530" channel="NickJr.in">
     <title lang="en">Filler</title>
     <desc lang="en">Filler</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
   </programme>
-  <programme start="20240319210000 +0530" stop="20240319231800 +0530" channel="NickJr.in">
-    <title lang="en">F3: Fun and Frustration</title>
-    <desc lang="en">Venky and Varun plan to get rich wives, but they fall into the trap of their own making.</desc>
+  <programme start="20240319120200 +0530" stop="20240319141500 +0530" channel="NickJr.in">
+    <title lang="en">Naanu Matthu Gunda</title>
+    <desc lang="en">A man's love for an abandoned dog begins to turn his life upside down.</desc>
     <credits>
-      <actor>Venkatesh</actor>
-      <actor>Varun Tej</actor>
-      <actor>Tamannaah Bhatia</actor>
-      <actor>Mehreen Pirzada</actor>
-      <actor>Rajendra Prasad</actor>
-      <actor>Murali Sharma</actor>
+      <actor>Shivaraj KR Pete</actor>
+      <actor>Samyuktha Hornad</actor>
+      <actor>Govinde Gowda</actor>
+      <actor>Rockline Sudhakar</actor>
     </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E9B08B2C2778B94E648A97CC89CCDD5C89208CF9X.jpg"/>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/66FB075DFA6C47D9455133DD9F212C6B65346DCEH.jpg"/>
   </programme>
-  <programme start="20240319231800 +0530" stop="20240320000300 +0530" channel="NickJr.in">
+  <programme start="20240319141500 +0530" stop="20240319150000 +0530" channel="NickJr.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240319150000 +0530" stop="20240319172000 +0530" channel="NickJr.in">
+    <title lang="en">Vamshodharaka</title>
+    <desc lang="en">Vishwa returns to his village after completing his education and hopes to become a farmer.</desc>
+    <credits>
+      <actor>Vijay Raghavendra</actor>
+      <actor>Meghana Raj</actor>
+      <actor>Naveen Krishna</actor>
+      <actor>Rangayana Raghu</actor>
+      <actor>Sadhu Kokila</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEDB79BFA94D01836B76893D8A90E0A7683953C5U.jpg"/>
+  </programme>
+  <programme start="20240319172000 +0530" stop="20240319180000 +0530" channel="NickJr.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240319180000 +0530" stop="20240319201800 +0530" channel="NickJr.in">
+    <title lang="en">Putnanja</title>
+    <desc lang="en">Putnanja</desc>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"/>
+  </programme>
+  <programme start="20240319201800 +0530" stop="20240319205800 +0530" channel="NickJr.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240319205800 +0530" stop="20240319231500 +0530" channel="NickJr.in">
+    <title lang="en">Coffee With Love</title>
+    <desc lang="en">The love lives of three brothers take many twists and turns leading to hilarity.</desc>
+    <credits>
+      <actor>Jiiva</actor>
+      <actor>Jai</actor>
+      <actor>Srikanth</actor>
+      <actor>Malvika Sharma</actor>
+      <actor>Amritha Aiyer</actor>
+      <actor>Yogi Babu</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CDE920FF79B4026152A0BD77DB80C2A4850EC45B8.jpg"/>
+  </programme>
+  <programme start="20240319231500 +0530" stop="20240320000300 +0530" channel="NickJr.in">
     <title lang="en">Filler</title>
     <desc lang="en">Filler</desc>
     <category lang="en">Others</category>

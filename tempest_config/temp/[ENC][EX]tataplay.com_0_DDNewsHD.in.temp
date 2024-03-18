@@ -349,17 +349,11 @@
     <category lang="en">News</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F52278C06252CD714EAC1A2FBAA518B91F64E1FET.jpg"/>
   </programme>
-  <programme start="20240319160000 +0530" stop="20240319163000 +0530" channel="DDNewsHD.in">
+  <programme start="20240319160000 +0530" stop="20240319170000 +0530" channel="DDNewsHD.in">
     <title lang="en">Samachar</title>
     <desc lang="en">Samachar</desc>
     <category lang="en">News</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9CB10CBDB07ACF402A76A14846991234DCDFF902D.jpg"/>
-  </programme>
-  <programme start="20240319163000 +0530" stop="20240319170000 +0530" channel="DDNewsHD.in">
-    <title lang="en">Samachar / Sign Language</title>
-    <desc lang="en">Samachar / Sign Language</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F71F19D87768FFB0C2B710A804A025F875EA08BF8.jpg"/>
   </programme>
   <programme start="20240319170000 +0530" stop="20240319180000 +0530" channel="DDNewsHD.in">
     <title lang="en">Panch Ki Panchayat</title>
@@ -368,10 +362,10 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BAEADA5CBE39714FD990008D517FCB1BF966055E4.jpg"/>
   </programme>
   <programme start="20240319180000 +0530" stop="20240319183000 +0530" channel="DDNewsHD.in">
-    <title lang="en">Kya Bole Bharat</title>
-    <desc lang="en">Kya Bole Bharat</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/13F5D5EACC781A6113E31EA558A644FA60363E32L.jpg"/>
+    <title lang="en">Samachar / Sign Language</title>
+    <desc lang="en">Samachar / Sign Language</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F71F19D87768FFB0C2B710A804A025F875EA08BF8.jpg"/>
   </programme>
   <programme start="20240319183000 +0530" stop="20240319190000 +0530" channel="DDNewsHD.in">
     <title lang="en">Special Programme On Rajneeti</title>

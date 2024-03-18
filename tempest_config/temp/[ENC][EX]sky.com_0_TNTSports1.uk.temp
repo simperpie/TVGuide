@@ -149,7 +149,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240318193000 +0530" stop="20240318200000 +0530" channel="TNTSports1.uk">
     <title lang="en">The Big Interview: Ashley Cole</title>
@@ -194,7 +193,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240318213000 +0530" stop="20240318223000 +0530" channel="TNTSports1.uk">
     <title lang="en">FIA Formula E Highlights</title>
@@ -238,11 +236,10 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240319000000 +0530" stop="20240319030000 +0530" channel="TNTSports1.uk">
     <title lang="en">Live: Ultimate Pool</title>
-    <desc lang="en">Action from Ultimate Pool and the Champions League Group 11.</desc>
+    <desc lang="en">Action from Ultimate Pool and the Champions League Group 11, featuring Karl Sutton, Josh Kane, Ryan Pisani and Dave Fernandez.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Snooker/Pool</category>
     <icon src="https://images.metadata.sky.com/pd-image/dfeebce8-def4-3974-bd19-2a5b8facadc6/16-9"/>
@@ -310,7 +307,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240319050000 +0530" stop="20240319091500 +0530" channel="TNTSports1.uk">
     <title lang="en">Live Women's 1st T20: NZ v England</title>
@@ -455,7 +451,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240319190000 +0530" stop="20240319200000 +0530" channel="TNTSports1.uk">
     <title lang="en">Bangladesh v Sri Lanka - 3rd ODI</title>

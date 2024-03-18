@@ -4,22 +4,6 @@
     <display-name lang="mg">HITS Movies 🄼</display-name>
     <icon src="http://linear-poster.astro.com.my/prod/logo/Logo_10000499.png"/>
   </channel>
-  <programme start="20240317223000 +0530" stop="20240318010000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">The Prince of Tides</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240318010000 +0530" stop="20240318030000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Babe: Pig in the City</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240318030000 +0530" stop="20240318050000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Smokey and the Bandit</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240318050000 +0530" stop="20240318073000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">The Man Who Would Be King</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
   <programme start="20240318073000 +0530" stop="20240318100000 +0530" channel="HITSMoviesHD.my">
     <title lang="mg">The Prince of Tides</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>

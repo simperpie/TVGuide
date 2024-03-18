@@ -369,17 +369,23 @@
     <category lang="en">Football</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FAE9C7419FC1C9D38CDE33F2B0EA84D1EBD2B9ACH.jpg"/>
   </programme>
-  <programme start="20240319180000 +0530" stop="20240319190000 +0530" channel="StarSportsSelect2HD.in">
-    <title lang="en">IPL Special Hlts RCB v GL</title>
-    <desc lang="en">RCB vs GL: Highlights of matches played during the Indian Premier League, a men's Twenty20 cricket league, are presented in sign language.</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6484F8BB4DF1AB7AE49B9AFE5AE49056652B95B7S.jpg"/>
+  <programme start="20240319180000 +0530" stop="20240319183000 +0530" channel="StarSportsSelect2HD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D0B9815EED77E34171D86FEC8ACEF9F38B6C0C4DR.jpg"/>
+  </programme>
+  <programme start="20240319183000 +0530" stop="20240319190000 +0530" channel="StarSportsSelect2HD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D0B9815EED77E34171D86FEC8ACEF9F38B6C0C4DR.jpg"/>
   </programme>
   <programme start="20240319190000 +0530" stop="20240319193000 +0530" channel="StarSportsSelect2HD.in">
-    <title lang="en">IPL Special Hlts MI v RPS</title>
-    <desc lang="en">MI vs RPS: Highlights of matches played during the Indian Premier League, a men's Twenty20 cricket league, are presented in sign language.</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6484F8BB4DF1AB7AE49B9AFE5AE49056652B95B7S.jpg"/>
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D0B9815EED77E34171D86FEC8ACEF9F38B6C0C4DR.jpg"/>
   </programme>
   <programme start="20240319193000 +0530" stop="20240319200000 +0530" channel="StarSportsSelect2HD.in">
     <title lang="en">PL Netbusters</title>

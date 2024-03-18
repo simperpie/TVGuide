@@ -503,18 +503,9 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CF03C3366E241E8C56310B218737481E7D2356AB.jpg"/>
   </programme>
-  <programme start="20240319080000 +0530" stop="20240319083000 +0530" channel="ColorsInfinityHD.in">
+  <programme start="20240319080000 +0530" stop="20240319090000 +0530" channel="ColorsInfinityHD.in">
     <title lang="en">Jamie's Easy Meals For Every Day</title>
     <desc lang="en">Jamie prepares a chicken dish with baked beans while Buddy demonstrates different ways to flavour up popcorn. Later, Jamie pitches a new way to serve avocado.</desc>
-    <credits>
-      <actor>Jamie Oliver</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/479C6F4F386F00C9F9840123C1F6BA0D9EE4BF97U.jpg"/>
-  </programme>
-  <programme start="20240319083000 +0530" stop="20240319090000 +0530" channel="ColorsInfinityHD.in">
-    <title lang="en">Jamie's Easy Meals For Every Day</title>
-    <desc lang="en">Jamie demonstrates the preparation of a flavourful rice dish consisting of chorizo and prawns. Buddy rustles up Buddy makes his chocolate-dipped strawberries and cherries.</desc>
     <credits>
       <actor>Jamie Oliver</actor>
     </credits>
@@ -563,18 +554,9 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3889129DC3333547562E45BF7EC6ACEDA7F89DC7V.jpg"/>
   </programme>
-  <programme start="20240319120000 +0530" stop="20240319123000 +0530" channel="ColorsInfinityHD.in">
+  <programme start="20240319120000 +0530" stop="20240319130000 +0530" channel="ColorsInfinityHD.in">
     <title lang="en">Jamie's Easy Meals For Every Day</title>
     <desc lang="en">Jamie prepares a chicken dish with baked beans while Buddy demonstrates different ways to flavour up popcorn. Later, Jamie pitches a new way to serve avocado.</desc>
-    <credits>
-      <actor>Jamie Oliver</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/479C6F4F386F00C9F9840123C1F6BA0D9EE4BF97U.jpg"/>
-  </programme>
-  <programme start="20240319123000 +0530" stop="20240319130000 +0530" channel="ColorsInfinityHD.in">
-    <title lang="en">Jamie's Easy Meals For Every Day</title>
-    <desc lang="en">Jamie demonstrates the preparation of a flavourful rice dish consisting of chorizo and prawns. Buddy rustles up Buddy makes his chocolate-dipped strawberries and cherries.</desc>
     <credits>
       <actor>Jamie Oliver</actor>
     </credits>
@@ -725,7 +707,7 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDB04EA4CDA0CD4C2DCB67C799335E7B3571802E6.jpg"/>
   </programme>
-  <programme start="20240319230000 +0530" stop="20240320000000 +0530" channel="ColorsInfinityHD.in">
+  <programme start="20240319230000 +0530" stop="20240319234500 +0530" channel="ColorsInfinityHD.in">
     <title lang="en">Law &amp; Order: Special Victims Unit</title>
     <desc lang="en">A car accident leads the detectives on a search for an ambulance driver assaulting his charges. Meanwhile, Fin gives Detective Bruno a tour of Manhattan SVU.</desc>
     <credits>
@@ -738,5 +720,19 @@
     </credits>
     <category lang="en">Detective</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96F050A6D6EC7B2CF46474187B4A3DC9F6E3CA93W.jpg"/>
+  </programme>
+  <programme start="20240319234500 +0530" stop="20240320003500 +0530" channel="ColorsInfinityHD.in">
+    <title lang="en">New Amsterdam</title>
+    <desc lang="en">A burst pipe plunges the ED into chaos and Iggy counsels two stressed-out parents about their child. Meanwhile, Gwen and Calvin have some devastating news for Max.</desc>
+    <credits>
+      <actor>Ryan Eggold</actor>
+      <actor>Freema Agyeman</actor>
+      <actor>Janet Montgomery</actor>
+      <actor>Jocko Sims</actor>
+      <actor>Tyler Labine</actor>
+      <actor>Anupam Kher</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3B8568F43318E156058637D9BE73C5C59A00641CN.jpg"/>
   </programme>
 </tv>

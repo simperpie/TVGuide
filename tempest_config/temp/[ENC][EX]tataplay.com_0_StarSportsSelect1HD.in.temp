@@ -246,7 +246,7 @@
   </programme>
   <programme start="20240319023000 +0530" stop="20240319030000 +0530" channel="StarSportsSelect1HD.in">
     <title lang="en">Game Plan:IPL 2024</title>
-    <desc lang="en">Experts discuss the possible team and player strategies and player profiles for the 2024 edition of the Indian Premier League.</desc>
+    <desc lang="en">Analysis of the matches played during the 2024 Indian Premier League.</desc>
     <category lang="en">Talk Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/78E1D5384AFE3E45436CF2CEA9C548AA4308253C1.jpg"/>
   </programme>
@@ -377,16 +377,22 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/328330C1B7E6204E9E2ABF766B68FFD6492F78F90.jpg"/>
   </programme>
   <programme start="20240319163000 +0530" stop="20240319170000 +0530" channel="StarSportsSelect1HD.in">
-    <title lang="en">IPL Special Hlts MI v CSK</title>
-    <desc lang="en">MI vs CSK: Highlights of matches played during the Indian Premier League, a men's Twenty20 cricket league, are presented in sign language.</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6484F8BB4DF1AB7AE49B9AFE5AE49056652B95B7S.jpg"/>
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D0B9815EED77E34171D86FEC8ACEF9F38B6C0C4DR.jpg"/>
   </programme>
-  <programme start="20240319170000 +0530" stop="20240319180000 +0530" channel="StarSportsSelect1HD.in">
-    <title lang="en">IPL Special Hlts RCB v GL</title>
-    <desc lang="en">RCB vs GL: Highlights of matches played during the Indian Premier League, a men's Twenty20 cricket league, are presented in sign language.</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6484F8BB4DF1AB7AE49B9AFE5AE49056652B95B7S.jpg"/>
+  <programme start="20240319170000 +0530" stop="20240319173000 +0530" channel="StarSportsSelect1HD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D0B9815EED77E34171D86FEC8ACEF9F38B6C0C4DR.jpg"/>
+  </programme>
+  <programme start="20240319173000 +0530" stop="20240319180000 +0530" channel="StarSportsSelect1HD.in">
+    <title lang="en">IPL Heroes 2024</title>
+    <desc lang="en">The host sheds light on some of the most heroic performances of players in the 2024 edition of the Indian Premier League, a prestigious Twenty20 cricket league.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D0B9815EED77E34171D86FEC8ACEF9F38B6C0C4DR.jpg"/>
   </programme>
   <programme start="20240319180000 +0530" stop="20240319183000 +0530" channel="StarSportsSelect1HD.in">
     <title lang="en">PL Highlights Crystal P v Chelsea</title>

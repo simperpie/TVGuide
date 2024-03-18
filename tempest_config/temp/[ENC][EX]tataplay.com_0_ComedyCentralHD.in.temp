@@ -788,7 +788,7 @@
   </programme>
   <programme start="20240319063000 +0530" stop="20240319070000 +0530" channel="ComedyCentralHD.in">
     <title lang="en">Nathan For You</title>
-    <desc lang="en">Nathan makes an attempt to prove that there is a hero inside every one of us.</desc>
+    <desc lang="en">Nathan Fielder, a business consultant, uses his skills to help struggling businesses stand on their feet, but his outlandish views may not be appreciated equally by everyone.</desc>
     <credits>
       <actor>Nathan Fielder</actor>
       <actor>Anthony Filosa</actor>
@@ -1101,7 +1101,7 @@
   </programme>
   <programme start="20240319190000 +0530" stop="20240319193000 +0530" channel="ComedyCentralHD.in">
     <title lang="en">The Office</title>
-    <desc lang="en">After Toby sends a memo, Jim and Pam's relationship is known to the entire office. On the other hand, Angela and Dwight's relationship is on the rocks.</desc>
+    <desc lang="en">Ryan returns to the office for the first time since his promotion to share his ideas about the future of Dunder Mifflin. This causes Michael to feel threatened, leading him to organise a seminar.</desc>
     <credits>
       <actor>Rainn Wilson</actor>
       <actor>John Krasinski</actor>
@@ -1114,7 +1114,7 @@
   </programme>
   <programme start="20240319193000 +0530" stop="20240319200000 +0530" channel="ComedyCentralHD.in">
     <title lang="en">The Office</title>
-    <desc lang="en">Ryan returns to the office for the first time since his promotion to share his ideas about the future of Dunder Mifflin. This causes Michael to feel threatened, leading him to organise a seminar.</desc>
+    <desc lang="en">Ryan's website Dunder Infinity is about to be released and Michael is excited about going to the big launch party that the staff prepare.</desc>
     <credits>
       <actor>Rainn Wilson</actor>
       <actor>John Krasinski</actor>
@@ -1209,9 +1209,22 @@
     <category lang="en">Talk Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB884D6263C102AAE47B2C0874A30EAD2D51961FY.jpg"/>
   </programme>
-  <programme start="20240319233000 +0530" stop="20240320000000 +0530" channel="ComedyCentralHD.in">
+  <programme start="20240319233000 +0530" stop="20240319235000 +0530" channel="ComedyCentralHD.in">
     <title lang="en">The Office</title>
-    <desc lang="en">After Toby sends a memo, Jim and Pam's relationship is known to the entire office. On the other hand, Angela and Dwight's relationship is on the rocks.</desc>
+    <desc lang="en">Ryan returns to the office for the first time since his promotion to share his ideas about the future of Dunder Mifflin. This causes Michael to feel threatened, leading him to organise a seminar.</desc>
+    <credits>
+      <actor>Rainn Wilson</actor>
+      <actor>John Krasinski</actor>
+      <actor>Jenna Fischer</actor>
+      <actor>Leslie David Baker</actor>
+      <actor>Brian Baumgartner</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4A5EB0B0F1E6C37A8AA287D17ED5E6AB6DC9F6239.jpg"/>
+  </programme>
+  <programme start="20240319235000 +0530" stop="20240320001000 +0530" channel="ComedyCentralHD.in">
+    <title lang="en">The Office</title>
+    <desc lang="en">Ryan's website Dunder Infinity is about to be released and Michael is excited about going to the big launch party that the staff prepare.</desc>
     <credits>
       <actor>Rainn Wilson</actor>
       <actor>John Krasinski</actor>

@@ -4,26 +4,6 @@
     <display-name lang="mg">CINEMAX 🄼</display-name>
     <icon src="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png"/>
   </channel>
-  <programme start="20240317222000 +0530" stop="20240318004000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">THE SHINING</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240318004000 +0530" stop="20240318011000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">BORED to DEATH</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240318011000 +0530" stop="20240318025500 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">Ted</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240318025500 +0530" stop="20240318043000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">FIRESTARTER</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240318043000 +0530" stop="20240318063000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">KNOWING</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>
-  </programme>
   <programme start="20240318063000 +0530" stop="20240318082500 +0530" channel="CINEMAXHD.my">
     <title lang="mg">Run All Night</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000371_IVP_LAND_266x150.jpg"/>

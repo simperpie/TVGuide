@@ -4,26 +4,6 @@
     <display-name lang="mg">HBO 🄼</display-name>
     <icon src="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png"/>
   </channel>
-  <programme start="20240317232500 +0530" stop="20240318012000 +0530" channel="HBOHD.my">
-    <title lang="mg">EXPLORER</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240318012000 +0530" stop="20240318015000 +0530" channel="HBOHD.my">
-    <title lang="mg">HOLLYWOOD on SET</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240318015000 +0530" stop="20240318032000 +0530" channel="HBOHD.my">
-    <title lang="mg">BED REST</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240318032000 +0530" stop="20240318050000 +0530" channel="HBOHD.my">
-    <title lang="mg">Confess, Fletch</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
-  <programme start="20240318050000 +0530" stop="20240318063000 +0530" channel="HBOHD.my">
-    <title lang="mg">MUMMIES</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>
-  </programme>
   <programme start="20240318063000 +0530" stop="20240318073000 +0530" channel="HBOHD.my">
     <title lang="mg">THE REGIME</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_171x96.jpg"/>

@@ -310,16 +310,22 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD63DFD6896322FB5B97BF296D8F99260DAAB658U.jpg"/>
   </programme>
   <programme start="20240319060000 +0530" stop="20240319063000 +0530" channel="DDIndia.in">
-    <title lang="en">Souls Of The Mountains</title>
-    <desc lang="en">The host visits several mountainous regions and provides insight into the culture and traditions of the indigenous communities.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0831EF5F971CB382FE3A79EB5931ACD14790FBC4G.jpg"/>
+    <title lang="en">Explorer Of The Misty Mountains</title>
+    <desc lang="en">The host embarks on a journey of discovery as he explores the natural landscapes and local cultures of north-eastern India.</desc>
+    <credits>
+      <actor>Mike Pandey</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/30F507F9083C5BF2BB55C731AD9F2674CC793F1D1.jpg"/>
   </programme>
   <programme start="20240319063000 +0530" stop="20240319070000 +0530" channel="DDIndia.in">
-    <title lang="en">Meditation Session</title>
-    <desc lang="en">The host sheds light on practising the proper techniques of meditation, which can help one achieve peace and health of the mind, body and soul.</desc>
+    <title lang="en">Sadhguru Speaks</title>
+    <desc lang="en">Sadhguru delivers enlightening discourses on various topics and shares his wisdom on different aspects of life and spirituality.</desc>
+    <credits>
+      <actor>Sadhguru</actor>
+    </credits>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8B4276514051FE66FC31E37E18675FCA154858F5N.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7E8738474DA10B01461685CCD699623C71F287F7.jpg"/>
   </programme>
   <programme start="20240319070000 +0530" stop="20240319073000 +0530" channel="DDIndia.in">
     <title lang="en">DD India Live</title>
@@ -379,13 +385,13 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/830D126AF8DEA81165A1E903DE29A48BE6A49849J.jpg"/>
   </programme>
   <programme start="20240319133000 +0530" stop="20240319140000 +0530" channel="DDIndia.in">
-    <title lang="en">Interview Of Lithuania Foreign Minister Gabrielius Landsbergis</title>
-    <desc lang="en">The host converses with Gabrielius Landsbergis, a politician, about a wide range of topics surrounding politics to gain insights.</desc>
+    <title lang="en">In Conversation</title>
+    <desc lang="en">Michel Mayor Nobel Prize Laureate, Physics 2019: The host interviews a series of guests and experts from different walks of life about their work and personal lives.</desc>
     <credits>
-      <actor>Gabrielius Landsbergis</actor>
+      <actor>Rajiv Mehrotra</actor>
     </credits>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/85F2B10A9451BCBB68039F4B0DE2780CE50B67F7Z.jpg"/>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4626EA391C4E95BB929A232BC40DC3F263B04571U.jpg"/>
   </programme>
   <programme start="20240319140000 +0530" stop="20240319150000 +0530" channel="DDIndia.in">
     <title lang="en">DD India News Hour</title>
@@ -394,16 +400,16 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD63DFD6896322FB5B97BF296D8F99260DAAB658U.jpg"/>
   </programme>
   <programme start="20240319150000 +0530" stop="20240319153000 +0530" channel="DDIndia.in">
-    <title lang="en">Pankaj Udhas</title>
-    <desc lang="en">The host sheds light on Pankaj Udhas, a renowned Indian ghazal and playback singer, who has contributed extensively to the Indian music industry.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEC829FBAD5483A83D92A9BFF37D88AA842B69FBZ.jpg"/>
+    <title lang="en">Golden Frames</title>
+    <desc lang="en">Legacy of a Legend: Pandit Ravi Shankar</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4A1FFC8161AA649E8BD28D8C1D38B3C3DA3D80D3.jpg"/>
   </programme>
   <programme start="20240319153000 +0530" stop="20240319160000 +0530" channel="DDIndia.in">
-    <title lang="en">China's NPC Amid Sagging Economy</title>
-    <desc lang="en">The host sheds light on the updates concerning China while focusing on the economy.</desc>
+    <title lang="en">India EFTA Free Trade Agreement</title>
+    <desc lang="en">The host presents a detailed report on India signing the Trade and Economic Partnership Agreement (TEPA) with EFTA while exploring key details from the pact.</desc>
     <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0BAB21C6F8B46EB282B2B4878DC3702E1C669ABDO.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1AA936F79CC8A4718E0CCF8EC2A1E72E24DFA6D4I.jpg"/>
   </programme>
   <programme start="20240319160000 +0530" stop="20240319163000 +0530" channel="DDIndia.in">
     <title lang="en">Sports Buzz</title>
@@ -413,15 +419,15 @@
   </programme>
   <programme start="20240319163000 +0530" stop="20240319170000 +0530" channel="DDIndia.in">
     <title lang="en">Indian Diplomacy</title>
-    <desc lang="en">The host discusses with the designated officials on matters relating to India's affairs and diplomatic relations with the foreign countries.</desc>
+    <desc lang="en">Naval Bases And India's Maritime Strategy: The host discusses with the designated officials on matters relating to India's affairs and diplomatic relations with the foreign countries.</desc>
     <category lang="en">Talk Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44B65EDEDAD8D13DB132026D2C037488000B472B6.jpg"/>
   </programme>
   <programme start="20240319170000 +0530" stop="20240319173000 +0530" channel="DDIndia.in">
-    <title lang="en">DD - India Global</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the world.</desc>
+    <title lang="en">DD India Global</title>
+    <desc lang="en">The host presents the latest news stories and significant developments from India and around the world in quick succession.</desc>
     <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA2BD929808ADEE746BEE9D677195FF6D6F100FE7.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E5FCDE268919498EAB6D113FF5B3867695F4F3EZ.jpg"/>
   </programme>
   <programme start="20240319173000 +0530" stop="20240319180000 +0530" channel="DDIndia.in">
     <title lang="en">Sports Buzz</title>
@@ -448,10 +454,10 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C008B4D3A32C1523B1A682BEACFA37CD5EA5F733Z.jpg"/>
   </programme>
   <programme start="20240319193000 +0530" stop="20240319200000 +0530" channel="DDIndia.in">
-    <title lang="en">DD - India Global</title>
-    <desc lang="en">The host presents the latest news updates concerning the political, social, economic and sports fronts from around the world.</desc>
+    <title lang="en">DD India Global</title>
+    <desc lang="en">The host presents the latest news stories and significant developments from India and around the world in quick succession.</desc>
     <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA2BD929808ADEE746BEE9D677195FF6D6F100FE7.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E5FCDE268919498EAB6D113FF5B3867695F4F3EZ.jpg"/>
   </programme>
   <programme start="20240319200000 +0530" stop="20240319203000 +0530" channel="DDIndia.in">
     <title lang="en">Voice Of The Global South</title>
@@ -482,7 +488,7 @@
   </programme>
   <programme start="20240319223000 +0530" stop="20240319230000 +0530" channel="DDIndia.in">
     <title lang="en">Indian Diplomacy</title>
-    <desc lang="en">The host discusses with the designated officials on matters relating to India's affairs and diplomatic relations with the foreign countries.</desc>
+    <desc lang="en">Naval Bases And India's Maritime Strategy: The host discusses with the designated officials on matters relating to India's affairs and diplomatic relations with the foreign countries.</desc>
     <category lang="en">Talk Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44B65EDEDAD8D13DB132026D2C037488000B472B6.jpg"/>
   </programme>

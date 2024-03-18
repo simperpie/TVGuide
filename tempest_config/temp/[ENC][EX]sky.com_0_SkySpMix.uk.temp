@@ -170,7 +170,7 @@
     <desc lang="en">Taking place at the Copper Box Arena in London, the men's British Basketball League All-Stars game returns as north meets south in a showcase of some of the league's finest talent. (17.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ce379329-d756-3ef2-8d51-f9581d7d6580/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/25e71067-351b-392d-93ba-efcc08f55fc1/16-9"/>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
@@ -184,7 +184,8 @@
     <title lang="en">Super Bowl Liv Gameday 2020</title>
     <desc lang="en">An all-access look back at Super Bowl LIV, as Patrick Mahomes and the Kansas City Chiefs faced George Kittle and the San Francisco 49ers for the Vince Lombardi Trophy.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8c9e06f4-8350-3654-b62b-f36d46feefe0/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/20985c64-97b9-37bb-b703-488a9d18172b/16-9"/>
+    <episode-num system="xmltv_ns">2019.291.</episode-num>
     <audio>
       <stereo>Mono</stereo>
     </audio>
@@ -304,13 +305,14 @@
     <audio>
       <stereo>Stereo</stereo>
     </audio>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20240319010000 +0530" stop="20240319031000 +0530" channel="SkySpMix.uk">
     <title lang="en">BBL All-Stars 2024</title>
     <desc lang="en">Taking place at the Copper Box Arena in London, the men's British Basketball League All-Stars game returns as north meets south in a showcase of some of the league's finest talent. (17.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/88b36d93-a9e6-37a1-a4c2-8f8ee3889f8e/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/25e71067-351b-392d-93ba-efcc08f55fc1/16-9"/>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
@@ -318,12 +320,14 @@
     <audio>
       <stereo>Stereo</stereo>
     </audio>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20240319031000 +0530" stop="20240319034000 +0530" channel="SkySpMix.uk">
     <title lang="en">Super Bowl Liv Gameday 2020</title>
     <desc lang="en">An all-access look back at Super Bowl LIV, as Patrick Mahomes and the Kansas City Chiefs faced George Kittle and the San Francisco 49ers for the Vince Lombardi Trophy.</desc>
     <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4b9dd6a1-01de-34d5-bc1f-acaf68839a61/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/20985c64-97b9-37bb-b703-488a9d18172b/16-9"/>
+    <episode-num system="xmltv_ns">2019.291.</episode-num>
     <audio>
       <stereo>Mono</stereo>
     </audio>
@@ -570,32 +574,13 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240319193000 +0530" stop="20240319230000 +0530" channel="SkySpMix.uk">
+  <programme start="20240319193000 +0530" stop="20240319233000 +0530" channel="SkySpMix.uk">
     <title lang="en">PL Darts: Nottingham</title>
     <desc lang="en">The BetMGM Premier League continues during 2024 with night seven in Nottingham. It was brilliance in Brighton for Luke Humphries who secured his first nightly win of the season. (14.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Darts</category>
     <icon src="https://images.metadata.sky.com/pd-image/e423e310-a05b-3a3b-8177-ca20ce8ff447/16-9"/>
     <episode-num system="xmltv_ns">.6.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240319230000 +0530" stop="20240319233000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Wade v Thornton: Wld Grand Prix 14</title>
-    <desc lang="en">Revisit an incredible match at the 2014 World Grand Prix of Darts, as James Wade and Robert Thornton both hit nine-darters during their round two meeting. Contains flashing images.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Darts</category>
-    <icon src="https://images.metadata.sky.com/pd-image/144f0431-9bc1-3eab-babf-df23daad7134/16-9"/>
-    <episode-num system="xmltv_ns">2022.0.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>

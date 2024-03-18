@@ -125,7 +125,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A58695ADD4426A6DF2D59B774A8D54E736A968EB1.jpg"/>
   </programme>
-  <programme start="20240319025600 +0530" stop="20240319062800 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240319025600 +0530" stop="20240319061000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Hey Ram</title>
     <desc lang="en">When his wife, Aparna, gets raped during the partition of India, Saketh Ram joins a gang that aims to kill Mahatma Gandhi because he advocates peace with Muslims.</desc>
     <credits>
@@ -139,40 +139,87 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/825A2E1ACB634DBC826D7CB60FD2314E971F600B1.jpg"/>
   </programme>
-  <programme start="20240319062800 +0530" stop="20240319090000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240319061000 +0530" stop="20240319085400 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Boss</title>
+    <desc lang="en">After his father disowns him, a businessman raises Surya like his own son. Years later, Surya transforms himself into Boss and fights for the rights of the deprived sections of society.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Ronit Roy</actor>
+      <actor>Shiv Pandit</actor>
+      <actor>Aditi Rao Hydari</actor>
+      <actor>Shivansh Kotia</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3BC016C081DCB0A93A870FC1F41F2288F7187F69U.jpg"/>
   </programme>
-  <programme start="20240319090000 +0530" stop="20240319120000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240319085400 +0530" stop="20240319121800 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Mujrim</title>
+    <desc lang="en">Yashoda, a widow, brings up her children with love and honesty. However, she is disappointed when her son Shankar is arrested for breaking the law and disowns him.</desc>
+    <credits>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Madhuri Dixit Nene</actor>
+      <actor>Nutan</actor>
+      <actor>Shakti Kapoor</actor>
+      <actor>Amrish Puri</actor>
+      <actor>Pallavi Joshi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7D78EB061D07889C8F20A84FE73E259EF82E7D8Q.jpg"/>
   </programme>
-  <programme start="20240319120000 +0530" stop="20240319150000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240319121800 +0530" stop="20240319153400 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Kya Kehna</title>
+    <desc lang="en">Priya falls in love with Rahul, a womaniser, who jilts her after she gets pregnant. However, when she is ostracised by everyone, Ajay, her best friend, supports and helps her.</desc>
+    <credits>
+      <actor>Preity Zinta</actor>
+      <actor>Saif Ali Khan</actor>
+      <actor>Chandrachur Singh</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Farida Jalal</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D4654406C6217F87153E091451CB586063A22303.jpg"/>
   </programme>
-  <programme start="20240319150000 +0530" stop="20240319180000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240319153400 +0530" stop="20240319185300 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Dil Ka Rishta</title>
+    <desc lang="en">Jai, a multimillionaire, is secretly in love with Tia whose husband he kills unintentionally while driving. After she loses her memory in the accident, she eventually falls for a guilt-ridden Jai.</desc>
+    <credits>
+      <actor>Arjun Rampal</actor>
+      <actor>Aishwarya Rai Bachchan</actor>
+      <actor>Priyanshu Chatterjee</actor>
+      <actor>Isha Koppikar</actor>
+      <actor>Raakhee</actor>
+      <actor>Paresh Rawal</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B66367DEF13A0CEB012B105D016FE9131B9B203DF.jpg"/>
   </programme>
-  <programme start="20240319180000 +0530" stop="20240319210000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240319185300 +0530" stop="20240319221600 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Sanam Bewafa</title>
+    <desc lang="en">Two families that are traditional rivals are shocked when their children fall in love with each other. After great difficulty, the households agree to the marriage, but things do not go as planned.</desc>
+    <credits>
+      <actor>Salman Khan</actor>
+      <actor>Chandni</actor>
+      <actor>Danny Denzongpa</actor>
+      <actor>Pran</actor>
+      <actor>Puneet Issar</actor>
+      <actor>Kanchan</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12BA781FB210208DD0ECC719FD928117D1A852B9Z.jpg"/>
   </programme>
-  <programme start="20240319210000 +0530" stop="20240320030000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240319221600 +0530" stop="20240320005100 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Angrakshak</title>
+    <desc lang="en">A wealthy politician hires Ajay as a bodyguard for his daughter, Priya. However, when Priya gets kidnapped and a dead body is found, Ajay sets out to find the truth.</desc>
+    <credits>
+      <actor>Sunny Deol</actor>
+      <actor>Pooja Bhatt</actor>
+      <actor>Kulbhushan Kharbanda</actor>
+      <actor>Saeed Jaffrey</actor>
+      <actor>Nassar</actor>
+      <actor>Mohnish Bahl</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/42BA3A961B3A2A79CBC96A0DD8BABCB05CD1DEA0Q.jpg"/>
   </programme>
 </tv>

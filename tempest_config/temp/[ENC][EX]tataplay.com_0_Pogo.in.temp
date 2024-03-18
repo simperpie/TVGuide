@@ -825,31 +825,57 @@
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/30537AF41E57F72AC597DB041DFB432B36313D54L.jpg"/>
   </programme>
-  <programme start="20240319101500 +0530" stop="20240319110000 +0530" channel="Pogo.in">
-    <title lang="en">Movie - Little Singham Movies</title>
-    <desc lang="en">When villains and aliens arrive in the town, Little Singham, a brave super-cop kid, sets out with his friends to save the innocents.</desc>
-    <credits>
-      <actor>Neshma Chemburkar</actor>
-      <actor>Swapnil Kumari</actor>
-      <actor>Shaily Dubey</actor>
-      <actor>Sonal Kaushal</actor>
-      <actor>Saumya Daan</actor>
-      <actor>Ganessh Divekar</actor>
-    </credits>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0C29BD531533562A7344C71EC49D8D063CAAEA5A.jpg"/>
-  </programme>
-  <programme start="20240319110000 +0530" stop="20240319120000 +0530" channel="Pogo.in">
-    <title lang="en">Movie - Little Singham Ki Black Shadow Se Takkar</title>
-    <desc lang="en">Little Singham, a brave young policeman, faces a new challenge in the form of Black Shadow, a mysterious villain with incredible fighting skills and cutting-edge technology at her disposal.</desc>
-    <category lang="en">Animation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4799C684D1DD96377D78EF0013EC728C5F321C07A.jpg"/>
-  </programme>
-  <programme start="20240319120000 +0530" stop="20240319124500 +0530" channel="Pogo.in">
-    <title lang="en">LS TF 2D Black Shadow - The Super Spy Game</title>
-    <desc lang="en">Little Singham, a brave young policeman, faces a new challenge in the form of Black Shadow, a mysterious villain with incredible fighting skills and cutting-edge technology at her disposal.</desc>
+  <programme start="20240319101500 +0530" stop="20240319104500 +0530" channel="Pogo.in">
+    <title lang="en">Super Squad Joshilay Jaanbaaz</title>
+    <desc lang="en">Little Singham and his friends decide to fight an evil monster who tries to hurt humans and get control of the natural elements on the Earth.</desc>
     <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99ADB2E9FF19CEFECB8A0947CE7B56D7A0B404EBP.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ABA3780C3F72C70DEA1A5BF35315FBD219490A5AE.jpg"/>
+  </programme>
+  <programme start="20240319104500 +0530" stop="20240319110000 +0530" channel="Pogo.in">
+    <title lang="en">Little Singham</title>
+    <desc lang="en">Little Singham, an honest but ferocious police officer, fights against injustice and defends his town from formidable enemies.</desc>
+    <credits>
+      <actor>Sumrridhi Sukla</actor>
+      <actor>Jigna Bharadhwaj</actor>
+      <actor>Neshma Chemburkar</actor>
+      <actor>Ganesh Divekar</actor>
+      <actor>Anamaya Verma</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C927A334D4651DCE986E27EB49963D301807DA6A4.jpg"/>
+  </programme>
+  <programme start="20240319110000 +0530" stop="20240319111500 +0530" channel="Pogo.in">
+    <title lang="en">Little Singham</title>
+    <desc lang="en">Little Singham, an honest but ferocious police officer, fights against injustice and defends his town from formidable enemies.</desc>
+    <credits>
+      <actor>Sumrridhi Sukla</actor>
+      <actor>Jigna Bharadhwaj</actor>
+      <actor>Neshma Chemburkar</actor>
+      <actor>Ganesh Divekar</actor>
+      <actor>Anamaya Verma</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C927A334D4651DCE986E27EB49963D301807DA6A4.jpg"/>
+  </programme>
+  <programme start="20240319111500 +0530" stop="20240319123000 +0530" channel="Pogo.in">
+    <title lang="en">Little Singham Aur Raakh Ka Aatank</title>
+    <desc lang="en">Little Singham, a ferocious young police officer, takes charge of protecting the citizens when a monster unleashes terror in the city.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1DDE2DF0B4757E35F9D4CA1B42716111EF358AF4E.jpg"/>
+  </programme>
+  <programme start="20240319123000 +0530" stop="20240319124500 +0530" channel="Pogo.in">
+    <title lang="en">Chhota Bheem</title>
+    <desc lang="en">Bheem is an extremely brave, strong and intelligent young boy. He often manages to solve everyone's problems which endears him to the townspeople of Dholakpur.</desc>
+    <credits>
+      <actor>Kaustav Ghosh</actor>
+      <actor>Mausam</actor>
+      <actor>Rajesh Kava</actor>
+      <actor>Jigna Bhardwaj</actor>
+      <actor>Julie Tejwani</actor>
+      <actor>Rupa Bhimani</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2439FF938946C7728BF20091787F38A429C63492.jpg"/>
   </programme>
   <programme start="20240319124500 +0530" stop="20240319130000 +0530" channel="Pogo.in">
     <title lang="en">Chhota Bheem</title>
@@ -922,71 +948,6 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2439FF938946C7728BF20091787F38A429C63492.jpg"/>
   </programme>
   <programme start="20240319154500 +0530" stop="20240319160000 +0530" channel="Pogo.in">
-    <title lang="en">Mighty Little Bheem</title>
-    <desc lang="en">Bheem, an affectionate toddler, has many adventures with his little friends and loving family. Every day he learns something new as he grows taller.</desc>
-    <credits>
-      <actor>Sumruddhi Shukla</actor>
-      <actor>Swapnil Kumari</actor>
-      <actor>Nishka Raheja</actor>
-      <actor>Sabina Malik</actor>
-      <actor>Shanoor Mirza</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97443FBB1813188ADFF6D234B500DAFD21B31F43G.jpg"/>
-  </programme>
-  <programme start="20240319160000 +0530" stop="20240319161500 +0530" channel="Pogo.in">
-    <title lang="en">Mighty Little Bheem</title>
-    <desc lang="en">Bheem, an affectionate toddler, has many adventures with his little friends and loving family. Every day he learns something new as he grows taller.</desc>
-    <credits>
-      <actor>Sumruddhi Shukla</actor>
-      <actor>Swapnil Kumari</actor>
-      <actor>Nishka Raheja</actor>
-      <actor>Sabina Malik</actor>
-      <actor>Shanoor Mirza</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97443FBB1813188ADFF6D234B500DAFD21B31F43G.jpg"/>
-  </programme>
-  <programme start="20240319161500 +0530" stop="20240319164500 +0530" channel="Pogo.in">
-    <title lang="en">Mighty Little Bheem</title>
-    <desc lang="en">Bheem, an affectionate toddler, has many adventures with his little friends and loving family. Every day he learns something new as he grows taller.</desc>
-    <credits>
-      <actor>Sumruddhi Shukla</actor>
-      <actor>Swapnil Kumari</actor>
-      <actor>Nishka Raheja</actor>
-      <actor>Sabina Malik</actor>
-      <actor>Shanoor Mirza</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97443FBB1813188ADFF6D234B500DAFD21B31F43G.jpg"/>
-  </programme>
-  <programme start="20240319164500 +0530" stop="20240319171500 +0530" channel="Pogo.in">
-    <title lang="en">Mighty Little Bheem</title>
-    <desc lang="en">Bheem, an affectionate toddler, has many adventures with his little friends and loving family. Every day he learns something new as he grows taller.</desc>
-    <credits>
-      <actor>Sumruddhi Shukla</actor>
-      <actor>Swapnil Kumari</actor>
-      <actor>Nishka Raheja</actor>
-      <actor>Sabina Malik</actor>
-      <actor>Shanoor Mirza</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97443FBB1813188ADFF6D234B500DAFD21B31F43G.jpg"/>
-  </programme>
-  <programme start="20240319171500 +0530" stop="20240319173000 +0530" channel="Pogo.in">
-    <title lang="en">Mighty Little Bheem</title>
-    <desc lang="en">Bheem, an affectionate toddler, has many adventures with his little friends and loving family. Every day he learns something new as he grows taller.</desc>
-    <credits>
-      <actor>Sumruddhi Shukla</actor>
-      <actor>Swapnil Kumari</actor>
-      <actor>Nishka Raheja</actor>
-      <actor>Sabina Malik</actor>
-      <actor>Shanoor Mirza</actor>
-    </credits>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97443FBB1813188ADFF6D234B500DAFD21B31F43G.jpg"/>
-  </programme>
-  <programme start="20240319173000 +0530" stop="20240319174500 +0530" channel="Pogo.in">
     <title lang="en">Chhota Bheem</title>
     <desc lang="en">Bheem is an extremely brave, strong and intelligent young boy. He often manages to solve everyone's problems which endears him to the townspeople of Dholakpur.</desc>
     <credits>
@@ -999,6 +960,26 @@
     </credits>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2439FF938946C7728BF20091787F38A429C63492.jpg"/>
+  </programme>
+  <programme start="20240319160000 +0530" stop="20240319161500 +0530" channel="Pogo.in">
+    <title lang="en">Chhota Bheem</title>
+    <desc lang="en">Bheem is an extremely brave, strong and intelligent young boy. He often manages to solve everyone's problems which endears him to the townspeople of Dholakpur.</desc>
+    <credits>
+      <actor>Kaustav Ghosh</actor>
+      <actor>Mausam</actor>
+      <actor>Rajesh Kava</actor>
+      <actor>Jigna Bhardwaj</actor>
+      <actor>Julie Tejwani</actor>
+      <actor>Rupa Bhimani</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2439FF938946C7728BF20091787F38A429C63492.jpg"/>
+  </programme>
+  <programme start="20240319161500 +0530" stop="20240319174500 +0530" channel="Pogo.in">
+    <title lang="en">Movie - Veer Bahadur Bheem</title>
+    <desc lang="en">Bheem is an extremely brave, strong and intelligent young boy. He often manages to fight evil and solve problems of the people of Dholakpur.</desc>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6692033B7634423456576254A72C28A4C99776F57.jpg"/>
   </programme>
   <programme start="20240319174500 +0530" stop="20240319180000 +0530" channel="Pogo.in">
     <title lang="en">Chhota Bheem</title>
