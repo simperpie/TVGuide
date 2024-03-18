@@ -152,7 +152,39 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/344573C0936F7E19FA03CC7DBFD1E121E971A3DFC.jpg"/>
   </programme>
-  <programme start="20240319030000 +0530" stop="20240319060000 +0530" channel="SONYMAXHD.in">
+  <programme start="20240319004500 +0530" stop="20240319024900 +0530" channel="SONYMAXHD.in">
+    <title lang="en">Spider-Man: Homecoming</title>
+    <desc lang="en">Peter Parker tries to stop the Vulture from selling weapons made with advanced Chitauri technology while trying to balance his life as an ordinary high school student.</desc>
+    <credits>
+      <actor>Tom Holland</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Jon Favreau</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <actor>Zendaya</actor>
+      <actor>Donald Glover</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F233E0C83E49430FB3437A67F4D7F8A0974075DBS.jpg"/>
+  </programme>
+  <programme start="20240319024900 +0530" stop="20240319031800 +0530" channel="SONYMAXHD.in">
+    <title lang="en">Extraaa Storiez</title>
+    <desc lang="en">Tiger Zinda Hai: The host presents various snippets of information and behind the scenes from the sets of 'Tiger Zinda Hai', a 2017 Hindi film.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CDAEAE388A0EE8C82F35FC00D6F3949A54C9EBD6.jpg"/>
+  </programme>
+  <programme start="20240319031800 +0530" stop="20240319033900 +0530" channel="SONYMAXHD.in">
+    <title lang="en">Extraaa Storiez</title>
+    <desc lang="en">Pk: A stranger's naivety and childlike perspective of the world challenges people's long-held beliefs.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CDAEAE388A0EE8C82F35FC00D6F3949A54C9EBD6.jpg"/>
+  </programme>
+  <programme start="20240319033900 +0530" stop="20240319040000 +0530" channel="SONYMAXHD.in">
+    <title lang="en">Extraaa Storiez</title>
+    <desc lang="en">Abcd 2: The host presents various snippets of information and behind the scenes from the sets of 'K.G.F: Chapter 2', a 2022 Kannada film.</desc>
+    <category lang="en">Show Biz</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CDAEAE388A0EE8C82F35FC00D6F3949A54C9EBD6.jpg"/>
+  </programme>
+  <programme start="20240319040000 +0530" stop="20240319060000 +0530" channel="SONYMAXHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

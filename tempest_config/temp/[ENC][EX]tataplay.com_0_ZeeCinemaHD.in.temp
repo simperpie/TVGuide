@@ -130,17 +130,32 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AD0CA7194951DAB6204521377BA9F51D6CD926D1Y.jpg"/>
   </programme>
-  <programme start="20240319030000 +0530" stop="20240319060000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240319020000 +0530" stop="20240319041600 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Krishna Ki Love Story</title>
+    <desc lang="en">Krishna loves Mahalakshmi whose brother works for the mafia. During a gang war, he entrusts two children to Krishna and assigns him the nearly impossible task of returning them to their parents.</desc>
+    <credits>
+      <actor>Nani</actor>
+      <actor>Mehreen Pirzada</actor>
+      <actor>Harish Uthaman</actor>
+      <actor>Sampath Raj</actor>
+      <actor>Murli Sharma</actor>
+      <actor>Satyam Rajesh</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D4D277FD11FE7AEA8605D950179A6BB740B7BF7U.jpg"/>
   </programme>
-  <programme start="20240319060000 +0530" stop="20240319090000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240319041600 +0530" stop="20240319090000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Toofaan</title>
+    <desc lang="en">An orphan from the streets of Mumbai grows up to become a thug. However, his life changes when he meets Ananya, who leads him towards his true calling of boxing.</desc>
+    <credits>
+      <actor>Farhan Akhtar</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Mrunal Thakur</actor>
+      <actor>Hussain Dalal</actor>
+      <actor>Supriya Pathak</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1E9AB8B697B94E1E798F339DD96C55E5ED756C41.jpg"/>
   </programme>
   <programme start="20240319090000 +0530" stop="20240319120000 +0530" channel="ZeeCinemaHD.in">
     <title lang="en">Movie</title>

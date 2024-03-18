@@ -4,43 +4,12 @@
     <display-name lang="en">Merchant Records</display-name>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Merchant_Records.png"/>
   </channel>
-  <programme start="20240318000000 +0530" stop="20240318010000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Love Radio</title>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064000_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240318010000 +0530" stop="20240318020000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Chill Station</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064001_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240318020000 +0530" stop="20240318030000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Dance Kar Le</title>
-    <category lang="en">TV Show</category>
-    <category lang="en">Reality &amp; Game Shows</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064002_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240318030000 +0530" stop="20240318040000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Pump it Up</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064003_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240318040000 +0530" stop="20240318050000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Jashn-E-Sufi</title>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064004_s.jpg"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20240318050000 +0530" stop="20240318060000 +0530" channel="MerchantRecords.in">
-    <title lang="en">Bhakti Sagar</title>
-    <category lang="en">TV Show</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182064005_s.jpg"/>
-    <previously-shown/>
-  </programme>
+  
+  
+  
+  
+  
+  
   <programme start="20240318060000 +0530" stop="20240318070000 +0530" channel="MerchantRecords.in">
     <title lang="en">Bhakti Sagar</title>
     <category lang="en">TV Show</category>

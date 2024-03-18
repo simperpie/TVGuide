@@ -139,7 +139,27 @@
     <category lang="en">Romance</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E55F2F880411A1DF2D6BEED67D5106F3EC774E6CW.jpg"/>
   </programme>
-  <programme start="20240319030000 +0530" stop="20240319060000 +0530" channel="SONYMAX2.in">
+  <programme start="20240319010200 +0530" stop="20240319032100 +0530" channel="SONYMAX2.in">
+    <title lang="en">Commando</title>
+    <desc lang="en">The head of security in a weapons factory discovers a plot to sell arms to international terrorists and he becomes a marked man on the run.</desc>
+    <credits>
+      <actor>Mithun Chakraborthy</actor>
+      <actor>Mandakini</actor>
+      <actor>Hemant Birje</actor>
+      <actor>Amrish Puri</actor>
+      <actor>Shakti Kapoor</actor>
+      <actor>Shashi Kapoor</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F7EF4F22021BAC1523A5075AACC136375DFF25C3W.jpg"/>
+  </programme>
+  <programme start="20240319032100 +0530" stop="20240319040000 +0530" channel="SONYMAX2.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240319040000 +0530" stop="20240319060000 +0530" channel="SONYMAX2.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

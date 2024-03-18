@@ -150,7 +150,7 @@
       <stereo>Stereo</stereo>
     </audio>
   </programme>
-  <programme start="20240318133000 +0530" stop="20240318164500 +0530" channel="SkySpMix.uk">
+  <programme start="20240318133000 +0530" stop="20240318161500 +0530" channel="SkySpMix.uk">
     <title lang="en">WBBL All-Stars 2024</title>
     <desc lang="en">Taking place at the Copper Box Arena, the inaugural Women's British Basketball League All-Stars game begins as north meets south in a showcase of some of the league's finest talent. (17.03)</desc>
     <category lang="en">Sports</category>
@@ -164,12 +164,12 @@
       <stereo>Stereo</stereo>
     </audio>
   </programme>
-  <programme start="20240318164500 +0530" stop="20240318191500 +0530" channel="SkySpMix.uk">
+  <programme start="20240318161500 +0530" stop="20240318182500 +0530" channel="SkySpMix.uk">
     <title lang="en">BBL All-Stars 2024</title>
     <desc lang="en">Taking place at the Copper Box Arena in London, the men's British Basketball League All-Stars game returns as north meets south in a showcase of some of the league's finest talent. (17.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/25e71067-351b-392d-93ba-efcc08f55fc1/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/ce379329-d756-3ef2-8d51-f9581d7d6580/16-9"/>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
@@ -178,6 +178,24 @@
       <stereo>Stereo</stereo>
     </audio>
     <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240318182500 +0530" stop="20240318185500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Super Bowl Liv Gameday 2020</title>
+    <desc lang="en">An all-access look back at Super Bowl LIV, as Patrick Mahomes and the Kansas City Chiefs faced George Kittle and the San Francisco 49ers for the Vince Lombardi Trophy.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8c9e06f4-8350-3654-b62b-f36d46feefe0/16-9"/>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240318185500 +0530" stop="20240318191500 +0530" channel="SkySpMix.uk">
+    <title lang="en">NFL Masterclass: Coaching (Rob Ryan)</title>
+    <desc lang="en">Two-time Super Bowl winner Rob Ryan gives a masterclass on coaching in the NFL, including the breakdown of a defensive coordinator's responsibilities such as scouting and game-planning.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0d113c03-99f9-39f3-9c4e-0175902e3b0f/16-9"/>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
   </programme>
   <programme start="20240318191500 +0530" stop="20240318193000 +0530" channel="SkySpMix.uk">
     <title lang="en">Best of NFL 23/24</title>
@@ -272,7 +290,7 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240318221500 +0530" stop="20240319013000 +0530" channel="SkySpMix.uk">
+  <programme start="20240318221500 +0530" stop="20240319010000 +0530" channel="SkySpMix.uk">
     <title lang="en">WBBL All-Stars 2024</title>
     <desc lang="en">Taking place at the Copper Box Arena, the inaugural Women's British Basketball League All-Stars game begins as north meets south in a showcase of some of the league's finest talent. (17.03)</desc>
     <category lang="en">Sports</category>
@@ -286,18 +304,34 @@
       <stereo>Stereo</stereo>
     </audio>
   </programme>
-  <programme start="20240319013000 +0530" stop="20240319040000 +0530" channel="SkySpMix.uk">
+  <programme start="20240319010000 +0530" stop="20240319031000 +0530" channel="SkySpMix.uk">
     <title lang="en">BBL All-Stars 2024</title>
     <desc lang="en">Taking place at the Copper Box Arena in London, the men's British Basketball League All-Stars game returns as north meets south in a showcase of some of the league's finest talent. (17.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/25e71067-351b-392d-93ba-efcc08f55fc1/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/88b36d93-a9e6-37a1-a4c2-8f8ee3889f8e/16-9"/>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
     </video>
     <audio>
       <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319031000 +0530" stop="20240319034000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Super Bowl Liv Gameday 2020</title>
+    <desc lang="en">An all-access look back at Super Bowl LIV, as Patrick Mahomes and the Kansas City Chiefs faced George Kittle and the San Francisco 49ers for the Vince Lombardi Trophy.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4b9dd6a1-01de-34d5-bc1f-acaf68839a61/16-9"/>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319034000 +0530" stop="20240319040000 +0530" channel="SkySpMix.uk">
+    <title lang="en">NFL Masterclass: Coaching (Rob Ryan)</title>
+    <desc lang="en">Two-time Super Bowl winner Rob Ryan gives a masterclass on coaching in the NFL, including the breakdown of a defensive coordinator's responsibilities such as scouting and game-planning.</desc>
+    <audio>
+      <stereo>Mono</stereo>
     </audio>
   </programme>
   <programme start="20240319040000 +0530" stop="20240319041500 +0530" channel="SkySpMix.uk">
@@ -894,7 +928,7 @@
     </rating>
   </programme>
   <programme start="20240320194500 +0530" stop="20240320200000 +0530" channel="SkySpMix.uk">
-    <title lang="en">S/Lge: Salford v Wigan Hlts</title>
+    <title lang="en">S/Lge:Salford v Wigan Hlts</title>
     <desc lang="en">In the Betfred Super League, Salford Red Devils face the champions Wigan Warriors. Salford had to come from behind in round four to secure a third successive win. (14.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>

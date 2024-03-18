@@ -4,15 +4,7 @@
     <display-name lang="en">Kadak Hits</display-name>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_Hits.png"/>
   </channel>
-  <programme start="20240318000000 +0530" stop="20240318060000 +0530" channel="KadakHits.in">
-    <title lang="en">Hit pe Hit</title>
-    <desc lang="en">Back to Back Bollywood Hit songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403181249000_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
+  
   <programme start="20240318060000 +0530" stop="20240318090000 +0530" channel="KadakHits.in">
     <title lang="en">Kadak Mornings</title>
     <desc lang="en">Wake up to fresh &amp;Trending hits</desc>

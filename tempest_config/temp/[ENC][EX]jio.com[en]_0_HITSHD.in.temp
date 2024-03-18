@@ -4,60 +4,12 @@
     <display-name lang="en">HITS HD</display-name>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/HitsIndia_HD.png"/>
   </channel>
-  <programme start="20240318000000 +0530" stop="20240318010000 +0530" channel="HITSHD.in">
-    <title lang="en">HITS HD</title>
-    <desc lang="en">HITS HD</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403181603000_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240318010000 +0530" stop="20240318020000 +0530" channel="HITSHD.in">
-    <title lang="en">HITS HD</title>
-    <desc lang="en">HITS HD</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403181603001_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240318020000 +0530" stop="20240318030000 +0530" channel="HITSHD.in">
-    <title lang="en">HITS HD</title>
-    <desc lang="en">HITS HD</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403181603002_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240318030000 +0530" stop="20240318040000 +0530" channel="HITSHD.in">
-    <title lang="en">HITS HD</title>
-    <desc lang="en">HITS HD</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403181603003_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240318040000 +0530" stop="20240318050000 +0530" channel="HITSHD.in">
-    <title lang="en">HITS HD</title>
-    <desc lang="en">HITS HD</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403181603004_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240318050000 +0530" stop="20240318060000 +0530" channel="HITSHD.in">
-    <title lang="en">HITS HD</title>
-    <desc lang="en">HITS HD</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403181603005_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
+  
+  
+  
+  
+  
+  
   <programme start="20240318060000 +0530" stop="20240318070000 +0530" channel="HITSHD.in">
     <title lang="en">HITS HD</title>
     <desc lang="en">HITS HD</desc>

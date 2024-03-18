@@ -4,15 +4,7 @@
     <display-name lang="en">Bhakti Sagar</display-name>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_Sagar.png"/>
   </channel>
-  <programme start="20240318000000 +0530" stop="20240318060000 +0530" channel="BhaktiSagar.in">
-    <title lang="en">Bhakti aur Bhajan</title>
-    <desc lang="en">Bhajans &amp; Aartis</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182041000_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
+  
   <programme start="20240318060000 +0530" stop="20240318080000 +0530" channel="BhaktiSagar.in">
     <title lang="en">Prarthana</title>
     <desc lang="en">Bhajans &amp; Aartis</desc>

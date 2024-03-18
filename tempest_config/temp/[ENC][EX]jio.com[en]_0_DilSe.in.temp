@@ -4,15 +4,7 @@
     <display-name lang="en">Dil Se</display-name>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dil_Se.png"/>
   </channel>
-  <programme start="20240318000000 +0530" stop="20240318070000 +0530" channel="DilSe.in">
-    <title lang="en">Pehla Pehla Pyaar</title>
-    <desc lang="en">Bollywood's most Popular Romantic tracks - Back to Back</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182036000_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
+  
   <programme start="20240318070000 +0530" stop="20240318120000 +0530" channel="DilSe.in">
     <title lang="en">Love Aaj Kal</title>
     <desc lang="en">New &amp; Trending romantic number from Bollywood</desc>

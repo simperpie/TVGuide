@@ -35,12 +35,6 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/222CEAF593B6634A69309E99BD579BE804E8A1F14.jpg"/>
     <episode-num system="xmltv_ns">.54.</episode-num>
   </programme>
-  <programme start="20240318041600 +0530" stop="20240318050000 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
   <programme start="20240318050000 +0530" stop="20240318071200 +0530" channel="NickJr.in">
     <title lang="en">Jothegaara</title>
     <desc lang="en">Vishwas, who is in love with Priya, decides to fight against the odds to unite with her.</desc>
@@ -53,12 +47,6 @@
     </credits>
     <category lang="en">Romance</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E4631DDF3F25F363A0CD16EE43FCB70135C0A082P.jpg"/>
-  </programme>
-  <programme start="20240318071200 +0530" stop="20240318080000 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
   </programme>
   <programme start="20240318080000 +0530" stop="20240318090000 +0530" channel="NickJr.in">
     <title lang="en">Harikathe</title>
@@ -80,80 +68,81 @@
     <category lang="en">Romance</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/081A4F6E22605D2159C3585D252E77AA8EE72869Y.jpg"/>
   </programme>
-  <programme start="20240318110000 +0530" stop="20240318120000 +0530" channel="NickJr.in">
+  <programme start="20240318120000 +0530" stop="20240318141200 +0530" channel="NickJr.in">
+    <title lang="en">Raambo 2</title>
+    <desc lang="en">Mayuri gets kidnapped from a road trip with her friends but gets released with a message.</desc>
+    <credits>
+      <actor>Sharan</actor>
+      <actor>Ashika Ranganath</actor>
+      <actor>Chikkanna</actor>
+      <actor>P Ravishankar</actor>
+      <actor>Tabla Nani</actor>
+      <actor>Kuri Prathap</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/63C8F37E84A08366226A23D66749EA102B638D44K.jpg"/>
+  </programme>
+  <programme start="20240318141200 +0530" stop="20240318150000 +0530" channel="NickJr.in">
     <title lang="en">Filler</title>
     <desc lang="en">Filler</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
   </programme>
-  <programme start="20240318120000 +0530" stop="20240318150000 +0530" channel="NickJr.in">
-    <title lang="en">Bhajarangi</title>
-    <desc lang="en">Jeevan, who visits a village, ends up fighting against the god-man to save the villagers.</desc>
+  <programme start="20240318150000 +0530" stop="20240318170900 +0530" channel="NickJr.in">
+    <title lang="en">Sri Ramachandra</title>
+    <desc lang="en">Srirama's spirit possesses his twin to exact revenge on his greedy manager.</desc>
     <credits>
-      <actor>Shivraj Kumar</actor>
-      <actor>Aindrita Rai</actor>
-      <actor>Rukmini Vijayakumar</actor>
-      <actor>Sadhu Kokila</actor>
-      <actor>Bullet Prakash</actor>
-      <actor>Tabla Nani</actor>
+      <actor>Ravichandran</actor>
+      <actor>Mohini</actor>
+      <actor>Srinath</actor>
+      <actor>Vajramuni</actor>
+      <actor>Dheerendra Gopal</actor>
+      <actor>Umashree</actor>
     </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CF7B5B1EA836C033ECC509ADE81675AACE4B8357.jpg"/>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0198E2816C94FCBC2299249F527E0068B6D29A350.jpg"/>
   </programme>
-  <programme start="20240318150000 +0530" stop="20240318171600 +0530" channel="NickJr.in">
-    <title lang="en">Rider</title>
-    <desc lang="en">As love blossoms between orphans Chinnu and Kitty, fate separates them as children.</desc>
+  <programme start="20240318170900 +0530" stop="20240318180000 +0530" channel="NickJr.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240318180000 +0530" stop="20240318201800 +0530" channel="NickJr.in">
+    <title lang="en">Kousalya Supraja Rama</title>
+    <desc lang="en">Ram, a chauvinist, begins to change his ways due to the influence of Shivani.</desc>
     <credits>
-      <actor>Nikhil Gowda</actor>
-      <actor>Anusha Rai</actor>
-      <actor>Kashmira Pardeshi</actor>
+      <actor>Darling Krishna</actor>
+      <actor>Brinda Acharya</actor>
+      <actor>Milana Nagaraj</actor>
+      <actor>Rangayana Raghu</actor>
+      <actor>Sudha Belawadi</actor>
       <actor>Achyuth Kumar</actor>
-      <actor>Ramachandra Raju</actor>
     </credits>
     <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E6364C566401676CFF7E848528DFB44919BB99D15.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2288F5EA5A9B120280D5863A274A0B73BB4C96BD8.jpg"/>
   </programme>
-  <programme start="20240318171600 +0530" stop="20240318180000 +0530" channel="NickJr.in">
+  <programme start="20240318201800 +0530" stop="20240318210000 +0530" channel="NickJr.in">
     <title lang="en">Filler</title>
     <desc lang="en">Filler</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
   </programme>
-  <programme start="20240318180000 +0530" stop="20240318201700 +0530" channel="NickJr.in">
-    <title lang="en">Aranmanai 3</title>
-    <desc lang="en">Jyothi decides to uncover the identity of the spirit that haunted her in her childhood.</desc>
+  <programme start="20240318210000 +0530" stop="20240318230500 +0530" channel="NickJr.in">
+    <title lang="en">Kaapa</title>
+    <desc lang="en">A husband sets off to prove his wife's innocence when her name appears on a criminal list.</desc>
     <credits>
-      <actor>Sundar C</actor>
-      <actor>Arya</actor>
-      <actor>Raashi Khanna</actor>
-      <actor>Andrea Jeremiah</actor>
-      <actor>Sakshi Agarwal</actor>
-      <actor>Vivek</actor>
-    </credits>
-    <category lang="en">Thriller</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ADA882526A6B9B86BADD112D48039C1D368FF9D6B.jpg"/>
-  </programme>
-  <programme start="20240318201700 +0530" stop="20240318210000 +0530" channel="NickJr.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240318210000 +0530" stop="20240318225200 +0530" channel="NickJr.in">
-    <title lang="en">Captain</title>
-    <desc lang="en">A group of soldiers head out on a dangerous mission to uncover a mystery.</desc>
-    <credits>
-      <actor>Arya</actor>
-      <actor>Aishwarya Lekshmi</actor>
-      <actor>Simran</actor>
-      <actor>Kavya Shetty</actor>
-      <actor>Harish Uthaman</actor>
-      <actor>Bharath Raj</actor>
+      <actor>Prithviraj Sukumaran</actor>
+      <actor>Asif Ali</actor>
+      <actor>Aparna Balamurali</actor>
+      <actor>Anna Ben</actor>
+      <actor>Dileesh Pothan</actor>
+      <actor>Jagadish Kumar</actor>
     </credits>
     <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CCB59A7F61810C12B3FD36B84A1CE61731C31C579.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C14B1958F4BD43BBD8BBE469F07EB08BD310D0EC.jpg"/>
   </programme>
-  <programme start="20240318225200 +0530" stop="20240319000200 +0530" channel="NickJr.in">
+  <programme start="20240318230500 +0530" stop="20240319000200 +0530" channel="NickJr.in">
     <title lang="en">Filler</title>
     <desc lang="en">Filler</desc>
     <category lang="en">Others</category>

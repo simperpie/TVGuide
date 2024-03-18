@@ -4,15 +4,7 @@
     <display-name lang="en">Bol Hadippa</display-name>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bol_Hadippa.png"/>
   </channel>
-  <programme start="20240318000000 +0530" stop="20240318070000 +0530" channel="BolHadippa.in">
-    <title lang="en">Punjabi Tadka</title>
-    <desc lang="en">Back to back popular Punjabi songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403181248000_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
+  
   <programme start="20240318070000 +0530" stop="20240318090000 +0530" channel="BolHadippa.in">
     <title lang="en">Tashan</title>
     <desc lang="en">Fresh &amp; Trending Punjabi tracks</desc>

@@ -3,12 +3,6 @@
   <channel id="ShemarooBollywood.us">
     <display-name lang="en">Shemaroo Bollywood</display-name>
   </channel>
-  <programme start="20240318050501 +0530" stop="20240318052941 +0530" channel="ShemarooBollywood.us">
-    <title lang="en">Screen Legends</title>
-    <category lang="en">International</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/ca3db3e1-dfee-420a-bce3-1d0470624fe6/Shemaroo_bollywood_1920X1080.jpg"/>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
-  </programme>
   <programme start="20240318052941 +0530" stop="20240318082920 +0530" channel="ShemarooBollywood.us">
     <title lang="en">Golmaal Returns</title>
     <desc lang="en">Gopal’s life hits choppy waters when he gets stuck on a yacht for a night upon rescuing an attractive young woman by fighting off some goons. Now, he has his wife suspecting him of having an affair and a police officer on his tail.</desc>

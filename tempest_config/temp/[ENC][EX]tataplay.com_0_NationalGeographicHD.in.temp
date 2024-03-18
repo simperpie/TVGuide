@@ -341,29 +341,28 @@
     <category lang="en">Environment</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E6E696A76BF6129A87C110B9E9B32EA141FC4C24L.jpg"/>
   </programme>
-  <programme start="20240319000000 +0530" stop="20240319010000 +0530" channel="NationalGeographicHD.in">
-    <title lang="en">Last Of The Giants: Wild Fish</title>
-    <desc lang="en">Monster Sturgeon: Cyril and his crew set out to help scientists protect the prehistoric white sturgeon.</desc>
+  <programme start="20240319000500 +0530" stop="20240319004900 +0530" channel="NationalGeographicHD.in">
+    <title lang="en">Atlas Of Cursed Places</title>
+    <desc lang="en">The Curse of Vlad The Impaler: Adventurer Sam Sheridan heads to Romania to investigate the curse of Vlad Tepes.</desc>
     <credits>
-      <actor>Cyril Chauquet</actor>
-      <actor>Geoffrey Uloth</actor>
+      <actor>Sam Sheridan</actor>
     </credits>
-    <category lang="en">Environment</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E6E696A76BF6129A87C110B9E9B32EA141FC4C24L.jpg"/>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BEE8DB12649ACA03153D3E2ECE0C78431B43C63A2.jpg"/>
   </programme>
-  <programme start="20240319010000 +0530" stop="20240319020000 +0530" channel="NationalGeographicHD.in">
+  <programme start="20240319004900 +0530" stop="20240319013300 +0530" channel="NationalGeographicHD.in">
     <title lang="en">Airport Security Madrid</title>
     <desc lang="en">Smuggler Grandma: Police at Adolfo Suarez Airport flag a grandmother in a wheelchair carrying cocaine.</desc>
     <category lang="en">Educational</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEF331A57A03BF5FF3CEB441E67E4B510EB43DEFS.jpg"/>
   </programme>
-  <programme start="20240319020000 +0530" stop="20240319030000 +0530" channel="NationalGeographicHD.in">
+  <programme start="20240319013300 +0530" stop="20240319021700 +0530" channel="NationalGeographicHD.in">
     <title lang="en">Airport Security Madrid</title>
     <desc lang="en">First-Class Smugglers: The agents detain a business class passenger whose actual business may be cocaine.</desc>
     <category lang="en">Educational</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEF331A57A03BF5FF3CEB441E67E4B510EB43DEFS.jpg"/>
   </programme>
-  <programme start="20240319030000 +0530" stop="20240319040000 +0530" channel="NationalGeographicHD.in">
+  <programme start="20240319021700 +0530" stop="20240319030100 +0530" channel="NationalGeographicHD.in">
     <title lang="en">Banged Up Abroad</title>
     <desc lang="en">Euro Trip: The stories of a schoolteacher and a model, and their rise and fall as drug smugglers.</desc>
     <credits>
@@ -377,7 +376,7 @@
     <category lang="en">Documentary</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/14A61404A228358D6989C9B8AE5B26932F906BF87.jpg"/>
   </programme>
-  <programme start="20240319040000 +0530" stop="20240319050000 +0530" channel="NationalGeographicHD.in">
+  <programme start="20240319030100 +0530" stop="20240319034500 +0530" channel="NationalGeographicHD.in">
     <title lang="en">Banged Up Abroad</title>
     <desc lang="en">Ecstasy Underworld: Two enthralling stories of the rise and fall of MDMA dealers in Arizona and South Korea.</desc>
     <credits>
@@ -391,7 +390,7 @@
     <category lang="en">Documentary</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/14A61404A228358D6989C9B8AE5B26932F906BF87.jpg"/>
   </programme>
-  <programme start="20240319050000 +0530" stop="20240319060000 +0530" channel="NationalGeographicHD.in">
+  <programme start="20240319034500 +0530" stop="20240319042900 +0530" channel="NationalGeographicHD.in">
     <title lang="en">Gordon Ramsay: Uncharted</title>
     <desc lang="en">Croatia's Coastal Adventure: Chef Ramsay explores the peninsula of Istria for ingredients that rival the best of Italy.</desc>
     <credits>
@@ -403,6 +402,27 @@
     </credits>
     <category lang="en">Food</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7C4319EC6C719A24C87C5D35DD83ECCC4ABF772CK.jpg"/>
+  </programme>
+  <programme start="20240319042900 +0530" stop="20240319051600 +0530" channel="NationalGeographicHD.in">
+    <title lang="en">Unknown Waters With Jeremy Wade</title>
+    <desc lang="en">Amazon River Shark: Amazon River Shark : Intrepid angler Jeremy Wade looks for the elusive bull shark at the mouth of the Amazon.</desc>
+    <credits>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F63D04ABE7FD40A461F20A5B3A83344D49333C16V.jpg"/>
+  </programme>
+  <programme start="20240319051600 +0530" stop="20240319060000 +0530" channel="NationalGeographicHD.in">
+    <title lang="en">Snakes In The City</title>
+    <desc lang="en">Mamba Madness: The team takes on deadly black mambas; Simon bails a wolf snake out of the police station.</desc>
+    <credits>
+      <actor>Simon Keys</actor>
+      <actor>Siouxsie Gillett</actor>
+      <actor>Nadine Keys</actor>
+      <actor>Abdi Hussein</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C4C730194299C2D118E4353906C1B7449575C3DX.jpg"/>
   </programme>
   <programme start="20240319060000 +0530" stop="20240319070000 +0530" channel="NationalGeographicHD.in">
     <title lang="en">Running Wild With Bear Grylls</title>
