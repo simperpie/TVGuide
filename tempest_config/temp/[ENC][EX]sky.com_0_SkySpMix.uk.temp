@@ -4,56 +4,24 @@
     <display-name lang="en">SkySp Mix</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb4090.png"/>
   </channel>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  <programme start="20240318042500 +0530" stop="20240318053000 +0530" channel="SkySpMix.uk">
+    <title lang="en">The Ashes: The Greatest Hour</title>
+    <desc lang="en">The thrilling final hour of the third Ashes Test between England and Australia at Headingley. At 286-9 and needing 73 to win, Ben Stokes and Jack Leach put on a partnership for the ages.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/69f62125-ecf8-4505-8af6-5dc26e4a369d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20240318053000 +0530" stop="20240318093000 +0530" channel="SkySpMix.uk">
     <title lang="en">PL Darts: Nottingham</title>
     <desc lang="en">The BetMGM Premier League continues during 2024 with night seven in Nottingham. It was brilliance in Brighton for Luke Humphries who secured his first nightly win of the season. (14.03)</desc>
@@ -150,7 +118,7 @@
     </rating>
   </programme>
   <programme start="20240318113000 +0530" stop="20240318123000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Best of NFL 23/24</title>
+    <title lang="en">Bets Of NFL 23/24</title>
     <desc lang="en">In an NFC divisional round matchup, the Detroit Lions host the Tampa Bay Buccaneers. The last time the Lions won multiple playoff games dates back to their 1957 championship run. (21.01)</desc>
     <category lang="en">Sports</category>
     <category lang="en">American Football</category>
@@ -195,7 +163,6 @@
     <audio>
       <stereo>Stereo</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240318164500 +0530" stop="20240318191500 +0530" channel="SkySpMix.uk">
     <title lang="en">BBL All-Stars 2024</title>
@@ -270,20 +237,22 @@
     </rating>
   </programme>
   <programme start="20240318200000 +0530" stop="20240318220500 +0530" channel="SkySpMix.uk">
-    <title lang="en">S/Lge</title>
+    <title lang="en">S/Lge: Leeds v St Helens</title>
     <desc lang="en">Leeds Rhinos and St Helens meet in the Betfred Super League. Ash Handley was on hand again for the Rhinos previously, scoring the winner in a fiercely contested battle with Leigh. (15.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a9355fa0-18d9-35e0-850e-747a7ef77b48/16-9"/>
-    <episode-num system="xmltv_ns">2023.71.</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/38f0491a-8064-3146-b54d-dfe6e00f4d9d/16-9"/>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
     <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240318220500 +0530" stop="20240318221500 +0530" channel="SkySpMix.uk">
     <title lang="en">History of the F1 Safety Car</title>
@@ -444,5 +413,683 @@
     <rating system="BBFC">
       <value>U</value>
     </rating>
+  </programme>
+  <programme start="20240319053000 +0530" stop="20240319063000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Players Championship 2013 Film</title>
+    <desc lang="en">The story of the 2013 Players Championship at TPC Sawgrass in Ponte Vedra Beach, Florida. America's Matt Kuchar came out on top in the 2012 tournament.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c67716d6-6cf8-4a01-8677-389a73fa95cb/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319063000 +0530" stop="20240319073000 +0530" channel="SkySpMix.uk">
+    <title lang="en">The Players Championship Hlts</title>
+    <desc lang="en">Day four of the Players Championship, taking place at TPC Sawgrass in Ponte Vedra Beach, Florida. Who will follow Scottie Scheffler to scoop the PGA Tour's richest prize in 2024? (17.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b2429956-803d-36ce-8df5-6bb8de58bb44/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319073000 +0530" stop="20240319093000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Players Championship 1987 Film</title>
+    <desc lang="en">A special look back at the final round of the 1987 Players Championship at TPC Sawgrass, which ended in dramatic fashion in a sudden-death playoff.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/844aa575-03be-4053-b788-44580f66f5ba/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319093000 +0530" stop="20240319113000 +0530" channel="SkySpMix.uk">
+    <title lang="en">NRL: Roosters v Broncos</title>
+    <desc lang="en">The NRL's season opener emanates from the Allegiant Stadium - Super Bowl LVIII's venue - as the Sydney Roosters clash with the Brisbane Broncos. (02.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/70a8a022-e6e8-3a60-8bee-767fc7a82e51/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319113000 +0530" stop="20240319153000 +0530" channel="SkySpMix.uk">
+    <title lang="en">PL Darts: Nottingham</title>
+    <desc lang="en">The BetMGM Premier League continues during 2024 with night seven in Nottingham. It was brilliance in Brighton for Luke Humphries who secured his first nightly win of the season. (14.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e423e310-a05b-3a3b-8177-ca20ce8ff447/16-9"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319153000 +0530" stop="20240319160000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Golf Academy: Poulter: Short Game</title>
+    <desc lang="en">The Golf Academy offers guidance and all the key tips and tricks on how to make your golfing game better. Here, Ian Poulter discusses improvements to the short game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2365c9dc-3ebe-4be2-9674-872bc8fb507f/16-9"/>
+    <episode-num system="xmltv_ns">2019.31.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319160000 +0530" stop="20240319193000 +0530" channel="SkySpMix.uk">
+    <title lang="en">The Hundred 2022: Final</title>
+    <desc lang="en">In the final of the 2022 women's Hundred at the home of cricket - Lord's, Southern Brave face the defending champions Oval Invincibles in a repeat of last year's final. (03.09)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bda0f6dd-81bf-4caf-82cb-e8a7a6320907/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319193000 +0530" stop="20240319230000 +0530" channel="SkySpMix.uk">
+    <title lang="en">PL Darts: Nottingham</title>
+    <desc lang="en">The BetMGM Premier League continues during 2024 with night seven in Nottingham. It was brilliance in Brighton for Luke Humphries who secured his first nightly win of the season. (14.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e423e310-a05b-3a3b-8177-ca20ce8ff447/16-9"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319230000 +0530" stop="20240319233000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Wade v Thornton: Wld Grand Prix 14</title>
+    <desc lang="en">Revisit an incredible match at the 2014 World Grand Prix of Darts, as James Wade and Robert Thornton both hit nine-darters during their round two meeting. Contains flashing images.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+    <icon src="https://images.metadata.sky.com/pd-image/144f0431-9bc1-3eab-babf-df23daad7134/16-9"/>
+    <episode-num system="xmltv_ns">2022.0.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319233000 +0530" stop="20240320015000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Australian F1 Grand Prix 2023</title>
+    <desc lang="en">At the Melbourne Grand Prix Circuit, the 2023 Australian Grand Prix gets underway. Last season, Charles Leclerc started in pole and finished the race in P1 for Ferrari. (02.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f5fedabc-fd73-424a-83d1-51c77e76d96e/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320015000 +0530" stop="20240320020000 +0530" channel="SkySpMix.uk">
+    <title lang="en">History of the F1 Safety Car</title>
+    <desc lang="en">The 2023 Canadian Grand Prix marks the 50th anniversary of the safety car, and Karun Chandhok takes a look back at the history of the vehicle that ensures the safe running of a Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9b5b9fbf-e534-3a3a-b549-883ec5778394/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320020000 +0530" stop="20240320024500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Classic Australian GPs: 1994</title>
+    <desc lang="en">A chance to relive title-deciding races of seasons gone by. Here is the 1994 Australian Grand Prix from the Adelaide Street Circuit.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/744d9c9a-181e-47c6-8e44-dd2b54ddc484/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320024500 +0530" stop="20240320033000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Classic Australian GPs: 1996</title>
+    <desc lang="en">A look back at the 1996 Australian Grand Prix at the Melbourne Grand Prix Circuit. Jacques Villeneuve started on pole, qualifying ahead of Damon Hill and Eddie Irvine.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2eb2b8ec-4092-41fe-a648-384babb6d5d9/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320033000 +0530" stop="20240320040000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Nick Dougherty's Tee Time Tips</title>
+    <desc lang="en">Nick Dougherty returns to share his expertise with an episode of Tee Time Tips, from the host venue of the 2023 BMW PGA Championship, Wentworth Club in Surrey.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c69f51ab-a207-3478-a4ae-1ab14290b3da/16-9"/>
+    <episode-num system="xmltv_ns">.103.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320040000 +0530" stop="20240320060000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Live NCAA Basketball</title>
+    <desc lang="en">An NCAA men's college basketball match-up. (19.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e74734f0-10ec-3cc8-abc4-a8b64651796e/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240320060000 +0530" stop="20240320063000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Wade v Thornton: Wld Grand Prix 14</title>
+    <desc lang="en">Revisit an incredible match at the 2014 World Grand Prix of Darts, as James Wade and Robert Thornton both hit nine-darters during their round two meeting. Contains flashing images.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+    <icon src="https://images.metadata.sky.com/pd-image/144f0431-9bc1-3eab-babf-df23daad7134/16-9"/>
+    <episode-num system="xmltv_ns">2022.0.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320063000 +0530" stop="20240320083000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Live NCAA BAsketball</title>
+    <desc lang="en">An NCAA men's college basketball match-up. (19.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/adc0bd61-ac43-3b7c-8193-91f8759e9a29/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240320083000 +0530" stop="20240320090000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Golf Academy: Poulter: Short Game</title>
+    <desc lang="en">The Golf Academy offers guidance and all the key tips and tricks on how to make your golfing game better. Here, Ian Poulter discusses improvements to the short game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2365c9dc-3ebe-4be2-9674-872bc8fb507f/16-9"/>
+    <episode-num system="xmltv_ns">2019.31.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320090000 +0530" stop="20240320100000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of The Openzone</title>
+    <desc lang="en">A look at the best moments from The Open Zone at Royal Troon in 2016, with masterclasses and demonstrations from some of golf's finest players.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0fe22d66-2374-4b2d-85ac-d40e629804a8/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320100000 +0530" stop="20240320103000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Nick Dougherty's Tee Time Tips</title>
+    <desc lang="en">Sky Sports Golf pundit and former European Tour star Nick Dougherty provides a special set of Tee Time Tips from The 149th Open Championship at Royal St George's Golf Club, England.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/754450f3-a17a-4fbc-bac4-e9c13f448632/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320103000 +0530" stop="20240320113000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of The Openzone</title>
+    <desc lang="en">A look at the best moments from The Open Zone at Royal Birkdale in 2017, with masterclasses and demonstrations from some of golf's finest players.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c09da9ad-2dbb-4a39-b98d-839d985881fa/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320113000 +0530" stop="20240320123000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Valspar Championship 2015</title>
+    <desc lang="en">Highlights of the PGA Valspar Championship from the Innisbrook Resort in Palm Harbor, Florida. Fijian Vijay Singh holds the tournament's record score of 18 under par.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b2abd1a6-55a4-4482-a328-2564b9bc8285/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320123000 +0530" stop="20240320133000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Valspar Championship 2017</title>
+    <desc lang="en">The 2017 Valspar Championship from Innisbrook Resort in Palm Harbor, Florida. South Africa's Charl Schwartzel comes into the event as the tournament's defending champion.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0cdf468d-9d3b-4212-b377-fcc668e6de9d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320133000 +0530" stop="20240320143000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Valspar Championship 2018</title>
+    <desc lang="en">The Valspar Championship from Innisbrook Resort in Palm Harbor, Florida. A PGA Tour event, players competing here this year include Justin Rose and Tiger Woods.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/95a0215d-c873-499f-8867-403ffd02c24f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320143000 +0530" stop="20240320153000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night Int: Stevenson v De Los Santos</title>
+    <desc lang="en">The vacant WBC lightweight title is on the line as rising star Shakur Stevenson meets Edwin De Los Santos of the Dominican Republic in Las Vegas, Nevada. (16.11)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/12ca6d88-da61-3b02-ba82-58c630d64a1a/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320153000 +0530" stop="20240320193000 +0530" channel="SkySpMix.uk">
+    <title lang="en">PL Darts: Nottingham</title>
+    <desc lang="en">The BetMGM Premier League continues during 2024 with night seven in Nottingham. It was brilliance in Brighton for Luke Humphries who secured his first nightly win of the season. (14.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e423e310-a05b-3a3b-8177-ca20ce8ff447/16-9"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320193000 +0530" stop="20240320194500 +0530" channel="SkySpMix.uk">
+    <title lang="en">S/Lge Highlights</title>
+    <desc lang="en">Hull KR host Warrington Wolves in the Betfred Super League. Previously, Hull were denied three from three in defeat at Salford, while Sam Burgess' side secured back to back wins. (07.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/02b44ea7-b37a-38cd-be7d-1dc1a4812c43/16-9"/>
+    <episode-num system="xmltv_ns">2023.46.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320194500 +0530" stop="20240320200000 +0530" channel="SkySpMix.uk">
+    <title lang="en">S/Lge: Salford v Wigan Hlts</title>
+    <desc lang="en">In the Betfred Super League, Salford Red Devils face the champions Wigan Warriors. Salford had to come from behind in round four to secure a third successive win. (14.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/672516c0-c388-38b2-b224-587b3e9195f3/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320200000 +0530" stop="20240320210000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night: Natasha Jonas v Mayer</title>
+    <desc lang="en">Putting her IBF world welterweight championship on the line, Natasha Jonas steps inside the ring with former unified world champion Mikaela Mayer at the M&amp;S Bank Arena in Liverpool. (20.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eb23b468-00af-3e02-b91d-5ff76db63d77/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320210000 +0530" stop="20240320211500 +0530" channel="SkySpMix.uk">
+    <title lang="en">The Hundred 2023: Final</title>
+    <desc lang="en">Bitesize highlights, as the 2023 Women's Hundred season came to an end with the final, as Southern Brave fought Northern Superchargers. (27.08)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/65866a51-f060-3d6e-81a7-e0c9dfd13259/16-9"/>
+    <episode-num system="xmltv_ns">.33.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320211500 +0530" stop="20240320233000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Bahrain F1 Grand Prix</title>
+    <desc lang="en">24 races around the world starting here - the Bahrain Grand Prix. Max Verstappen had the edge over the rest in qualifying, picking up where he left off to grab the opening pole. (02.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/25a3b4e6-ae76-3d54-8b78-3c38ee1cedb9/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320233000 +0530" stop="20240321003000 +0530" channel="SkySpMix.uk">
+    <title lang="en">World Club Challenge Highlights</title>
+    <desc lang="en">In the Betfred World Club Challenge, Wigan Warriors host NRL Premiers Penrith Panthers at the DW Stadium in one of club rugby league's biggest encounters. (24.02)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10bf90f8-5b44-32e2-957e-d8ada719e6f0/16-9"/>
+    <episode-num system="xmltv_ns">.13.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240321003000 +0530" stop="20240321013000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night: Berchelt v Nakathila</title>
+    <desc lang="en">Power puncher and former super featherweight world champion Miguel Berchelt begins his campaign at lightweight as he takes on Jeremiah Nakathila in Las Vegas.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0db74385-5fa1-4c05-b2be-9fc2f25fc34a/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240321013000 +0530" stop="20240321023000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night: Buatsi v Dan Azeez</title>
+    <desc lang="en">Joshua Buatsi and Dan Azeez's paths collide at the OVO Arena, Wembley, as the unbeaten light-heavyweight pair clash in this all-British WBA World Title Final Eliminator. (03.02)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/57165baa-38a7-3b6c-9675-ae03d21ef1f2/16-9"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240321023000 +0530" stop="20240321024500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights as Patrick Mahomes and the Kansas City Chiefs return to the AFC championship game as they face the Ravens in Baltimore. (28.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e6fd8f26-dc48-3a9d-86d6-8781a914f566/16-9"/>
+    <episode-num system="xmltv_ns">2023.61.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240321024500 +0530" stop="20240321030000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from the opening divisional round matchup during the NFL playoffs, as the Baltimore Ravens host the Houston Texans in the AFC. (20.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f087ecbc-2903-3ba9-ac86-78c364b1314c/16-9"/>
+    <episode-num system="xmltv_ns">2023.48.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240321030000 +0530" stop="20240321040000 +0530" channel="SkySpMix.uk">
+    <title lang="en">World Club Challenge Highlights</title>
+    <desc lang="en">In the Betfred World Club Challenge, Wigan Warriors host NRL Premiers Penrith Panthers at the DW Stadium in one of club rugby league's biggest encounters. (24.02)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10bf90f8-5b44-32e2-957e-d8ada719e6f0/16-9"/>
+    <episode-num system="xmltv_ns">.13.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240321040000 +0530" stop="20240321060000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Live NCAA Basketball</title>
+    <desc lang="en">An NCAA men's college basketball match-up. (20.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b11476de-fbf2-3a11-9dca-4b31720f0c27/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
   </programme>
 </tv>

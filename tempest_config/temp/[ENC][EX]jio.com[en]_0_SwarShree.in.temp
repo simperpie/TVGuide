@@ -4,117 +4,69 @@
     <display-name lang="en">Swar Shree</display-name>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Garv_Swaminarayan.png"/>
   </channel>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  <programme start="20240318000000 +0530" stop="20240318000500 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/240318887000_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318000500 +0530" stop="20240318013000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/240318887001_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318013000 +0530" stop="20240318015500 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/240318887002_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318015500 +0530" stop="20240318020000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/240318887003_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318020000 +0530" stop="20240318030000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/240318887004_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318030000 +0530" stop="20240318030500 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/240318887005_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318030500 +0530" stop="20240318035500 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/240318887006_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318035500 +0530" stop="20240318040000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/240318887007_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240318040000 +0530" stop="20240318043000 +0530" channel="SwarShree.in">
+    <title lang="en">Khatha Sarita</title>
+    <desc lang="en">A show focussing on religion or spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/240318887008_s.jpg"/>
+    <previously-shown/>
+  </programme>
   <programme start="20240318043000 +0530" stop="20240318050000 +0530" channel="SwarShree.in">
     <title lang="en">Khatha Sarita</title>
     <desc lang="en">A show focussing on religion or spirituality.</desc>
@@ -407,6 +359,720 @@
     <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
     <category lang="en">TV Show</category>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/240318887050_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319000000 +0530" stop="20240319000500 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887000_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319000500 +0530" stop="20240319013000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887001_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319013000 +0530" stop="20240319015500 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887002_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319015500 +0530" stop="20240319020000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887003_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319020000 +0530" stop="20240319030000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887004_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319030000 +0530" stop="20240319030500 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887005_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319030500 +0530" stop="20240319035500 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887006_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319035500 +0530" stop="20240319040000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887007_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319040000 +0530" stop="20240319043000 +0530" channel="SwarShree.in">
+    <title lang="en">Khatha Sarita</title>
+    <desc lang="en">A show focussing on religion or spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887008_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319043000 +0530" stop="20240319050000 +0530" channel="SwarShree.in">
+    <title lang="en">Khatha Sarita</title>
+    <desc lang="en">A show focussing on religion or spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887009_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319050000 +0530" stop="20240319053000 +0530" channel="SwarShree.in">
+    <title lang="en">Charitra Dhun</title>
+    <desc lang="en">Performed by various artists, a compilation of melodious hymns and devotional songs sung in praise of the Almighty is played.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887010_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319053000 +0530" stop="20240319060000 +0530" channel="SwarShree.in">
+    <title lang="en">Charitra Dhun</title>
+    <desc lang="en">Performed by various artists, a compilation of melodious hymns and devotional songs sung in praise of the Almighty is played.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887011_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319060000 +0530" stop="20240319063000 +0530" channel="SwarShree.in">
+    <title lang="en">Mangal Prabhatia</title>
+    <desc lang="en">A comprehensive compilation of melodious devotional songs performed by various artists in praise of the Almighty is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887012_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319063000 +0530" stop="20240319070000 +0530" channel="SwarShree.in">
+    <title lang="en">Mangal Aarti</title>
+    <desc lang="en">Devotional programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887013_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319070000 +0530" stop="20240319073000 +0530" channel="SwarShree.in">
+    <title lang="en">Annat Dhara</title>
+    <desc lang="en">The host addresses the followers of Hindu religion and narrates several stories of lord Swaminarayan in a detailed manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887014_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319073000 +0530" stop="20240319075700 +0530" channel="SwarShree.in">
+    <title lang="en">Annat Dhara</title>
+    <desc lang="en">The host addresses the followers of Hindu religion and narrates several stories of lord Swaminarayan in a detailed manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887015_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319075700 +0530" stop="20240319080000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887016_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319080000 +0530" stop="20240319082500 +0530" channel="SwarShree.in">
+    <title lang="en">Shringar Aarti</title>
+    <desc lang="en">Devotees of the Hindu faith from across the country bathe the idol of their lords and cover them with new garments in order to seek their blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887017_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319082500 +0530" stop="20240319083000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887018_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319083000 +0530" stop="20240319090000 +0530" channel="SwarShree.in">
+    <title lang="en">Mata Mansa Devi Aarti</title>
+    <desc lang="en">A priest performs an 'aarti' for Goddess Mansa at the Mansa Devi Temple in Haridwar, Uttarakhand.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887019_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319090000 +0530" stop="20240319093000 +0530" channel="SwarShree.in">
+    <title lang="en">Maa Kalyani</title>
+    <desc lang="en">A religious leader addresses the followers of Hindu religion and delivers a discourse on the stories of goddess Parvati in a detailed manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887020_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319093000 +0530" stop="20240319102700 +0530" channel="SwarShree.in">
+    <title lang="en">Aartiya</title>
+    <desc lang="en">A compilation of devotional songs and hymns played back to back which Hindu devotees sing while worshipping God during a ceremonial ritual.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887021_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319102700 +0530" stop="20240319103000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887022_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319103000 +0530" stop="20240319110000 +0530" channel="SwarShree.in">
+    <title lang="en">Amarnath Ji Ki Aarti</title>
+    <desc lang="en">Priests chant sacred hymns as they perform the ritual of worshipping the Shiva Lingam at the Amarnath Temple in India.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887023_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319110000 +0530" stop="20240319112700 +0530" channel="SwarShree.in">
+    <title lang="en">Rajbhog Aarti</title>
+    <desc lang="en">A ceremonial worship of the temple deities after they have been offered their midday meal.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887024_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319112700 +0530" stop="20240319113000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887025_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319113000 +0530" stop="20240319120000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887026_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319120000 +0530" stop="20240319125700 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887027_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319125700 +0530" stop="20240319130000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887028_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319130000 +0530" stop="20240319142700 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887029_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319142700 +0530" stop="20240319143000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887030_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319143000 +0530" stop="20240319162700 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887031_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319162700 +0530" stop="20240319173000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887032_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319173000 +0530" stop="20240319180000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887033_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319180000 +0530" stop="20240319182500 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887034_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319182500 +0530" stop="20240319183000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887035_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319183000 +0530" stop="20240319190000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887036_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319190000 +0530" stop="20240319192500 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887037_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319192500 +0530" stop="20240319192700 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887038_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319192700 +0530" stop="20240319193000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887039_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319193000 +0530" stop="20240319195700 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887040_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319195700 +0530" stop="20240319203000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887041_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319203000 +0530" stop="20240319205700 +0530" channel="SwarShree.in">
+    <title lang="en">Aarti Amarnath Ji</title>
+    <desc lang="en">Hindu religious leaders and devotees come together to perform various sacred rituals in order to seek blessings from Lord Shiva.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887042_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319205700 +0530" stop="20240319210000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887043_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319210000 +0530" stop="20240319213000 +0530" channel="SwarShree.in">
+    <title lang="en">Mata Mansa Devi Aarti</title>
+    <desc lang="en">A priest performs an 'aarti' for Goddess Mansa at the Mansa Devi Temple in Haridwar, Uttarakhand.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887044_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319213000 +0530" stop="20240319215500 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887045_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319215500 +0530" stop="20240319220000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887046_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319220000 +0530" stop="20240319223000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887047_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319223000 +0530" stop="20240319230000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887048_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319230000 +0530" stop="20240319233000 +0530" channel="SwarShree.in">
+    <title lang="en">Rajbhog Aarti</title>
+    <desc lang="en">A ceremonial worship of the temple deities after they have been offered their midday meal.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887049_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240319233000 +0530" stop="20240319235959 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/240319887050_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320000000 +0530" stop="20240320000500 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887000_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320000500 +0530" stop="20240320013000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887001_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320013000 +0530" stop="20240320015500 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887002_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320015500 +0530" stop="20240320020000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887003_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320020000 +0530" stop="20240320030000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887004_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320030000 +0530" stop="20240320030500 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887005_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320030500 +0530" stop="20240320035500 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887006_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320035500 +0530" stop="20240320040000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887007_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320040000 +0530" stop="20240320043000 +0530" channel="SwarShree.in">
+    <title lang="en">Khatha Sarita</title>
+    <desc lang="en">A show focussing on religion or spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887008_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320043000 +0530" stop="20240320050000 +0530" channel="SwarShree.in">
+    <title lang="en">Khatha Sarita</title>
+    <desc lang="en">A show focussing on religion or spirituality.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887009_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320050000 +0530" stop="20240320053000 +0530" channel="SwarShree.in">
+    <title lang="en">Charitra Dhun</title>
+    <desc lang="en">Performed by various artists, a compilation of melodious hymns and devotional songs sung in praise of the Almighty is played.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887010_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320053000 +0530" stop="20240320060000 +0530" channel="SwarShree.in">
+    <title lang="en">Charitra Dhun</title>
+    <desc lang="en">Performed by various artists, a compilation of melodious hymns and devotional songs sung in praise of the Almighty is played.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887011_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320060000 +0530" stop="20240320063000 +0530" channel="SwarShree.in">
+    <title lang="en">Mangal Prabhatia</title>
+    <desc lang="en">A comprehensive compilation of melodious devotional songs performed by various artists in praise of the Almighty is played back to back.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887012_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320063000 +0530" stop="20240320070000 +0530" channel="SwarShree.in">
+    <title lang="en">Mangal Aarti</title>
+    <desc lang="en">Devotional programme.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887013_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320070000 +0530" stop="20240320073000 +0530" channel="SwarShree.in">
+    <title lang="en">Annat Dhara</title>
+    <desc lang="en">The host addresses the followers of Hindu religion and narrates several stories of lord Swaminarayan in a detailed manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887014_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320073000 +0530" stop="20240320075700 +0530" channel="SwarShree.in">
+    <title lang="en">Annat Dhara</title>
+    <desc lang="en">The host addresses the followers of Hindu religion and narrates several stories of lord Swaminarayan in a detailed manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887015_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320075700 +0530" stop="20240320080000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887016_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320080000 +0530" stop="20240320082500 +0530" channel="SwarShree.in">
+    <title lang="en">Shringar Aarti</title>
+    <desc lang="en">Devotees of the Hindu faith from across the country bathe the idol of their lords and cover them with new garments in order to seek their blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887017_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320082500 +0530" stop="20240320083000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887018_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320083000 +0530" stop="20240320090000 +0530" channel="SwarShree.in">
+    <title lang="en">Mata Mansa Devi Aarti</title>
+    <desc lang="en">A priest performs an 'aarti' for Goddess Mansa at the Mansa Devi Temple in Haridwar, Uttarakhand.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887019_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320090000 +0530" stop="20240320093000 +0530" channel="SwarShree.in">
+    <title lang="en">Maa Kalyani</title>
+    <desc lang="en">A religious leader addresses the followers of Hindu religion and delivers a discourse on the stories of goddess Parvati in a detailed manner.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887020_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320093000 +0530" stop="20240320102700 +0530" channel="SwarShree.in">
+    <title lang="en">Aartiya</title>
+    <desc lang="en">A compilation of devotional songs and hymns played back to back which Hindu devotees sing while worshipping God during a ceremonial ritual.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887021_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320102700 +0530" stop="20240320103000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887022_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320103000 +0530" stop="20240320110000 +0530" channel="SwarShree.in">
+    <title lang="en">Amarnath Ji Ki Aarti</title>
+    <desc lang="en">Priests chant sacred hymns as they perform the ritual of worshipping the Shiva Lingam at the Amarnath Temple in India.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887023_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320110000 +0530" stop="20240320112700 +0530" channel="SwarShree.in">
+    <title lang="en">Rajbhog Aarti</title>
+    <desc lang="en">A ceremonial worship of the temple deities after they have been offered their midday meal.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887024_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320112700 +0530" stop="20240320113000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887025_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320113000 +0530" stop="20240320120000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887026_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320120000 +0530" stop="20240320125700 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887027_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320125700 +0530" stop="20240320130000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887028_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320130000 +0530" stop="20240320142700 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887029_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320142700 +0530" stop="20240320143000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887030_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320143000 +0530" stop="20240320162700 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887031_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320162700 +0530" stop="20240320173000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887032_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320173000 +0530" stop="20240320180000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887033_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320180000 +0530" stop="20240320182500 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887034_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320182500 +0530" stop="20240320183000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887035_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320183000 +0530" stop="20240320190000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887036_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320190000 +0530" stop="20240320192500 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887037_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320192500 +0530" stop="20240320192700 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887038_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320192700 +0530" stop="20240320193000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887039_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320193000 +0530" stop="20240320195700 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887040_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320195700 +0530" stop="20240320203000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887041_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320203000 +0530" stop="20240320205700 +0530" channel="SwarShree.in">
+    <title lang="en">Aarti Amarnath Ji</title>
+    <desc lang="en">Hindu religious leaders and devotees come together to perform various sacred rituals in order to seek blessings from Lord Shiva.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887042_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320205700 +0530" stop="20240320210000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887043_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320210000 +0530" stop="20240320213000 +0530" channel="SwarShree.in">
+    <title lang="en">Mata Mansa Devi Aarti</title>
+    <desc lang="en">A priest performs an 'aarti' for Goddess Mansa at the Mansa Devi Temple in Haridwar, Uttarakhand.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887044_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320213000 +0530" stop="20240320215500 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887045_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320215500 +0530" stop="20240320220000 +0530" channel="SwarShree.in">
+    <title lang="en">Promo</title>
+    <desc lang="en">A comprehensive compilation of some of the latest promotional events and snippets of various programmes is presented to entertain the viewers.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887046_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320220000 +0530" stop="20240320223000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887047_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320223000 +0530" stop="20240320230000 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887048_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320230000 +0530" stop="20240320233000 +0530" channel="SwarShree.in">
+    <title lang="en">Rajbhog Aarti</title>
+    <desc lang="en">A ceremonial worship of the temple deities after they have been offered their midday meal.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887049_s.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20240320233000 +0530" stop="20240320235959 +0530" channel="SwarShree.in">
+    <title lang="en">Bhajan</title>
+    <desc lang="en">A comprehensive collection of devotional songs that extend praise and prayers to the Almighty in a bid to receive blessings.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/240320887050_s.jpg"/>
     <previously-shown/>
   </programme>
 </tv>

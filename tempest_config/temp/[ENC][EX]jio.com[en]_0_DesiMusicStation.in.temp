@@ -4,59 +4,51 @@
     <display-name lang="en">Desi Music Station</display-name>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Music_Station.png"/>
   </channel>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  <programme start="20240318000000 +0530" stop="20240318010000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182252000_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318010000 +0530" stop="20240318020000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182252001_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318020000 +0530" stop="20240318030000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182252002_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318030000 +0530" stop="20240318040000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182252003_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240318040000 +0530" stop="20240318050000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182252004_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20240318050000 +0530" stop="20240318060000 +0530" channel="DesiMusicStation.in">
     <title lang="en">Desi Music Station</title>
     <desc lang="en">Desi Music Station</desc>
@@ -224,6 +216,438 @@
     <desc lang="en">Desi Music Station</desc>
     <category lang="en">Music</category>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182252023_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319000000 +0530" stop="20240319010000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252000_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319010000 +0530" stop="20240319020000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252001_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319020000 +0530" stop="20240319030000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252002_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319030000 +0530" stop="20240319040000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252003_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319040000 +0530" stop="20240319050000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252004_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319050000 +0530" stop="20240319060000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252005_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319060000 +0530" stop="20240319070000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252006_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319070000 +0530" stop="20240319080000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252007_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319080000 +0530" stop="20240319090000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252008_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319090000 +0530" stop="20240319100000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252009_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319100000 +0530" stop="20240319110000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252010_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319110000 +0530" stop="20240319120000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252011_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319120000 +0530" stop="20240319130000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252012_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319130000 +0530" stop="20240319140000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252013_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319140000 +0530" stop="20240319150000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252014_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319150000 +0530" stop="20240319160000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252015_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319160000 +0530" stop="20240319170000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252016_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319170000 +0530" stop="20240319180000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252017_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319180000 +0530" stop="20240319190000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252018_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319190000 +0530" stop="20240319200000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252019_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319200000 +0530" stop="20240319210000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252020_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319210000 +0530" stop="20240319220000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252021_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319220000 +0530" stop="20240319230000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252022_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240319230000 +0530" stop="20240320000000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-19/2403192252023_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320000000 +0530" stop="20240320010000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252000_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320010000 +0530" stop="20240320020000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252001_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320020000 +0530" stop="20240320030000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252002_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320030000 +0530" stop="20240320040000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252003_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320040000 +0530" stop="20240320050000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252004_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320050000 +0530" stop="20240320060000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252005_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320060000 +0530" stop="20240320070000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252006_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320070000 +0530" stop="20240320080000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252007_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320080000 +0530" stop="20240320090000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252008_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320090000 +0530" stop="20240320100000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252009_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320100000 +0530" stop="20240320110000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252010_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320110000 +0530" stop="20240320120000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252011_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320120000 +0530" stop="20240320130000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252012_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320130000 +0530" stop="20240320140000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252013_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320140000 +0530" stop="20240320150000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252014_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320150000 +0530" stop="20240320160000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252015_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320160000 +0530" stop="20240320170000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252016_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320170000 +0530" stop="20240320180000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252017_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320180000 +0530" stop="20240320190000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252018_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320190000 +0530" stop="20240320200000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252019_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320200000 +0530" stop="20240320210000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252020_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320210000 +0530" stop="20240320220000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252021_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320220000 +0530" stop="20240320230000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252022_s.jpg"/>
+    <rating system="CBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240320230000 +0530" stop="20240321000000 +0530" channel="DesiMusicStation.in">
+    <title lang="en">Desi Music Station</title>
+    <desc lang="en">Desi Music Station</desc>
+    <category lang="en">Music</category>
+    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-20/2403202252023_s.jpg"/>
     <rating system="CBFC">
       <value>U</value>
     </rating>

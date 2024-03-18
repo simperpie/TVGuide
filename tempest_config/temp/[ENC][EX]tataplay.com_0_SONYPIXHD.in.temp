@@ -3,61 +3,478 @@
   <channel id="SONYPIXHD.in">
     <display-name lang="en">SONY PIX HD</display-name>
   </channel>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <programme start="20240318060000 +0530" stop="20240318090000 +0530" channel="SONYPIXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240318010500 +0530" stop="20240318023700 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Return to the Blue Lagoon</title>
+    <desc lang="en">A widow, her daughter and a boy are cast away from a ship. They drift to a tropical island where the children grow up, learn life lessons and eventually fall in love.</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Brian Krause</actor>
+      <actor>Lisa Pelikan</actor>
+      <actor>Nana Coburn</actor>
+      <actor>Brian Blain</actor>
+      <actor>Peter Hehir</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF5C5B54E08C2E7E0ECA71DC313DB26AA7A502D60.jpg"/>
   </programme>
-  <programme start="20240318090000 +0530" stop="20240318120000 +0530" channel="SONYPIXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240318023700 +0530" stop="20240318042800 +0530" channel="SONYPIXHD.in">
+    <title lang="en">S.W.A.T.</title>
+    <desc lang="en">When a drug lord offers a huge reward to anyone who can get him out of prison, the LAPD's Special Weapons and Tactics team is tasked with preventing the escape.</desc>
+    <credits>
+      <actor>Samuel L Jackson</actor>
+      <actor>Colin Farrell</actor>
+      <actor>Michelle Rodriguez</actor>
+      <actor>LL Cool J</actor>
+      <actor>Olivier Martinez</actor>
+      <actor>Jeremy Renner</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBC5297E3FB7EE53CD3E53F55D34FB59D050F882X.jpg"/>
   </programme>
-  <programme start="20240318120000 +0530" stop="20240318150000 +0530" channel="SONYPIXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240318042800 +0530" stop="20240318064100 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Sachin: A Billion Dreams</title>
+    <desc lang="en">India 2017; Dir. James Erskine; Cast: Sachin Tendulkar, Mayur More. Sachin Tendulkar recounts his journey of becoming a celebrated name in cricket.</desc>
+    <credits>
+      <actor>Sachin Tendulkar</actor>
+      <actor>Mayur More</actor>
+      <actor>Mayuresh Pem</actor>
+      <actor>Mahendra Singh Dhoni</actor>
+      <actor>Virender Sehwag</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E99F74D9D36A57FD505F994FAFE5AE28B89B0FC0F.jpg"/>
   </programme>
-  <programme start="20240318150000 +0530" stop="20240318180000 +0530" channel="SONYPIXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240318064100 +0530" stop="20240318084700 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Erin Brockovich</title>
+    <desc lang="en">In Hinkley, California, a legal assistant discovers a major company's dark secret that affects the health of the residents. With the help of her employer, she sets off to seek justice.</desc>
+    <credits>
+      <actor>Julia Roberts</actor>
+      <actor>Albert Finney</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Tracey Walter</actor>
+      <actor>Peter Coyote</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/09D6297ACA6800F072146539945A22FB79243F046.jpg"/>
   </programme>
-  <programme start="20240318180000 +0530" stop="20240318210000 +0530" channel="SONYPIXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240318084700 +0530" stop="20240318104600 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Vertical Limit</title>
+    <desc lang="en">When his sister Annie gets trapped in a crevice atop K2 along with her crew, mountain climber Peter Garrett must assemble a team to rescue them before they perish.</desc>
+    <credits>
+      <actor>Chris O Donnell</actor>
+      <actor>Bill Paxton</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Scott Glenn</actor>
+      <actor>Izabella Scorupco</actor>
+      <actor>Stuart Wilson</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/42EE40328AB5188AD032DE9EDF20BF146CE70931V.jpg"/>
   </programme>
-  <programme start="20240318210000 +0530" stop="20240319030000 +0530" channel="SONYPIXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240318104600 +0530" stop="20240318120900 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Annabelle</title>
+    <desc lang="en">John and Mia Form are attacked by members of a satanic cult that uses their old doll as a conduit to make their life miserable. This unleashes a string of paranormal events in the Forms' residence.</desc>
+    <credits>
+      <actor>Annabelle Wallis</actor>
+      <actor>Ward Horton</actor>
+      <actor>Alfre Woodard</actor>
+      <actor>Tony Amendola</actor>
+      <actor>Kerry O Malley</actor>
+      <actor>Brian Howe</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A16664B62841B4EAE67A799D5FC4025DCE45F0C3G.jpg"/>
+  </programme>
+  <programme start="20240318120900 +0530" stop="20240318142400 +0530" channel="SONYPIXHD.in">
+    <title lang="en">A Few Good Men</title>
+    <desc lang="en">A lawyer from the US military safeguards two US marines who are charged for killing a fellow marine and a colonel turns into the prime suspect.</desc>
+    <credits>
+      <actor>Tom Cruise</actor>
+      <actor>Jack Nicholson</actor>
+      <actor>Demi Moore</actor>
+      <actor>Kevin Bacon</actor>
+      <actor>Kiefer Sutherland</actor>
+      <actor>Kevin Pollak</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3BEE9F100970665C54AF1B2F15DA88E13A75FCB05.jpg"/>
+  </programme>
+  <programme start="20240318142400 +0530" stop="20240318165400 +0530" channel="SONYPIXHD.in">
+    <title lang="en">2012</title>
+    <desc lang="en">Jackson Curtis, a discontented writer, battles against all odds to keep his family secure when a series of apocalyptic calamities threaten to decimate humankind.</desc>
+    <credits>
+      <actor>John Cusack</actor>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>Amanda Peet</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Danny Glover</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7AAAEA80BB902CAFAEBC0386CEE0A3F462E2FBD2.jpg"/>
+  </programme>
+  <programme start="20240318165400 +0530" stop="20240318183200 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Escape Room</title>
+    <desc lang="en">Six people from different walks of life participate in an escape room competition to win ten thousand dollars. Things change when they find themselves in horrifying circumstances.</desc>
+    <credits>
+      <actor>Taylor Russell</actor>
+      <actor>Logan Miller</actor>
+      <actor>Deborah Ann Woll</actor>
+      <actor>Tyler Labine</actor>
+      <actor>Jay Ellis</actor>
+      <actor>Nik Dodani</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/306B8930F20C7450D9CD059CF685EFD2617FC955V.jpg"/>
+  </programme>
+  <programme start="20240318183200 +0530" stop="20240318210000 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Aquaman</title>
+    <desc lang="en">Half-human, half-Atlantean Arthur is born with the ability to communicate with marine creatures. He goes on a quest to retrieve the legendary Trident of Atlan and protect the water world.</desc>
+    <credits>
+      <actor>Jason Momoa</actor>
+      <actor>Amber Heard</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Dolph Lundgren</actor>
+      <actor>Yahya Abdul Mateen II</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1954946064B55B37BDD5DDC7584C880C46C3AC00J.jpg"/>
+  </programme>
+  <programme start="20240318210000 +0530" stop="20240318222700 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Zombieland</title>
+    <desc lang="en">Columbus, a college student, joins forces with three eccentric strangers to survive a zombie apocalypse and travel through the south-western USA to a safe haven.</desc>
+    <credits>
+      <actor>Woody Harrelson</actor>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Emma Stone</actor>
+      <actor>Abigail Breslin</actor>
+      <actor>Bill Murray</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9974389F5FE43905AE80D2DD0BC87BCE45EA14C8N.jpg"/>
+  </programme>
+  <programme start="20240318222700 +0530" stop="20240319005900 +0530" channel="SONYPIXHD.in">
+    <title lang="en">It Chapter Two</title>
+    <desc lang="en">After 27 years, the Losers Club receive a call from their friend Mike Hanlon that Pennywise is back. They decide to honour their promise and return to their old town to end the evil clown for good.</desc>
+    <credits>
+      <actor>Jessica Chastain</actor>
+      <actor>James McAvoy</actor>
+      <actor>Bill Hader</actor>
+      <actor>Isaiah Mustafa</actor>
+      <actor>Jay Ryan</actor>
+      <actor>James Ransone</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A3CBF5E6F2564DB5574F2491A18B3016EAA43ADA.jpg"/>
+  </programme>
+  <programme start="20240319005900 +0530" stop="20240319030800 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Bad Boys II</title>
+    <desc lang="en">Mike and Marcus, the Miami Police Department detectives, investigate the flow of drugs into Miami. Their search leads them to a dangerous drug lord who is planning to control the city's drug trade.</desc>
+    <credits>
+      <actor>Martin Lawrence</actor>
+      <actor>Will Smith</actor>
+      <actor>Jordi Molla</actor>
+      <actor>Gabrielle Union</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Theresa Randle</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D493F0320B661BB5727E81DAF8E23484DBED2280S.jpg"/>
+  </programme>
+  <programme start="20240319030800 +0530" stop="20240319060000 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Horrible Bosses</title>
+    <desc lang="en">Nick, Dale and Kurt all work under employers who make their lives miserable. During a drunken night, they decide to murder their cruel bosses out of frustration.</desc>
+    <credits>
+      <actor>Jason Bateman</actor>
+      <actor>Charlie Day</actor>
+      <actor>Jason Sudeikis</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Colin Farrell</actor>
+      <actor>Kevin Spacey</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81226D1C4D3C49CDF9B1B118CFA2B25D7E96BB5E9.jpg"/>
+  </programme>
+  <programme start="20240319060000 +0530" stop="20240319085000 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Ace Ventura: Pet Detective</title>
+    <desc lang="en">Ace Ventura, a private detective, specialises in finding lost animals. One day, he is tasked with finding the missing mascot of an American football team.</desc>
+    <credits>
+      <actor>Jim Carrey</actor>
+      <actor>Sean Young</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Tone Loc</actor>
+      <actor>Dan Marino</actor>
+      <actor>Noble Willingham</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C856F61F63C5310E8E23C850BD8AA54FEBDCFB98L.jpg"/>
+  </programme>
+  <programme start="20240319085000 +0530" stop="20240319110700 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Captain Phillips</title>
+    <desc lang="en">Somali pirates attack the Maersk Alabama, a container ship, while it is on its course to Kenya. Richard Phillips, the captain of the ship, uses his wits to negotiate with them to save his crew.</desc>
+    <credits>
+      <actor>Tom Hanks</actor>
+      <actor>Catherine Keener</actor>
+      <actor>Michael Chernus</actor>
+      <actor>Barkhad Abdi</actor>
+      <actor>Barkhad Abdirahman</actor>
+      <actor>Faysal Ahmed</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4CB63B1DE0598D104175A2263D32CBBF1B4FA8C2X.jpg"/>
+  </programme>
+  <programme start="20240319110700 +0530" stop="20240319131900 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Bullet Train</title>
+    <desc lang="en">Ladybug, a professional assassin, is assigned to retrieve a briefcase from a bullet train. Soon, he finds himself battling many other killers who board the same train but with a different objective.</desc>
+    <credits>
+      <actor>Brad Pitt</actor>
+      <actor>Joey King</actor>
+      <actor>Aaron Taylor Johnson</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Andrew Koji</actor>
+      <actor>Hiroyuki Sanada</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D45E2E937269039E6FC6EA14AC2631F36E1A58FFX.jpg"/>
+  </programme>
+  <programme start="20240319131900 +0530" stop="20240319153500 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Spider-Man: Far from Home</title>
+    <desc lang="en">Peter Parker, the beloved superhero Spider-Man, faces four destructive elemental monsters while on holiday in Europe. Soon, he receives help from Mysterio, a fellow hero with mysterious origins.</desc>
+    <credits>
+      <actor>Tom Holland</actor>
+      <actor>Samuel L Jackson</actor>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Zendaya</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Jon Favreau</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B16A2A5C209DD15B88E5A8C076C41A0025B3E3AM.jpg"/>
+  </programme>
+  <programme start="20240319153500 +0530" stop="20240319170100 +0530" channel="SONYPIXHD.in">
+    <title lang="en">The Shallows</title>
+    <desc lang="en">A woman journeys to a secluded beach following her mother's death and while surfing, she gets attacked by a great white shark, which leaves her stranded on a rock 200 yards away from the shore.</desc>
+    <credits>
+      <actor>Blake Lively</actor>
+      <actor>Oscar Jaenada</actor>
+      <actor>Brett Cullen</actor>
+      <actor>Sedona Legge</actor>
+      <actor>Pablo Calva</actor>
+      <actor>Janelle Bailey</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C878CFD020190BA932C742BB3A389529BE7972C98.jpg"/>
+  </programme>
+  <programme start="20240319170100 +0530" stop="20240319190900 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Hellboy</title>
+    <desc lang="en">A demonic infant raised by humans becomes Earth's defender against paranormal forces. Together with his team, he must defeat a treacherous villain.</desc>
+    <credits>
+      <actor>Ron Perlman</actor>
+      <actor>John Hurt</actor>
+      <actor>Selma Blair</actor>
+      <actor>Rupert Evans</actor>
+      <actor>Karel Roden</actor>
+      <actor>Doug Jones</actor>
+    </credits>
+    <category lang="en">Fantasy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF4BAAE04D41C3F035DBDB7F122D95D09429AA758.jpg"/>
+  </programme>
+  <programme start="20240319190900 +0530" stop="20240319210000 +0530" channel="SONYPIXHD.in">
+    <title lang="en">The Conjuring</title>
+    <desc lang="en">The Perron family moves into a farmhouse where they experience paranormal phenomena. They consult demonologists, Ed and Lorraine Warren, to help them get rid of the evil entity haunting them.</desc>
+    <credits>
+      <actor>Vera Farmiga</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Lili Taylor</actor>
+      <actor>Ron Livingston</actor>
+      <actor>Shanley Caswell</actor>
+      <actor>Hayley McFarland</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/833B9B33CCE3F5EC9F1EA0E961F5BD5020AD69865.jpg"/>
+  </programme>
+  <programme start="20240319210000 +0530" stop="20240319224300 +0530" channel="SONYPIXHD.in">
+    <title lang="en">The Mask</title>
+    <desc lang="en">Stanley, a meek bank employee, turns into an eccentric and maniacal green-skinned superhero who can bend reality, after wearing a wooden mask that was created by Loki, the Norse god of mischief.</desc>
+    <credits>
+      <actor>Jim Carrey</actor>
+      <actor>Peter Greene</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Orestes Matacena</actor>
+      <actor>Peter Riegert</actor>
+      <actor>Jim Doughan</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/75E6FA2A0847FEEFDA6FC43BF560A945DE0BB65F8.jpg"/>
+  </programme>
+  <programme start="20240319224300 +0530" stop="20240320004400 +0530" channel="SONYPIXHD.in">
+    <title lang="en">The Man from Toronto</title>
+    <desc lang="en">A struggling entrepreneur plans a surprise for his wife's birthday but due to a twist in fate, he gets caught in the middle of an operation to apprehend an assassin.</desc>
+    <credits>
+      <actor>Kevin Hart</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Jasmine Mathews</actor>
+      <actor>Lela Loren</actor>
+      <actor>Pierson Fode</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/689DB6A5E4F4E19C15C1096630DC888555CF1D22X.jpg"/>
+  </programme>
+  <programme start="20240320004400 +0530" stop="20240320033300 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Django Unchained</title>
+    <desc lang="en">When Django, a slave, is freed, he joins forces with a bounty hunter to rescue his wife, who has been enslaved by Calvin, a hard-hearted plantation owner.</desc>
+    <credits>
+      <actor>Jamie Foxx</actor>
+      <actor>Christoph Waltz</actor>
+      <actor>Leonardo DiCaprio</actor>
+      <actor>Kerry Washington</actor>
+      <actor>Samuel L Jackson</actor>
+      <actor>Walton Goggins</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/684482AA958D138E3C441675D4FB1A9112406F802.jpg"/>
+  </programme>
+  <programme start="20240320033300 +0530" stop="20240320060000 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Invictus</title>
+    <desc lang="en">Following the aftermath of the apartheid, President Nelson Mandela decides to unite his people by supporting a rugby team in their bid to win the 1995 Rugby World Cup.</desc>
+    <credits>
+      <actor>Morgan Freeman</actor>
+      <actor>Matt Damon</actor>
+      <actor>Tony Kgoroge</actor>
+      <actor>Adjoa Andoh</actor>
+      <actor>Julian Lewis Jones</actor>
+      <actor>Leleti Khumalo</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CAD42275F020FC087BC2A7C234CA011210DF4CC3S.jpg"/>
+  </programme>
+  <programme start="20240320060000 +0530" stop="20240320091200 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Zombieland: Double Tap</title>
+    <desc lang="en">Tallahassee, Columbus, Wichita and Little Rock embark on a mission to slay evolved zombies to protect humanity while struggling with their emotional battles.</desc>
+    <credits>
+      <actor>Woody Harrelson</actor>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Emma Stone</actor>
+      <actor>Abigail Breslin</actor>
+      <actor>Rosario Dawson</actor>
+      <actor>Zoey Deutch</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B13574E354C603E74E72D7FF1857402D54F24CB4Z.jpg"/>
+  </programme>
+  <programme start="20240320091200 +0530" stop="20240320111100 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Edge Of Tomorrow</title>
+    <desc lang="en">With the help of warrior Rita Vrataski, Major William Cage has to save Earth and the human race from an alien species, after being caught in a time loop.</desc>
+    <credits>
+      <actor>Tom Cruise</actor>
+      <actor>Emily Blunt</actor>
+      <actor>Bill Paxton</actor>
+      <actor>Brendan Gleeson</actor>
+      <actor>Noah Taylor</actor>
+      <actor>Jonas Armstrong</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/208A5BA74C1988F1EABB7EB6BA301DE0CEBA82A7X.jpg"/>
+  </programme>
+  <programme start="20240320111100 +0530" stop="20240320132100 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Jumanji: The Next Level</title>
+    <desc lang="en">After Spencer goes missing, his team of confidantes comes back to Jumanji to go to the undiscovered regions and support him in escaping the world's most lethal game.</desc>
+    <credits>
+      <actor>Dwayne Johnson</actor>
+      <actor>Jack Black</actor>
+      <actor>Kevin Hart</actor>
+      <actor>Karen Gillan</actor>
+      <actor>Nick Jonas</actor>
+      <actor>Awkwafina</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB846A3E1BA93318556A9C7096251E75A7E6542EU.jpg"/>
+  </programme>
+  <programme start="20240320132100 +0530" stop="20240320150000 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Mortal Kombat</title>
+    <desc lang="en">A down-and-out MMA fighter gets selected to join a group of champions in a critical conflict to contain the Earth being controlled by Outworld.</desc>
+    <credits>
+      <actor>Lewis Tan</actor>
+      <actor>Jessica McNamee</actor>
+      <actor>Josh Lawson</actor>
+      <actor>Mehcad Brooks</actor>
+      <actor>Ludi Lin</actor>
+      <actor>Max Huang</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/66B9A691AD079049EFEF5C7CA6673BB12034274FZ.jpg"/>
+  </programme>
+  <programme start="20240320150000 +0530" stop="20240320172400 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Spider-Man 3</title>
+    <desc lang="en">Spider-Man finds out a mystifying substance that blends with his suit to grant him superpower and as he inspects his potentials, he witnesses new challenges to the city and to himself.</desc>
+    <credits>
+      <actor>Tobey Maguire</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>James Franco</actor>
+      <actor>Thomas Haden Church</actor>
+      <actor>Topher Grace</actor>
+      <actor>Bryce Dallas Howard</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E8E9AACA314FB0B3E4BE00BE3A87F93A8EF4793FJ.jpg"/>
+  </programme>
+  <programme start="20240320172400 +0530" stop="20240320185400 +0530" channel="SONYPIXHD.in">
+    <title lang="en">CJ7</title>
+    <desc lang="en">Ti, a poor construction worker, struggles to provide basic education to his son Dicky. He finds an orb in the junkyard and mistakes it for a toy. It turns out to be an alien with regenerative powers.</desc>
+    <credits>
+      <actor>Stephen Chow</actor>
+      <actor>Jiao Xu</actor>
+      <actor>Kitty Zhang Yuqi</actor>
+      <actor>Lam Tze Chung</actor>
+      <actor>Lee Sheung Ching</actor>
+      <actor>Lei Huang</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D6DD6B4E2EC0374566626055599DE08C4C3BD7407.jpg"/>
+  </programme>
+  <programme start="20240320185400 +0530" stop="20240320210000 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Justice League</title>
+    <desc lang="en">Steppenwolf and his Parademons return after eons to capture Earth. However, Batman seeks the help of Wonder Woman to recruit and assemble Flash, Cyborg and Aquaman to fight the powerful new enemy.</desc>
+    <credits>
+      <actor>Ben Affleck</actor>
+      <actor>Henry Cavill</actor>
+      <actor>Amy Adams</actor>
+      <actor>Gal Gadot</actor>
+      <actor>Ezra Miller</actor>
+      <actor>Jason Momoa</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F0E28F68F8AE9AA84784A0397F5771466BE6DE189.jpg"/>
+  </programme>
+  <programme start="20240320210000 +0530" stop="20240320232900 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Ready Player One</title>
+    <desc lang="en">James Halliday designs a virtual reality and hides the keys to his fortune in it for a worthy player to find after his death. Wade, a teenager, sets out on a quest to find the keys and the fortune.</desc>
+    <credits>
+      <actor>Tye Sheridan</actor>
+      <actor>Olivia Cooke</actor>
+      <actor>Ben Mendelsohn</actor>
+      <actor>Lena Waithe</actor>
+      <actor>TJ Miller</actor>
+      <actor>Simon Pegg</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3527008DA94BB08354845113471E1106A5C21787O.jpg"/>
+  </programme>
+  <programme start="20240320232900 +0530" stop="20240321011900 +0530" channel="SONYPIXHD.in">
+    <title lang="en">Terminator 3: Rise Of The Machines</title>
+    <desc lang="en">A powerful cyborg from a post-apocalyptic future appears in search of a drifter. Soon, he must protect himself and his companion from a deadly robotic threat.</desc>
+    <credits>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Nick Stahl</actor>
+      <actor>Kristanna Loken</actor>
+      <actor>Claire Danes</actor>
+      <actor>David Andrews</actor>
+      <actor>Mark Famiglietti</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B5846D1B0EB2D26A88F51153E45557296D97911FB.jpg"/>
   </programme>
 </tv>

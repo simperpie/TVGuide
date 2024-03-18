@@ -3,53 +3,221 @@
   <channel id="SONYMAX2.in">
     <display-name lang="en">SONY MAX 2</display-name>
   </channel>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <programme start="20240318060000 +0530" stop="20240318090000 +0530" channel="SONYMAX2.in">
+  <programme start="20240318000200 +0530" stop="20240318021100 +0530" channel="SONYMAX2.in">
+    <title lang="en">Sitamgar</title>
+    <desc lang="en">Shankar carries the mental and physical scars of a cruel punishment he got as a young servant. Now, he comes upon a chance to avenge himself by holding to ransom a man who's related to his oppressors.</desc>
+    <credits>
+      <actor>Dharmendra</actor>
+      <actor>Rishi Kapoor</actor>
+      <actor>Parveen Babi</actor>
+      <actor>Poonam Dhillon</actor>
+      <actor>Prem Chopra</actor>
+      <actor>Shreeram Lagoo</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/813EBD616E91F591769AB6FD9E0401D1B4CBBFA47.jpg"/>
+  </programme>
+  <programme start="20240318021100 +0530" stop="20240318034800 +0530" channel="SONYMAX2.in">
+    <title lang="en">Vadh</title>
+    <desc lang="en">Dr Arjun Singh is a famed psychiatrist who lives with his pregnant wife. When several people die mysteriously, Inspector Vijay, Arjun's brother, begins to suspect Aryan, Arjun's childhood friend.</desc>
+    <credits>
+      <actor>Nana Patekar</actor>
+      <actor>Puru Rajkumar</actor>
+      <actor>Meghna Kothari</actor>
+      <actor>Anupama Verma</actor>
+      <actor>Nakhul</actor>
+      <actor>Raju Mavani</actor>
+    </credits>
+    <category lang="en">Mystery</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEE4E31263AE8F064941290878D5B2DA9D5D75887.jpg"/>
+  </programme>
+  <programme start="20240318034800 +0530" stop="20240318040000 +0530" channel="SONYMAX2.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240318040000 +0530" stop="20240318044700 +0530" channel="SONYMAX2.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240318044700 +0530" stop="20240318064600 +0530" channel="SONYMAX2.in">
+    <title lang="en">Criminal</title>
+    <desc lang="en">Dr Ajay builds a hospital for the poor. He becomes famous and marries Shweta. When Shweta is murdered, Ajay is arrested for the crime and faces the death penalty.</desc>
+    <credits>
+      <actor>Akkineni Nagarjuna</actor>
+      <actor>Manisha Koirala</actor>
+      <actor>Ramya Krishnan</actor>
+      <actor>Gulshan Grover</actor>
+      <actor>Johnny Lever</actor>
+      <actor>Laxmikant Berde</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6295CACE83A2477DEF93757E92ADD3E7312FAE3EQ.jpg"/>
+  </programme>
+  <programme start="20240318064600 +0530" stop="20240318104600 +0530" channel="SONYMAX2.in">
+    <title lang="en">Raju Chacha</title>
+    <desc lang="en">Raju is hired to pose as uncle to three orphaned kids in order to usurp their inheritance. But he changes his mind after falling in love with their governess and decides to fight the greedy relatives.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Kajol</actor>
+      <actor>Rishi Kapoor</actor>
+      <actor>Sanjay Dutt</actor>
+      <actor>Johnny Lever</actor>
+      <actor>Tiku Talsania</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BE52442BB92BBF4EC38EAD99F4C8E056377B5BAY.jpg"/>
+  </programme>
+  <programme start="20240318104600 +0530" stop="20240318134900 +0530" channel="SONYMAX2.in">
+    <title lang="en">Aatish</title>
+    <desc lang="en">Baba turns to crime to support his brother, Avinash, but keeps him distant from the underworld nexus. Problems escalate when Avinash becomes a police officer and is assigned to arrest his own brother.</desc>
+    <credits>
+      <actor>Sanjay Dutt</actor>
+      <actor>Atul Agnihotri</actor>
+      <actor>Aditya Pancholi</actor>
+      <actor>Karisma Kapoor</actor>
+      <actor>Raveena Tandon</actor>
+      <actor>Shakti Kapoor</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0D6A46A65B4B30A64A3F99B4C0F961251AE6048Q.jpg"/>
+  </programme>
+  <programme start="20240318134900 +0530" stop="20240318162500 +0530" channel="SONYMAX2.in">
+    <title lang="en">Namastey London</title>
+    <desc lang="en">On a trip to India, Jasmeet's father forcefully marries her off to Arjun. However, when they return to London, Jasmeet announces her intention of marrying her boyfriend, Charlie Brown.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Katrina Kaif</actor>
+      <actor>Rishi Kapoor</actor>
+      <actor>Nina Wadia</actor>
+      <actor>Clive Standen</actor>
+      <actor>Upen Patel</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/53705393A683EBA999F4645DA654358EB8D5A68DI.jpg"/>
+  </programme>
+  <programme start="20240318162500 +0530" stop="20240318195000 +0530" channel="SONYMAX2.in">
+    <title lang="en">Shaan</title>
+    <desc lang="en">DCP Shiv Kumar, an honest police officer, lives with his family and two brothers, who are conmen. During a case, Shiv Kumar gets killed and the two brothers avenge his death.</desc>
+    <credits>
+      <actor>Sunil Dutt</actor>
+      <actor>Amitabh Bachchan</actor>
+      <actor>Shashi Kapoor</actor>
+      <actor>Shatrughan Sinha</actor>
+      <actor>Rakhee Gulzar</actor>
+      <actor>Parveen Babi</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8A8A4805707A5888ED12F073A98CB884A0D229FAQ.jpg"/>
+  </programme>
+  <programme start="20240318195000 +0530" stop="20240318222100 +0530" channel="SONYMAX2.in">
+    <title lang="en">Purani Haveli</title>
+    <desc lang="en">Anita arrives at a haunted mansion along with Sunil and a group of friends. After a series of deaths, Sunil discovers the monster and finds out a way to kill him and save Anita.</desc>
+    <credits>
+      <actor>Deepak Parashar</actor>
+      <actor>Amita Nangia</actor>
+      <actor>Tej Sapru</actor>
+      <actor>Shubha</actor>
+      <actor>Neelam Mehra</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C52312F003D5F13473A7F7DE9282BFE7BCC586597.jpg"/>
+  </programme>
+  <programme start="20240318222100 +0530" stop="20240319010200 +0530" channel="SONYMAX2.in">
+    <title lang="en">Har Dil Jo Pyar Karega</title>
+    <desc lang="en">Raj saves Pooja from an accident but she goes into a coma. She eventually recovers and falls for Raj who, by now, has fallen for her best friend Jahnvi.</desc>
+    <credits>
+      <actor>Salman Khan</actor>
+      <actor>Preity Zinta</actor>
+      <actor>Rani Mukerji</actor>
+      <actor>Rajeev Verma</actor>
+      <actor>Paresh Rawal</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E55F2F880411A1DF2D6BEED67D5106F3EC774E6CW.jpg"/>
+  </programme>
+  <programme start="20240319030000 +0530" stop="20240319060000 +0530" channel="SONYMAX2.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240318090000 +0530" stop="20240318120000 +0530" channel="SONYMAX2.in">
+  <programme start="20240319060000 +0530" stop="20240319090000 +0530" channel="SONYMAX2.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240318120000 +0530" stop="20240318150000 +0530" channel="SONYMAX2.in">
+  <programme start="20240319090000 +0530" stop="20240319120000 +0530" channel="SONYMAX2.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240318150000 +0530" stop="20240318180000 +0530" channel="SONYMAX2.in">
+  <programme start="20240319120000 +0530" stop="20240319150000 +0530" channel="SONYMAX2.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240318180000 +0530" stop="20240318210000 +0530" channel="SONYMAX2.in">
+  <programme start="20240319150000 +0530" stop="20240319180000 +0530" channel="SONYMAX2.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240318210000 +0530" stop="20240319030000 +0530" channel="SONYMAX2.in">
+  <programme start="20240319180000 +0530" stop="20240319210000 +0530" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240319210000 +0530" stop="20240320030000 +0530" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320030000 +0530" stop="20240320060000 +0530" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320060000 +0530" stop="20240320090000 +0530" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320090000 +0530" stop="20240320120000 +0530" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320120000 +0530" stop="20240320150000 +0530" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320150000 +0530" stop="20240320180000 +0530" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320180000 +0530" stop="20240320210000 +0530" channel="SONYMAX2.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320210000 +0530" stop="20240321030000 +0530" channel="SONYMAX2.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

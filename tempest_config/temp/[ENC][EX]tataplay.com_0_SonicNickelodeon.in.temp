@@ -3,23 +3,6 @@
   <channel id="SonicNickelodeon.in">
     <display-name lang="en">Sonic Nickelodeon</display-name>
   </channel>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <programme start="20240318050000 +0530" stop="20240318070000 +0530" channel="SonicNickelodeon.in">
     <title lang="en">Zig And Sharko</title>
     <desc lang="en">Zig the hyena lives all alone on a desert island and schemes to eat Marina, a mermaid who asks a shark friend to protect her.</desc>
@@ -99,29 +82,17 @@
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8ABB6780038804922D3C390D81747107BEC5EE3Q.jpg"/>
   </programme>
-  <programme start="20240318113000 +0530" stop="20240318133000 +0530" channel="SonicNickelodeon.in">
+  <programme start="20240318113000 +0530" stop="20240318130000 +0530" channel="SonicNickelodeon.in">
     <title lang="en">Zig And Sharko</title>
     <desc lang="en">Zig ke Dhaasu Inventions: Zig the hyena lives all alone on a desert island and schemes to eat Marina, a mermaid who asks a shark friend to protect her.</desc>
     <category lang="en">Animation Kids</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/09014F4ABB6B5D147E34C52A62E821174092B9C3Q.jpg"/>
   </programme>
-  <programme start="20240318133000 +0530" stop="20240318140000 +0530" channel="SonicNickelodeon.in">
-    <title lang="en">Pinaki &amp; Happy - The Bhoot Bandhus</title>
-    <desc lang="en">An unusual ghost family adopts Pinaki, a young boy, and raises him as their own. But the adventures of Pinaki and Happy lead to a lot of fun as the ghost world meets the real world. India.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D9C0955C617F76D2235F5159188936EE5D82517T.jpg"/>
-  </programme>
-  <programme start="20240318140000 +0530" stop="20240318143000 +0530" channel="SonicNickelodeon.in">
-    <title lang="en">Pinaki &amp; Happy - The Bhoot Bandhus</title>
-    <desc lang="en">An unusual ghost family adopts Pinaki, a young boy, and raises him as their own. But the adventures of Pinaki and Happy lead to a lot of fun as the ghost world meets the real world. India.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D9C0955C617F76D2235F5159188936EE5D82517T.jpg"/>
-  </programme>
-  <programme start="20240318143000 +0530" stop="20240318150000 +0530" channel="SonicNickelodeon.in">
-    <title lang="en">Pinaki &amp; Happy - The Bhoot Bandhus</title>
-    <desc lang="en">An unusual ghost family adopts Pinaki, a young boy, and raises him as their own. But the adventures of Pinaki and Happy lead to a lot of fun as the ghost world meets the real world. India.</desc>
-    <category lang="en">Animation Kids</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D9C0955C617F76D2235F5159188936EE5D82517T.jpg"/>
+  <programme start="20240318130000 +0530" stop="20240318150000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Movie - Motu Patlu &amp; The Terror Of Giant Beasts</title>
+    <desc lang="en">After Motu and Patlu bring the animal exhibits to life with Mr Maddox's magical camera in the Furfuri Nagar museum they face the huge task of stopping the monsters from destroying their city.</desc>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EB3D99C984D1BDEC63343F9449C6320BBBF8A29F4.jpg"/>
   </programme>
   <programme start="20240318150000 +0530" stop="20240318173000 +0530" channel="SonicNickelodeon.in">
     <title lang="en">Pakdam Pakdai</title>
@@ -166,6 +137,310 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6931B237D82D543B150BD2EF0B09DB5CBBC9BEA3E.jpg"/>
   </programme>
   <programme start="20240318230000 +0530" stop="20240319050000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Pakdam Pakdai</title>
+    <desc lang="en">There is a constant war between Doggy Don and the three clever mice who live in his house. However, with the help of Doggy Don's brother, an ex-army dog, they fight the mice to win back their house. India.</desc>
+    <credits>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Akshay Kumar</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6931B237D82D543B150BD2EF0B09DB5CBBC9BEA3E.jpg"/>
+  </programme>
+  <programme start="20240319050000 +0530" stop="20240319070000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Zig And Sharko</title>
+    <desc lang="en">Zig the hyena lives all alone on a desert island and schemes to eat Marina, a mermaid who asks a shark friend to protect her.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/09014F4ABB6B5D147E34C52A62E821174092B9C3Q.jpg"/>
+  </programme>
+  <programme start="20240319070000 +0530" stop="20240319073000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Pakdam Pakdai</title>
+    <desc lang="en">There is a constant war between Doggy Don and the three clever mice who live in his house. However, with the help of Doggy Don's brother, an ex-army dog, they fight the mice to win back their house. India.</desc>
+    <credits>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Akshay Kumar</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6931B237D82D543B150BD2EF0B09DB5CBBC9BEA3E.jpg"/>
+  </programme>
+  <programme start="20240319073000 +0530" stop="20240319080000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Pakdam Pakdai</title>
+    <desc lang="en">There is a constant war between Doggy Don and the three clever mice who live in his house. However, with the help of Doggy Don's brother, an ex-army dog, they fight the mice to win back their house. India.</desc>
+    <credits>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Akshay Kumar</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6931B237D82D543B150BD2EF0B09DB5CBBC9BEA3E.jpg"/>
+  </programme>
+  <programme start="20240319080000 +0530" stop="20240319083000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Pakdam Pakdai</title>
+    <desc lang="en">There is a constant war between Doggy Don and the three clever mice who live in his house. However, with the help of Doggy Don's brother, an ex-army dog, they fight the mice to win back their house. India.</desc>
+    <credits>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Akshay Kumar</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6931B237D82D543B150BD2EF0B09DB5CBBC9BEA3E.jpg"/>
+  </programme>
+  <programme start="20240319083000 +0530" stop="20240319100000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Zig And Sharko</title>
+    <desc lang="en">Zig the hyena lives all alone on a desert island and schemes to eat Marina, a mermaid who asks a shark friend to protect her.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/09014F4ABB6B5D147E34C52A62E821174092B9C3Q.jpg"/>
+  </programme>
+  <programme start="20240319100000 +0530" stop="20240319103000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Ninja Hattori</title>
+    <desc lang="en">Kenichi Mitsuba is a ten-year-old average student. A little ninja, Hattori Kanzo, becomes his friend. Hattori always helps Kenichi with his problems, and is observant of him. Japan.</desc>
+    <credits>
+      <actor>Masako Sugaya</actor>
+      <actor>Junko Hori</actor>
+      <actor>Yuko Mita</actor>
+      <actor>Kenichi Ogata</actor>
+      <actor>Fuyumi Shiraishi</actor>
+      <actor>Kaneta Kimotsuki</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8ABB6780038804922D3C390D81747107BEC5EE3Q.jpg"/>
+  </programme>
+  <programme start="20240319103000 +0530" stop="20240319110000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Ninja Hattori</title>
+    <desc lang="en">Kenichi Mitsuba is a ten-year-old average student. A little ninja, Hattori Kanzo, becomes his friend. Hattori always helps Kenichi with his problems, and is observant of him. Japan.</desc>
+    <credits>
+      <actor>Masako Sugaya</actor>
+      <actor>Junko Hori</actor>
+      <actor>Yuko Mita</actor>
+      <actor>Kenichi Ogata</actor>
+      <actor>Fuyumi Shiraishi</actor>
+      <actor>Kaneta Kimotsuki</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8ABB6780038804922D3C390D81747107BEC5EE3Q.jpg"/>
+  </programme>
+  <programme start="20240319110000 +0530" stop="20240319113000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Ninja Hattori</title>
+    <desc lang="en">Kenichi Mitsuba is a ten-year-old average student. A little ninja, Hattori Kanzo, becomes his friend. Hattori always helps Kenichi with his problems, and is observant of him. Japan.</desc>
+    <credits>
+      <actor>Masako Sugaya</actor>
+      <actor>Junko Hori</actor>
+      <actor>Yuko Mita</actor>
+      <actor>Kenichi Ogata</actor>
+      <actor>Fuyumi Shiraishi</actor>
+      <actor>Kaneta Kimotsuki</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8ABB6780038804922D3C390D81747107BEC5EE3Q.jpg"/>
+  </programme>
+  <programme start="20240319113000 +0530" stop="20240319130000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Zig And Sharko</title>
+    <desc lang="en">Zig ke Dhaasu Inventions: Zig the hyena lives all alone on a desert island and schemes to eat Marina, a mermaid who asks a shark friend to protect her.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/09014F4ABB6B5D147E34C52A62E821174092B9C3Q.jpg"/>
+  </programme>
+  <programme start="20240319130000 +0530" stop="20240319150000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Movie - Motu Patlu Vs Dr. Destroyer</title>
+    <desc lang="en">Doctor Destroyer, a villain equipped with high-tech gadgets, plots to steal a precious diamond. Fortunately, best friends Motu and Patlu set out to stop him.</desc>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/16C0F79C630CC64CEBC31C4BB8E6C2ECC938FB63O.jpg"/>
+  </programme>
+  <programme start="20240319150000 +0530" stop="20240319173000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Pakdam Pakdai</title>
+    <desc lang="en">There is a constant war between Doggy Don and the three clever mice who live in his house. However, with the help of Doggy Don's brother, an ex-army dog, they fight the mice to win back their house. India.</desc>
+    <credits>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Akshay Kumar</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6931B237D82D543B150BD2EF0B09DB5CBBC9BEA3E.jpg"/>
+  </programme>
+  <programme start="20240319173000 +0530" stop="20240319190000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Ninja Hattori</title>
+    <desc lang="en">Kenichi Mitsuba is a ten-year-old average student. A little ninja, Hattori Kanzo, becomes his friend. Hattori always helps Kenichi with his problems, and is observant of him. Japan.</desc>
+    <credits>
+      <actor>Masako Sugaya</actor>
+      <actor>Junko Hori</actor>
+      <actor>Yuko Mita</actor>
+      <actor>Kenichi Ogata</actor>
+      <actor>Fuyumi Shiraishi</actor>
+      <actor>Kaneta Kimotsuki</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8ABB6780038804922D3C390D81747107BEC5EE3Q.jpg"/>
+  </programme>
+  <programme start="20240319190000 +0530" stop="20240319220000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Zig And Sharko</title>
+    <desc lang="en">Zig the hyena lives all alone on a desert island and schemes to eat Marina, a mermaid who asks a shark friend to protect her.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/09014F4ABB6B5D147E34C52A62E821174092B9C3Q.jpg"/>
+  </programme>
+  <programme start="20240319220000 +0530" stop="20240319230000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Pakdam Pakdai</title>
+    <desc lang="en">There is a constant war between Doggy Don and the three clever mice who live in his house. However, with the help of Doggy Don's brother, an ex-army dog, they fight the mice to win back their house. India.</desc>
+    <credits>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Akshay Kumar</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6931B237D82D543B150BD2EF0B09DB5CBBC9BEA3E.jpg"/>
+  </programme>
+  <programme start="20240319230000 +0530" stop="20240320050000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Pakdam Pakdai</title>
+    <desc lang="en">There is a constant war between Doggy Don and the three clever mice who live in his house. However, with the help of Doggy Don's brother, an ex-army dog, they fight the mice to win back their house. India.</desc>
+    <credits>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Akshay Kumar</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6931B237D82D543B150BD2EF0B09DB5CBBC9BEA3E.jpg"/>
+  </programme>
+  <programme start="20240320050000 +0530" stop="20240320070000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Zig And Sharko</title>
+    <desc lang="en">Zig the hyena lives all alone on a desert island and schemes to eat Marina, a mermaid who asks a shark friend to protect her.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/09014F4ABB6B5D147E34C52A62E821174092B9C3Q.jpg"/>
+  </programme>
+  <programme start="20240320070000 +0530" stop="20240320073000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Pakdam Pakdai</title>
+    <desc lang="en">There is a constant war between Doggy Don and the three clever mice who live in his house. However, with the help of Doggy Don's brother, an ex-army dog, they fight the mice to win back their house. India.</desc>
+    <credits>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Akshay Kumar</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6931B237D82D543B150BD2EF0B09DB5CBBC9BEA3E.jpg"/>
+  </programme>
+  <programme start="20240320073000 +0530" stop="20240320080000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Pakdam Pakdai</title>
+    <desc lang="en">There is a constant war between Doggy Don and the three clever mice who live in his house. However, with the help of Doggy Don's brother, an ex-army dog, they fight the mice to win back their house. India.</desc>
+    <credits>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Akshay Kumar</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6931B237D82D543B150BD2EF0B09DB5CBBC9BEA3E.jpg"/>
+  </programme>
+  <programme start="20240320080000 +0530" stop="20240320083000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Pakdam Pakdai</title>
+    <desc lang="en">There is a constant war between Doggy Don and the three clever mice who live in his house. However, with the help of Doggy Don's brother, an ex-army dog, they fight the mice to win back their house. India.</desc>
+    <credits>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Akshay Kumar</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6931B237D82D543B150BD2EF0B09DB5CBBC9BEA3E.jpg"/>
+  </programme>
+  <programme start="20240320083000 +0530" stop="20240320100000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Zig And Sharko</title>
+    <desc lang="en">Zig the hyena lives all alone on a desert island and schemes to eat Marina, a mermaid who asks a shark friend to protect her.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/09014F4ABB6B5D147E34C52A62E821174092B9C3Q.jpg"/>
+  </programme>
+  <programme start="20240320100000 +0530" stop="20240320103000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Ninja Hattori</title>
+    <desc lang="en">Kenichi Mitsuba is a ten-year-old average student. A little ninja, Hattori Kanzo, becomes his friend. Hattori always helps Kenichi with his problems, and is observant of him. Japan.</desc>
+    <credits>
+      <actor>Masako Sugaya</actor>
+      <actor>Junko Hori</actor>
+      <actor>Yuko Mita</actor>
+      <actor>Kenichi Ogata</actor>
+      <actor>Fuyumi Shiraishi</actor>
+      <actor>Kaneta Kimotsuki</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8ABB6780038804922D3C390D81747107BEC5EE3Q.jpg"/>
+  </programme>
+  <programme start="20240320103000 +0530" stop="20240320110000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Ninja Hattori</title>
+    <desc lang="en">Kenichi Mitsuba is a ten-year-old average student. A little ninja, Hattori Kanzo, becomes his friend. Hattori always helps Kenichi with his problems, and is observant of him. Japan.</desc>
+    <credits>
+      <actor>Masako Sugaya</actor>
+      <actor>Junko Hori</actor>
+      <actor>Yuko Mita</actor>
+      <actor>Kenichi Ogata</actor>
+      <actor>Fuyumi Shiraishi</actor>
+      <actor>Kaneta Kimotsuki</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8ABB6780038804922D3C390D81747107BEC5EE3Q.jpg"/>
+  </programme>
+  <programme start="20240320110000 +0530" stop="20240320113000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Ninja Hattori</title>
+    <desc lang="en">Kenichi Mitsuba is a ten-year-old average student. A little ninja, Hattori Kanzo, becomes his friend. Hattori always helps Kenichi with his problems, and is observant of him. Japan.</desc>
+    <credits>
+      <actor>Masako Sugaya</actor>
+      <actor>Junko Hori</actor>
+      <actor>Yuko Mita</actor>
+      <actor>Kenichi Ogata</actor>
+      <actor>Fuyumi Shiraishi</actor>
+      <actor>Kaneta Kimotsuki</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8ABB6780038804922D3C390D81747107BEC5EE3Q.jpg"/>
+  </programme>
+  <programme start="20240320113000 +0530" stop="20240320130000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Zig And Sharko</title>
+    <desc lang="en">Zig ke Dhaasu Inventions: Zig the hyena lives all alone on a desert island and schemes to eat Marina, a mermaid who asks a shark friend to protect her.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/09014F4ABB6B5D147E34C52A62E821174092B9C3Q.jpg"/>
+  </programme>
+  <programme start="20240320130000 +0530" stop="20240320150000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Movie - Motu Patlu The Superheroes VS Alien Ghost</title>
+    <desc lang="en">While on a vacation in Russia, Motu and Patlu befriend Walter, a kind alien ghost, and help him fight Claudius, an evil phantom.</desc>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/18007AA75791CD54E8FB4D0140EF4CC28779ADED1.jpg"/>
+  </programme>
+  <programme start="20240320150000 +0530" stop="20240320173000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Pakdam Pakdai</title>
+    <desc lang="en">There is a constant war between Doggy Don and the three clever mice who live in his house. However, with the help of Doggy Don's brother, an ex-army dog, they fight the mice to win back their house. India.</desc>
+    <credits>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Akshay Kumar</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6931B237D82D543B150BD2EF0B09DB5CBBC9BEA3E.jpg"/>
+  </programme>
+  <programme start="20240320173000 +0530" stop="20240320190000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Ninja Hattori</title>
+    <desc lang="en">Kenichi Mitsuba is a ten-year-old average student. A little ninja, Hattori Kanzo, becomes his friend. Hattori always helps Kenichi with his problems, and is observant of him. Japan.</desc>
+    <credits>
+      <actor>Masako Sugaya</actor>
+      <actor>Junko Hori</actor>
+      <actor>Yuko Mita</actor>
+      <actor>Kenichi Ogata</actor>
+      <actor>Fuyumi Shiraishi</actor>
+      <actor>Kaneta Kimotsuki</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8ABB6780038804922D3C390D81747107BEC5EE3Q.jpg"/>
+  </programme>
+  <programme start="20240320190000 +0530" stop="20240320220000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Zig And Sharko</title>
+    <desc lang="en">Zig the hyena lives all alone on a desert island and schemes to eat Marina, a mermaid who asks a shark friend to protect her.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/09014F4ABB6B5D147E34C52A62E821174092B9C3Q.jpg"/>
+  </programme>
+  <programme start="20240320220000 +0530" stop="20240320230000 +0530" channel="SonicNickelodeon.in">
+    <title lang="en">Pakdam Pakdai</title>
+    <desc lang="en">There is a constant war between Doggy Don and the three clever mice who live in his house. However, with the help of Doggy Don's brother, an ex-army dog, they fight the mice to win back their house. India.</desc>
+    <credits>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Akshay Kumar</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6931B237D82D543B150BD2EF0B09DB5CBBC9BEA3E.jpg"/>
+  </programme>
+  <programme start="20240320230000 +0530" stop="20240321050000 +0530" channel="SonicNickelodeon.in">
     <title lang="en">Pakdam Pakdai</title>
     <desc lang="en">There is a constant war between Doggy Don and the three clever mice who live in his house. However, with the help of Doggy Don's brother, an ex-army dog, they fight the mice to win back their house. India.</desc>
     <credits>

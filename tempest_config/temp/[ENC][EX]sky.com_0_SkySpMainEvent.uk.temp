@@ -4,38 +4,20 @@
     <display-name lang="en">SkySpMainEv</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb1301.png"/>
   </channel>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  <programme start="20240318033000 +0530" stop="20240318050000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live Tennis: Indian Wells Finals</title>
+    <desc lang="en">At Indian Wells, world number one Iga Swiatek challenges Greece's Maria Sakkari for the title and defending champion Carlos Alcaraz meets fourth seed Daniil Medvedev in the final. (17.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c0b12ca6-0293-3064-b421-b29d0d39b8df/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
   <programme start="20240318050000 +0530" stop="20240318053000 +0530" channel="SkySpMainEvent.uk">
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
@@ -278,7 +260,7 @@
   </programme>
   <programme start="20240318213000 +0530" stop="20240319020000 +0530" channel="SkySpMainEvent.uk">
     <title lang="en">Live PSL Final</title>
-    <desc lang="en">The champions of the 2024 Pakistan Super League are crowned in Karachi as the final gets underway. Last year, Lahore Qalandars came out on top, winning the 2023 showpiece by a run. (18.03)</desc>
+    <desc lang="en">The champions of the 2024 Pakistan Super League are crowned in Karachi. In the final, Multan Sultans face Islamabad United - who beat Peshawar Zalmi in the second Eliminator. (18.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/7da2b543-e75c-399a-8b23-79f9d489ca80/16-9"/>
@@ -357,5 +339,460 @@
       <stereo>Mono</stereo>
     </audio>
     <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240319053000 +0530" stop="20240319063000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7d93f6b7-a1f8-3c90-aa36-397e094f424a/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319063000 +0530" stop="20240319073000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c1cf267d-51dd-36f5-84e5-a2edcc28f0f8/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319073000 +0530" stop="20240319083000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/73e89097-7b66-3aa8-a76e-49a1b981d83f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319083000 +0530" stop="20240319093000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ab9c39fe-930f-326b-ac16-93499f84aaf9/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319093000 +0530" stop="20240319103000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/df2eef22-0568-3148-9822-c600dcaf942f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319103000 +0530" stop="20240319113000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d2939062-24f0-35ae-9dc6-ed31bdc501c6/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319113000 +0530" stop="20240319123000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d58e933d-5644-3efe-8e32-0516026c8cac/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240319123000 +0530" stop="20240319133000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Good Morning Sports Fans</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fee38bba-1899-3104-b3cc-2d9f7f9dd103/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240319133000 +0530" stop="20240319143000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Good Morning Sports Fans</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/124c46de-e221-3f34-bc83-d49c25f94ed0/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319143000 +0530" stop="20240319153000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Good Morning Sports Fans</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bb6df7f3-3600-3aae-a2db-fad88303aac2/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319153000 +0530" stop="20240319163000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">The Football Show</title>
+    <desc lang="en">A detailed look at all the major stories making the football headlines this morning, with discussion and analysis of the big talking points.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/78619ee0-687a-3055-a171-01380e37f0a1/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240319163000 +0530" stop="20240319173000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">The Football Show</title>
+    <desc lang="en">A detailed look at all the major stories making the football headlines this morning, with discussion and analysis of the big talking points.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/78619ee0-687a-3055-a171-01380e37f0a1/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319173000 +0530" stop="20240319183000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Lunchtime Live</title>
+    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/709c787c-60d1-3c4a-bd0d-54a53a5e35a4/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240319183000 +0530" stop="20240319193000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Lunchtime Live</title>
+    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/709c787c-60d1-3c4a-bd0d-54a53a5e35a4/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240319193000 +0530" stop="20240319203000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sports Desk</title>
+    <desc lang="en">A breakdown of the stories hitting the news desk this afternoon, with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/90c1fae7-d845-307e-afa5-1c76ecb31c95/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240319203000 +0530" stop="20240320043000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live WTA Tennis: Miami</title>
+    <desc lang="en">Day one of the 2024 Miami Open - a joint WTA and ATP 1000 event showcasing the world's top men's and women's players. (19.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0ae861df-0700-3a4b-a841-35225fb2ac33/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240320043000 +0530" stop="20240320053000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/12e024d4-328a-3d3b-9c7c-34130808e896/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240320053000 +0530" stop="20240320063000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c4619e4c-9034-3fdc-85d3-7dce737b73aa/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240320063000 +0530" stop="20240320073000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5f656c72-18c9-3f56-8785-1163109355be/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240320073000 +0530" stop="20240320083000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/86defdb8-56fa-3709-babc-dbd9022df14e/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240320083000 +0530" stop="20240320093000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/62c34bca-c0a7-319f-bd69-196f37017ba0/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240320093000 +0530" stop="20240320103000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1031b234-8ac5-3ad6-a5ff-50c473e1c109/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240320103000 +0530" stop="20240320113000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/67c77dd6-c812-33ce-83d9-21c11fbe04a6/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240320113000 +0530" stop="20240320123000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ce4c21ee-e203-39d1-be65-b79f30a17414/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240320123000 +0530" stop="20240320133000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Good Morning Sports Fans</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f6653f85-1e4d-392b-a6c7-2348eb9ca6a9/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240320133000 +0530" stop="20240320143000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Good Morning Sports Fans</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4af25138-8ab2-359b-8e07-036ce018fc36/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240320143000 +0530" stop="20240320153000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Good Morning Sports Fans</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2cf7b42d-5840-306e-bc04-6da7b1857f55/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240320153000 +0530" stop="20240320163000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">The Football Show</title>
+    <desc lang="en">A detailed look at all the major stories making the football headlines this morning, with discussion and analysis of the big talking points.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d193edb8-7e46-3d65-9aec-cd2a710e73c7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240320163000 +0530" stop="20240320173000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">The Football Show</title>
+    <desc lang="en">A detailed look at all the major stories making the football headlines this morning, with discussion and analysis of the big talking points.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d193edb8-7e46-3d65-9aec-cd2a710e73c7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240320173000 +0530" stop="20240320183000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Lunchtime Live</title>
+    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/709c787c-60d1-3c4a-bd0d-54a53a5e35a4/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240320183000 +0530" stop="20240320193000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Lunchtime Live</title>
+    <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/709c787c-60d1-3c4a-bd0d-54a53a5e35a4/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240320193000 +0530" stop="20240320203000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Sports Desk</title>
+    <desc lang="en">A breakdown of the stories hitting the news desk this afternoon, with live analysis and comment plus extended interviews with the headline makers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/29c84a8d-f75b-33e3-8224-b299ad51329b/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240320203000 +0530" stop="20240321043000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live Tennis: Miami</title>
+    <desc lang="en">Day two of the 2024 Miami Open - a joint WTA and ATP 1000 event showcasing the world's top men's and women's players. (20.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5435ac9e-818d-3786-872a-7950b26e6f99/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240321043000 +0530" stop="20240321083000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live Tennis: Miami</title>
+    <desc lang="en">Day two of the 2024 Miami Open - a joint WTA and ATP 1000 event showcasing the world's top men's and women's players. (20.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="https://images.metadata.sky.com/pd-image/918308d7-55d4-39eb-bd2d-9f68d5f99e6b/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
   </programme>
 </tv>

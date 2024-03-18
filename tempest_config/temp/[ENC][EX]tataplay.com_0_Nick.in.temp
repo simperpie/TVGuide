@@ -3,42 +3,32 @@
   <channel id="Nick.in">
     <display-name lang="en">Nick</display-name>
   </channel>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  <programme start="20240318010000 +0530" stop="20240318013000 +0530" channel="Nick.in">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra, a nine-year-old boy, learns magic from his grandfather, Jai Singh, who wants him to be his successor. However, an evil magician, Shakaal, tries to thwart Rudra from harnessing his true powers. India.</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240318013000 +0530" stop="20240318050000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
   <programme start="20240318050000 +0530" stop="20240318060000 +0530" channel="Nick.in">
     <title lang="en">Chikoo Aur Bunty</title>
     <desc lang="en">Two brothers, Chikoo and Bunty, engage in constant banter and rivalry while avoiding being caught by their parents and teachers. India.</desc>
@@ -223,6 +213,448 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
   </programme>
   <programme start="20240318230000 +0530" stop="20240319010000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240319010000 +0530" stop="20240319013000 +0530" channel="Nick.in">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra, a nine-year-old boy, learns magic from his grandfather, Jai Singh, who wants him to be his successor. However, an evil magician, Shakaal, tries to thwart Rudra from harnessing his true powers. India.</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240319013000 +0530" stop="20240319050000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240319050000 +0530" stop="20240319060000 +0530" channel="Nick.in">
+    <title lang="en">Chikoo Aur Bunty</title>
+    <desc lang="en">Two brothers, Chikoo and Bunty, engage in constant banter and rivalry while avoiding being caught by their parents and teachers. India.</desc>
+    <credits>
+      <actor>Khushboo Atre</actor>
+      <actor>Mahendra Bhatnagar</actor>
+      <actor>Rupa Bhimani</actor>
+      <actor>Anita Dokania</actor>
+      <actor>Shaily Dubey</actor>
+      <actor>Meghna Erande Joshi</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24FD35A41B81F9B56CD29FE12A5C7F6FB2AA48E64.jpg"/>
+  </programme>
+  <programme start="20240319060000 +0530" stop="20240319070000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240319070000 +0530" stop="20240319100000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240319100000 +0530" stop="20240319120000 +0530" channel="Nick.in">
+    <title lang="en">Chikoo Aur Bunty</title>
+    <desc lang="en">Two brothers, Chikoo and Bunty, engage in constant banter and rivalry while avoiding being caught by their parents and teachers. India.</desc>
+    <credits>
+      <actor>Khushboo Atre</actor>
+      <actor>Mahendra Bhatnagar</actor>
+      <actor>Rupa Bhimani</actor>
+      <actor>Anita Dokania</actor>
+      <actor>Shaily Dubey</actor>
+      <actor>Meghna Erande Joshi</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24FD35A41B81F9B56CD29FE12A5C7F6FB2AA48E64.jpg"/>
+  </programme>
+  <programme start="20240319120000 +0530" stop="20240319130000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240319130000 +0530" stop="20240319133000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240319133000 +0530" stop="20240319140000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240319140000 +0530" stop="20240319150000 +0530" channel="Nick.in">
+    <title lang="en">Chikoo Aur Bunty</title>
+    <desc lang="en">Two brothers, Chikoo and Bunty, engage in constant banter and rivalry while avoiding being caught by their parents and teachers. India.</desc>
+    <credits>
+      <actor>Khushboo Atre</actor>
+      <actor>Mahendra Bhatnagar</actor>
+      <actor>Rupa Bhimani</actor>
+      <actor>Anita Dokania</actor>
+      <actor>Shaily Dubey</actor>
+      <actor>Meghna Erande Joshi</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24FD35A41B81F9B56CD29FE12A5C7F6FB2AA48E64.jpg"/>
+  </programme>
+  <programme start="20240319150000 +0530" stop="20240319163000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240319163000 +0530" stop="20240319173000 +0530" channel="Nick.in">
+    <title lang="en">Movie - Motu Patlu : The Secret Mission Of Motu Patlu</title>
+    <desc lang="en">Dr Dang's henchmen threaten to destroy India's greatest monuments if Dr Dang is not released from prison. Soon, Motu and Patlu decide to intervene and set out on a mission to protect the nation.</desc>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4308DC7D4C9918B53078888323FC43703F56B6CK.jpg"/>
+  </programme>
+  <programme start="20240319173000 +0530" stop="20240319180000 +0530" channel="Nick.in">
+    <title lang="en">The Twisted Timeline Of Sammy And Raj</title>
+    <desc lang="en">When two cousins, Sammy and Raj, get hold of a time-altering app, they set out on an unreal and unimaginable adventure together. USA.</desc>
+    <credits>
+      <actor>Nickie Bryar</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D501E8A841179854D0030894709DEE95369E9A106.jpg"/>
+  </programme>
+  <programme start="20240319180000 +0530" stop="20240319183000 +0530" channel="Nick.in">
+    <title lang="en">Chikoo Aur Bunty</title>
+    <desc lang="en">Two brothers, Chikoo and Bunty, engage in constant banter and rivalry while avoiding being caught by their parents and teachers. India.</desc>
+    <credits>
+      <actor>Khushboo Atre</actor>
+      <actor>Mahendra Bhatnagar</actor>
+      <actor>Rupa Bhimani</actor>
+      <actor>Anita Dokania</actor>
+      <actor>Shaily Dubey</actor>
+      <actor>Meghna Erande Joshi</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24FD35A41B81F9B56CD29FE12A5C7F6FB2AA48E64.jpg"/>
+  </programme>
+  <programme start="20240319183000 +0530" stop="20240319190000 +0530" channel="Nick.in">
+    <title lang="en">Chikoo Aur Bunty</title>
+    <desc lang="en">Two brothers, Chikoo and Bunty, engage in constant banter and rivalry while avoiding being caught by their parents and teachers. India.</desc>
+    <credits>
+      <actor>Khushboo Atre</actor>
+      <actor>Mahendra Bhatnagar</actor>
+      <actor>Rupa Bhimani</actor>
+      <actor>Anita Dokania</actor>
+      <actor>Shaily Dubey</actor>
+      <actor>Meghna Erande Joshi</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24FD35A41B81F9B56CD29FE12A5C7F6FB2AA48E64.jpg"/>
+  </programme>
+  <programme start="20240319190000 +0530" stop="20240319203000 +0530" channel="Nick.in">
+    <title lang="en">Chikoo Aur Bunty</title>
+    <desc lang="en">Two brothers, Chikoo and Bunty, engage in constant banter and rivalry while avoiding being caught by their parents and teachers. India.</desc>
+    <credits>
+      <actor>Khushboo Atre</actor>
+      <actor>Mahendra Bhatnagar</actor>
+      <actor>Rupa Bhimani</actor>
+      <actor>Anita Dokania</actor>
+      <actor>Shaily Dubey</actor>
+      <actor>Meghna Erande Joshi</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24FD35A41B81F9B56CD29FE12A5C7F6FB2AA48E64.jpg"/>
+  </programme>
+  <programme start="20240319203000 +0530" stop="20240319230000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240319230000 +0530" stop="20240320010000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240320010000 +0530" stop="20240320013000 +0530" channel="Nick.in">
+    <title lang="en">Rudra</title>
+    <desc lang="en">Rudra, a nine-year-old boy, learns magic from his grandfather, Jai Singh, who wants him to be his successor. However, an evil magician, Shakaal, tries to thwart Rudra from harnessing his true powers. India.</desc>
+    <credits>
+      <actor>Rohan Jadhav</actor>
+      <actor>Shailendra Pandey</actor>
+      <actor>Vinod Kulkarni</actor>
+      <actor>Shalini Seuli Sridhar</actor>
+      <actor>Bhakti Jhaveri</actor>
+      <actor>Mukesh Pandey</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/229DBCC5A27C1BDAFED1D14AE69FFA3F263734A7Q.jpg"/>
+  </programme>
+  <programme start="20240320013000 +0530" stop="20240320050000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240320050000 +0530" stop="20240320060000 +0530" channel="Nick.in">
+    <title lang="en">Chikoo Aur Bunty</title>
+    <desc lang="en">Two brothers, Chikoo and Bunty, engage in constant banter and rivalry while avoiding being caught by their parents and teachers. India.</desc>
+    <credits>
+      <actor>Khushboo Atre</actor>
+      <actor>Mahendra Bhatnagar</actor>
+      <actor>Rupa Bhimani</actor>
+      <actor>Anita Dokania</actor>
+      <actor>Shaily Dubey</actor>
+      <actor>Meghna Erande Joshi</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24FD35A41B81F9B56CD29FE12A5C7F6FB2AA48E64.jpg"/>
+  </programme>
+  <programme start="20240320060000 +0530" stop="20240320070000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240320070000 +0530" stop="20240320100000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240320100000 +0530" stop="20240320120000 +0530" channel="Nick.in">
+    <title lang="en">Chikoo Aur Bunty</title>
+    <desc lang="en">Two brothers, Chikoo and Bunty, engage in constant banter and rivalry while avoiding being caught by their parents and teachers. India.</desc>
+    <credits>
+      <actor>Khushboo Atre</actor>
+      <actor>Mahendra Bhatnagar</actor>
+      <actor>Rupa Bhimani</actor>
+      <actor>Anita Dokania</actor>
+      <actor>Shaily Dubey</actor>
+      <actor>Meghna Erande Joshi</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24FD35A41B81F9B56CD29FE12A5C7F6FB2AA48E64.jpg"/>
+  </programme>
+  <programme start="20240320120000 +0530" stop="20240320130000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240320130000 +0530" stop="20240320133000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240320133000 +0530" stop="20240320140000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240320140000 +0530" stop="20240320150000 +0530" channel="Nick.in">
+    <title lang="en">Chikoo Aur Bunty</title>
+    <desc lang="en">Two brothers, Chikoo and Bunty, engage in constant banter and rivalry while avoiding being caught by their parents and teachers. India.</desc>
+    <credits>
+      <actor>Khushboo Atre</actor>
+      <actor>Mahendra Bhatnagar</actor>
+      <actor>Rupa Bhimani</actor>
+      <actor>Anita Dokania</actor>
+      <actor>Shaily Dubey</actor>
+      <actor>Meghna Erande Joshi</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24FD35A41B81F9B56CD29FE12A5C7F6FB2AA48E64.jpg"/>
+  </programme>
+  <programme start="20240320150000 +0530" stop="20240320163000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240320163000 +0530" stop="20240320173000 +0530" channel="Nick.in">
+    <title lang="en">Chikoo Bunty Ki Bhaagam Bhaag Express</title>
+    <desc lang="en">Chikoo and Bunty end up losing their passport, board different trains and get separated from their parents. Later, they encounter various adventures on the train. India.</desc>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77C77B0B5CC948796AAF847F785004AEB0C51A28H.jpg"/>
+  </programme>
+  <programme start="20240320173000 +0530" stop="20240320180000 +0530" channel="Nick.in">
+    <title lang="en">The Twisted Timeline Of Sammy And Raj</title>
+    <desc lang="en">When two cousins, Sammy and Raj, get hold of a time-altering app, they set out on an unreal and unimaginable adventure together. USA.</desc>
+    <credits>
+      <actor>Nickie Bryar</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D501E8A841179854D0030894709DEE95369E9A106.jpg"/>
+  </programme>
+  <programme start="20240320180000 +0530" stop="20240320183000 +0530" channel="Nick.in">
+    <title lang="en">Chikoo Aur Bunty</title>
+    <desc lang="en">Two brothers, Chikoo and Bunty, engage in constant banter and rivalry while avoiding being caught by their parents and teachers. India.</desc>
+    <credits>
+      <actor>Khushboo Atre</actor>
+      <actor>Mahendra Bhatnagar</actor>
+      <actor>Rupa Bhimani</actor>
+      <actor>Anita Dokania</actor>
+      <actor>Shaily Dubey</actor>
+      <actor>Meghna Erande Joshi</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24FD35A41B81F9B56CD29FE12A5C7F6FB2AA48E64.jpg"/>
+  </programme>
+  <programme start="20240320183000 +0530" stop="20240320190000 +0530" channel="Nick.in">
+    <title lang="en">Chikoo Aur Bunty</title>
+    <desc lang="en">Two brothers, Chikoo and Bunty, engage in constant banter and rivalry while avoiding being caught by their parents and teachers. India.</desc>
+    <credits>
+      <actor>Khushboo Atre</actor>
+      <actor>Mahendra Bhatnagar</actor>
+      <actor>Rupa Bhimani</actor>
+      <actor>Anita Dokania</actor>
+      <actor>Shaily Dubey</actor>
+      <actor>Meghna Erande Joshi</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24FD35A41B81F9B56CD29FE12A5C7F6FB2AA48E64.jpg"/>
+  </programme>
+  <programme start="20240320190000 +0530" stop="20240320203000 +0530" channel="Nick.in">
+    <title lang="en">Chikoo Aur Bunty</title>
+    <desc lang="en">Two brothers, Chikoo and Bunty, engage in constant banter and rivalry while avoiding being caught by their parents and teachers. India.</desc>
+    <credits>
+      <actor>Khushboo Atre</actor>
+      <actor>Mahendra Bhatnagar</actor>
+      <actor>Rupa Bhimani</actor>
+      <actor>Anita Dokania</actor>
+      <actor>Shaily Dubey</actor>
+      <actor>Meghna Erande Joshi</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24FD35A41B81F9B56CD29FE12A5C7F6FB2AA48E64.jpg"/>
+  </programme>
+  <programme start="20240320203000 +0530" stop="20240320230000 +0530" channel="Nick.in">
+    <title lang="en">Motu Patlu</title>
+    <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
+    <credits>
+      <actor>Ben Bledsoe</actor>
+      <actor>Saurav Chakraborty</actor>
+      <actor>Darren Capozzi</actor>
+      <actor>Alexandra Ryan</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/64356B2E8D3E3381DBB6DA001888CB5C514918CBN.jpg"/>
+  </programme>
+  <programme start="20240320230000 +0530" stop="20240321010000 +0530" channel="Nick.in">
     <title lang="en">Motu Patlu</title>
     <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar and always fall into trouble. To get out of those problems, often due to Motu's clumsy actions, they eventually get help from their other friends. India.</desc>
     <credits>

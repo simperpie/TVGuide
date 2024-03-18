@@ -3,57 +3,108 @@
   <channel id="MNXHD.in">
     <display-name lang="en">MNX HD</display-name>
   </channel>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <programme start="20240318053300 +0530" stop="20240318071200 +0530" channel="MNXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240318000800 +0530" stop="20240318014100 +0530" channel="MNXHD.in">
+    <title lang="en">Love Is In The Air</title>
+    <desc lang="en">Antoine, a lawyer from New York, travels to France for the final round of a job interview. On the flight, he is seated next to Julie, his ex-girlfriend, with whom he has to make awkward conversation.</desc>
+    <credits>
+      <actor>Ludivine Sagnier</actor>
+      <actor>Nicolas Bedos</actor>
+      <actor>Jonathan Cohen</actor>
+      <actor>Arnaud Ducret</actor>
+      <actor>Brigitte Catillon</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04E46ED5B6FC1126713DB0A009164B64964D5130U.jpg"/>
   </programme>
-  <programme start="20240318071200 +0530" stop="20240318084000 +0530" channel="MNXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240318014100 +0530" stop="20240318032500 +0530" channel="MNXHD.in">
+    <title lang="en">Fly Me To The Moon</title>
+    <desc lang="en">Isabelle plans to marry a stranger to break the family curse that ends every first marriage in divorce in order to get married to her long-time boyfriend Pierre.</desc>
+    <credits>
+      <actor>Diane Kruger</actor>
+      <actor>Dany Boon</actor>
+      <actor>Alice Pol</actor>
+      <actor>Etienne Chicot</actor>
+      <actor>Robert Plagnol</actor>
+      <actor>Jonathan Cohen</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/626C11EEF06167C8742B0003EF5C747CB6D13D30Z.jpg"/>
   </programme>
-  <programme start="20240318084000 +0530" stop="20240318101900 +0530" channel="MNXHD.in">
+  <programme start="20240318032500 +0530" stop="20240318032900 +0530" channel="MNXHD.in">
+    <title lang="en">Martin Campbell - Casino Royale and 007</title>
+    <desc lang="en">Prominent director Martin Campbell discusses the popular movie Casino Royale and sheds light on the iconic characters in the film.</desc>
+    <credits>
+      <actor>Martin Campbell</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/40188AC2992A8DDF5BBD6D59E0FFCE9953B4DB1DS.jpg"/>
+  </programme>
+  <programme start="20240318032900 +0530" stop="20240318035500 +0530" channel="MNXHD.in">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
+    <credits>
+      <actor>Angela Valley</actor>
+      <actor>Janett Hermosillo</actor>
+      <actor>Ann Marie Lariccia</actor>
+      <actor>Michelle Blenker</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
+  </programme>
+  <programme start="20240318035500 +0530" stop="20240318042000 +0530" channel="MNXHD.in">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
+    <credits>
+      <actor>Angela Valley</actor>
+      <actor>Janett Hermosillo</actor>
+      <actor>Ann Marie Lariccia</actor>
+      <actor>Michelle Blenker</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
+  </programme>
+  <programme start="20240318042000 +0530" stop="20240318053900 +0530" channel="MNXHD.in">
+    <title lang="en">Mune</title>
+    <desc lang="en">When a group of evildoers steal the sun, the guardians of the moon and the sun set out on a journey to fight against the group and retrieve the sun.</desc>
+    <credits>
+      <actor>Omar Sy</actor>
+      <actor>Izia Higelin</actor>
+      <actor>Michael Gregorio</actor>
+      <actor>Joshua J Ballard</actor>
+      <actor>Nicole Provost</actor>
+      <actor>Trevor Devall</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2FDF98DAFFA63E1ED1CF8BE25006E8B88E5BDDFE.jpg"/>
+  </programme>
+  <programme start="20240318053900 +0530" stop="20240318072000 +0530" channel="MNXHD.in">
+    <title lang="en">Wild For The Night</title>
+    <desc lang="en">When an ex-convict returns home to solve his sister's murder, the authority forces him to go undercover to help them bust illegal activities at a nightclub.</desc>
+    <credits>
+      <actor>James Maslow</actor>
+      <actor>Caitlin McHugh</actor>
+      <actor>Tommy Flanagan</actor>
+      <actor>R Marcos Taylor</actor>
+      <actor>Jade Tailor</actor>
+      <actor>Emilio Rivera</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/769AB22B846992D513798C06FB6E03C2227D5221N.jpg"/>
+  </programme>
+  <programme start="20240318072000 +0530" stop="20240318084900 +0530" channel="MNXHD.in">
+    <title lang="en">Fallen</title>
+    <desc lang="en">Detective John Hobbes witnesses the execution of a demonic serial killer, Edgar Reese. However, the killings resume and are very similar to the style of Reese.</desc>
+    <credits>
+      <actor>Denzel Washington</actor>
+      <actor>John Goodman</actor>
+      <actor>Donald Sutherland</actor>
+      <actor>Embeth Davidtz</actor>
+      <actor>James Gandolfini</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11FB6415A07B0AD7D073D4B3587CA22ED0BD830EM.jpg"/>
+  </programme>
+  <programme start="20240318084900 +0530" stop="20240318102500 +0530" channel="MNXHD.in">
     <title lang="en">Marco Polo</title>
     <desc lang="en">Venetian merchant and adventurer Marco Polo journeys across Europe and Asia and lands up as a prisoner in the palace of Kublai Khan, a 13th century Mongolian emperor. USA 2014.</desc>
     <credits>
@@ -66,52 +117,525 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CD870B9266D1CF83C67315B2D00410703711D403.jpg"/>
   </programme>
-  <programme start="20240318101900 +0530" stop="20240318120600 +0530" channel="MNXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240318102500 +0530" stop="20240318122400 +0530" channel="MNXHD.in">
+    <title lang="en">Wrath of Man</title>
+    <desc lang="en">H is a mysterious man who starts working for a cash moving truck company. He becomes known for using amazing precision and dexterity to neutralise robbers. However, H is actually out for revenge.</desc>
+    <credits>
+      <actor>Jason Statham</actor>
+      <actor>Holt McCallany</actor>
+      <actor>Josh Hartnett</actor>
+      <actor>Jeffrey Donovan</actor>
+      <actor>Scott Eastwood</actor>
+      <actor>Andy Garcia</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FAC1DABAFD4E8DE32279C60A32CCD33FCFCB2F37L.jpg"/>
   </programme>
-  <programme start="20240318120600 +0530" stop="20240318134100 +0530" channel="MNXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240318122400 +0530" stop="20240318144500 +0530" channel="MNXHD.in">
+    <title lang="en">Watchmen</title>
+    <desc lang="en">A group of superheroes come out of retirement to investigate the shocking death of one of their own. However, their efforts lead them to a conspiracy that makes them question their morals.</desc>
+    <credits>
+      <actor>Malin Akerman</actor>
+      <actor>Billy Crudup</actor>
+      <actor>Matthew Goode</actor>
+      <actor>Jackie Earle Haley</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Carla Gugino</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A55BC70F7455FA1F9C46CBEB737D9522D4DB45E4U.jpg"/>
   </programme>
-  <programme start="20240318134100 +0530" stop="20240318152100 +0530" channel="MNXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240318144500 +0530" stop="20240318161100 +0530" channel="MNXHD.in">
+    <title lang="en">The Darkest Hour</title>
+    <desc lang="en">Five civilians turn heroes to save the people of Moscow city from an alien invasion. They soon learn that the invasion is worldwide and begin to discover a way to kill the aliens.</desc>
+    <credits>
+      <actor>Emile Hirsch</actor>
+      <actor>Olivia Thirlby</actor>
+      <actor>Max Minghella</actor>
+      <actor>Rachael Taylor</actor>
+      <actor>Joel Kinnaman</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB0748D22367EF93F032E55F32E7882738EBAC48O.jpg"/>
   </programme>
-  <programme start="20240318152100 +0530" stop="20240318172000 +0530" channel="MNXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240318161100 +0530" stop="20240318174500 +0530" channel="MNXHD.in">
+    <title lang="en">10 Cloverfield Lane</title>
+    <desc lang="en">A woman wakes up in a bunker with two men who claim that the world is destroyed by an attack and then, she escapes and discovers aliens outside.</desc>
+    <credits>
+      <actor>Mary Elizabeth Winstead</actor>
+      <actor>John Goodman</actor>
+      <actor>John Gallagher Jr</actor>
+      <actor>Suzanne Cryer</actor>
+      <actor>Bradley Cooper</actor>
+      <actor>Sumalee Montano</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6A8EAF0574DE33905A000F4EBBF0B227D8166E51O.jpg"/>
   </programme>
-  <programme start="20240318172000 +0530" stop="20240318191900 +0530" channel="MNXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240318174500 +0530" stop="20240318191100 +0530" channel="MNXHD.in">
+    <title lang="en">Disciples Of The 36th Chamber</title>
+    <desc lang="en">A Shaolin monk attempts to change the habits of a brash young troublemaker, Sai-Yuk. Though Sai-Yuk manages to leave the temple at night, he falls into the trap of a malicious governor.</desc>
+    <credits>
+      <actor>Hou Hsiao</actor>
+      <actor>Gordon Liu</actor>
+      <actor>Lily Li</actor>
+      <actor>Lau Kar Leung</actor>
+      <actor>Hoi Sang Lee</actor>
+      <actor>Hsin Nan Hung</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3FFC7457ADC817C7808891A35590D000F3FF43EK.jpg"/>
   </programme>
-  <programme start="20240318191900 +0530" stop="20240318210000 +0530" channel="MNXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240318191100 +0530" stop="20240318210000 +0530" channel="MNXHD.in">
+    <title lang="en">Apocalypto</title>
+    <desc lang="en">Jaguar Paw, a young man, is captured by rulers of the Mayan kingdom. When they decide to sacrifice him, he makes a plan to escape death.</desc>
+    <credits>
+      <actor>Rudy Youngblood</actor>
+      <actor>Dalia Hernandez</actor>
+      <actor>Jonathan Brewer</actor>
+      <actor>Mayra Serbulo</actor>
+      <actor>Morris Birdyellowhead</actor>
+      <actor>Carlos Emilio Baez</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B1FB095F1BE56945668FB7600D55D121809B1892.jpg"/>
   </programme>
-  <programme start="20240318210000 +0530" stop="20240318231000 +0530" channel="MNXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240318210000 +0530" stop="20240318231100 +0530" channel="MNXHD.in">
+    <title lang="en">Die Hard</title>
+    <desc lang="en">Hoping to spend Christmas with his estranged wife, detective John McClane arrives in LA. However, he learns about a hostage situation in an office building and his wife is one of the hostages.</desc>
+    <credits>
+      <actor>Bruce Willis</actor>
+      <actor>Alan Rickman</actor>
+      <actor>Alexander Godunov</actor>
+      <actor>Bonnie Bedelia</actor>
+      <actor>Reginald VelJohnson</actor>
+      <actor>Paul Gleason</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/74879C4E8968698FAD6D81EB5D94C4FEC3474F83O.jpg"/>
   </programme>
-  <programme start="20240318231000 +0530" stop="20240319003200 +0530" channel="MNXHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240318231100 +0530" stop="20240319012600 +0530" channel="MNXHD.in">
+    <title lang="en">A Cure For Wellness</title>
+    <desc lang="en">Lockhart travels to a mysterious wellness spa in the Swiss Alps to retrieve his company's CEO. However, he encounters strange things that make him question the spa's seemingly miraculous treatments.</desc>
+    <credits>
+      <actor>Dane DeHaan</actor>
+      <actor>Jason Isaacs</actor>
+      <actor>Mia Goth</actor>
+      <actor>Harry Groener</actor>
+      <actor>Celia Imrie</actor>
+      <actor>Adrian Schiller</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBC1D2359CF8A8C41B15D6B9AE2632719D3157FBC.jpg"/>
+  </programme>
+  <programme start="20240319012600 +0530" stop="20240319024800 +0530" channel="MNXHD.in">
+    <title lang="en">Land Of The Bears</title>
+    <desc lang="en">The filmmaker observes the mannerisms, daily activities and adventures of five wild brown bears in the Kamchatka Peninsula.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7855BA6DF421D14D58B8183E6CD1F3A515A90151.jpg"/>
+  </programme>
+  <programme start="20240319024800 +0530" stop="20240319042000 +0530" channel="MNXHD.in">
+    <title lang="en">Love Is In The Air</title>
+    <desc lang="en">Antoine, a lawyer from New York, travels to France for the final round of a job interview. On the flight, he is seated next to Julie, his ex-girlfriend, with whom he has to make awkward conversation.</desc>
+    <credits>
+      <actor>Ludivine Sagnier</actor>
+      <actor>Nicolas Bedos</actor>
+      <actor>Jonathan Cohen</actor>
+      <actor>Arnaud Ducret</actor>
+      <actor>Brigitte Catillon</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04E46ED5B6FC1126713DB0A009164B64964D5130U.jpg"/>
+  </programme>
+  <programme start="20240319042000 +0530" stop="20240319042500 +0530" channel="MNXHD.in">
+    <title lang="en">Rob Reiner - When Harry Met Sally</title>
+    <desc lang="en">Director Rob Reiner talks about his 1989 movie 'When Harry Met Sally...', shares his on-set experiences and reveals interesting information about the film.</desc>
+    <credits>
+      <actor>Rob Reiner</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/162CEB989D6448B564BA8E16026D12AA40490E3DQ.jpg"/>
+  </programme>
+  <programme start="20240319042500 +0530" stop="20240319054900 +0530" channel="MNXHD.in">
+    <title lang="en">Fallen</title>
+    <desc lang="en">Detective John Hobbes witnesses the execution of a demonic serial killer, Edgar Reese. However, the killings resume and are very similar to the style of Reese.</desc>
+    <credits>
+      <actor>Denzel Washington</actor>
+      <actor>John Goodman</actor>
+      <actor>Donald Sutherland</actor>
+      <actor>Embeth Davidtz</actor>
+      <actor>James Gandolfini</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11FB6415A07B0AD7D073D4B3587CA22ED0BD830EM.jpg"/>
+  </programme>
+  <programme start="20240319054900 +0530" stop="20240319073000 +0530" channel="MNXHD.in">
+    <title lang="en">Wild For The Night</title>
+    <desc lang="en">When an ex-convict returns home to solve his sister's murder, the authority forces him to go undercover to help them bust illegal activities at a nightclub.</desc>
+    <credits>
+      <actor>James Maslow</actor>
+      <actor>Caitlin McHugh</actor>
+      <actor>Tommy Flanagan</actor>
+      <actor>R Marcos Taylor</actor>
+      <actor>Jade Tailor</actor>
+      <actor>Emilio Rivera</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/769AB22B846992D513798C06FB6E03C2227D5221N.jpg"/>
+  </programme>
+  <programme start="20240319073000 +0530" stop="20240319085100 +0530" channel="MNXHD.in">
+    <title lang="en">Mune</title>
+    <desc lang="en">When a group of evildoers steal the sun, the guardians of the moon and the sun set out on a journey to fight against the group and retrieve the sun.</desc>
+    <credits>
+      <actor>Omar Sy</actor>
+      <actor>Izia Higelin</actor>
+      <actor>Michael Gregorio</actor>
+      <actor>Joshua J Ballard</actor>
+      <actor>Nicole Provost</actor>
+      <actor>Trevor Devall</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2FDF98DAFFA63E1ED1CF8BE25006E8B88E5BDDFE.jpg"/>
+  </programme>
+  <programme start="20240319085100 +0530" stop="20240319101800 +0530" channel="MNXHD.in">
+    <title lang="en">Disciples Of The 36th Chamber</title>
+    <desc lang="en">A Shaolin monk attempts to change the habits of a brash young troublemaker, Sai-Yuk. Though Sai-Yuk manages to leave the temple at night, he falls into the trap of a malicious governor.</desc>
+    <credits>
+      <actor>Hou Hsiao</actor>
+      <actor>Gordon Liu</actor>
+      <actor>Lily Li</actor>
+      <actor>Lau Kar Leung</actor>
+      <actor>Hoi Sang Lee</actor>
+      <actor>Hsin Nan Hung</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3FFC7457ADC817C7808891A35590D000F3FF43EK.jpg"/>
+  </programme>
+  <programme start="20240319101800 +0530" stop="20240319114000 +0530" channel="MNXHD.in">
+    <title lang="en">Men In Black II</title>
+    <desc lang="en">Agent J is after a shapeshifting alien seeking a powerful but little-known object. To save the world, he must reunite with his former partner, Agent K.</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Rip Torn</actor>
+      <actor>Lara Flynn Boyle</actor>
+      <actor>Johnny Knoxville</actor>
+      <actor>Rosario Dawson</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D3ABF17FE398BDF45B4BA47DD7723E5F29B382044.jpg"/>
+  </programme>
+  <programme start="20240319114000 +0530" stop="20240319135200 +0530" channel="MNXHD.in">
+    <title lang="en">Die Hard</title>
+    <desc lang="en">Hoping to spend Christmas with his estranged wife, detective John McClane arrives in LA. However, he learns about a hostage situation in an office building and his wife is one of the hostages.</desc>
+    <credits>
+      <actor>Bruce Willis</actor>
+      <actor>Alan Rickman</actor>
+      <actor>Alexander Godunov</actor>
+      <actor>Bonnie Bedelia</actor>
+      <actor>Reginald VelJohnson</actor>
+      <actor>Paul Gleason</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/74879C4E8968698FAD6D81EB5D94C4FEC3474F83O.jpg"/>
+  </programme>
+  <programme start="20240319135200 +0530" stop="20240319153100 +0530" channel="MNXHD.in">
+    <title lang="en">Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">When Shredder and his evil Foot Clan wreak havoc in New York, four genetically mutated turtles rise from the sewers to free the city from his control.</desc>
+    <credits>
+      <actor>Pete Ploszek</actor>
+      <actor>Jeremy Howard</actor>
+      <actor>Alan Ritchson</actor>
+      <actor>Noel Fisher</actor>
+      <actor>Megan Fox</actor>
+      <actor>Danny Woodburn</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3B71DF0DCC75471AB2D340A77C4BC6415805AAAF4.jpg"/>
+  </programme>
+  <programme start="20240319153100 +0530" stop="20240319174800 +0530" channel="MNXHD.in">
+    <title lang="en">A Cure For Wellness</title>
+    <desc lang="en">Lockhart travels to a mysterious wellness spa in the Swiss Alps to retrieve his company's CEO. However, he encounters strange things that make him question the spa's seemingly miraculous treatments.</desc>
+    <credits>
+      <actor>Dane DeHaan</actor>
+      <actor>Jason Isaacs</actor>
+      <actor>Mia Goth</actor>
+      <actor>Harry Groener</actor>
+      <actor>Celia Imrie</actor>
+      <actor>Adrian Schiller</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBC1D2359CF8A8C41B15D6B9AE2632719D3157FBC.jpg"/>
+  </programme>
+  <programme start="20240319174800 +0530" stop="20240319192600 +0530" channel="MNXHD.in">
+    <title lang="en">Marco Polo</title>
+    <desc lang="en">Venetian merchant and adventurer Marco Polo journeys across Europe and Asia and lands up as a prisoner in the palace of Kublai Khan, a 13th century Mongolian emperor. USA 2014.</desc>
+    <credits>
+      <actor>Lorenzo Richelmy</actor>
+      <actor>Benedict Wong</actor>
+      <actor>Joan Chen</actor>
+      <actor>Remy Hii</actor>
+      <actor>Uli Latukefu</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CD870B9266D1CF83C67315B2D00410703711D403.jpg"/>
+  </programme>
+  <programme start="20240319192600 +0530" stop="20240319210000 +0530" channel="MNXHD.in">
+    <title lang="en">Tropic Thunder</title>
+    <desc lang="en">A film crew shooting a big-budget war movie are forced to become the soldiers they are portraying, when they are attacked by a gang of poppy-growing local drug dealer, due to mistaken identities.</desc>
+    <credits>
+      <actor>Ben Stiller</actor>
+      <actor>Jack Black</actor>
+      <actor>Robert Downey Jr.</actor>
+      <actor>Nick Nolte</actor>
+      <actor>Steve Coogan</actor>
+      <actor>Jay Baruchel</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9937E3A67A5BEE369D4F2458D21D1B13BA7143FES.jpg"/>
+  </programme>
+  <programme start="20240319210000 +0530" stop="20240319231300 +0530" channel="MNXHD.in">
+    <title lang="en">Godzilla</title>
+    <desc lang="en">A giant, mutated lizard goes on a rampage across New York City after attacking a freighter in the Pacific. The disastrous event brings together a team of unlikely heroes who must save the day.</desc>
+    <credits>
+      <actor>Matthew Broderick</actor>
+      <actor>Jean Reno</actor>
+      <actor>Maria Pitillo</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Kevin Dunn</actor>
+      <actor>Michael Lerner</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7306EEEFC969895B189E13664F20512ABE5814261.jpg"/>
+  </programme>
+  <programme start="20240319231300 +0530" stop="20240320003500 +0530" channel="MNXHD.in">
+    <title lang="en">Hostel</title>
+    <desc lang="en">Three travellers meet a man who convinces them to visit a hostel in Slovakia with beautiful women. However, when they reach their destination, they encounter terrifying situations.</desc>
+    <credits>
+      <actor>Jay Hernandez</actor>
+      <actor>Derek Richardson</actor>
+      <actor>Eythor Gudjonsson</actor>
+      <actor>Jennifer Lim</actor>
+      <actor>Barbara Nedeljakova</actor>
+      <actor>Jana Kaderabkova</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A2DFE100813F6E9AB4695B8C5F66C8D382241013J.jpg"/>
+  </programme>
+  <programme start="20240320003500 +0530" stop="20240320021000 +0530" channel="MNXHD.in">
+    <title lang="en">Street Kings</title>
+    <desc lang="en">Policeman Tom Ludlow gets disillusioned after the death of his wife. However, when he is accused of killing a fellow officer, he begins to go against his own people and question their loyalty.</desc>
+    <credits>
+      <actor>Keanu Reeves</actor>
+      <actor>Hugh Laurie</actor>
+      <actor>Chris Evans</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Naomie Harris</actor>
+      <actor>John Corbett</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FCD1533EC1FDBF6C784018CBFB96E0CCE05BDCFK.jpg"/>
+  </programme>
+  <programme start="20240320021000 +0530" stop="20240320032000 +0530" channel="MNXHD.in">
+    <title lang="en">Fallen</title>
+    <desc lang="en">Detective John Hobbes witnesses the execution of a demonic serial killer, Edgar Reese. However, the killings resume and are very similar to the style of Reese.</desc>
+    <credits>
+      <actor>Denzel Washington</actor>
+      <actor>John Goodman</actor>
+      <actor>Donald Sutherland</actor>
+      <actor>Embeth Davidtz</actor>
+      <actor>James Gandolfini</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11FB6415A07B0AD7D073D4B3587CA22ED0BD830EM.jpg"/>
+  </programme>
+  <programme start="20240320032000 +0530" stop="20240320035000 +0530" channel="MNXHD.in">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
+    <credits>
+      <actor>Angela Valley</actor>
+      <actor>Janett Hermosillo</actor>
+      <actor>Ann Marie Lariccia</actor>
+      <actor>Michelle Blenker</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
+  </programme>
+  <programme start="20240320035000 +0530" stop="20240320041500 +0530" channel="MNXHD.in">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">The host sheds light on the making of various films, giving the behind-the-scenes updates from movie sets and interacting with actors and crew members. USA 2003.</desc>
+    <credits>
+      <actor>Angela Valley</actor>
+      <actor>Janett Hermosillo</actor>
+      <actor>Ann Marie Lariccia</actor>
+      <actor>Michelle Blenker</actor>
+    </credits>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B35A5033398F605B374D9506506F4EB41D3F8FCZ.jpg"/>
+  </programme>
+  <programme start="20240320041500 +0530" stop="20240320054000 +0530" channel="MNXHD.in">
+    <title lang="en">Fallen</title>
+    <desc lang="en">Detective John Hobbes witnesses the execution of a demonic serial killer, Edgar Reese. However, the killings resume and are very similar to the style of Reese.</desc>
+    <credits>
+      <actor>Denzel Washington</actor>
+      <actor>John Goodman</actor>
+      <actor>Donald Sutherland</actor>
+      <actor>Embeth Davidtz</actor>
+      <actor>James Gandolfini</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11FB6415A07B0AD7D073D4B3587CA22ED0BD830EM.jpg"/>
+  </programme>
+  <programme start="20240320054000 +0530" stop="20240320071500 +0530" channel="MNXHD.in">
+    <title lang="en">Love Is In The Air</title>
+    <desc lang="en">Antoine, a lawyer from New York, travels to France for the final round of a job interview. On the flight, he is seated next to Julie, his ex-girlfriend, with whom he has to make awkward conversation.</desc>
+    <credits>
+      <actor>Ludivine Sagnier</actor>
+      <actor>Nicolas Bedos</actor>
+      <actor>Jonathan Cohen</actor>
+      <actor>Arnaud Ducret</actor>
+      <actor>Brigitte Catillon</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/04E46ED5B6FC1126713DB0A009164B64964D5130U.jpg"/>
+  </programme>
+  <programme start="20240320071500 +0530" stop="20240320090500 +0530" channel="MNXHD.in">
+    <title lang="en">Fly Me To The Moon</title>
+    <desc lang="en">Isabelle plans to marry a stranger to break the family curse that ends every first marriage in divorce in order to get married to her long-time boyfriend Pierre.</desc>
+    <credits>
+      <actor>Diane Kruger</actor>
+      <actor>Dany Boon</actor>
+      <actor>Alice Pol</actor>
+      <actor>Etienne Chicot</actor>
+      <actor>Robert Plagnol</actor>
+      <actor>Jonathan Cohen</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/626C11EEF06167C8742B0003EF5C747CB6D13D30Z.jpg"/>
+  </programme>
+  <programme start="20240320090500 +0530" stop="20240320104500 +0530" channel="MNXHD.in">
+    <title lang="en">Step Up Revolution</title>
+    <desc lang="en">Two young aspiring dancers find love in each other while fighting to save their neighbourhood in Miami from a developer.</desc>
+    <credits>
+      <actor>Ryan Guzman</actor>
+      <actor>Kathryn McCormick</actor>
+      <actor>Misha Gabriel Hamilton</actor>
+      <actor>Peter Gallagher</actor>
+      <actor>Stephen Boss</actor>
+      <actor>Tommy Dewey</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/739A94DB063CB8CF217A68B9E85CF55BBF26AE77W.jpg"/>
+  </programme>
+  <programme start="20240320104500 +0530" stop="20240320122000 +0530" channel="MNXHD.in">
+    <title lang="en">Unsane</title>
+    <desc lang="en">Sawyer Valentini involuntarily admits herself to a mental care institution. She soon realises that one of the staff members is a dangerous stalker and tries to prove her sanity before it is too late.</desc>
+    <credits>
+      <actor>Claire Foy</actor>
+      <actor>Joshua Leonard</actor>
+      <actor>Jay Pharoah</actor>
+      <actor>Juno Temple</actor>
+      <actor>Aimee Mullins</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C4AD242F2BB54B9C59FDF453592C6CB3D6B24D80I.jpg"/>
+  </programme>
+  <programme start="20240320122000 +0530" stop="20240320140500 +0530" channel="MNXHD.in">
+    <title lang="en">Three Musketeers</title>
+    <desc lang="en">D'Artagnan and his friends Athos, Porthos and Aramis, battle to save France from the evil and dangerous Cardinal Richelieu. USA.</desc>
+    <credits>
+      <actor>Logan Lerman</actor>
+      <actor>Matthew MacFadyen</actor>
+      <actor>Ray Stevenson</actor>
+      <actor>Luke Evans</actor>
+      <actor>Milla Jovovich</actor>
+      <actor>Mads Mikkelsen</actor>
+    </credits>
+    <category lang="en">Animation Kids</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51C361C187A0125C14699CEDEA17D8F9095DD85AH.jpg"/>
+  </programme>
+  <programme start="20240320140500 +0530" stop="20240320162000 +0530" channel="MNXHD.in">
+    <title lang="en">Watchmen</title>
+    <desc lang="en">A group of superheroes come out of retirement to investigate the shocking death of one of their own. However, their efforts lead them to a conspiracy that makes them question their morals.</desc>
+    <credits>
+      <actor>Malin Akerman</actor>
+      <actor>Billy Crudup</actor>
+      <actor>Matthew Goode</actor>
+      <actor>Jackie Earle Haley</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Carla Gugino</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A55BC70F7455FA1F9C46CBEB737D9522D4DB45E4U.jpg"/>
+  </programme>
+  <programme start="20240320162000 +0530" stop="20240320174000 +0530" channel="MNXHD.in">
+    <title lang="en">Men In Black II</title>
+    <desc lang="en">Agent J is after a shapeshifting alien seeking a powerful but little-known object. To save the world, he must reunite with his former partner, Agent K.</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Rip Torn</actor>
+      <actor>Lara Flynn Boyle</actor>
+      <actor>Johnny Knoxville</actor>
+      <actor>Rosario Dawson</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D3ABF17FE398BDF45B4BA47DD7723E5F29B382044.jpg"/>
+  </programme>
+  <programme start="20240320174000 +0530" stop="20240320191500 +0530" channel="MNXHD.in">
+    <title lang="en">Return to the 36th Chamber</title>
+    <desc lang="en">The workers at a dye firm are depressed after learning that their employer has reduced their pay and recruited Manchu executives. However, a con artist assists them in obtaining their full salary.</desc>
+    <credits>
+      <actor>Gordon Liu</actor>
+      <actor>Kara Hui</actor>
+      <actor>Hsiao Ho</actor>
+      <actor>Wong Ching Ho</actor>
+      <actor>Wa Lun</actor>
+      <actor>Lee King Chue</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D276D63765EEE21084825A07052E26D2B3D83907.jpg"/>
+  </programme>
+  <programme start="20240320191500 +0530" stop="20240320210000 +0530" channel="MNXHD.in">
+    <title lang="en">The Last Stand</title>
+    <desc lang="en">Ray, a former LAPD narcotics officer, must enlist the help of a ragtag group of his townsfolk to stop Gabriel Cortez, an international drug lord, from crossing over the border to Mexico.</desc>
+    <credits>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Johnny Knoxville</actor>
+      <actor>Rodrigo Santoro</actor>
+      <actor>Jaimie Alexander</actor>
+      <actor>Luis Guzman</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE29C58EE85534431DBF9EC6A78682F663A44CB1E.jpg"/>
+  </programme>
+  <programme start="20240320210000 +0530" stop="20240320224000 +0530" channel="MNXHD.in">
+    <title lang="en">Men In Black 3</title>
+    <desc lang="en">Agent J of the Men in Black goes back in time to prevent the assassination of his partner, Agent K, at the hands of an alien criminal named Boris the Animal.</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Jemaine Clement</actor>
+      <actor>Emma Thompson</actor>
+      <actor>Alice Eve</actor>
+    </credits>
+    <category lang="en">Sci - Fi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2E2BC59056D65B9BF7ECD8486825724A098BB426B.jpg"/>
+  </programme>
+  <programme start="20240320224000 +0530" stop="20240321004500 +0530" channel="MNXHD.in">
+    <title lang="en">Jaws</title>
+    <desc lang="en">A police chief, a marine scientist and a fisherman spring into action after a great white shark begins to terrorise the inhabitants of Amity, a quiet island.</desc>
+    <credits>
+      <actor>Roy Scheider</actor>
+      <actor>Robert Shaw</actor>
+      <actor>Richard Dreyfuss</actor>
+      <actor>Lorraine Gary</actor>
+      <actor>Murray Hamilton</actor>
+      <actor>Carl Gottlieb</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C25191C2D84A0D5FC972A54DC85D92C51FD73534.jpg"/>
   </programme>
 </tv>

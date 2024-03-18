@@ -3,59 +3,254 @@
   <channel id="STARGOLDHD.in">
     <display-name lang="en">STAR GOLD HD</display-name>
   </channel>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <programme start="20240318060000 +0530" stop="20240318090000 +0530" channel="STARGOLDHD.in">
+  <programme start="20240318012800 +0530" stop="20240318033900 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Shootout At Wadala</title>
+    <desc lang="en">Manya, a diligent student, lands in prison for killing a gangster who attacked his brother, Bhargav, who eventually dies. Soon, Manya escapes jail and forms his own gang to seek revenge.</desc>
+    <credits>
+      <actor>John Abraham</actor>
+      <actor>Anil Kapoor</actor>
+      <actor>Kangana Ranaut</actor>
+      <actor>Tusshar Kapoor</actor>
+      <actor>Sonu Sood</actor>
+      <actor>Manoj Bajpai</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/769B1A8C285F9FD244368F52CDAAE21F4268E09EM.jpg"/>
+  </programme>
+  <programme start="20240318033900 +0530" stop="20240318044200 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Team 5</title>
+    <desc lang="en">Akhil, a passionate rider, is part of a bike racing group which performs stunts and participates in tournaments across the city. His life changes when he falls for Irene, an event manager.</desc>
+    <credits>
+      <actor>S Sreesanth</actor>
+      <actor>Nikki Galrani</actor>
+      <actor>Pearle Maaney</actor>
+      <actor>Makrand Deshpande</actor>
+      <actor>Sumesh Krishnan</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BACD28CC0261E23E0BCCCBBDB7D61C3C19D8DA277.jpg"/>
+  </programme>
+  <programme start="20240318044200 +0530" stop="20240318050000 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240318050000 +0530" stop="20240318062900 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Dandupalya 2</title>
+    <desc lang="en">Upon prosecution, when a gang gets arrested and sentenced to death for eighty murders, a journalist takes it on herself to investigate the case.</desc>
+    <credits>
+      <actor>Pooja Gandhi</actor>
+      <actor>Sanjjanaa</actor>
+      <actor>Makarand Deshpande</actor>
+      <actor>P Ravishankar</actor>
+      <actor>Ravi Kale</actor>
+      <actor>Girija</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E216B9758C1723D22741770A1477664A2F9E2FF7Q.jpg"/>
+  </programme>
+  <programme start="20240318062900 +0530" stop="20240318084500 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Housefull 3</title>
+    <desc lang="en">A rich businessman does not want his three daughters to get married because of a superstitious belief. Now, their boyfriends must prove to him that they are perfect for his daughters.</desc>
+    <credits>
+      <actor>Akshay Kumar</actor>
+      <actor>Jacqueline Fernandez</actor>
+      <actor>Riteish Deshmukh</actor>
+      <actor>Lisa Haydon</actor>
+      <actor>Abhishek Bachchan</actor>
+      <actor>Nargis Fakhri</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B011AF287E6F1BAD6EC34EA756A8F0238DBF7738N.jpg"/>
+  </programme>
+  <programme start="20240318084500 +0530" stop="20240318111900 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Maine Pyaar Kyun Kiya</title>
+    <desc lang="en">Sameer lies to his girlfriend, Sonia, that he is in an unhappy marriage. However, when he falls in love with her, she asks to meet his estranged wife and puts him in a predicament as a result.</desc>
+    <credits>
+      <actor>Salman Khan</actor>
+      <actor>Sushmita Sen</actor>
+      <actor>Katrina Kaif</actor>
+      <actor>Sohail Khan</actor>
+      <actor>Beena Kak</actor>
+      <actor>Arshad Warsi</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A51555B2EB0C8474377424BB13BE35FD3723977FH.jpg"/>
+  </programme>
+  <programme start="20240318111900 +0530" stop="20240318140500 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Ved</title>
+    <desc lang="en">A depressed alcoholic finds redemption when his ex-lover's orphaned daughter decides to live with him. However, the young girl puts forth a condition for her adoption.</desc>
+    <credits>
+      <actor>Riteish Deshmukh</actor>
+      <actor>Genelia Deshmukh</actor>
+      <actor>Jiya Shankar</actor>
+      <actor>Ashok Saraf</actor>
+      <actor>Vidyadhar Joshi</actor>
+      <actor>Raviraj Kande</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/575998968179F1EA2F828BC9A001A4E0D33C6D783.jpg"/>
+  </programme>
+  <programme start="20240318140500 +0530" stop="20240318171100 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Ravan Vadh</title>
+    <desc lang="en">Rama, the prince of Ayodhya, goes into exile due to his father's promise. Later, Ravana kidnaps Sita and Rama wages a war against him to rescue her and returns to Ayodhya to be crowned king.</desc>
+    <credits>
+      <actor>Arun Govil</actor>
+      <actor>Deepika Chikhalia</actor>
+      <actor>Sunil Lahari</actor>
+      <actor>Sanjay Jog</actor>
+      <actor>Arvind Trivedi</actor>
+      <actor>Dara Singh</actor>
+    </credits>
+    <category lang="en">Family</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/68EE4A5F777322C21AA84303B956878A81BDE829P.jpg"/>
+  </programme>
+  <programme start="20240318171100 +0530" stop="20240318195500 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Golmaal - Fun Unlimited</title>
+    <desc lang="en">Friends Gopal, Lucky, Madhav and Laxman often dupe gullible people out of their money. Hilarity ensues when they target a middle-aged couple and simultaneously try wooing their beautiful neighbour.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Tusshar Kapoor</actor>
+      <actor>Arshad Warsi</actor>
+      <actor>Sharman Joshi</actor>
+      <actor>Rimi Sen</actor>
+      <actor>Paresh Rawal</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D96CE08171F8FC491D5324F0A6665E778EC64837C.jpg"/>
+  </programme>
+  <programme start="20240318195500 +0530" stop="20240318224000 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Singham</title>
+    <desc lang="en">An honest and valiant policeman, Bajirao Singham, fights against injustice. However, when he encounters a corrupt politician, Jaikant Shikre, he decides to teach him a lesson.</desc>
+    <credits>
+      <actor>Ajay Devgn</actor>
+      <actor>Kajal Aggarwal</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Sonali Kulkarni</actor>
+      <actor>Sachin Khedekar</actor>
+      <actor>Ashok Saraf</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99D243197746972CCF1AF5B341882C606B6799A18.jpg"/>
+  </programme>
+  <programme start="20240318224000 +0530" stop="20240319005900 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Khuda Haafiz</title>
+    <desc lang="en">Sameer, a young man, leads a content life with Nargis, his wife. However, when she is kidnapped by human traffickers, he must rescue her before it is too late.</desc>
+    <credits>
+      <actor>Vidyut Jammwal</actor>
+      <actor>Shivaleeka Oberoi</actor>
+      <actor>Annu Kapoor</actor>
+      <actor>Shiv Pandit</actor>
+      <actor>Aahana Kumra</actor>
+      <actor>Vipin Sharma</actor>
+    </credits>
+    <category lang="en">Thriller</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E914B90255F010D53B271AF1CE47B05F06971187W.jpg"/>
+  </programme>
+  <programme start="20240319005500 +0530" stop="20240319031300 +0530" channel="STARGOLDHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240318090000 +0530" stop="20240318120000 +0530" channel="STARGOLDHD.in">
+  <programme start="20240319031300 +0530" stop="20240319060000 +0530" channel="STARGOLDHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240318120000 +0530" stop="20240318150000 +0530" channel="STARGOLDHD.in">
+  <programme start="20240319060000 +0530" stop="20240319090000 +0530" channel="STARGOLDHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240318150000 +0530" stop="20240318180000 +0530" channel="STARGOLDHD.in">
+  <programme start="20240319090000 +0530" stop="20240319120000 +0530" channel="STARGOLDHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240318180000 +0530" stop="20240318210000 +0530" channel="STARGOLDHD.in">
+  <programme start="20240319120000 +0530" stop="20240319150000 +0530" channel="STARGOLDHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240318210000 +0530" stop="20240319030000 +0530" channel="STARGOLDHD.in">
+  <programme start="20240319150000 +0530" stop="20240319180000 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240319180000 +0530" stop="20240319210000 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240319210000 +0530" stop="20240320013100 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320013100 +0530" stop="20240320032300 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320032300 +0530" stop="20240320052800 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320052800 +0530" stop="20240320055000 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Filler</title>
+    <desc lang="en">Filler</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  </programme>
+  <programme start="20240320055000 +0530" stop="20240320081800 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320081800 +0530" stop="20240320113300 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320113300 +0530" stop="20240320140100 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320140100 +0530" stop="20240320172300 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320172300 +0530" stop="20240320195500 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320195500 +0530" stop="20240320230300 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320230300 +0530" stop="20240321012800 +0530" channel="STARGOLDHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
