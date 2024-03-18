@@ -3,727 +3,116 @@
   <channel id="CNBCAwaaz.in">
     <display-name lang="en">CNBC Awaaz</display-name>
   </channel>
-  <programme start="20240316000000 +0530" stop="20240316002000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Takkar</title>
-    <desc lang="en">A panel of experts debates various crucial issues of national and international interest and presents differing opinions.</desc>
-    <credits>
-      <actor>Amish Devgan</actor>
-    </credits>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81A7C3AB05DC5EE1F131908A34CD788BCDC4A43EM.jpg"/>
-  </programme>
-  <programme start="20240316002000 +0530" stop="20240316004000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Takkar</title>
-    <desc lang="en">A panel of experts debates various crucial issues of national and international interest and presents differing opinions.</desc>
-    <credits>
-      <actor>Amish Devgan</actor>
-    </credits>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81A7C3AB05DC5EE1F131908A34CD788BCDC4A43EM.jpg"/>
-  </programme>
-  <programme start="20240316004000 +0530" stop="20240316010000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Takkar</title>
-    <desc lang="en">A panel of experts debates various crucial issues of national and international interest and presents differing opinions.</desc>
-    <credits>
-      <actor>Amish Devgan</actor>
-    </credits>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81A7C3AB05DC5EE1F131908A34CD788BCDC4A43EM.jpg"/>
-  </programme>
-  <programme start="20240316010000 +0530" stop="20240316012000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Makka Aur Shri Anna</title>
-    <desc lang="en">Kisan Hoga Sampann !</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg"/>
-  </programme>
-  <programme start="20240316012000 +0530" stop="20240316014000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Faydemand Funds</title>
-    <desc lang="en">A finance expert talks about mutual fund investment and gives advice to individuals.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/26CAFA2F18C271842E74CCE73818E0DC0E384121V.jpg"/>
-  </programme>
-  <programme start="20240316014000 +0530" stop="20240316022000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Awaaz Adda</title>
-    <desc lang="en">Market Mein Stress ?: Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.</desc>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D258722C99DCB9B66607690A4CCC88582FECF1FEI.jpg"/>
-  </programme>
-  <programme start="20240316022000 +0530" stop="20240316024000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Consumer Adda</title>
-    <desc lang="en">Smart Wellness Apps- All Is Well?: The host presents various products manufactured by popular leading brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/385B36F23E7B968FAB12F4DFF08FABB3C6D4DAD1H.jpg"/>
-  </programme>
-  <programme start="20240316024000 +0530" stop="20240316030000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Takkar</title>
-    <desc lang="en">A panel of experts debates various crucial issues of national and international interest and presents differing opinions.</desc>
-    <credits>
-      <actor>Amish Devgan</actor>
-    </credits>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81A7C3AB05DC5EE1F131908A34CD788BCDC4A43EM.jpg"/>
-  </programme>
-  <programme start="20240316030000 +0530" stop="20240316032000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Takkar</title>
-    <desc lang="en">A panel of experts debates various crucial issues of national and international interest and presents differing opinions.</desc>
-    <credits>
-      <actor>Amish Devgan</actor>
-    </credits>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81A7C3AB05DC5EE1F131908A34CD788BCDC4A43EM.jpg"/>
-  </programme>
-  <programme start="20240316032000 +0530" stop="20240316034000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Makka Aur Shri Anna</title>
-    <desc lang="en">Kisan Hoga Sampann !</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg"/>
-  </programme>
-  <programme start="20240316034000 +0530" stop="20240316040000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Property Guru</title>
-    <desc lang="en">Experts discuss the developments in the real estate sector and solve various queries.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3450BA7E1A6D8F9F969DAF5BC12A69CC8E3A4987H.jpg"/>
-  </programme>
-  <programme start="20240316040000 +0530" stop="20240316042000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Faydemand Funds</title>
-    <desc lang="en">A finance expert talks about mutual fund investment and gives advice to individuals.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/26CAFA2F18C271842E74CCE73818E0DC0E384121V.jpg"/>
-  </programme>
-  <programme start="20240316042000 +0530" stop="20240316044000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Consumer Adda</title>
-    <desc lang="en">Smart Wellness Apps- All Is Well?: The host presents various products manufactured by popular leading brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/385B36F23E7B968FAB12F4DFF08FABB3C6D4DAD1H.jpg"/>
-  </programme>
-  <programme start="20240316044000 +0530" stop="20240316050000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Takkar</title>
-    <desc lang="en">A panel of experts debates various crucial issues of national and international interest and presents differing opinions.</desc>
-    <credits>
-      <actor>Amish Devgan</actor>
-    </credits>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81A7C3AB05DC5EE1F131908A34CD788BCDC4A43EM.jpg"/>
-  </programme>
-  <programme start="20240316050000 +0530" stop="20240316052000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Takkar</title>
-    <desc lang="en">A panel of experts debates various crucial issues of national and international interest and presents differing opinions.</desc>
-    <credits>
-      <actor>Amish Devgan</actor>
-    </credits>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81A7C3AB05DC5EE1F131908A34CD788BCDC4A43EM.jpg"/>
-  </programme>
-  <programme start="20240316052000 +0530" stop="20240316054000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Property Guru</title>
-    <desc lang="en">Experts discuss the developments in the real estate sector and solve various queries.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3450BA7E1A6D8F9F969DAF5BC12A69CC8E3A4987H.jpg"/>
-  </programme>
-  <programme start="20240316054000 +0530" stop="20240316065700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Awaaz Adda</title>
-    <desc lang="en">Market Mein Stress ?: Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.</desc>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D258722C99DCB9B66607690A4CCC88582FECF1FEI.jpg"/>
-  </programme>
-  <programme start="20240316065700 +0530" stop="20240316072700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Consumer Adda</title>
-    <desc lang="en">Smart Wellness Apps- All Is Well?: The host presents various products manufactured by popular leading brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/385B36F23E7B968FAB12F4DFF08FABB3C6D4DAD1H.jpg"/>
-  </programme>
-  <programme start="20240316072700 +0530" stop="20240316075700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tax Guru</title>
-    <desc lang="en">The host talks with financial experts who help investors solve their tax-related queries.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C22F91D9C7F73EED35B9B842D81DD11DA01C5D1V.jpg"/>
-  </programme>
-  <programme start="20240316075700 +0530" stop="20240316082700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Property Guru</title>
-    <desc lang="en">Experts discuss the developments in the real estate sector and solve various queries.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3450BA7E1A6D8F9F969DAF5BC12A69CC8E3A4987H.jpg"/>
-  </programme>
-  <programme start="20240316082700 +0530" stop="20240316085700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Awaaz Entrepreneur</title>
-    <desc lang="en">Entrepreneurs from small and medium sized businesses share their success stories.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96120B15FD716671E26EFF910AD4A75F9257090AV.jpg"/>
-  </programme>
-  <programme start="20240316085700 +0530" stop="20240316092700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Consumer Adda</title>
-    <desc lang="en">Doctoron Ko Uphaar- Sarkar Ka Prahar: The host presents various products manufactured by popular leading brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/385B36F23E7B968FAB12F4DFF08FABB3C6D4DAD1H.jpg"/>
-  </programme>
-  <programme start="20240316092700 +0530" stop="20240316095700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Makka Aur Shri Anna</title>
-    <desc lang="en">Kisan Hoga Sampann !</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg"/>
-  </programme>
-  <programme start="20240316095700 +0530" stop="20240316102700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Faydemand Funds</title>
-    <desc lang="en">A finance expert talks about mutual fund investment and gives advice to individuals.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/26CAFA2F18C271842E74CCE73818E0DC0E384121V.jpg"/>
-  </programme>
-  <programme start="20240316102700 +0530" stop="20240316105700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Consumer Adda</title>
-    <desc lang="en">Aankhon Ka Chor- Glucoma: The host presents various products manufactured by popular leading brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/385B36F23E7B968FAB12F4DFF08FABB3C6D4DAD1H.jpg"/>
-  </programme>
-  <programme start="20240316105700 +0530" stop="20240316112700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Weekly Top Picks</title>
-    <desc lang="en">The host provides weekly updates pertaining to business and finance.</desc>
-    <category lang="en">Business</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8AFB5C69DDFF9CD41B0B89BBD89C4D50B2B1D91C3.jpg"/>
-  </programme>
-  <programme start="20240316112700 +0530" stop="20240316115700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Solar Power- Bachat Bhi, Kamai Bhi !</title>
-    <desc lang="en">The host talks to renowned guests about solar-related schemes provided by the government while highlighting how to install solar panels.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/68C612184A42E7DBB9B9BD07F9656660E5513CA3V.jpg"/>
-  </programme>
-  <programme start="20240316115700 +0530" stop="20240316122700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Awaaz Entrepreneur</title>
-    <desc lang="en">Entrepreneurs from small and medium sized businesses share their success stories.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96120B15FD716671E26EFF910AD4A75F9257090AV.jpg"/>
-  </programme>
-  <programme start="20240316122700 +0530" stop="20240316125700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Property Guru</title>
-    <desc lang="en">Experts discuss the developments in the real estate sector and solve various queries.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3450BA7E1A6D8F9F969DAF5BC12A69CC8E3A4987H.jpg"/>
-  </programme>
-  <programme start="20240316125700 +0530" stop="20240316135700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Awaaz Adda</title>
-    <desc lang="en">Market Mein Stress ?: Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.</desc>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D258722C99DCB9B66607690A4CCC88582FECF1FEI.jpg"/>
-  </programme>
-  <programme start="20240316135700 +0530" stop="20240316142700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Consumer Adda</title>
-    <desc lang="en">Water Purifier- Pure Nahin Service !: The host presents various products manufactured by popular leading brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/385B36F23E7B968FAB12F4DFF08FABB3C6D4DAD1H.jpg"/>
-  </programme>
-  <programme start="20240316142700 +0530" stop="20240316150000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Overdrive</title>
-    <desc lang="en">The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99FD1F7992FC204A9FA0992A3E76CBD8C34D554A2.jpg"/>
-  </programme>
-  <programme start="20240316150000 +0530" stop="20240316155700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Election Commission Press Conf</title>
-    <desc lang="en">Live Cut Into News18 India</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2EE5E2B8FCB1585FAAEA8336067B72582CDA1422K.jpg"/>
-  </programme>
-  <programme start="20240316155700 +0530" stop="20240316162700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Consumer Adda</title>
-    <desc lang="en">Smart Wellness Apps- All Is Well?: The host presents various products manufactured by popular leading brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/385B36F23E7B968FAB12F4DFF08FABB3C6D4DAD1H.jpg"/>
-  </programme>
-  <programme start="20240316162700 +0530" stop="20240316165700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Makka Aur Shri Anna</title>
-    <desc lang="en">Kisan Hoga Sampann !</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F7E444249B45E5C9DFF3EFEEE48ACB2DED467E2L.jpg"/>
-  </programme>
-  <programme start="20240316165700 +0530" stop="20240316172700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Solar Power- Bachat Bhi, Kamai Bhi !</title>
-    <desc lang="en">The host talks to renowned guests about solar-related schemes provided by the government while highlighting how to install solar panels.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/68C612184A42E7DBB9B9BD07F9656660E5513CA3V.jpg"/>
-  </programme>
-  <programme start="20240316172700 +0530" stop="20240316175700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Consumer Adda</title>
-    <desc lang="en">Aankhon Ka Chor- Glucoma: The host presents various products manufactured by popular leading brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/385B36F23E7B968FAB12F4DFF08FABB3C6D4DAD1H.jpg"/>
-  </programme>
-  <programme start="20240316175700 +0530" stop="20240316182700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Sanjeevani</title>
-    <desc lang="en">The host puts the spotlight on the importance of COVID-19 vaccination and talks to various personalities to raise awareness among the public.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7E9DF24CDDC0D6FCF2E486333554777AD1912B30I.jpg"/>
-  </programme>
-  <programme start="20240316182700 +0530" stop="20240316185700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Consumer Adda</title>
-    <desc lang="en">Doctoron Ko Uphaar- Sarkar Ka Prahar: The host presents various products manufactured by popular leading brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/385B36F23E7B968FAB12F4DFF08FABB3C6D4DAD1H.jpg"/>
-  </programme>
-  <programme start="20240316185700 +0530" stop="20240316192700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Weekly Top Picks</title>
-    <desc lang="en">The host provides weekly updates pertaining to business and finance.</desc>
-    <category lang="en">Business</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8AFB5C69DDFF9CD41B0B89BBD89C4D50B2B1D91C3.jpg"/>
-  </programme>
-  <programme start="20240316192700 +0530" stop="20240316195700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Awaaz Entrepreneur</title>
-    <desc lang="en">Entrepreneurs from small and medium sized businesses share their success stories.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96120B15FD716671E26EFF910AD4A75F9257090AV.jpg"/>
-  </programme>
-  <programme start="20240316195700 +0530" stop="20240316205700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Awaaz Adda</title>
-    <desc lang="en">Market Mein Stress ?: Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.</desc>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D258722C99DCB9B66607690A4CCC88582FECF1FEI.jpg"/>
-  </programme>
-  <programme start="20240316205700 +0530" stop="20240316212700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Faydemand Funds</title>
-    <desc lang="en">A finance expert talks about mutual fund investment and gives advice to individuals.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/26CAFA2F18C271842E74CCE73818E0DC0E384121V.jpg"/>
-  </programme>
-  <programme start="20240316212700 +0530" stop="20240316215700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Consumer Adda</title>
-    <desc lang="en">Aankhon Ka Chor- Glucoma: The host presents various products manufactured by popular leading brands that can be purchased from the comfort of one's home.</desc>
-    <category lang="en">Shopping</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/385B36F23E7B968FAB12F4DFF08FABB3C6D4DAD1H.jpg"/>
-  </programme>
-  <programme start="20240316215700 +0530" stop="20240316222700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Overdrive</title>
-    <desc lang="en">The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99FD1F7992FC204A9FA0992A3E76CBD8C34D554A2.jpg"/>
-  </programme>
-  <programme start="20240316222700 +0530" stop="20240316225700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Property Guru</title>
-    <desc lang="en">Experts discuss the developments in the real estate sector and solve various queries.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3450BA7E1A6D8F9F969DAF5BC12A69CC8E3A4987H.jpg"/>
-  </programme>
-  <programme start="20240316225700 +0530" stop="20240316232700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tax Guru</title>
-    <desc lang="en">The host talks with financial experts who help investors solve their tax-related queries.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C22F91D9C7F73EED35B9B842D81DD11DA01C5D1V.jpg"/>
-  </programme>
-  <programme start="20240316232700 +0530" stop="20240317000000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tech Guru</title>
-    <desc lang="en">The hosts share their reviews of the latest gadgets that have taken the digital world by storm and also provide useful technology-related advice.</desc>
-    <credits>
-      <actor>Abhishek Telang</actor>
-      <actor>Shibani Gharat</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07F521F519B0BA70DD03E7B2128E083A14151A4CF.jpg"/>
-  </programme>
-  <programme start="20240317000000 +0530" stop="20240317002000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240317002000 +0530" stop="20240317004000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget Big Market Panel</title>
-    <desc lang="en">A panel of esteemed guests express their opinions and perspectives on the annual Budget.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F9F56C43549A39E8F258C74F31D57EA430EC02C1D.jpg"/>
-  </programme>
-  <programme start="20240317004000 +0530" stop="20240317010000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tax Guru</title>
-    <desc lang="en">The host talks with financial experts who help investors solve their tax-related queries.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C22F91D9C7F73EED35B9B842D81DD11DA01C5D1V.jpg"/>
-  </programme>
-  <programme start="20240317010000 +0530" stop="20240317012000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240317012000 +0530" stop="20240317014000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tech Guru</title>
-    <desc lang="en">The hosts share their reviews of the latest gadgets that have taken the digital world by storm and also provide useful technology-related advice.</desc>
-    <credits>
-      <actor>Abhishek Telang</actor>
-      <actor>Shibani Gharat</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07F521F519B0BA70DD03E7B2128E083A14151A4CF.jpg"/>
-  </programme>
-  <programme start="20240317014000 +0530" stop="20240317020000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240317020000 +0530" stop="20240317022000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget Big Exclusive</title>
-    <desc lang="en">The host indulges in a discussion with renowned experts about the Union Budget of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B12EF1671A8096DCECE92C533DC9380AEA01DEBDW.jpg"/>
-  </programme>
-  <programme start="20240317022000 +0530" stop="20240317024000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tax Guru</title>
-    <desc lang="en">The host talks with financial experts who help investors solve their tax-related queries.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C22F91D9C7F73EED35B9B842D81DD11DA01C5D1V.jpg"/>
-  </programme>
-  <programme start="20240317024000 +0530" stop="20240317030000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tech Guru</title>
-    <desc lang="en">The hosts share their reviews of the latest gadgets that have taken the digital world by storm and also provide useful technology-related advice.</desc>
-    <credits>
-      <actor>Abhishek Telang</actor>
-      <actor>Shibani Gharat</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07F521F519B0BA70DD03E7B2128E083A14151A4CF.jpg"/>
-  </programme>
-  <programme start="20240317030000 +0530" stop="20240317032000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Overdrive</title>
-    <desc lang="en">The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99FD1F7992FC204A9FA0992A3E76CBD8C34D554A2.jpg"/>
-  </programme>
-  <programme start="20240317032000 +0530" stop="20240317040000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Awaaz Adda</title>
-    <desc lang="en">Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.</desc>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D258722C99DCB9B66607690A4CCC88582FECF1FEI.jpg"/>
-  </programme>
-  <programme start="20240317040000 +0530" stop="20240317042000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240317042000 +0530" stop="20240317044000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget Big Market Panel</title>
-    <desc lang="en">A panel of esteemed guests express their opinions and perspectives on the annual Budget.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F9F56C43549A39E8F258C74F31D57EA430EC02C1D.jpg"/>
-  </programme>
-  <programme start="20240317044000 +0530" stop="20240317050000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget Big Exclusive</title>
-    <desc lang="en">The host indulges in a discussion with renowned experts about the Union Budget of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B12EF1671A8096DCECE92C533DC9380AEA01DEBDW.jpg"/>
-  </programme>
-  <programme start="20240317050000 +0530" stop="20240317052000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tech Guru</title>
-    <desc lang="en">The hosts share their reviews of the latest gadgets that have taken the digital world by storm and also provide useful technology-related advice.</desc>
-    <credits>
-      <actor>Abhishek Telang</actor>
-      <actor>Shibani Gharat</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07F521F519B0BA70DD03E7B2128E083A14151A4CF.jpg"/>
-  </programme>
-  <programme start="20240317052000 +0530" stop="20240317054000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tax Guru</title>
-    <desc lang="en">The host talks with financial experts who help investors solve their tax-related queries.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C22F91D9C7F73EED35B9B842D81DD11DA01C5D1V.jpg"/>
-  </programme>
-  <programme start="20240317054000 +0530" stop="20240317062700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Awaaz Adda</title>
-    <desc lang="en">Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.</desc>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D258722C99DCB9B66607690A4CCC88582FECF1FEI.jpg"/>
-  </programme>
-  <programme start="20240317062700 +0530" stop="20240317065700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget Big Market Panel</title>
-    <desc lang="en">A panel of esteemed guests express their opinions and perspectives on the annual Budget.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F9F56C43549A39E8F258C74F31D57EA430EC02C1D.jpg"/>
-  </programme>
-  <programme start="20240317065700 +0530" stop="20240317072700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Overdrive</title>
-    <desc lang="en">The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99FD1F7992FC204A9FA0992A3E76CBD8C34D554A2.jpg"/>
-  </programme>
-  <programme start="20240317072700 +0530" stop="20240317075700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tech Guru</title>
-    <desc lang="en">The hosts share their reviews of the latest gadgets that have taken the digital world by storm and also provide useful technology-related advice.</desc>
-    <credits>
-      <actor>Abhishek Telang</actor>
-      <actor>Shibani Gharat</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07F521F519B0BA70DD03E7B2128E083A14151A4CF.jpg"/>
-  </programme>
-  <programme start="20240317075700 +0530" stop="20240317082700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tax Guru</title>
-    <desc lang="en">The host talks with financial experts who help investors solve their tax-related queries.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C22F91D9C7F73EED35B9B842D81DD11DA01C5D1V.jpg"/>
-  </programme>
-  <programme start="20240317082700 +0530" stop="20240317085700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240317085700 +0530" stop="20240317092700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240317092700 +0530" stop="20240317095700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240317095700 +0530" stop="20240317102700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">The FM Interview</title>
-    <desc lang="en">The host talks to the finance minister of India about the issues linked to India's growth.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77AE28CCA42DA3E515E8E581EF99ED31CD8E57FCX.jpg"/>
-  </programme>
-  <programme start="20240317102700 +0530" stop="20240317110000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">The FM Interview</title>
-    <desc lang="en">The host talks to the finance minister of India about the issues linked to India's growth.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77AE28CCA42DA3E515E8E581EF99ED31CD8E57FCX.jpg"/>
-  </programme>
-  <programme start="20240317110000 +0530" stop="20240317112700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240317112700 +0530" stop="20240317115700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget Big Market Panel</title>
-    <desc lang="en">A panel of esteemed guests express their opinions and perspectives on the annual Budget.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F9F56C43549A39E8F258C74F31D57EA430EC02C1D.jpg"/>
-  </programme>
-  <programme start="20240317115700 +0530" stop="20240317125700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Awaaz Adda</title>
-    <desc lang="en">Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.</desc>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D258722C99DCB9B66607690A4CCC88582FECF1FEI.jpg"/>
-  </programme>
-  <programme start="20240317125700 +0530" stop="20240317132700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240317132700 +0530" stop="20240317135700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget Big Exclusive</title>
-    <desc lang="en">The host indulges in a discussion with renowned experts about the Union Budget of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B12EF1671A8096DCECE92C533DC9380AEA01DEBDW.jpg"/>
-  </programme>
-  <programme start="20240317135700 +0530" stop="20240317142700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">The FM Interview</title>
-    <desc lang="en">The host talks to the finance minister of India about the issues linked to India's growth.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77AE28CCA42DA3E515E8E581EF99ED31CD8E57FCX.jpg"/>
-  </programme>
-  <programme start="20240317142700 +0530" stop="20240317145700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">The FM Interview</title>
-    <desc lang="en">The host talks to the finance minister of India about the issues linked to India's growth.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77AE28CCA42DA3E515E8E581EF99ED31CD8E57FCX.jpg"/>
-  </programme>
-  <programme start="20240317145700 +0530" stop="20240317152700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tech Guru</title>
-    <desc lang="en">The hosts share their reviews of the latest gadgets that have taken the digital world by storm and also provide useful technology-related advice.</desc>
-    <credits>
-      <actor>Abhishek Telang</actor>
-      <actor>Shibani Gharat</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07F521F519B0BA70DD03E7B2128E083A14151A4CF.jpg"/>
-  </programme>
-  <programme start="20240317152700 +0530" stop="20240317155700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tax Guru</title>
-    <desc lang="en">The host talks with financial experts who help investors solve their tax-related queries.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C22F91D9C7F73EED35B9B842D81DD11DA01C5D1V.jpg"/>
-  </programme>
-  <programme start="20240317155700 +0530" stop="20240317162700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Overdrive</title>
-    <desc lang="en">The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99FD1F7992FC204A9FA0992A3E76CBD8C34D554A2.jpg"/>
-  </programme>
-  <programme start="20240317162700 +0530" stop="20240317165700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240317165700 +0530" stop="20240317172700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget Big Exclusive</title>
-    <desc lang="en">The host indulges in a discussion with renowned experts about the Union Budget of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B12EF1671A8096DCECE92C533DC9380AEA01DEBDW.jpg"/>
-  </programme>
-  <programme start="20240317172700 +0530" stop="20240317175700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240317175700 +0530" stop="20240317182700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240317182700 +0530" stop="20240317185700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tech Guru</title>
-    <desc lang="en">The hosts share their reviews of the latest gadgets that have taken the digital world by storm and also provide useful technology-related advice.</desc>
-    <credits>
-      <actor>Abhishek Telang</actor>
-      <actor>Shibani Gharat</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07F521F519B0BA70DD03E7B2128E083A14151A4CF.jpg"/>
-  </programme>
-  <programme start="20240317185700 +0530" stop="20240317192700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">The FM Interview</title>
-    <desc lang="en">The host talks to the finance minister of India about the issues linked to India's growth.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77AE28CCA42DA3E515E8E581EF99ED31CD8E57FCX.jpg"/>
-  </programme>
-  <programme start="20240317192700 +0530" stop="20240317195700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">The FM Interview</title>
-    <desc lang="en">The host talks to the finance minister of India about the issues linked to India's growth.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77AE28CCA42DA3E515E8E581EF99ED31CD8E57FCX.jpg"/>
-  </programme>
-  <programme start="20240317195700 +0530" stop="20240317202700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240317202700 +0530" stop="20240317205700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget Big Exclusive</title>
-    <desc lang="en">The host indulges in a discussion with renowned experts about the Union Budget of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B12EF1671A8096DCECE92C533DC9380AEA01DEBDW.jpg"/>
-  </programme>
-  <programme start="20240317205700 +0530" stop="20240317215700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Awaaz Adda</title>
-    <desc lang="en">Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.</desc>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D258722C99DCB9B66607690A4CCC88582FECF1FEI.jpg"/>
-  </programme>
-  <programme start="20240317215700 +0530" stop="20240317222700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240317222700 +0530" stop="20240317225700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Overdrive</title>
-    <desc lang="en">The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99FD1F7992FC204A9FA0992A3E76CBD8C34D554A2.jpg"/>
-  </programme>
-  <programme start="20240317225700 +0530" stop="20240317232700 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tax Guru</title>
-    <desc lang="en">The host talks with financial experts who help investors solve their tax-related queries.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C22F91D9C7F73EED35B9B842D81DD11DA01C5D1V.jpg"/>
-  </programme>
-  <programme start="20240317232700 +0530" stop="20240318000000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tech Guru</title>
-    <desc lang="en">The hosts share their reviews of the latest gadgets that have taken the digital world by storm and also provide useful technology-related advice.</desc>
-    <credits>
-      <actor>Abhishek Telang</actor>
-      <actor>Shibani Gharat</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07F521F519B0BA70DD03E7B2128E083A14151A4CF.jpg"/>
-  </programme>
-  <programme start="20240318000000 +0530" stop="20240318002000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget Big Market Panel</title>
-    <desc lang="en">A panel of esteemed guests express their opinions and perspectives on the annual Budget.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F9F56C43549A39E8F258C74F31D57EA430EC02C1D.jpg"/>
-  </programme>
-  <programme start="20240318002000 +0530" stop="20240318004000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240318004000 +0530" stop="20240318010000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tax Guru</title>
-    <desc lang="en">The host talks with financial experts who help investors solve their tax-related queries.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C22F91D9C7F73EED35B9B842D81DD11DA01C5D1V.jpg"/>
-  </programme>
-  <programme start="20240318010000 +0530" stop="20240318012000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240318012000 +0530" stop="20240318014000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tech Guru</title>
-    <desc lang="en">The hosts share their reviews of the latest gadgets that have taken the digital world by storm and also provide useful technology-related advice.</desc>
-    <credits>
-      <actor>Abhishek Telang</actor>
-      <actor>Shibani Gharat</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07F521F519B0BA70DD03E7B2128E083A14151A4CF.jpg"/>
-  </programme>
-  <programme start="20240318014000 +0530" stop="20240318022000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Awaaz Adda</title>
-    <desc lang="en">Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.</desc>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D258722C99DCB9B66607690A4CCC88582FECF1FEI.jpg"/>
-  </programme>
-  <programme start="20240318022000 +0530" stop="20240318024000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tax Guru</title>
-    <desc lang="en">The host talks with financial experts who help investors solve their tax-related queries.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C22F91D9C7F73EED35B9B842D81DD11DA01C5D1V.jpg"/>
-  </programme>
-  <programme start="20240318024000 +0530" stop="20240318030000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Tech Guru</title>
-    <desc lang="en">The hosts share their reviews of the latest gadgets that have taken the digital world by storm and also provide useful technology-related advice.</desc>
-    <credits>
-      <actor>Abhishek Telang</actor>
-      <actor>Shibani Gharat</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07F521F519B0BA70DD03E7B2128E083A14151A4CF.jpg"/>
-  </programme>
-  <programme start="20240318030000 +0530" stop="20240318032000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Overdrive</title>
-    <desc lang="en">The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99FD1F7992FC204A9FA0992A3E76CBD8C34D554A2.jpg"/>
-  </programme>
-  <programme start="20240318032000 +0530" stop="20240318040000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Awaaz Adda</title>
-    <desc lang="en">Prominent political, social, economic, bureaucratic and cultural personalities of the nation debate the key national and regional issues.</desc>
-    <category lang="en">Debate Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D258722C99DCB9B66607690A4CCC88582FECF1FEI.jpg"/>
-  </programme>
-  <programme start="20240318040000 +0530" stop="20240318042000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Budget</title>
-    <desc lang="en">The host presents a detailed report on the various facets of the Union Budget presented by the finance minister of India.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CE6DE978A4FED7AA680EC1104F6F1013DE67DDFU.jpg"/>
-  </programme>
-  <programme start="20240318042000 +0530" stop="20240318044000 +0530" channel="CNBCAwaaz.in">
-    <title lang="en">Overdrive</title>
-    <desc lang="en">The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/99FD1F7992FC204A9FA0992A3E76CBD8C34D554A2.jpg"/>
-  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <programme start="20240318044000 +0530" stop="20240318050000 +0530" channel="CNBCAwaaz.in">
     <title lang="en">Tech Guru</title>
     <desc lang="en">The hosts share their reviews of the latest gadgets that have taken the digital world by storm and also provide useful technology-related advice.</desc>

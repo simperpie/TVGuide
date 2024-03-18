@@ -4,122 +4,35 @@
     <display-name lang="mg">HBO Hits 🄼</display-name>
     <icon src="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png"/>
   </channel>
-  <programme start="20240315213000 +0530" stop="20240315232500 +0530" channel="HBOHits.my">
-    <title lang="mg">SISTERS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240315232500 +0530" stop="20240316013000 +0530" channel="HBOHits.my">
-    <title lang="mg">CHAMPIONS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240316013000 +0530" stop="20240316030500 +0530" channel="HBOHits.my">
-    <title lang="mg">Spy Kids</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240316030500 +0530" stop="20240316055000 +0530" channel="HBOHits.my">
-    <title lang="mg">THE CURIOUS CASE of BENJAMIN BUTTON</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240316055000 +0530" stop="20240316080500 +0530" channel="HBOHits.my">
-    <title lang="mg">DUNGEONS &amp; DRAGONS: HONOR AMONG THIEVES</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240316080500 +0530" stop="20240316083500 +0530" channel="HBOHits.my">
-    <title lang="mg">HOLLYWOOD on SET</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240316083500 +0530" stop="20240316104000 +0530" channel="HBOHits.my">
-    <title lang="mg">CHAMPIONS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240316104000 +0530" stop="20240316133000 +0530" channel="HBOHits.my">
-    <title lang="mg">INTERSTELLAR</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240316133000 +0530" stop="20240316153500 +0530" channel="HBOHits.my">
-    <title lang="mg">DOWNTON ABBEY: A NEW ERA</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240316153500 +0530" stop="20240316171500 +0530" channel="HBOHits.my">
-    <title lang="mg">THE BAD GUYS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240316171500 +0530" stop="20240316184500 +0530" channel="HBOHits.my">
-    <title lang="mg">Spy Kids</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240316184500 +0530" stop="20240316213000 +0530" channel="HBOHits.my">
-    <title lang="mg">INTERSTELLAR</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240316213000 +0530" stop="20240316234000 +0530" channel="HBOHits.my">
-    <title lang="mg">DUNGEONS &amp; DRAGONS: HONOR AMONG THIEVES</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240316234000 +0530" stop="20240317022000 +0530" channel="HBOHits.my">
-    <title lang="mg">THE CURIOUS CASE of BENJAMIN BUTTON</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240317022000 +0530" stop="20240317041000 +0530" channel="HBOHits.my">
-    <title lang="mg">SISTERS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240317041000 +0530" stop="20240317061500 +0530" channel="HBOHits.my">
-    <title lang="mg">DOWNTON ABBEY: A NEW ERA</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240317061500 +0530" stop="20240317090000 +0530" channel="HBOHits.my">
-    <title lang="mg">INTERSTELLAR</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240317090000 +0530" stop="20240317103500 +0530" channel="HBOHits.my">
-    <title lang="mg">JURASSIC PARK III</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240317103500 +0530" stop="20240317121500 +0530" channel="HBOHits.my">
-    <title lang="mg">THE BAD GUYS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240317121500 +0530" stop="20240317142500 +0530" channel="HBOHits.my">
-    <title lang="mg">DUNGEONS &amp; DRAGONS: HONOR AMONG THIEVES</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240317142500 +0530" stop="20240317155500 +0530" channel="HBOHits.my">
-    <title lang="mg">Spy Kids</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240317155500 +0530" stop="20240317180000 +0530" channel="HBOHits.my">
-    <title lang="mg">DOWNTON ABBEY: A NEW ERA</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240317180000 +0530" stop="20240317195000 +0530" channel="HBOHits.my">
-    <title lang="mg">THE WORLD'S END</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240317195000 +0530" stop="20240317213000 +0530" channel="HBOHits.my">
-    <title lang="mg">THE BAD GUYS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240317213000 +0530" stop="20240317233000 +0530" channel="HBOHits.my">
-    <title lang="mg">CHAMPIONS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240317233000 +0530" stop="20240318010000 +0530" channel="HBOHits.my">
-    <title lang="mg">JURASSIC PARK III</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240318010000 +0530" stop="20240318024500 +0530" channel="HBOHits.my">
-    <title lang="mg">THE WORLD'S END</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240318024500 +0530" stop="20240318041500 +0530" channel="HBOHits.my">
-    <title lang="mg">The Treasure Of Foggy Mountain</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240318041500 +0530" stop="20240318061500 +0530" channel="HBOHits.my">
-    <title lang="mg">CHAMPIONS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <programme start="20240318061500 +0530" stop="20240318074500 +0530" channel="HBOHits.my">
     <title lang="mg">Spy Kids</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>

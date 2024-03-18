@@ -3,215 +3,28 @@
   <channel id="STARGOLDHD.in">
     <display-name lang="en">STAR GOLD HD</display-name>
   </channel>
-  <programme start="20240316012400 +0530" stop="20240316031100 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Gulaebaghavali</title>
-    <desc lang="en">Badri, a thief, attempts to steal a mysterious trunk from the village of Gulaebaghavali on the orders of a businessman. However, chaos ensues when the truth about the object is revealed.</desc>
-    <credits>
-      <actor>Prabhu Deva</actor>
-      <actor>Hansika Motwani</actor>
-      <actor>Revathi</actor>
-      <actor>Ramdoss</actor>
-      <actor>Anandaraj</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2863F06831CCD9B6B267ACE0615B9BD28C6D19254.jpg"/>
-  </programme>
-  <programme start="20240316031100 +0530" stop="20240316051900 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Hyderabad Blues 2: Rearranged Marriage</title>
-    <desc lang="en">Six years after their marriage, Varun and Ashwini's marital bliss is threatened as they come across challenges that test the integrity and loyalty of their relationship.</desc>
-    <credits>
-      <actor>Nagesh Kukunoor</actor>
-      <actor>Jyoti Dogra</actor>
-      <actor>Tisca Chopra</actor>
-      <actor>Elahe Hiptoola</actor>
-      <actor>Vikram Inamdar</actor>
-      <actor>Anuj Gurwara</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E25E8A3A709600CA8D3BCFB8E3F6267C54FFFE1FH.jpg"/>
-  </programme>
-  <programme start="20240316051900 +0530" stop="20240316070600 +0530" channel="STARGOLDHD.in">
-    <title lang="en">All Is Good</title>
-    <desc lang="en">Divya, frustrated with her husband Aravind, asks for a divorce. However, chaos ensues after he puts forth a strange condition before signing the papers.</desc>
-    <credits>
-      <actor>Jiiva</actor>
-      <actor>Kajal Aggarwal</actor>
-      <actor>Bobby Simha</actor>
-      <actor>Sunaina</actor>
-      <actor>Shruthi Ramakrishnan</actor>
-    </credits>
-    <category lang="en">Romance</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C1DF79F35934BC3BB7C018C5C0213E2071EACE44.jpg"/>
-  </programme>
-  <programme start="20240316070600 +0530" stop="20240316090600 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Shootout At Lokhandwala</title>
-    <desc lang="en">An experienced policeman, Khan, leads a team to eliminate gangsters hiding in a residential locality in Mumbai. However, this results in his own integrity being questioned.</desc>
-    <credits>
-      <actor>Amitabh Bachchan</actor>
-      <actor>Sanjay Dutt</actor>
-      <actor>Sunil Shetty</actor>
-      <actor>Vivek Oberoi</actor>
-      <actor>Tusshar Kapoor</actor>
-      <actor>Neha Dhupia</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0748FCE1DB05285DAA5CD37525629AAC52C0925DO.jpg"/>
-  </programme>
-  <programme start="20240316090600 +0530" stop="20240316113900 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Baaghi 2</title>
-    <desc lang="en">When Neha's three-year-old daughter, Rhea, is kidnapped, she calls Ronny, her former boyfriend who is now an Indian army soldier. He remembers the promise he made to her and agrees to save Rhea.</desc>
-    <credits>
-      <actor>Tiger Shroff</actor>
-      <actor>Disha Patani</actor>
-      <actor>Manoj Bajpayee</actor>
-      <actor>Randeep Hooda</actor>
-      <actor>Deepak Dobriyal</actor>
-      <actor>Prateik</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9FC95E5EAF516D58AB9911094FDF754C7662F599H.jpg"/>
-  </programme>
-  <programme start="20240316111600 +0530" stop="20240316134900 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Bhoothnath</title>
-    <desc lang="en">Aditya and Anjali move into a new house, the Nath Villa, along with their son, Banku. Soon Banku comes across an unfriendly ghost of the previous occupant and tries to befriend him.</desc>
-    <credits>
-      <actor>Amitabh Bachchan</actor>
-      <actor>Juhi Chawla</actor>
-      <actor>Aman Siddiqui</actor>
-      <actor>Shah Rukh Khan</actor>
-      <actor>Satish Shah</actor>
-      <actor>Rajpal Yadav</actor>
-    </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7CAAD8D34A00D6D932B241E9A73CB8A00CB27640U.jpg"/>
-  </programme>
-  <programme start="20240316134900 +0530" stop="20240316165400 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Bajrangi Bhaijaan</title>
-    <desc lang="en">Pawan, a devotee of Lord Hanuman, finds a girl, who is speech impaired, lost in Haryana. He soon learns that she belongs to Pakistan and sets out to reunite her with her family at great personal cost.</desc>
-    <credits>
-      <actor>Salman Khan</actor>
-      <actor>Harshaali Malhotra</actor>
-      <actor>Kareena Kapoor</actor>
-      <actor>Nawazuddin Siddiqui</actor>
-      <actor>Meher Vij</actor>
-      <actor>Om Puri</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/782DB25A4EDAC59BB08CAF7F5970F8589D3EB86DJ.jpg"/>
-  </programme>
-  <programme start="20240316165400 +0530" stop="20240316195300 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Pathaan</title>
-    <desc lang="en">A Pakistani general hires a private terror outfit to conduct attacks in India while Pathaan, an Indian secret agent, is on a mission to form a special unit.</desc>
-    <credits>
-      <actor>Shah Rukh Khan</actor>
-      <actor>Deepika Padukone</actor>
-      <actor>John Abraham</actor>
-      <actor>Dimple Kapadia</actor>
-      <actor>Ashutosh Rana</actor>
-      <actor>Prakash Belawadi</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2140D243A00CB07B249DA5EDAE09BE94DBD9B3E6W.jpg"/>
-  </programme>
-  <programme start="20240316195300 +0530" stop="20240316230700 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Tiger 3 (Premiere)</title>
-    <desc lang="en">Special agents Tiger and Zoya set out to foil the schemes of a military group. However, the group's leader is very dangerous and deeply motivated by a personal grudge against Tiger.</desc>
-    <credits>
-      <actor>Salman Khan</actor>
-      <actor>Katrina Kaif</actor>
-      <actor>Emraan Hashmi</actor>
-      <actor>Revathi</actor>
-      <actor>Simran Bagga</actor>
-      <actor>Riddhi Dogra</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0A809721A70F03ABE8F2124DFE16B4489910D8097.jpg"/>
-  </programme>
-  <programme start="20240316230700 +0530" stop="20240317015100 +0530" channel="STARGOLDHD.in">
-    <title lang="en">War</title>
-    <desc lang="en">Kabir, a secret agent, goes rogue after a mission to catch a terrorist goes awry. However, his boss sends Khalid, another agent and his student, to track him down.</desc>
-    <credits>
-      <actor>Hrithik Roshan</actor>
-      <actor>Tiger Shroff</actor>
-      <actor>Vaani Kapoor</actor>
-      <actor>Ashutosh Rana</actor>
-      <actor>Anupriya Goenka</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A68CF26D28D7423919CA1B6DE3082F2636A2FFFFR.jpg"/>
-  </programme>
-  <programme start="20240317003500 +0530" stop="20240317022400 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317022400 +0530" stop="20240317040800 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317040800 +0530" stop="20240317041500 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
-  </programme>
-  <programme start="20240317041500 +0530" stop="20240317060300 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317060300 +0530" stop="20240317082500 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317082500 +0530" stop="20240317105900 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317105900 +0530" stop="20240317135300 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317135300 +0530" stop="20240317164300 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317164300 +0530" stop="20240317195500 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317195500 +0530" stop="20240317230600 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317230600 +0530" stop="20240318013100 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240318013100 +0530" stop="20240318060000 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <programme start="20240318060000 +0530" stop="20240318090000 +0530" channel="STARGOLDHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>

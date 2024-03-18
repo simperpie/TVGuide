@@ -4,250 +4,67 @@
     <display-name lang="mg">AXN 🄼</display-name>
     <icon src="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png"/>
   </channel>
-  <programme start="20240315220000 +0530" stop="20240315225500 +0530" channel="AXNHD.my">
-    <title lang="mg">Hudson &amp; Rex</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240315225500 +0530" stop="20240315235000 +0530" channel="AXNHD.my">
-    <title lang="mg">The Amazing Race</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240315235000 +0530" stop="20240316005000 +0530" channel="AXNHD.my">
-    <title lang="mg">The Red Road</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316005000 +0530" stop="20240316014500 +0530" channel="AXNHD.my">
-    <title lang="mg">CSI: Miami</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316014500 +0530" stop="20240316024000 +0530" channel="AXNHD.my">
-    <title lang="mg">Rookie Blue</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316024000 +0530" stop="20240316033500 +0530" channel="AXNHD.my">
-    <title lang="mg">The Amazing Race</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316033500 +0530" stop="20240316042000 +0530" channel="AXNHD.my">
-    <title lang="mg">The Blacklist</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316042000 +0530" stop="20240316050500 +0530" channel="AXNHD.my">
-    <title lang="mg">The Blacklist</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316050500 +0530" stop="20240316055500 +0530" channel="AXNHD.my">
-    <title lang="mg">American Ninja Warrior</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316055500 +0530" stop="20240316064500 +0530" channel="AXNHD.my">
-    <title lang="mg">American Ninja Warrior</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316064500 +0530" stop="20240316074000 +0530" channel="AXNHD.my">
-    <title lang="mg">NCIS: HAWAI'I</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316074000 +0530" stop="20240316083000 +0530" channel="AXNHD.my">
-    <title lang="mg">S.W.A.T.</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316083000 +0530" stop="20240316090000 +0530" channel="AXNHD.my">
-    <title lang="mg">Magic: Caught on Camera</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316090000 +0530" stop="20240316093000 +0530" channel="AXNHD.my">
-    <title lang="mg">Magic: Caught on Camera</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316093000 +0530" stop="20240316095500 +0530" channel="AXNHD.my">
-    <title lang="mg">Whacked Out Sports</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316095500 +0530" stop="20240316102000 +0530" channel="AXNHD.my">
-    <title lang="mg">Whacked Out Sports</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316102000 +0530" stop="20240316111500 +0530" channel="AXNHD.my">
-    <title lang="mg">THE ROOKIE</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316111500 +0530" stop="20240316121000 +0530" channel="AXNHD.my">
-    <title lang="mg">SEAL Team</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316121000 +0530" stop="20240316130000 +0530" channel="AXNHD.my">
-    <title lang="mg">SEAL Team</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316130000 +0530" stop="20240316135000 +0530" channel="AXNHD.my">
-    <title lang="mg">CSI: VEGAS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316135000 +0530" stop="20240316154000 +0530" channel="AXNHD.my">
-    <title lang="mg">After Earth</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316154000 +0530" stop="20240316163500 +0530" channel="AXNHD.my">
-    <title lang="mg">NCIS: HAWAI'I</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316163500 +0530" stop="20240316173000 +0530" channel="AXNHD.my">
-    <title lang="mg">Hudson &amp; Rex</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316173000 +0530" stop="20240316182500 +0530" channel="AXNHD.my">
-    <title lang="mg">THE ROOKIE</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316182500 +0530" stop="20240316192000 +0530" channel="AXNHD.my">
-    <title lang="mg">CSI: VEGAS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316192000 +0530" stop="20240316201500 +0530" channel="AXNHD.my">
-    <title lang="mg">NCIS: HAWAI'I</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316201500 +0530" stop="20240316211000 +0530" channel="AXNHD.my">
-    <title lang="mg">S.W.A.T.</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316211000 +0530" stop="20240316225000 +0530" channel="AXNHD.my">
-    <title lang="mg">RESIDENT EVIL: APOCALYPSE</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316225000 +0530" stop="20240316235000 +0530" channel="AXNHD.my">
-    <title lang="mg">SEAL Team</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240316235000 +0530" stop="20240317004500 +0530" channel="AXNHD.my">
-    <title lang="mg">SEAL Team</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317004500 +0530" stop="20240317014000 +0530" channel="AXNHD.my">
-    <title lang="mg">ALEX RIDER</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317014000 +0530" stop="20240317023500 +0530" channel="AXNHD.my">
-    <title lang="mg">ALEX RIDER</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317023500 +0530" stop="20240317033500 +0530" channel="AXNHD.my">
-    <title lang="mg">The Red Road</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317033500 +0530" stop="20240317040000 +0530" channel="AXNHD.my">
-    <title lang="mg">Magic: Caught on Camera</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317040000 +0530" stop="20240317042500 +0530" channel="AXNHD.my">
-    <title lang="mg">Magic: Caught on Camera</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317042500 +0530" stop="20240317045000 +0530" channel="AXNHD.my">
-    <title lang="mg">Whacked Out Sports</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317045000 +0530" stop="20240317051500 +0530" channel="AXNHD.my">
-    <title lang="mg">Whacked Out Sports</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317051500 +0530" stop="20240317060500 +0530" channel="AXNHD.my">
-    <title lang="mg">SEAL Team</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317060500 +0530" stop="20240317070000 +0530" channel="AXNHD.my">
-    <title lang="mg">SEAL Team</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317070000 +0530" stop="20240317075000 +0530" channel="AXNHD.my">
-    <title lang="mg">Hudson &amp; Rex</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317075000 +0530" stop="20240317084500 +0530" channel="AXNHD.my">
-    <title lang="mg">CSI: VEGAS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317084500 +0530" stop="20240317102500 +0530" channel="AXNHD.my">
-    <title lang="mg">RESIDENT EVIL: APOCALYPSE</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317102500 +0530" stop="20240317111500 +0530" channel="AXNHD.my">
-    <title lang="mg">The Blacklist</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317111500 +0530" stop="20240317120500 +0530" channel="AXNHD.my">
-    <title lang="mg">The Blacklist</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317120500 +0530" stop="20240317130000 +0530" channel="AXNHD.my">
-    <title lang="mg">NCIS: HAWAI'I</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317130000 +0530" stop="20240317135500 +0530" channel="AXNHD.my">
-    <title lang="mg">THE ROOKIE</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317135500 +0530" stop="20240317144500 +0530" channel="AXNHD.my">
-    <title lang="mg">Hudson &amp; Rex</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317144500 +0530" stop="20240317154000 +0530" channel="AXNHD.my">
-    <title lang="mg">American Ninja Warrior</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317154000 +0530" stop="20240317163500 +0530" channel="AXNHD.my">
-    <title lang="mg">American Ninja Warrior</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317163500 +0530" stop="20240317173000 +0530" channel="AXNHD.my">
-    <title lang="mg">CSI: VEGAS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317173000 +0530" stop="20240317182500 +0530" channel="AXNHD.my">
-    <title lang="mg">NCIS: HAWAI'I</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317182500 +0530" stop="20240317192000 +0530" channel="AXNHD.my">
-    <title lang="mg">S.W.A.T.</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317192000 +0530" stop="20240317210000 +0530" channel="AXNHD.my">
-    <title lang="mg">RESIDENT EVIL: EXTINCTION</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317210000 +0530" stop="20240317220000 +0530" channel="AXNHD.my">
-    <title lang="mg">THE ROOKIE</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317220000 +0530" stop="20240317234500 +0530" channel="AXNHD.my">
-    <title lang="mg">Slender Man</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240317234500 +0530" stop="20240318004000 +0530" channel="AXNHD.my">
-    <title lang="mg">The Blacklist</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240318004000 +0530" stop="20240318013500 +0530" channel="AXNHD.my">
-    <title lang="mg">The Blacklist</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240318013500 +0530" stop="20240318023500 +0530" channel="AXNHD.my">
-    <title lang="mg">The Red Road</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240318023500 +0530" stop="20240318033500 +0530" channel="AXNHD.my">
-    <title lang="mg">The Red Road</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240318033500 +0530" stop="20240318042000 +0530" channel="AXNHD.my">
-    <title lang="mg">CSI: Miami</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
-  <programme start="20240318042000 +0530" stop="20240318060500 +0530" channel="AXNHD.my">
-    <title lang="mg">After Earth</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>
-  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <programme start="20240318060500 +0530" stop="20240318065500 +0530" channel="AXNHD.my">
     <title lang="mg">Rookie Blue</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000033_IVP_LAND_367x207.jpg"/>

@@ -3,181 +3,25 @@
   <channel id="ColorsCineplexHD.in">
     <display-name lang="en">Colors Cineplex HD</display-name>
   </channel>
-  <programme start="20240316001600 +0530" stop="20240316014200 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">The Great Indian Butterfly</title>
-    <desc lang="en">Krish and Meera, a married couple, try finding the Great Indian Butterfly, which is a legendary insect that is rumoured to grant immense peace to the person who captures it.</desc>
-    <credits>
-      <actor>Aamir Bashir</actor>
-      <actor>Sandhya Mridul</actor>
-      <actor>Koel Purie</actor>
-      <actor>Barry John</actor>
-      <actor>Shibani Kashyap</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/06E57705C263454D8440C74B0CFF2E75E9156459B.jpg"/>
-  </programme>
-  <programme start="20240316014200 +0530" stop="20240316040300 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Target killing</title>
-    <desc lang="en">An NRI decides to visit India and get married with his family's blessing. Enroute, he encounters and woos an attractive woman, but danger awaits him once he lands.</desc>
-    <credits>
-      <actor>Suneel</actor>
-      <actor>Nikki Galrani</actor>
-      <actor>Dimple Chopade</actor>
-      <actor>Brahmanandam</actor>
-      <actor>Sapthagiri</actor>
-      <actor>Pavithra Lokesh</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F02DAA157BC0758E125899BC8F24992805A0FF6L.jpg"/>
-  </programme>
-  <programme start="20240316040300 +0530" stop="20240316060000 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Nirbhau Nirvair Sardar Saab</title>
-    <desc lang="en">Sardar Saab sends his son to New Zealand as he fights for the justice of the poor. However, the latter comes back to India to get married and finds his father arrested.</desc>
-    <credits>
-      <actor>Jackie Shroff</actor>
-      <actor>Guggu Gill</actor>
-      <actor>Daljeet Kalsi</actor>
-      <actor>Neetu Singh</actor>
-      <actor>Sudesh Berry</actor>
-      <actor>Shivendra Mahal</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1B5520D932132D63682BA2E0A9F4A2EA30F76E44B.jpg"/>
-  </programme>
-  <programme start="20240316060000 +0530" stop="20240316090000 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316090000 +0530" stop="20240316120000 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240316104300 +0530" stop="20240316131700 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Policewala Gunda 2</title>
-    <desc lang="en">Sivan, a Madurai-based don, adopts Shakthi, his driver's son. After witnessing his father's murder at the hands of a police officer, Shakthi develops hate for all policemen.</desc>
-    <credits>
-      <actor>Mohanlal</actor>
-      <actor>Vijay</actor>
-      <actor>Kajal Aggarwal</actor>
-      <actor>Soori</actor>
-      <actor>Brahmanandam</actor>
-      <actor>Sampath Raj</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AAA29B37675D51036F3C313E13AD13CC51252B57N.jpg"/>
-  </programme>
-  <programme start="20240316131700 +0530" stop="20240316152600 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Dangerous Khiladi</title>
-    <desc lang="en">Ravi happens to cross paths with Bittu, a gangster, and helps the police foil his plan to rob a bank. Eventually, Bittu resolves to destroy Ravi and his family.</desc>
-    <credits>
-      <actor>Allu Arjun</actor>
-      <actor>Ileana D Cruz</actor>
-      <actor>Sonu Sood</actor>
-      <actor>Rajendra Prasad</actor>
-      <actor>Kota Srinivasa Rao</actor>
-      <actor>Tanikella Bharani</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5BE5CF38EFD3EB52CAA00E96D6C7293BE4964DBFG.jpg"/>
-  </programme>
-  <programme start="20240316152600 +0530" stop="20240316174700 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Ugram</title>
-    <desc lang="en">When CI Shiva Kumar's family goes missing from a hospital following an accident, the police officer sets off to unveil an entangled mystery that takes an enigmatic turn.</desc>
-    <credits>
-      <actor>Allari Naresh</actor>
-      <actor>Mirnaa Menon</actor>
-      <actor>Indraja</actor>
-      <actor>Sharath Lohithaswa</actor>
-      <actor>Srikanth Iyengar</actor>
-      <actor>Shatru</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4C05E8CDB553CD3542C968585AC3816789AF9F03E.jpg"/>
-  </programme>
-  <programme start="20240316174700 +0530" stop="20240316195800 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">ACP Shiva</title>
-    <desc lang="en">Shivakumar, a dishonest cop, ensures that he is transferred to Chennai, where he exploits his position for financial gain. He also supports GK, a local MP, against the commissioner of Chennai.</desc>
-    <credits>
-      <actor>Raghava Lawrence</actor>
-      <actor>Nikki Galrani</actor>
-      <actor>Sathyaraj</actor>
-      <actor>Ashutosh Rana</actor>
-      <actor>Vamsi Krishna</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A9B75CC5F4D8B5D5D06363C0CF1E04BAAFB54D2A1.jpg"/>
-  </programme>
-  <programme start="20240316195800 +0530" stop="20240316224400 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Hanu-Man</title>
-    <desc lang="en">Hanu-Man</desc>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/26D59B8475F7A4100CF9D83FF9194D66FC385A3ET.jpg"/>
-  </programme>
-  <programme start="20240316224400 +0530" stop="20240317003700 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Madhagaja</title>
-    <desc lang="en">The wife of one of two rival dons sends her son away to a safe land in order to protect him from their conflict. However, much to her disappointment, her child returns to the world of violence.</desc>
-    <credits>
-      <actor>Srimurali</actor>
-      <actor>Ashika Ranganath</actor>
-      <actor>Jagapathi Babu</actor>
-      <actor>Devayani</actor>
-      <actor>Chikkanna</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9EEC0F72E250B90178B84E9027A804339722B4A5X.jpg"/>
-  </programme>
-  <programme start="20240317030000 +0530" stop="20240317060000 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317060000 +0530" stop="20240317090000 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317090000 +0530" stop="20240317120000 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317120000 +0530" stop="20240317150000 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317150000 +0530" stop="20240317180000 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317180000 +0530" stop="20240317210000 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240317210000 +0530" stop="20240318030000 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240318030000 +0530" stop="20240318060000 +0530" channel="ColorsCineplexHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <programme start="20240318060000 +0530" stop="20240318090000 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>

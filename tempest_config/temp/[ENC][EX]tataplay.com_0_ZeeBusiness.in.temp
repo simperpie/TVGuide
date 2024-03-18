@@ -3,654 +3,111 @@
   <channel id="ZeeBusiness.in">
     <display-name lang="en">Zee Business</display-name>
   </channel>
-  <programme start="20240316002600 +0530" stop="20240316005600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
-  <programme start="20240316005600 +0530" stop="20240316012600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Commodity Roundup</title>
-    <desc lang="en">The host presents the latest news and updates on the recent value of various commodities.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21993F54389E90FA87E65522332D388F0EF15672T.jpg"/>
-  </programme>
-  <programme start="20240316012600 +0530" stop="20240316015600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Bazar Agle Hafte</title>
-    <desc lang="en">The host sheds light on what can be can be expected from the markets in the coming week.</desc>
-    <category lang="en">Investments &amp; Market</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C41FB4C3C977B753E12BF73C48C458CB60FF25F4.jpg"/>
-  </programme>
-  <programme start="20240316015600 +0530" stop="20240316022600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Khabar Chalisa</title>
-    <desc lang="en">The presenter presents the latest news and updates of the day that have been making headlines and also affecting the people.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F55DE49EE8742D45EF3677D070616E7B0943C324U.jpg"/>
-  </programme>
-  <programme start="20240316022600 +0530" stop="20240316025600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Property Plus</title>
-    <desc lang="en">The host provides the latest updates related to the real estate across the country.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BCBCFE3A4F46B0DF4B1EF0B73D20A1950BA5AB8F.jpg"/>
-  </programme>
-  <programme start="20240316025600 +0530" stop="20240316032600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Zeegnition</title>
-    <desc lang="en">The host presents the most recent news and updates from the world of automobiles with a focus on the latest models of bikes and cars.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C30363B3A54686220976EAA7103C0A807BAEAE64.jpg"/>
-  </programme>
-  <programme start="20240316032600 +0530" stop="20240316035600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240316035600 +0530" stop="20240316042600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Commodity Roundup</title>
-    <desc lang="en">The host presents the latest news and updates on the recent value of various commodities.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21993F54389E90FA87E65522332D388F0EF15672T.jpg"/>
-  </programme>
-  <programme start="20240316042600 +0530" stop="20240316045600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
-  <programme start="20240316045600 +0530" stop="20240316052600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Bazar Agle Hafte</title>
-    <desc lang="en">The host sheds light on what can be can be expected from the markets in the coming week.</desc>
-    <category lang="en">Investments &amp; Market</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C41FB4C3C977B753E12BF73C48C458CB60FF25F4.jpg"/>
-  </programme>
-  <programme start="20240316052600 +0530" stop="20240316055600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240316055600 +0530" stop="20240316062600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Khabar Chalisa</title>
-    <desc lang="en">The presenter presents the latest news and updates of the day that have been making headlines and also affecting the people.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F55DE49EE8742D45EF3677D070616E7B0943C324U.jpg"/>
-  </programme>
-  <programme start="20240316062600 +0530" stop="20240316065600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Commodity Roundup</title>
-    <desc lang="en">The host presents the latest news and updates on the recent value of various commodities.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21993F54389E90FA87E65522332D388F0EF15672T.jpg"/>
-  </programme>
-  <programme start="20240316065600 +0530" stop="20240316072600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240316072600 +0530" stop="20240316075600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
-  <programme start="20240316075600 +0530" stop="20240316082600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Bazar Agle Hafte</title>
-    <desc lang="en">The host sheds light on what can be can be expected from the markets in the coming week.</desc>
-    <category lang="en">Investments &amp; Market</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C41FB4C3C977B753E12BF73C48C458CB60FF25F4.jpg"/>
-  </programme>
-  <programme start="20240316082600 +0530" stop="20240316085600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240316085600 +0530" stop="20240316092600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">SME Express</title>
-    <desc lang="en">The host invites a financial expert who discusses smart investment options.</desc>
-    <credits>
-      <actor>Sundeep Mohindru</actor>
-    </credits>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8C5222E3C7C7EE68004583D08DB9DFBA3AC689FA.jpg"/>
-  </programme>
-  <programme start="20240316092600 +0530" stop="20240316095600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Zeegnition</title>
-    <desc lang="en">The host presents the most recent news and updates from the world of automobiles with a focus on the latest models of bikes and cars.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C30363B3A54686220976EAA7103C0A807BAEAE64.jpg"/>
-  </programme>
-  <programme start="20240316095600 +0530" stop="20240316102600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
-  <programme start="20240316102600 +0530" stop="20240316105600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Property Plus</title>
-    <desc lang="en">The host provides the latest updates related to the real estate across the country.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BCBCFE3A4F46B0DF4B1EF0B73D20A1950BA5AB8F.jpg"/>
-  </programme>
-  <programme start="20240316105600 +0530" stop="20240316112600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">News Live</title>
-    <desc lang="en">The host presents the latest news stories, important events and major developments from different corners of the country, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4776BE704C11B251574FD2472FCF6200DE89EF698.jpg"/>
-  </programme>
-  <programme start="20240316112600 +0530" stop="20240316115600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Commodity Roundup</title>
-    <desc lang="en">The host presents the latest news and updates on the recent value of various commodities.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21993F54389E90FA87E65522332D388F0EF15672T.jpg"/>
-  </programme>
-  <programme start="20240316115600 +0530" stop="20240316122600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Baat Duniya Ki</title>
-    <desc lang="en">The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update from around the world.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C09D492591A4B427A9A12FF777063F83B3C0DB2E.jpg"/>
-  </programme>
-  <programme start="20240316122600 +0530" stop="20240316125600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Property Plus</title>
-    <desc lang="en">The host provides the latest updates related to the real estate across the country.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BCBCFE3A4F46B0DF4B1EF0B73D20A1950BA5AB8F.jpg"/>
-  </programme>
-  <programme start="20240316125600 +0530" stop="20240316132600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">News Live</title>
-    <desc lang="en">The host presents the latest news stories, important events and major developments from different corners of the country, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4776BE704C11B251574FD2472FCF6200DE89EF698.jpg"/>
-  </programme>
-  <programme start="20240316132600 +0530" stop="20240316135600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240316135600 +0530" stop="20240316142600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
-  <programme start="20240316142600 +0530" stop="20240316145600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Bazar Agle Hafte</title>
-    <desc lang="en">The host sheds light on what can be can be expected from the markets in the coming week.</desc>
-    <category lang="en">Investments &amp; Market</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C41FB4C3C977B753E12BF73C48C458CB60FF25F4.jpg"/>
-  </programme>
-  <programme start="20240316145600 +0530" stop="20240316152600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">News Live</title>
-    <desc lang="en">The host presents the latest news stories, important events and major developments from different corners of the country, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4776BE704C11B251574FD2472FCF6200DE89EF698.jpg"/>
-  </programme>
-  <programme start="20240316152600 +0530" stop="20240316155600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240316155600 +0530" stop="20240316162600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
-  <programme start="20240316162600 +0530" stop="20240316165600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">SME Express</title>
-    <desc lang="en">The host invites a financial expert who discusses smart investment options.</desc>
-    <credits>
-      <actor>Sundeep Mohindru</actor>
-    </credits>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8C5222E3C7C7EE68004583D08DB9DFBA3AC689FA.jpg"/>
-  </programme>
-  <programme start="20240316165600 +0530" stop="20240316172600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">News Live</title>
-    <desc lang="en">The host presents the latest news stories, important events and major developments from different corners of the country, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4776BE704C11B251574FD2472FCF6200DE89EF698.jpg"/>
-  </programme>
-  <programme start="20240316172600 +0530" stop="20240316175600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Baat Duniya Ki</title>
-    <desc lang="en">The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update from around the world.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C09D492591A4B427A9A12FF777063F83B3C0DB2E.jpg"/>
-  </programme>
-  <programme start="20240316175600 +0530" stop="20240316182600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Zeegnition</title>
-    <desc lang="en">The host presents the most recent news and updates from the world of automobiles with a focus on the latest models of bikes and cars.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C30363B3A54686220976EAA7103C0A807BAEAE64.jpg"/>
-  </programme>
-  <programme start="20240316182600 +0530" stop="20240316185600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Incredible Brands</title>
-    <desc lang="en">Various brand owners and leaders showcase the journey of their businesses from inception and production to creating a successful consumer-brand connection.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/963B09B22CE6893D49394FCE4665B3E118A32A92U.jpg"/>
-  </programme>
-  <programme start="20240316185600 +0530" stop="20240316192600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">News Live</title>
-    <desc lang="en">The host presents the latest news stories, important events and major developments from different corners of the country, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4776BE704C11B251574FD2472FCF6200DE89EF698.jpg"/>
-  </programme>
-  <programme start="20240316192600 +0530" stop="20240316195600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Commodity Roundup</title>
-    <desc lang="en">The host presents the latest news and updates on the recent value of various commodities.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21993F54389E90FA87E65522332D388F0EF15672T.jpg"/>
-  </programme>
-  <programme start="20240316195600 +0530" stop="20240316202600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">SME Express</title>
-    <desc lang="en">The host invites a financial expert who discusses smart investment options.</desc>
-    <credits>
-      <actor>Sundeep Mohindru</actor>
-    </credits>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8C5222E3C7C7EE68004583D08DB9DFBA3AC689FA.jpg"/>
-  </programme>
-  <programme start="20240316202600 +0530" stop="20240316205600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240316205600 +0530" stop="20240316212600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Zeegnition</title>
-    <desc lang="en">The host presents the most recent news and updates from the world of automobiles with a focus on the latest models of bikes and cars.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C30363B3A54686220976EAA7103C0A807BAEAE64.jpg"/>
-  </programme>
-  <programme start="20240316212600 +0530" stop="20240316215600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Bazar Agle Hafte</title>
-    <desc lang="en">The host sheds light on what can be can be expected from the markets in the coming week.</desc>
-    <category lang="en">Investments &amp; Market</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C41FB4C3C977B753E12BF73C48C458CB60FF25F4.jpg"/>
-  </programme>
-  <programme start="20240316215600 +0530" stop="20240316222600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
-  <programme start="20240316222600 +0530" stop="20240316225600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Baat Duniya Ki</title>
-    <desc lang="en">The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update from around the world.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C09D492591A4B427A9A12FF777063F83B3C0DB2E.jpg"/>
-  </programme>
-  <programme start="20240316225600 +0530" stop="20240316232600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Property Plus</title>
-    <desc lang="en">The host provides the latest updates related to the real estate across the country.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BCBCFE3A4F46B0DF4B1EF0B73D20A1950BA5AB8F.jpg"/>
-  </programme>
-  <programme start="20240316232600 +0530" stop="20240316235600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
-  <programme start="20240316235600 +0530" stop="20240317002600 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240317000000 +0530" stop="20240317003000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240317003000 +0530" stop="20240317010000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Zeegnition</title>
-    <desc lang="en">The host presents the most recent news and updates from the world of automobiles with a focus on the latest models of bikes and cars.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C30363B3A54686220976EAA7103C0A807BAEAE64.jpg"/>
-  </programme>
-  <programme start="20240317010000 +0530" stop="20240317013000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Baat Duniya Ki</title>
-    <desc lang="en">The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update from around the world.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C09D492591A4B427A9A12FF777063F83B3C0DB2E.jpg"/>
-  </programme>
-  <programme start="20240317013000 +0530" stop="20240317020000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Bazar Agle Hafte</title>
-    <desc lang="en">The host sheds light on what can be can be expected from the markets in the coming week.</desc>
-    <category lang="en">Investments &amp; Market</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C41FB4C3C977B753E12BF73C48C458CB60FF25F4.jpg"/>
-  </programme>
-  <programme start="20240317020000 +0530" stop="20240317023000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Property Plus</title>
-    <desc lang="en">The host provides the latest updates related to the real estate across the country.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BCBCFE3A4F46B0DF4B1EF0B73D20A1950BA5AB8F.jpg"/>
-  </programme>
-  <programme start="20240317023000 +0530" stop="20240317030000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240317030000 +0530" stop="20240317033000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
-  <programme start="20240317033000 +0530" stop="20240317040000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240317040000 +0530" stop="20240317043000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Zeegnition</title>
-    <desc lang="en">The host presents the most recent news and updates from the world of automobiles with a focus on the latest models of bikes and cars.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C30363B3A54686220976EAA7103C0A807BAEAE64.jpg"/>
-  </programme>
-  <programme start="20240317043000 +0530" stop="20240317050000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Bazar Agle Hafte</title>
-    <desc lang="en">The host sheds light on what can be can be expected from the markets in the coming week.</desc>
-    <category lang="en">Investments &amp; Market</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C41FB4C3C977B753E12BF73C48C458CB60FF25F4.jpg"/>
-  </programme>
-  <programme start="20240317050000 +0530" stop="20240317053000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Baat Duniya Ki</title>
-    <desc lang="en">The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update from around the world.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C09D492591A4B427A9A12FF777063F83B3C0DB2E.jpg"/>
-  </programme>
-  <programme start="20240317053000 +0530" stop="20240317060000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240317060000 +0530" stop="20240317063000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">SME Express</title>
-    <desc lang="en">STARS KI KAHANI: The host invites a financial expert who discusses smart investment options.</desc>
-    <credits>
-      <actor>Sundeep Mohindru</actor>
-    </credits>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8C5222E3C7C7EE68004583D08DB9DFBA3AC689FA.jpg"/>
-  </programme>
-  <programme start="20240317063000 +0530" stop="20240317070000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Property Plus</title>
-    <desc lang="en">The host provides the latest updates related to the real estate across the country.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BCBCFE3A4F46B0DF4B1EF0B73D20A1950BA5AB8F.jpg"/>
-  </programme>
-  <programme start="20240317070000 +0530" stop="20240317073000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
-  <programme start="20240317073000 +0530" stop="20240317080000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Zeegnition</title>
-    <desc lang="en">The host presents the most recent news and updates from the world of automobiles with a focus on the latest models of bikes and cars.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C30363B3A54686220976EAA7103C0A807BAEAE64.jpg"/>
-  </programme>
-  <programme start="20240317080000 +0530" stop="20240317083000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">SME Express</title>
-    <desc lang="en">STARS KI KAHANI: The host invites a financial expert who discusses smart investment options.</desc>
-    <credits>
-      <actor>Sundeep Mohindru</actor>
-    </credits>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8C5222E3C7C7EE68004583D08DB9DFBA3AC689FA.jpg"/>
-  </programme>
-  <programme start="20240317083000 +0530" stop="20240317090000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Commodity Roundup</title>
-    <desc lang="en">The host presents the latest news and updates on the recent value of various commodities.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21993F54389E90FA87E65522332D388F0EF15672T.jpg"/>
-  </programme>
-  <programme start="20240317090000 +0530" stop="20240317093000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Property Plus</title>
-    <desc lang="en">The host provides the latest updates related to the real estate across the country.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BCBCFE3A4F46B0DF4B1EF0B73D20A1950BA5AB8F.jpg"/>
-  </programme>
-  <programme start="20240317093000 +0530" stop="20240317100000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240317100000 +0530" stop="20240317103000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
-  <programme start="20240317103000 +0530" stop="20240317110000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Bazar Agle Hafte</title>
-    <desc lang="en">The host sheds light on what can be can be expected from the markets in the coming week.</desc>
-    <category lang="en">Investments &amp; Market</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C41FB4C3C977B753E12BF73C48C458CB60FF25F4.jpg"/>
-  </programme>
-  <programme start="20240317110000 +0530" stop="20240317113000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Commodity Roundup</title>
-    <desc lang="en">The host presents the latest news and updates on the recent value of various commodities.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21993F54389E90FA87E65522332D388F0EF15672T.jpg"/>
-  </programme>
-  <programme start="20240317113000 +0530" stop="20240317120000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240317120000 +0530" stop="20240317123000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Property Plus</title>
-    <desc lang="en">The host provides the latest updates related to the real estate across the country.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BCBCFE3A4F46B0DF4B1EF0B73D20A1950BA5AB8F.jpg"/>
-  </programme>
-  <programme start="20240317123000 +0530" stop="20240317130000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Baat Duniya Ki</title>
-    <desc lang="en">The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update from around the world.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C09D492591A4B427A9A12FF777063F83B3C0DB2E.jpg"/>
-  </programme>
-  <programme start="20240317130000 +0530" stop="20240317133000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Bazar Agle Hafte</title>
-    <desc lang="en">The host sheds light on what can be can be expected from the markets in the coming week.</desc>
-    <category lang="en">Investments &amp; Market</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C41FB4C3C977B753E12BF73C48C458CB60FF25F4.jpg"/>
-  </programme>
-  <programme start="20240317133000 +0530" stop="20240317140000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
-  <programme start="20240317140000 +0530" stop="20240317143000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240317143000 +0530" stop="20240317150000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Property Plus</title>
-    <desc lang="en">The host provides the latest updates related to the real estate across the country.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BCBCFE3A4F46B0DF4B1EF0B73D20A1950BA5AB8F.jpg"/>
-  </programme>
-  <programme start="20240317150000 +0530" stop="20240317153000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Sehat Wala Sunday</title>
-    <desc lang="en">An expert talks about the importance of maintaining a healthy lifestyle and offers advice on making positive changes that help one stay fit.</desc>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/447D1B0C7F10C41CA8E0A8A7909E66C60B89E63DO.jpg"/>
-  </programme>
-  <programme start="20240317153000 +0530" stop="20240317160000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Commodity Roundup</title>
-    <desc lang="en">The host presents the latest news and updates on the recent value of various commodities.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21993F54389E90FA87E65522332D388F0EF15672T.jpg"/>
-  </programme>
-  <programme start="20240317160000 +0530" stop="20240317163000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Baat Duniya Ki</title>
-    <desc lang="en">The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update from around the world.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C09D492591A4B427A9A12FF777063F83B3C0DB2E.jpg"/>
-  </programme>
-  <programme start="20240317163000 +0530" stop="20240317170000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Property Plus</title>
-    <desc lang="en">The host provides the latest updates related to the real estate across the country.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BCBCFE3A4F46B0DF4B1EF0B73D20A1950BA5AB8F.jpg"/>
-  </programme>
-  <programme start="20240317170000 +0530" stop="20240317173000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">SME Express Helpline</title>
-    <desc lang="en">Experts and industry leaders share their opinion on the various issues plaguing the MSME sector and the government's initiatives to address them.</desc>
-    <credits>
-      <actor>Saurabh Manchanda</actor>
-    </credits>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9631992B57349F712D784CEE4F3A44A57BCC4080D.jpg"/>
-  </programme>
-  <programme start="20240317173000 +0530" stop="20240317180000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
-  <programme start="20240317180000 +0530" stop="20240317183000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Baat Duniya Ki</title>
-    <desc lang="en">The host presents a detailed discussion and analysis on the latest and the most important political or socio-economic news update from around the world.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C09D492591A4B427A9A12FF777063F83B3C0DB2E.jpg"/>
-  </programme>
-  <programme start="20240317183000 +0530" stop="20240317190000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240317190000 +0530" stop="20240317193000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Bazar Agle Hafte</title>
-    <desc lang="en">The host sheds light on what can be can be expected from the markets in the coming week.</desc>
-    <category lang="en">Investments &amp; Market</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C41FB4C3C977B753E12BF73C48C458CB60FF25F4.jpg"/>
-  </programme>
-  <programme start="20240317193000 +0530" stop="20240317200000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Zeegnition</title>
-    <desc lang="en">The host presents the most recent news and updates from the world of automobiles with a focus on the latest models of bikes and cars.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C30363B3A54686220976EAA7103C0A807BAEAE64.jpg"/>
-  </programme>
-  <programme start="20240317200000 +0530" stop="20240317203000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
-  <programme start="20240317203000 +0530" stop="20240317210000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240317210000 +0530" stop="20240317213000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Bazar Agle Hafte</title>
-    <desc lang="en">The host sheds light on what can be can be expected from the markets in the coming week.</desc>
-    <category lang="en">Investments &amp; Market</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C41FB4C3C977B753E12BF73C48C458CB60FF25F4.jpg"/>
-  </programme>
-  <programme start="20240317213000 +0530" stop="20240317220000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Sehat Wala Sunday</title>
-    <desc lang="en">An expert talks about the importance of maintaining a healthy lifestyle and offers advice on making positive changes that help one stay fit.</desc>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/447D1B0C7F10C41CA8E0A8A7909E66C60B89E63DO.jpg"/>
-  </programme>
-  <programme start="20240317220000 +0530" stop="20240317223000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Aapki Khabar, Aapka Fayda</title>
-    <desc lang="en">The anchor sheds light on various policies employed by the Government of India in order to facilitate safety and comfort for the common man.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/108965089DE9073788544DD4650FC9884B3C7A2D3.jpg"/>
-  </programme>
-  <programme start="20240317223000 +0530" stop="20240317230000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Property Plus</title>
-    <desc lang="en">The host provides the latest updates related to the real estate across the country.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BCBCFE3A4F46B0DF4B1EF0B73D20A1950BA5AB8F.jpg"/>
-  </programme>
-  <programme start="20240317230000 +0530" stop="20240317233000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Zeegnition</title>
-    <desc lang="en">The host presents the most recent news and updates from the world of automobiles with a focus on the latest models of bikes and cars.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C30363B3A54686220976EAA7103C0A807BAEAE64.jpg"/>
-  </programme>
-  <programme start="20240317233000 +0530" stop="20240318000000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Commodity Roundup</title>
-    <desc lang="en">The host presents the latest news and updates on the recent value of various commodities.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21993F54389E90FA87E65522332D388F0EF15672T.jpg"/>
-  </programme>
-  <programme start="20240318000000 +0530" stop="20240318003000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Sehat Wala Sunday</title>
-    <desc lang="en">An expert talks about the importance of maintaining a healthy lifestyle and offers advice on making positive changes that help one stay fit.</desc>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/447D1B0C7F10C41CA8E0A8A7909E66C60B89E63DO.jpg"/>
-  </programme>
-  <programme start="20240318003000 +0530" stop="20240318010000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Bazar Agle Hafte</title>
-    <desc lang="en">The host sheds light on what can be can be expected from the markets in the coming week.</desc>
-    <category lang="en">Investments &amp; Market</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C41FB4C3C977B753E12BF73C48C458CB60FF25F4.jpg"/>
-  </programme>
-  <programme start="20240318010000 +0530" stop="20240318013000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Commodity Roundup</title>
-    <desc lang="en">The host presents the latest news and updates on the recent value of various commodities.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21993F54389E90FA87E65522332D388F0EF15672T.jpg"/>
-  </programme>
-  <programme start="20240318013000 +0530" stop="20240318020000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
-  <programme start="20240318020000 +0530" stop="20240318023000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Zeegnition</title>
-    <desc lang="en">The host presents the most recent news and updates from the world of automobiles with a focus on the latest models of bikes and cars.</desc>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C30363B3A54686220976EAA7103C0A807BAEAE64.jpg"/>
-  </programme>
-  <programme start="20240318023000 +0530" stop="20240318030000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Property Plus</title>
-    <desc lang="en">The host provides the latest updates related to the real estate across the country.</desc>
-    <category lang="en">Real Estate</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BCBCFE3A4F46B0DF4B1EF0B73D20A1950BA5AB8F.jpg"/>
-  </programme>
-  <programme start="20240318030000 +0530" stop="20240318033000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Bazar Agle Hafte</title>
-    <desc lang="en">The host sheds light on what can be can be expected from the markets in the coming week.</desc>
-    <category lang="en">Investments &amp; Market</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C41FB4C3C977B753E12BF73C48C458CB60FF25F4.jpg"/>
-  </programme>
-  <programme start="20240318033000 +0530" stop="20240318040000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Sehat Wala Sunday</title>
-    <desc lang="en">An expert talks about the importance of maintaining a healthy lifestyle and offers advice on making positive changes that help one stay fit.</desc>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/447D1B0C7F10C41CA8E0A8A7909E66C60B89E63DO.jpg"/>
-  </programme>
-  <programme start="20240318040000 +0530" stop="20240318043000 +0530" channel="ZeeBusiness.in">
-    <title lang="en">Money Guru</title>
-    <desc lang="en">The host gives tips on financial planning, budgeting and investment options.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/949D17D645D52D3C72706FC0EB40AF9FB91D8F27T.jpg"/>
-  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <programme start="20240318043000 +0530" stop="20240318050000 +0530" channel="ZeeBusiness.in">
     <title lang="en">Property Plus</title>
     <desc lang="en">The host provides the latest updates related to the real estate across the country.</desc>

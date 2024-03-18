@@ -4,402 +4,105 @@
     <display-name lang="mg">Warner TV 🄼</display-name>
     <icon src="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png"/>
   </channel>
-  <programme start="20240315213000 +0530" stop="20240315215500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Impractical Jokers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240315215500 +0530" stop="20240315222000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Big Bang Theory</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240315222000 +0530" stop="20240315224500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Friends</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240315224500 +0530" stop="20240315231000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240315231000 +0530" stop="20240315233500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240315233500 +0530" stop="20240316003000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Gotham</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316003000 +0530" stop="20240316011500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Lethal Weapon</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316011500 +0530" stop="20240316020000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Found</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316020000 +0530" stop="20240316024500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Lethal Weapon</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316024500 +0530" stop="20240316031000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Carbonaro Effect</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316031000 +0530" stop="20240316033500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Impractical Jokers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316033500 +0530" stop="20240316042500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Kung Fu</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316042500 +0530" stop="20240316051500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Kung Fu</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316051500 +0530" stop="20240316060500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Kung Fu</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316060500 +0530" stop="20240316065500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Kung Fu</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316065500 +0530" stop="20240316075000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Gotham</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316075000 +0530" stop="20240316081500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Carbonaro Effect</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316081500 +0530" stop="20240316084000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Carbonaro Effect</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316084000 +0530" stop="20240316090500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Carbonaro Effect</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316090500 +0530" stop="20240316093000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Carbonaro Effect</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316093000 +0530" stop="20240316095500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Carbonaro Effect</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316095500 +0530" stop="20240316102000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Big Bang Theory</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316102000 +0530" stop="20240316104500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Big Bang Theory</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316104500 +0530" stop="20240316111000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Big Bang Theory</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316111000 +0530" stop="20240316113500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Big Bang Theory</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316113500 +0530" stop="20240316120000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Big Bang Theory</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316120000 +0530" stop="20240316122500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Impractical Jokers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316122500 +0530" stop="20240316125000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Impractical Jokers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316125000 +0530" stop="20240316131500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Impractical Jokers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316131500 +0530" stop="20240316134000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Impractical Jokers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316134000 +0530" stop="20240316140500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Impractical Jokers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316140500 +0530" stop="20240316143000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Friends</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316143000 +0530" stop="20240316145500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Friends</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316145500 +0530" stop="20240316152000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Friends</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316152000 +0530" stop="20240316154500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Friends</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316154500 +0530" stop="20240316161000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Friends</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316161000 +0530" stop="20240316163500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316163500 +0530" stop="20240316170000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316170000 +0530" stop="20240316172500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316172500 +0530" stop="20240316174500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316174500 +0530" stop="20240316181000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316181000 +0530" stop="20240316183500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Young Sheldon</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316183500 +0530" stop="20240316205500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">John Q</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316205500 +0530" stop="20240316212000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316212000 +0530" stop="20240316214500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316214500 +0530" stop="20240316223500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Person of Interest</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316223500 +0530" stop="20240316232500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Person of Interest</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240316232500 +0530" stop="20240317001500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Person of Interest</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317001500 +0530" stop="20240317010500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Person of Interest</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317010500 +0530" stop="20240317013000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Carbonaro Effect</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317013000 +0530" stop="20240317015500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317015500 +0530" stop="20240317022000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317022000 +0530" stop="20240317024500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317024500 +0530" stop="20240317031000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317031000 +0530" stop="20240317033500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317033500 +0530" stop="20240317042500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Person of Interest</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317042500 +0530" stop="20240317051500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Person of Interest</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317051500 +0530" stop="20240317060500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Person of Interest</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317060500 +0530" stop="20240317065500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Person of Interest</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317065500 +0530" stop="20240317074500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Found</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317074500 +0530" stop="20240317081000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Impractical Jokers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317081000 +0530" stop="20240317083500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Impractical Jokers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317083500 +0530" stop="20240317090000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Impractical Jokers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317090000 +0530" stop="20240317092500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Impractical Jokers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317092500 +0530" stop="20240317095000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Impractical Jokers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317095000 +0530" stop="20240317101500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Friends</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317101500 +0530" stop="20240317104000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Friends</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317104000 +0530" stop="20240317110500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Friends</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317110500 +0530" stop="20240317113000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Friends</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317113000 +0530" stop="20240317115500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Friends</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317115500 +0530" stop="20240317124500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">World's Dumbest</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317124500 +0530" stop="20240317133500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">World's Dumbest</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317133500 +0530" stop="20240317140000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Carbonaro Effect</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317140000 +0530" stop="20240317142500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Carbonaro Effect</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317142500 +0530" stop="20240317145000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Carbonaro Effect</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317145000 +0530" stop="20240317151500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Carbonaro Effect</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317151500 +0530" stop="20240317154000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Carbonaro Effect</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317154000 +0530" stop="20240317160500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Big Bang Theory</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317160500 +0530" stop="20240317163000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Big Bang Theory</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317163000 +0530" stop="20240317165500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Big Bang Theory</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317165500 +0530" stop="20240317172000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Big Bang Theory</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317172000 +0530" stop="20240317174500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Big Bang Theory</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317174500 +0530" stop="20240317181000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317181000 +0530" stop="20240317183500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317183500 +0530" stop="20240317204500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">The Corruptor</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317204500 +0530" stop="20240317211000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Young Sheldon</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317211000 +0530" stop="20240317213500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Wahl Street</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317213500 +0530" stop="20240317220000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Wahl Street</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317220000 +0530" stop="20240317222500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Miracle Workers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317222500 +0530" stop="20240317225000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Miracle Workers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317225000 +0530" stop="20240317233000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">World's Dumbest</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240317233000 +0530" stop="20240318001500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Lethal Weapon</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240318001500 +0530" stop="20240318010500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Lethal Weapon</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240318010500 +0530" stop="20240318015500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Lethal Weapon</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240318015500 +0530" stop="20240318024500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Lethal Weapon</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240318024500 +0530" stop="20240318033500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Lethal Weapon</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240318033500 +0530" stop="20240318040000 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240318040000 +0530" stop="20240318042500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Hack My Life</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
-  <programme start="20240318042500 +0530" stop="20240318051500 +0530" channel="WarnerTVHD.my">
-    <title lang="mg">Gotham</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>
-  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <programme start="20240318051500 +0530" stop="20240318060500 +0530" channel="WarnerTVHD.my">
     <title lang="mg">Lethal Weapon</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000319_IVP_LAND_266x150.jpg"/>

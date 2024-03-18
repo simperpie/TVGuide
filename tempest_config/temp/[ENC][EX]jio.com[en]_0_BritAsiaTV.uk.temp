@@ -4,483 +4,59 @@
     <display-name lang="en">BritAsiaTV</display-name>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Brit_Asia.png"/>
   </channel>
-  <programme start="20240316000000 +0530" stop="20240316010000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192000_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316010000 +0530" stop="20240316020000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192001_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316020000 +0530" stop="20240316030000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192002_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316030000 +0530" stop="20240316040000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192003_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316040000 +0530" stop="20240316050000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192004_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316050000 +0530" stop="20240316060000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192005_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316060000 +0530" stop="20240316070000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192006_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316070000 +0530" stop="20240316080000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192007_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316080000 +0530" stop="20240316090000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192008_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316090000 +0530" stop="20240316100000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192009_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316100000 +0530" stop="20240316110000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192010_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316110000 +0530" stop="20240316120000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192011_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316120000 +0530" stop="20240316130000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192012_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316130000 +0530" stop="20240316140000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192013_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316140000 +0530" stop="20240316150000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192014_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316150000 +0530" stop="20240316160000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192015_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316160000 +0530" stop="20240316170000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192016_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316170000 +0530" stop="20240316180000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192017_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316180000 +0530" stop="20240316190000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192018_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316190000 +0530" stop="20240316200000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192019_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316200000 +0530" stop="20240316210000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192020_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316210000 +0530" stop="20240316220000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192021_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316220000 +0530" stop="20240316230000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192022_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316230000 +0530" stop="20240317000000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403161192023_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317000000 +0530" stop="20240317010000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192000_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317010000 +0530" stop="20240317020000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192001_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317020000 +0530" stop="20240317030000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192002_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317030000 +0530" stop="20240317040000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192003_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317040000 +0530" stop="20240317050000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192004_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317050000 +0530" stop="20240317060000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192005_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317060000 +0530" stop="20240317070000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192006_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317070000 +0530" stop="20240317080000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192007_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317080000 +0530" stop="20240317090000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192008_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317090000 +0530" stop="20240317100000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192009_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317100000 +0530" stop="20240317110000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192010_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317110000 +0530" stop="20240317120000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192011_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317120000 +0530" stop="20240317130000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192012_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317130000 +0530" stop="20240317140000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192013_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317140000 +0530" stop="20240317150000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192014_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317150000 +0530" stop="20240317160000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192015_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317160000 +0530" stop="20240317170000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192016_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317170000 +0530" stop="20240317180000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192017_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317180000 +0530" stop="20240317190000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192018_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317190000 +0530" stop="20240317200000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192019_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317200000 +0530" stop="20240317210000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192020_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317210000 +0530" stop="20240317220000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192021_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317220000 +0530" stop="20240317230000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192022_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317230000 +0530" stop="20240318000000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403171192023_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240318000000 +0530" stop="20240318010000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403181192000_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240318010000 +0530" stop="20240318020000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403181192001_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240318020000 +0530" stop="20240318030000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403181192002_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240318030000 +0530" stop="20240318040000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403181192003_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240318040000 +0530" stop="20240318050000 +0530" channel="BritAsiaTV.uk">
-    <title lang="en">Brit Asia</title>
-    <desc lang="en">Brit Asia</desc>
-    <category lang="en">Music</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403181192004_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <programme start="20240318050000 +0530" stop="20240318060000 +0530" channel="BritAsiaTV.uk">
     <title lang="en">Brit Asia</title>
     <desc lang="en">Brit Asia</desc>

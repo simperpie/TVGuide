@@ -4,142 +4,21 @@
     <display-name lang="en">Artist Aloud</display-name>
     <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Artist_Aloud.png"/>
   </channel>
-  <programme start="20240316000000 +0530" stop="20240316050000 +0530" channel="ArtistAloud.in">
-    <title lang="en">Everything Soothing</title>
-    <desc lang="en">Soft and soulful playlist melodies</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403162043000_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316050000 +0530" stop="20240316080000 +0530" channel="ArtistAloud.in">
-    <title lang="en">Chirpy Mornings</title>
-    <desc lang="en">Light playlist to chase your sleep away</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403162043001_s.jpg"/>
-    <previously-shown/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316080000 +0530" stop="20240316110000 +0530" channel="ArtistAloud.in">
-    <title lang="en">Traffic Hour</title>
-    <desc lang="en">Cool and lively playlist to keep you fresh</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403162043002_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316110000 +0530" stop="20240316140000 +0530" channel="ArtistAloud.in">
-    <title lang="en">Pop Vibes</title>
-    <desc lang="en">A mixed bag of pop song for every moods</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403162043003_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316140000 +0530" stop="20240316160000 +0530" channel="ArtistAloud.in">
-    <title lang="en">Romantic Hour</title>
-    <desc lang="en">Feel the bells of love ringing with Romantic songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403162043004_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316160000 +0530" stop="20240316190000 +0530" channel="ArtistAloud.in">
-    <title lang="en">MIX TAPE</title>
-    <desc lang="en">Delightful and comforting Songs to ease all your stress</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403162043005_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240316190000 +0530" stop="20240316235959 +0530" channel="ArtistAloud.in">
-    <title lang="en">Pop Vibes</title>
-    <desc lang="en">A mixed bag of pop song for every moods</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-16/2403162043006_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317000000 +0530" stop="20240317050000 +0530" channel="ArtistAloud.in">
-    <title lang="en">Everything Soothing</title>
-    <desc lang="en">Soft and soulful playlist melodies</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403172043000_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317050000 +0530" stop="20240317080000 +0530" channel="ArtistAloud.in">
-    <title lang="en">Chirpy Mornings</title>
-    <desc lang="en">Light playlist to chase your sleep away</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403172043001_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317080000 +0530" stop="20240317110000 +0530" channel="ArtistAloud.in">
-    <title lang="en">Traffic Hour</title>
-    <desc lang="en">Cool and lively playlist to keep you fresh</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403172043002_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317110000 +0530" stop="20240317140000 +0530" channel="ArtistAloud.in">
-    <title lang="en">Pop Vibes</title>
-    <desc lang="en">A mixed bag of pop song for every moods</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403172043003_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317140000 +0530" stop="20240317160000 +0530" channel="ArtistAloud.in">
-    <title lang="en">Romantic Hour</title>
-    <desc lang="en">Feel the bells of love ringing with Romantic songs</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403172043004_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317160000 +0530" stop="20240317190000 +0530" channel="ArtistAloud.in">
-    <title lang="en">MIX TAPE</title>
-    <desc lang="en">Delightful and comforting Songs to ease all your stress</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403172043005_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240317190000 +0530" stop="20240317235959 +0530" channel="ArtistAloud.in">
-    <title lang="en">Pop Vibes</title>
-    <desc lang="en">A mixed bag of pop song for every moods</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-17/2403172043006_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240318000000 +0530" stop="20240318050000 +0530" channel="ArtistAloud.in">
-    <title lang="en">Everything Soothing</title>
-    <desc lang="en">Soft and soulful playlist melodies</desc>
-    <category lang="en">Devotional</category>
-    <icon src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-18/2403182043000_s.jpg"/>
-    <rating system="CBFC">
-      <value>U</value>
-    </rating>
-  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <programme start="20240318050000 +0530" stop="20240318080000 +0530" channel="ArtistAloud.in">
     <title lang="en">Chirpy Mornings</title>
     <desc lang="en">Light playlist to chase your sleep away</desc>

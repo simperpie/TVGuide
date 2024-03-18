@@ -4,110 +4,32 @@
     <display-name lang="mg">HITS Movies 🄼</display-name>
     <icon src="http://linear-poster.astro.com.my/prod/logo/Logo_10000499.png"/>
   </channel>
-  <programme start="20240315224500 +0530" stop="20240316003000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Fun With Dick and Jane (2005)</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240316003000 +0530" stop="20240316023000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">The Replacement Killers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240316023000 +0530" stop="20240316044500 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Tears of the Sun</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240316044500 +0530" stop="20240316064500 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Rush Hour 2</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240316064500 +0530" stop="20240316083000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Fun With Dick and Jane (2005)</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240316083000 +0530" stop="20240316103000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">The Replacement Killers</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240316103000 +0530" stop="20240316124500 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Tears of the Sun</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240316124500 +0530" stop="20240316144500 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Rush Hour 2</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240316144500 +0530" stop="20240316164500 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Final Destination</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240316164500 +0530" stop="20240316183000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Final Destination 2</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240316183000 +0530" stop="20240316210000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">The Jackal</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240316210000 +0530" stop="20240316230000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Who Am I ?</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240316230000 +0530" stop="20240317010000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Final Destination</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240317010000 +0530" stop="20240317030000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Final Destination 2</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240317030000 +0530" stop="20240317053000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">The Jackal</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240317053000 +0530" stop="20240317073000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Who Am I ?</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240317073000 +0530" stop="20240317093000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Final Destination</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240317093000 +0530" stop="20240317113000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Final Destination 2</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240317113000 +0530" stop="20240317140000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">The Jackal</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240317140000 +0530" stop="20240317160000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Who Am I ?</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240317160000 +0530" stop="20240317183000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">The Prince of Tides</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240317183000 +0530" stop="20240317203000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Babe: Pig in the City</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240317203000 +0530" stop="20240317223000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Smokey and the Bandit</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240317223000 +0530" stop="20240318010000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">The Prince of Tides</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240318010000 +0530" stop="20240318030000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Babe: Pig in the City</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240318030000 +0530" stop="20240318050000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Smokey and the Bandit</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <programme start="20240318050000 +0530" stop="20240318073000 +0530" channel="HITSMoviesHD.my">
     <title lang="mg">The Man Who Would Be King</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>

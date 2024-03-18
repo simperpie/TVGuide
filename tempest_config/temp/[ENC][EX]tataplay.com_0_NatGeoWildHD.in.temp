@@ -3,454 +3,64 @@
   <channel id="NatGeoWildHD.in">
     <display-name lang="en">Nat Geo Wild HD</display-name>
   </channel>
-  <programme start="20240316010000 +0530" stop="20240316020000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Malika The Lion Queen</title>
-    <desc lang="en">Death Knocks: The filmmaker highlights the survival story of Malika in the wilderness of South Africa, from a little cub to a mature lion queen.</desc>
-    <credits>
-      <actor>Angela Bassett</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69B4F026BB8A3A8A4AAE65CC059083A3FD79C815Q.jpg"/>
-  </programme>
-  <programme start="20240316020000 +0530" stop="20240316030000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Malika The Lion Queen</title>
-    <desc lang="en">Eyes On The Pride: The filmmaker highlights the survival story of Malika in the wilderness of South Africa, from a little cub to a mature lion queen.</desc>
-    <credits>
-      <actor>Angela Bassett</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69B4F026BB8A3A8A4AAE65CC059083A3FD79C815Q.jpg"/>
-  </programme>
-  <programme start="20240316030000 +0530" stop="20240316040000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Tiger Queen of Taru</title>
-    <desc lang="en">The filmmaker portrays the life of an orphaned tigress named Maya who lived in the Tadoba Andhari Tiger Reserve in India.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8AF244DA64F9230E7B0B4AA728F9700F8CFEFCE2X.jpg"/>
-  </programme>
-  <programme start="20240316040000 +0530" stop="20240316050000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Predator Land</title>
-    <desc lang="en">Lions: Experts provide an insight into the lives of two prides of African lions and shed light on their success as predators.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BB57E31F8D2B41689C02DFC467700A1F3134DC334.jpg"/>
-  </programme>
-  <programme start="20240316050000 +0530" stop="20240316060000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Africa's Deadliest</title>
-    <desc lang="en">Predator Paradise: The filmmaker gives an insight into Africa's untamed wilderness and explores grand battles for survival.</desc>
-    <credits>
-      <actor>Jason Alan</actor>
-      <actor>Dave Fennoy</actor>
-      <actor>John Hunerlach</actor>
-      <actor>Bill Graves</actor>
-      <actor>Helen Young</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/616B25FD009240E9CD26C714774D36481E9EAE62E.jpg"/>
-  </programme>
-  <programme start="20240316060000 +0530" stop="20240316070000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Zebras Of The Serengeti</title>
-    <desc lang="en">A mother zebra embarks on a 300-mile long migration across East Africa during which, she must give birth to her baby, survive the wilderness and the predators and protect her newborn.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C800DA9EEDC7EE0390B5B02A699DDB0E25A3471W.jpg"/>
-  </programme>
-  <programme start="20240316070000 +0530" stop="20240316080000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Africa's Deadliest</title>
-    <desc lang="en">Wild Jungles: The filmmaker sheds light on some of the mysterious wild jungles while learning about the inhabitants.</desc>
-    <credits>
-      <actor>Jason Alan</actor>
-      <actor>Dave Fennoy</actor>
-      <actor>John Hunerlach</actor>
-      <actor>Bill Graves</actor>
-      <actor>Helen Young</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/616B25FD009240E9CD26C714774D36481E9EAE62E.jpg"/>
-  </programme>
-  <programme start="20240316080000 +0530" stop="20240316090000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Africa's Deadliest</title>
-    <desc lang="en">Savannah Survivors: The filmmaker sheds light on Africa's savannah specialists as they fight to survive the hostile landscapes.</desc>
-    <credits>
-      <actor>Jason Alan</actor>
-      <actor>Dave Fennoy</actor>
-      <actor>John Hunerlach</actor>
-      <actor>Bill Graves</actor>
-      <actor>Helen Young</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/616B25FD009240E9CD26C714774D36481E9EAE62E.jpg"/>
-  </programme>
-  <programme start="20240316090000 +0530" stop="20240316100000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Desert Lions</title>
-    <desc lang="en">Experts track lions in the Nxai Pan to learn and understand their secrets, survival skills and behaviour in the natural habitats.</desc>
-    <credits>
-      <actor>Nigel Barber</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE57CFFCF26B16F145759E9943E94F253E16072I.jpg"/>
-  </programme>
-  <programme start="20240316100000 +0530" stop="20240316110000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Lions: The Hunt For Survival</title>
-    <desc lang="en">Three lionesses, each belonging to a different part of the African continent, face a series of challenges in their daily lives to survive in the wilderness.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CF6C5ADE00F57DBF9172862DD23F08E6E1498A2BG.jpg"/>
-  </programme>
-  <programme start="20240316104600 +0530" stop="20240316113100 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Jungle Binge</title>
-    <desc lang="en">Savage Kingdom: The Enemy Within: A compilation of some of the best and most enthralling stories about the animal kingdom thriving in the jungles of India and Africa.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1B38F6F843688847C7109AA0F5E9BC4726C0ED14.jpg"/>
-  </programme>
-  <programme start="20240316113100 +0530" stop="20240316121500 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Jungle Binge</title>
-    <desc lang="en">Jaguars Vs. Crocs: A compilation of some of the best and most enthralling stories about the animal kingdom thriving in the jungles of India and Africa.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1B38F6F843688847C7109AA0F5E9BC4726C0ED14.jpg"/>
-  </programme>
-  <programme start="20240316121500 +0530" stop="20240316130100 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Jungle Binge</title>
-    <desc lang="en">Animal Fight Club: Winner Takes All: A compilation of some of the best and most enthralling stories about the animal kingdom thriving in the jungles of India and Africa.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1B38F6F843688847C7109AA0F5E9BC4726C0ED14.jpg"/>
-  </programme>
-  <programme start="20240316130100 +0530" stop="20240316134600 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Jungle Binge</title>
-    <desc lang="en">Animal Fight Club: Fangs of Fury: A compilation of some of the best and most enthralling stories about the animal kingdom thriving in the jungles of India and Africa.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1B38F6F843688847C7109AA0F5E9BC4726C0ED14.jpg"/>
-  </programme>
-  <programme start="20240316134600 +0530" stop="20240316143100 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Jungle Binge</title>
-    <desc lang="en">Africa's Deadliest: Swamps: A compilation of some of the best and most enthralling stories about the animal kingdom thriving in the jungles of India and Africa.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1B38F6F843688847C7109AA0F5E9BC4726C0ED14.jpg"/>
-  </programme>
-  <programme start="20240316143100 +0530" stop="20240316151600 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Jungle Binge</title>
-    <desc lang="en">Animal Fight Club: Eat, Prey, Kill: A compilation of some of the best and most enthralling stories about the animal kingdom thriving in the jungles of India and Africa.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1B38F6F843688847C7109AA0F5E9BC4726C0ED14.jpg"/>
-  </programme>
-  <programme start="20240316151600 +0530" stop="20240316160100 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Jungle Binge</title>
-    <desc lang="en">Lion Battle Zone: A compilation of some of the best and most enthralling stories about the animal kingdom thriving in the jungles of India and Africa.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1B38F6F843688847C7109AA0F5E9BC4726C0ED14.jpg"/>
-  </programme>
-  <programme start="20240316160100 +0530" stop="20240316164600 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Serengeti Speed Queen</title>
-    <desc lang="en">Wildlife experts follow the hunting techniques of Nzuri, a female cheetah, who has to survive in the wilderness with her newborn cubs and protect them from lions.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7AB0CA0BBF108642B58FDB5D26790E1EFAB74856G.jpg"/>
-  </programme>
-  <programme start="20240316164600 +0530" stop="20240316173000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Animal Fight Club</title>
-    <desc lang="en">Power Struggles: The most epic animal battles can be won or lost in a split second.</desc>
-    <credits>
-      <actor>Eric Meyers</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE8E4308BA57A7CB1175C65462150B64A7C0D3680.jpg"/>
-  </programme>
-  <programme start="20240316173000 +0530" stop="20240316181500 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Return Of The Lion</title>
-    <desc lang="en">Conservationists watch and observe lions in the wild and investigate reasons for an increase in their population.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA9DAACAF75A824EEBFA4D33A977A91C7B1AF6EAQ.jpg"/>
-  </programme>
-  <programme start="20240316181500 +0530" stop="20240316190100 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Eye Of The Leopard</title>
-    <desc lang="en">The filmmaker captures the remarkable beauty of one leopardess's life in the Mombo region of the Okavango Delta from her wobbly days as a cub to an adult as an independent predator.</desc>
-    <credits>
-      <actor>Jeremy Irons</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/16C609E7745B9F2D242C37D724E6E3BE0EC3DBC8Q.jpg"/>
-  </programme>
-  <programme start="20240316190100 +0530" stop="20240316194600 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Lion Dynasty</title>
-    <desc lang="en">The filmmaker explores the wildlife in the Serengeti kingdom in Tanzania and discovers how the population of lions is exploding.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3DBA3AE238E52E642F68F38541C54C48418E1484A.jpg"/>
-  </programme>
-  <programme start="20240316194600 +0530" stop="20240316200800 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Trials of The Wild</title>
-    <desc lang="en">Natural Born Fighters: The animal kingdom's newborns are frail, vulnerable and have a lot of learning to do.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/124ABB77017CEF99A61B0EAF6E46BA43054FD61DV.jpg"/>
-  </programme>
-  <programme start="20240316200800 +0530" stop="20240316205900 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Super Cat</title>
-    <desc lang="en">Tiger's Revenge: Experts unravel the secrets of the world's biggest members of the feline family, explore details about their lives and figure out what makes them the rulers of the landscape.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/374B7474132D2511575A2D0CF0C89F941162DE7A2.jpg"/>
-  </programme>
-  <programme start="20240316205900 +0530" stop="20240316214500 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Shadow Cats</title>
-    <desc lang="en">The filmmaker explores the ferocious species of smaller wild cats that prove an equal match to their larger counterparts.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/00D66BA517E2C13CB3B550D8FFE03B652FDF8616K.jpg"/>
-  </programme>
-  <programme start="20240316214500 +0530" stop="20240316220800 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Animal Fight Club</title>
-    <desc lang="en">Release The Beast: Animals will go to extreme lengths in order to survive and dominate in the wild.</desc>
-    <credits>
-      <actor>Eric Meyers</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE8E4308BA57A7CB1175C65462150B64A7C0D3680.jpg"/>
-  </programme>
-  <programme start="20240316220800 +0530" stop="20240316225400 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Predator Paradise</title>
-    <desc lang="en">Leopard Kingdom: The filmmaker sheds light on the predatory character of various wildlife creatures while focusing on their hunting techniques and strategies.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C5879809AE2EAAA1600EAEE3F6E0765B6CE9E94N.jpg"/>
-  </programme>
-  <programme start="20240316225400 +0530" stop="20240316234000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Africa's Deadliest</title>
-    <desc lang="en">Ambush Hunters: Africa's stealthy predators use camouflage, patience and precision to hunt.</desc>
-    <credits>
-      <actor>Jason Alan</actor>
-      <actor>Dave Fennoy</actor>
-      <actor>John Hunerlach</actor>
-      <actor>Bill Graves</actor>
-      <actor>Helen Young</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/616B25FD009240E9CD26C714774D36481E9EAE62E.jpg"/>
-  </programme>
-  <programme start="20240316234000 +0530" stop="20240317002400 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Africa's Big Five</title>
-    <desc lang="en">The African continent is home to some of the iconic animals, including the big five. These animals battle various elements and each other to survive.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A39F5E2AF5F9AA9B6B2F8DA530674DB7D17A34B67.jpg"/>
-  </programme>
-  <programme start="20240317000000 +0530" stop="20240317010000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">The Way Of The Cheetah</title>
-    <desc lang="en">The filmmaker documents the ferocious mother cheetah, Immani, living in Kenya with her four cubs as she struggles to raise them while keeping the predators away.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E56940DB211F3543DFE97BF646E4287732E8EFAM.jpg"/>
-  </programme>
-  <programme start="20240317010000 +0530" stop="20240317020000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Animal Fight Club</title>
-    <desc lang="en">The filmmaker presents unique footage of animals of the same species engaging in fatal fights to survive and thrive in the harsh conditions of the wilderness.</desc>
-    <credits>
-      <actor>Eric Meyers</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE8E4308BA57A7CB1175C65462150B64A7C0D3680.jpg"/>
-  </programme>
-  <programme start="20240317020000 +0530" stop="20240317030000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">World's Deadliest</title>
-    <desc lang="en">The filmmaker portrays the skills and techniques of some of the most wrathful, prideful and gluttonous predators who kill creatures that get in their way.</desc>
-    <credits>
-      <actor>Henri Douvry</actor>
-      <actor>Jeremy Davidson</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/14E3482D429D51A470E72DB63ED2C167C788DE44H.jpg"/>
-  </programme>
-  <programme start="20240317030000 +0530" stop="20240317040000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Africa's Deadliest</title>
-    <desc lang="en">The filmmaker gives an insight into the wildlife of Africa and how they have evolved over time to survive and sustain themselves.</desc>
-    <credits>
-      <actor>Jason Alan</actor>
-      <actor>Dave Fennoy</actor>
-      <actor>John Hunerlach</actor>
-      <actor>Bill Graves</actor>
-      <actor>Helen Young</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/616B25FD009240E9CD26C714774D36481E9EAE62E.jpg"/>
-  </programme>
-  <programme start="20240317040000 +0530" stop="20240317050000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Savage Kingdom</title>
-    <desc lang="en">Clans of lions, hyenas, leopards and wild dogs clash against one another over limited resources and territorial authority in the African continent.</desc>
-    <credits>
-      <actor>Charles Dance</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/980EF2D0FA2EE15BA976C4ABFA6231D940469748E.jpg"/>
-  </programme>
-  <programme start="20240317050000 +0530" stop="20240317060000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Big Cat Games</title>
-    <desc lang="en">Cats are some of the most impressive predators in the world. The hosts explore how they make use of their extraordinary abilities while hunting down their prey.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/84DC69EFD16B1F16B94A344C58243B405B0E4792G.jpg"/>
-  </programme>
-  <programme start="20240317060000 +0530" stop="20240317070000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Predator Bloodlines</title>
-    <desc lang="en">The filmmaker portrays the life and survival skills of predatory animals in the wilderness by closely monitoring their hunting and behavioural patterns.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8DB2D70DB37C199744A0B7E8BCA696EBF939CAF6H.jpg"/>
-  </programme>
-  <programme start="20240317070000 +0530" stop="20240317080000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Russia's Wild Tiger</title>
-    <desc lang="en">The filmmaker sheds light on the journey of Siberian tigers in Russia's conservation area, including the way they hunt, search for territory and survive.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9601EA303BC29DEEB9CF6518D1B8670BB3FA045FU.jpg"/>
-  </programme>
-  <programme start="20240317080000 +0530" stop="20240317090000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Born In Africa</title>
-    <desc lang="en">The filmmaker sheds light on the lives of the baby predators in the African Savannah and their efforts in discovering themselves and their family.</desc>
-    <credits>
-      <actor>Edward Marcoux</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C419A0B1EC94C49FFFF5AA8B269196AA5AA386607.jpg"/>
-  </programme>
-  <programme start="20240317090000 +0530" stop="20240317100000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Predator Land</title>
-    <desc lang="en">Experts provide an insight into the lives of predatory animals in Africa, focusing on their behaviour, physical facets, survival tactics and hunting strategies.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BB57E31F8D2B41689C02DFC467700A1F3134DC334.jpg"/>
-  </programme>
-  <programme start="20240317100000 +0530" stop="20240317110000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">The Wild Sides</title>
-    <desc lang="en">Five animal families are forced to embark on a perilous journey as they try to survive and live together in harsh climatic conditions in Mashatu, Botswana.</desc>
-    <credits>
-      <actor>Colin Salmon</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C06F5A8AB3FCD859C3A722CE31BBD3B1FE39D070Q.jpg"/>
-  </programme>
-  <programme start="20240317110000 +0530" stop="20240317120000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Jungle Binge</title>
-    <desc lang="en">A compilation of some of the best and most enthralling stories about the animal kingdom thriving in the jungles of India and Africa.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1B38F6F843688847C7109AA0F5E9BC4726C0ED14.jpg"/>
-  </programme>
-  <programme start="20240317120000 +0530" stop="20240317130000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Jungle Binge</title>
-    <desc lang="en">A compilation of some of the best and most enthralling stories about the animal kingdom thriving in the jungles of India and Africa.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1B38F6F843688847C7109AA0F5E9BC4726C0ED14.jpg"/>
-  </programme>
-  <programme start="20240317130000 +0530" stop="20240317140000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Jungle Binge</title>
-    <desc lang="en">A compilation of some of the best and most enthralling stories about the animal kingdom thriving in the jungles of India and Africa.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1B38F6F843688847C7109AA0F5E9BC4726C0ED14.jpg"/>
-  </programme>
-  <programme start="20240317140000 +0530" stop="20240317150000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Jungle Binge</title>
-    <desc lang="en">A compilation of some of the best and most enthralling stories about the animal kingdom thriving in the jungles of India and Africa.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1B38F6F843688847C7109AA0F5E9BC4726C0ED14.jpg"/>
-  </programme>
-  <programme start="20240317150000 +0530" stop="20240317160000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Jungle Binge</title>
-    <desc lang="en">A compilation of some of the best and most enthralling stories about the animal kingdom thriving in the jungles of India and Africa.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A1B38F6F843688847C7109AA0F5E9BC4726C0ED14.jpg"/>
-  </programme>
-  <programme start="20240317160000 +0530" stop="20240317170000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Serengeti Speed Queen</title>
-    <desc lang="en">Wildlife experts follow the hunting techniques of Nzuri, a female cheetah, who has to survive in the wilderness with her newborn cubs and protect them from lions.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7AB0CA0BBF108642B58FDB5D26790E1EFAB74856G.jpg"/>
-  </programme>
-  <programme start="20240317170000 +0530" stop="20240317180000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Cobra Mafia</title>
-    <desc lang="en">The host presents the behavioural and physical features of the king cobras, forest cobras, white cobras and the Indo-Chinese spitting cobras, highlighting their geographical presence.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BB0F1B69DEB39D9961A9411C02FD4B4227A1BF86S.jpg"/>
-  </programme>
-  <programme start="20240317180000 +0530" stop="20240317190000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Jade Eyed Leopard</title>
-    <desc lang="en">The filmmaker sheds light on the life of a leopard with jade green eyes named Toto in the Maasai Mara National Reserve in Kenya.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B1672729E040EA308108D851337B924A2FD7E2A7K.jpg"/>
-  </programme>
-  <programme start="20240317190000 +0530" stop="20240317200000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Africa's Deadliest</title>
-    <desc lang="en">The filmmaker gives an insight into the wildlife of Africa and how they have evolved over time to survive and sustain themselves.</desc>
-    <credits>
-      <actor>Jason Alan</actor>
-      <actor>Dave Fennoy</actor>
-      <actor>John Hunerlach</actor>
-      <actor>Bill Graves</actor>
-      <actor>Helen Young</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/616B25FD009240E9CD26C714774D36481E9EAE62E.jpg"/>
-  </programme>
-  <programme start="20240317200000 +0530" stop="20240317210000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Super Cat</title>
-    <desc lang="en">Experts unravel the secrets of the world's biggest members of the feline family, explore details about their lives and figure out what makes them the rulers of the landscape.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/374B7474132D2511575A2D0CF0C89F941162DE7A2.jpg"/>
-  </programme>
-  <programme start="20240317210000 +0530" stop="20240317220000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Animal Fight Club</title>
-    <desc lang="en">The filmmaker presents unique footage of animals of the same species engaging in fatal fights to survive and thrive in the harsh conditions of the wilderness.</desc>
-    <credits>
-      <actor>Eric Meyers</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE8E4308BA57A7CB1175C65462150B64A7C0D3680.jpg"/>
-  </programme>
-  <programme start="20240317220000 +0530" stop="20240317230000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Predator Paradise</title>
-    <desc lang="en">The filmmaker sheds light on the predatory character of various wildlife creatures while focusing on their hunting techniques and strategies.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9C5879809AE2EAAA1600EAEE3F6E0765B6CE9E94N.jpg"/>
-  </programme>
-  <programme start="20240317230000 +0530" stop="20240318000000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Africa's Deadliest</title>
-    <desc lang="en">The filmmaker gives an insight into the wildlife of Africa and how they have evolved over time to survive and sustain themselves.</desc>
-    <credits>
-      <actor>Jason Alan</actor>
-      <actor>Dave Fennoy</actor>
-      <actor>John Hunerlach</actor>
-      <actor>Bill Graves</actor>
-      <actor>Helen Young</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/616B25FD009240E9CD26C714774D36481E9EAE62E.jpg"/>
-  </programme>
-  <programme start="20240318000000 +0530" stop="20240318010000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Animal Fight Club</title>
-    <desc lang="en">The filmmaker presents unique footage of animals of the same species engaging in fatal fights to survive and thrive in the harsh conditions of the wilderness.</desc>
-    <credits>
-      <actor>Eric Meyers</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE8E4308BA57A7CB1175C65462150B64A7C0D3680.jpg"/>
-  </programme>
-  <programme start="20240318010000 +0530" stop="20240318020000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Kings Of The Wild</title>
-    <desc lang="en">Hunter Josh James and Chef Matt Tebbutt challenge themselves to survive in remote locations and make decent food out of the ingredients around them.</desc>
-    <credits>
-      <actor>Josh James</actor>
-      <actor>Matt Tebbutt</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7C3BE3CADA05DB979DC47119F6714EB801E50D60J.jpg"/>
-  </programme>
-  <programme start="20240318020000 +0530" stop="20240318030000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Tiger Queen of Taru</title>
-    <desc lang="en">The filmmaker portrays the life of an orphaned tigress named Maya who lived in the Tadoba Andhari Tiger Reserve in India.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8AF244DA64F9230E7B0B4AA728F9700F8CFEFCE2X.jpg"/>
-  </programme>
-  <programme start="20240318030000 +0530" stop="20240318040000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Lion Battle Zone</title>
-    <desc lang="en">The host talks about some of the new methods being adopted by lions to ensure their survival and the defeat of their prey, including huge animals like giraffes and buffaloes.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B08EC836648E64D3BA493F051B171FC1E16C736FF.jpg"/>
-  </programme>
-  <programme start="20240318040000 +0530" stop="20240318050000 +0530" channel="NatGeoWildHD.in">
-    <title lang="en">Africa's Deadliest</title>
-    <desc lang="en">The filmmaker gives an insight into the wildlife of Africa and how they have evolved over time to survive and sustain themselves.</desc>
-    <credits>
-      <actor>Jason Alan</actor>
-      <actor>Dave Fennoy</actor>
-      <actor>John Hunerlach</actor>
-      <actor>Bill Graves</actor>
-      <actor>Helen Young</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/616B25FD009240E9CD26C714774D36481E9EAE62E.jpg"/>
-  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <programme start="20240318050000 +0530" stop="20240318060000 +0530" channel="NatGeoWildHD.in">
     <title lang="en">Savage Kingdom</title>
     <desc lang="en">Clans of lions, hyenas, leopards and wild dogs clash against one another over limited resources and territorial authority in the African continent.</desc>
