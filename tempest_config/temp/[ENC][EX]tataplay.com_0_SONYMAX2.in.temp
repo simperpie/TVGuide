@@ -126,7 +126,21 @@
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/88662FBB51B626C6EB29D82A7F4954EA640D2E8D4.jpg"/>
   </programme>
-  <programme start="20240320030000 +0530" stop="20240320060000 +0530" channel="SONYMAX2.in">
+  <programme start="20240320013700 +0530" stop="20240320040000 +0530" channel="SONYMAX2.in">
+    <title lang="en">Game</title>
+    <desc lang="en">Vikram and Ajay, two brothers, live with their parents. Their dad trains Vikram to always remain ahead in a chess championship. This education makes Vikram, the unchallenged don of the underworld.</desc>
+    <credits>
+      <actor>Naseeruddin Shah</actor>
+      <actor>Aditya Pancholi</actor>
+      <actor>Sangeeta Bijlani</actor>
+      <actor>Kiran Kumar</actor>
+      <actor>Kulbhushan Kharbanda</actor>
+      <actor>Rahul Roy</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0A73951D0EAE91FBC5D5B64A15D8DF3D76827D7CR.jpg"/>
+  </programme>
+  <programme start="20240320040000 +0530" stop="20240320060000 +0530" channel="SONYMAX2.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

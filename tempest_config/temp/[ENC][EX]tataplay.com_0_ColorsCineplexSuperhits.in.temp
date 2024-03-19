@@ -121,11 +121,46 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E623E7E95DD10809FCBD2FB78BC3BCBC116341E75.jpg"/>
   </programme>
-  <programme start="20240320030000 +0530" stop="20240320060000 +0530" channel="ColorsCineplexSuperhits.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240320002900 +0530" stop="20240320021400 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Dare Devil</title>
+    <desc lang="en">Due to a series of misunderstandings, Narsimha, a gangster, thinks that his sister Puja is having an affair with Venky, a boxer. To teach him a lesson, Narsimha decides to attack Venky's family.</desc>
+    <credits>
+      <actor>Vishnu Manchu</actor>
+      <actor>Taapsee Pannu</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Sayaji Shinde</actor>
+      <actor>Ajay</actor>
+      <actor>Sanjay Reddy</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FFF35983FEBE02E7D4CB2D6851F66A838EEB100N.jpg"/>
+  </programme>
+  <programme start="20240320021400 +0530" stop="20240320044300 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">MLA Kattappa</title>
+    <desc lang="en">A man rises to the position of the chief minister of a state despite all the hurdles in his way. Once there, the road ahead seems no less difficult.</desc>
+    <credits>
+      <actor>Sathyaraj</actor>
+      <actor>Manivannan</actor>
+      <actor>Seeman</actor>
+      <actor>Raghuvannan</actor>
+      <actor>Mrudula Murali</actor>
+      <actor>Komal Sharma</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/37ACEDF2D81A85BF162BDB19599A6BEBA4054176G.jpg"/>
+  </programme>
+  <programme start="20240320044300 +0530" stop="20240320060000 +0530" channel="ColorsCineplexSuperhits.in">
+    <title lang="en">Qaidi No 420</title>
+    <desc lang="en">A kabbadi player is arrested for the murder of his wife on their wedding night. However, the police officer investigating the case finds other clues that lead him on a different trail.</desc>
+    <credits>
+      <actor>Sachiin Joshi</actor>
+      <actor>Esha Gupta</actor>
+      <actor>Kishore</actor>
+      <actor>Prabhu</actor>
+      <actor>Sathish</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6108793BED2A377038DB7955D826D82293930062A.jpg"/>
   </programme>
   <programme start="20240320060000 +0530" stop="20240320090000 +0530" channel="ColorsCineplexSuperhits.in">
     <title lang="en">Movie</title>

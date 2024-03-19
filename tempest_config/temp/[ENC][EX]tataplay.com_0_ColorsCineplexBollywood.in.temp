@@ -113,13 +113,49 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/42BA3A961B3A2A79CBC96A0DD8BABCB05CD1DEA0Q.jpg"/>
   </programme>
-  <programme start="20240320030000 +0530" stop="20240320060000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240320005100 +0530" stop="20240320031000 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Albela</title>
+    <desc lang="en">Tony, a tour guide, falls in love with one of his clients, Sonia, and tries to woo her. However, Sonia does not reciprocate his feelings since she is in love with another man.</desc>
+    <credits>
+      <actor>Govinda</actor>
+      <actor>Aishwarya Rai Bachchan</actor>
+      <actor>Jackie Shroff</actor>
+      <actor>Namrata Shirodkar</actor>
+      <actor>Sanjay Mishra</actor>
+      <actor>Saeed Jaffrey</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A479EC71D93AF172A55289D9AD9CADAC5C719A63O.jpg"/>
   </programme>
-  <programme start="20240320060000 +0530" stop="20240320090000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240320031000 +0530" stop="20240320054900 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Boyss Toh Boyys Hain</title>
+    <desc lang="en">A group of four young boys heads out in search of the right woman to fall in love with. However, their never-ending problems in life make it tough for them.</desc>
+    <credits>
+      <actor>Rajkummar Rao</actor>
+      <actor>Anshuman Jha</actor>
+      <actor>Dhruv Ganesh</actor>
+      <actor>Samrat Arya</actor>
+      <actor>Gulshan Grover</actor>
+      <actor>Divya Dutta</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD8217BCD066FDB99831A7E6E91F077D50219195K.jpg"/>
+  </programme>
+  <programme start="20240320054900 +0530" stop="20240320070000 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Aladin</title>
+    <desc lang="en">A young orphan, Aladin, who gets bullied by his peers, finds a magic lamp that changes his life. Thereafter, he sets off on a series of adventures and uses the lamp to defeat the evil Ringmaster.</desc>
+    <credits>
+      <actor>Amitabh Bachchan</actor>
+      <actor>Sanjay Dutt</actor>
+      <actor>Riteish Deshmukh</actor>
+      <actor>Jaqueline Fernandes</actor>
+      <actor>Sahil Khan</actor>
+      <actor>Ratna Pathak Shah</actor>
+    </credits>
+    <category lang="en">Fantasy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3969B907E6886C8B747119E7D0512700633F3A8CV.jpg"/>
+  </programme>
+  <programme start="20240320070000 +0530" stop="20240320090000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

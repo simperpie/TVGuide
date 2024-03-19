@@ -235,11 +235,38 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A43260A29F45FB3644734BF0B6ACC0805FA1E14D.jpg"/>
     <episode-num system="xmltv_ns">.1245.</episode-num>
   </programme>
-  <programme start="20240320030000 +0530" stop="20240320060000 +0530" channel="SonyWah.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240320000600 +0530" stop="20240320020400 +0530" channel="SonyWah.in">
+    <title lang="en">Dwaraka</title>
+    <desc lang="en">A thief is mistaken for a holy man and is forced to adopt an identity of Krishnananda Swami but later, he falls for Vasudha and decides to change his ways.</desc>
+    <credits>
+      <actor>Vijay Deverakonda</actor>
+      <actor>Pooja Jhaveri</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Prudhviraj</actor>
+      <actor>Murali Sharma</actor>
+      <actor>Prabhakar</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2C85C036AB5850B797A747C570C1304148817690.jpg"/>
+  </programme>
+  <programme start="20240320020400 +0530" stop="20240320034000 +0530" channel="SonyWah.in">
+    <title lang="en">Shiv Bhola Bhandari</title>
+    <desc lang="en">Markandeya grows up to be a staunch devotee of Lord Shiva. When Yama comes to take Markandeya's life, Shiva himself saves Markendeya from getting killed.</desc>
+    <credits>
+      <actor>Bharati</actor>
+      <actor>Dwarakish</actor>
+      <actor>Rajesh</actor>
+      <actor>Puspa</actor>
+      <actor>T Udayakumar</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D82BE5554EDDD33796A38A00289B5CB46DC66950.jpg"/>
+  </programme>
+  <programme start="20240320034000 +0530" stop="20240320060000 +0530" channel="SonyWah.in">
+    <title lang="en">Parde Ke Peeche Special</title>
+    <desc lang="en">Phantom: Take a look at some behind-the-scene moments from the sets of various Bollywood movies, where the cast and crew share their experiences of working in the film.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/638E03DB15FDA56D1477C447418F14CBB1AB4871I.jpg"/>
   </programme>
   <programme start="20240320060000 +0530" stop="20240320090000 +0530" channel="SonyWah.in">
     <title lang="en">Movie</title>

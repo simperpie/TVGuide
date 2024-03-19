@@ -411,17 +411,11 @@
     <category lang="en">Other Sports</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A38FE9042CB245210F4D032D559204067FD251C1U.jpg"/>
   </programme>
-  <programme start="20240320170000 +0530" stop="20240320173000 +0530" channel="StarSportsSelect1HD.in">
-    <title lang="en">IPL Special Hlts MI v RPS</title>
-    <desc lang="en">MI vs RPS: Highlights of matches played during the Indian Premier League, a men's Twenty20 cricket league, are presented in sign language.</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6484F8BB4DF1AB7AE49B9AFE5AE49056652B95B7S.jpg"/>
-  </programme>
-  <programme start="20240320173000 +0530" stop="20240320180000 +0530" channel="StarSportsSelect1HD.in">
-    <title lang="en">IPL Special Hlts RCB v PWI</title>
-    <desc lang="en">RCB vs PWI: Highlights of matches played during the Indian Premier League, a men's Twenty20 cricket league, are presented in sign language.</desc>
-    <category lang="en">Cricket</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6484F8BB4DF1AB7AE49B9AFE5AE49056652B95B7S.jpg"/>
+  <programme start="20240320170000 +0530" stop="20240320180000 +0530" channel="StarSportsSelect1HD.in">
+    <title lang="en">PL Review</title>
+    <desc lang="en">Sports experts review the performance of players and analyse match statistics in the 2023/24 edition of the Premier League.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51ED0C4ACBCD2B205A330A215442925D71A67DA27.jpg"/>
   </programme>
   <programme start="20240320180000 +0530" stop="20240320183000 +0530" channel="StarSportsSelect1HD.in">
     <title lang="en">PL Highlights Chelsea v Fulham</title>

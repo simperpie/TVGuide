@@ -155,19 +155,34 @@
     <category lang="en">Romance</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/48FF2BD9724DFFCAA1C5BB2940BB51815A5FDC4ET.jpg"/>
   </programme>
-  <programme start="20240320013600 +0530" stop="20240320041800 +0530" channel="&amp;XplorHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
+  <programme start="20240320013500 +0530" stop="20240320041000 +0530" channel="&amp;XplorHD.in">
+    <title lang="en">CityLights</title>
+    <desc lang="en">Deepak, an ex-army person from Rajasthan, moves to Mumbai and gets involved in crime.</desc>
+    <credits>
+      <actor>Rajkummar Rao</actor>
+      <actor>Patralekha</actor>
+      <actor>Manav Kaul</actor>
+      <actor>Sadiya Siddiqui</actor>
+      <actor>Pramod Pathak</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF684E19D1A5CE3F4EC1709A9B1CC96BEF028607D.jpg"/>
   </programme>
-  <programme start="20240320041800 +0530" stop="20240320065000 +0530" channel="&amp;XplorHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240320041000 +0530" stop="20240320060000 +0530" channel="&amp;XplorHD.in">
+    <title lang="en">Love Breakups Zindagi</title>
+    <desc lang="en">Two strangers and their friends find their lives changing after attending a wedding.</desc>
+    <credits>
+      <actor>Zayed Khan</actor>
+      <actor>Diya Mirza</actor>
+      <actor>Cyrus Sahukar</actor>
+      <actor>Tisca Chopra</actor>
+      <actor>Satyadeep Misra</actor>
+      <actor>Vaibhav Talwar</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3CCBFC0BAD46FBB1DDAF8B952E2B4D0DB8DE87A01.jpg"/>
   </programme>
-  <programme start="20240320065000 +0530" stop="20240320090000 +0530" channel="&amp;XplorHD.in">
+  <programme start="20240320060000 +0530" stop="20240320090000 +0530" channel="&amp;XplorHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

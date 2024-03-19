@@ -198,11 +198,17 @@
     <category lang="en">Debate Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/548122DE9EFD6904191DB4D56916A553780BBEE1H.jpg"/>
   </programme>
-  <programme start="20240319185800 +0530" stop="20240319195800 +0530" channel="IndiaTV.in">
-    <title lang="en">Abki Baar Kiski Sarkar + Fatafat 50</title>
-    <desc lang="en">The host provides analysis and discussions on the political scenario around the time of the elections; the host presents 50 significant news stories of the day in a quick manner.</desc>
+  <programme start="20240319185800 +0530" stop="20240319195200 +0530" channel="IndiaTV.in">
+    <title lang="en">Abki Baar Kiski Sarkar + Chunav 360</title>
+    <desc lang="en">Abki Baar Kiski Sarkar + Chunav 360</desc>
     <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A608E06233ED45160380111ACA0E24F463BC430H.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg"/>
+  </programme>
+  <programme start="20240319195200 +0530" stop="20240319195800 +0530" channel="IndiaTV.in">
+    <title lang="en">Fatafat 50</title>
+    <desc lang="en">The host presents the top 50 news updates and developments regarding political, social and economic issues from Punjab in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/186B83B717B114DFD4530AB3ED844F0A8513DBB65.jpg"/>
   </programme>
   <programme start="20240319195800 +0530" stop="20240319205700 +0530" channel="IndiaTV.in">
     <title lang="en">Haqiqat Kya Hai ? / Super 100</title>
@@ -220,10 +226,10 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B8DBAA0C84ABC3CDB8921BC6DC814641B1DA14430.jpg"/>
   </programme>
   <programme start="20240319212800 +0530" stop="20240319215800 +0530" channel="IndiaTV.in">
-    <title lang="en">Modi Aur Musalman</title>
-    <desc lang="en">The host presents a segment that discusses the relationship and perceptions between Prime Minister Narendra Modi and the Muslim community.</desc>
+    <title lang="en">Modi Aur Musalman + Jaati Ganit</title>
+    <desc lang="en">Modi Aur Musalman + Jaati Ganit</desc>
     <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E67D17C73FD2FB7E435BE774962022792A9DB116X.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg"/>
   </programme>
   <programme start="20240319215800 +0530" stop="20240319225800 +0530" channel="IndiaTV.in">
     <title lang="en">Special Report</title>

@@ -148,17 +148,33 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/40FB939E7266C19C797816595DA22F59DB30172DL.jpg"/>
   </programme>
-  <programme start="20240320030000 +0530" stop="20240320060000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240320012500 +0530" stop="20240320032400 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Manikarnika: The Queen of Jhansi</title>
+    <desc lang="en">Manikarnika, the wife of the king of Jhansi, refuses to bow down when the East India Company tries to annex the kingdom. Her rebellion soon turns into a fiery revolution against the British Raj.</desc>
+    <credits>
+      <actor>Kangana Ranaut</actor>
+      <actor>Mohammed Zeeshan Ayyub</actor>
+      <actor>Atul Kulkarni</actor>
+      <actor>Jisshu Sengupta</actor>
+      <actor>Richard Keep</actor>
+      <actor>Suresh Oberoi</actor>
+    </credits>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/95880BBAB377F5AB7653F0495B0EC11A293AE8D61.jpg"/>
   </programme>
-  <programme start="20240320060000 +0530" stop="20240320090000 +0530" channel="ZeeCinemaHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240320032400 +0530" stop="20240320090000 +0530" channel="ZeeCinemaHD.in">
+    <title lang="en">Gabbar Sher 2</title>
+    <desc lang="en">A professor decides to form a group with his former students in order to fight against the corruption taking place in society.</desc>
+    <credits>
+      <actor>Chiranjeevi</actor>
+      <actor>Shriya Saran</actor>
+      <actor>Jyothika</actor>
+      <actor>Sayaji Shinde</actor>
+      <actor>Prakash Raj</actor>
+      <actor>Puneet Issar</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6AD60F1BD4E6720D873CB5A67F868816B0759FB2U.jpg"/>
   </programme>
   <programme start="20240320090000 +0530" stop="20240320120000 +0530" channel="ZeeCinemaHD.in">
     <title lang="en">Movie</title>

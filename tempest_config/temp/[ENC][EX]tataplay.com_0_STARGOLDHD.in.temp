@@ -57,7 +57,7 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0CDA9053A268301599B3F3DF04024C575B614552S.jpg"/>
   </programme>
-  <programme start="20240319101900 +0530" stop="20240319125500 +0530" channel="STARGOLDHD.in">
+  <programme start="20240319103400 +0530" stop="20240319130400 +0530" channel="STARGOLDHD.in">
     <title lang="en">Taqdeerwala</title>
     <desc lang="en">When a book on destiny gets misplaced, Yamraj and Chitragupt descend to Earth to look for it. They find it in the hands of a man unwilling to part with it.</desc>
     <credits>
@@ -71,7 +71,7 @@
     <category lang="en">Fantasy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/57360435ECEBF0C8DF7F8815684BCF7C1133D660U.jpg"/>
   </programme>
-  <programme start="20240319125500 +0530" stop="20240319155200 +0530" channel="STARGOLDHD.in">
+  <programme start="20240319130400 +0530" stop="20240319155600 +0530" channel="STARGOLDHD.in">
     <title lang="en">Kyo Kii... Main Jhuth Nahin Bolta</title>
     <desc lang="en">Raj is a lawyer who finds great success with his countless fibs. However, when his son wishes for his father to stop lying, Raj is magically forced to speak the truth, which lands him in trouble.</desc>
     <credits>
@@ -84,7 +84,7 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AD0906B8849505309C588677E3FAEAE61B52C439L.jpg"/>
   </programme>
-  <programme start="20240319155200 +0530" stop="20240319195500 +0530" channel="STARGOLDHD.in">
+  <programme start="20240319155600 +0530" stop="20240319195500 +0530" channel="STARGOLDHD.in">
     <title lang="en">Mohabbatein</title>
     <desc lang="en">Narayan is a strict principal of Gurukul who does not believe in love and forbids his students from following their hearts. However, things take a turn when a music teacher challenges his authority.</desc>
     <credits>
@@ -98,7 +98,7 @@
     <category lang="en">Musical</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF299C7FDD2B9E6F7161205C8D0C4605E7624A56Z.jpg"/>
   </programme>
-  <programme start="20240319195500 +0530" stop="20240319224000 +0530" channel="STARGOLDHD.in">
+  <programme start="20240319195500 +0530" stop="20240319224400 +0530" channel="STARGOLDHD.in">
     <title lang="en">Ram Setu</title>
     <desc lang="en">An atheist archaeologist who turns into a believer, faces a challenge to prove the existence of 'Rama Setu' before the evil forces destroy the heritage site of India.</desc>
     <credits>
@@ -112,7 +112,7 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/53FCC677F22BB560C55BF08BDAAAD95E33020A752.jpg"/>
   </programme>
-  <programme start="20240319224000 +0530" stop="20240320000000 +0530" channel="STARGOLDHD.in">
+  <programme start="20240319224400 +0530" stop="20240320004300 +0530" channel="STARGOLDHD.in">
     <title lang="en">Shootout At Lokhandwala</title>
     <desc lang="en">An experienced policeman, Khan, leads a team to eliminate gangsters hiding in a residential locality in Mumbai. However, this results in his own integrity being questioned.</desc>
     <credits>
@@ -126,23 +126,32 @@
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0748FCE1DB05285DAA5CD37525629AAC52C0925DO.jpg"/>
   </programme>
-  <programme start="20240320013100 +0530" stop="20240320032300 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  <programme start="20240320004300 +0530" stop="20240320025700 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Baaghi 2</title>
+    <desc lang="en">When Neha's three-year-old daughter, Rhea, is kidnapped, she calls Ronny, her former boyfriend who is now an Indian army soldier. He remembers the promise he made to her and agrees to save Rhea.</desc>
+    <credits>
+      <actor>Tiger Shroff</actor>
+      <actor>Disha Patani</actor>
+      <actor>Manoj Bajpayee</actor>
+      <actor>Randeep Hooda</actor>
+      <actor>Deepak Dobriyal</actor>
+      <actor>Prateik</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9FC95E5EAF516D58AB9911094FDF754C7662F599H.jpg"/>
   </programme>
-  <programme start="20240320032300 +0530" stop="20240320052800 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240320052800 +0530" stop="20240320055000 +0530" channel="STARGOLDHD.in">
-    <title lang="en">Filler</title>
-    <desc lang="en">Filler</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F380F80A806DDDB34818B444019ABC1658C9C71EY.jpg"/>
+  <programme start="20240320025700 +0530" stop="20240320055000 +0530" channel="STARGOLDHD.in">
+    <title lang="en">Jai Veeru Friends Forever</title>
+    <desc lang="en">Two friends, one a thief and the other a police officer, find themselves on opposite sides of the law as they deal with a drug importer, Tejpal.</desc>
+    <credits>
+      <actor>Fardeen Khan</actor>
+      <actor>Kunal Khemu</actor>
+      <actor>Dia Mirza</actor>
+      <actor>Arbaaz Khan</actor>
+      <actor>Anjana Sukhani</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/575602480F78B16620CC927659F12E9814CC64FF6.jpg"/>
   </programme>
   <programme start="20240320055000 +0530" stop="20240320081800 +0530" channel="STARGOLDHD.in">
     <title lang="en">Movie</title>
