@@ -3,6 +3,8 @@
 
 [![EPG Grabber](https://github.com/simperpie/TVGuide/actions/workflows/EPG%20Grabber.yml/badge.svg)](https://github.com/simperpie/TVGuide/actions/workflows/EPG%20Grabber.yml)
 
+[![pages-build-deployment](https://github.com/simperpie/TVGuide/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/simperpie/TVGuide/actions/workflows/pages/pages-build-deployment)
+
 Updated EPG links of Indian TV channels, **auto updated every day at 06:00 AM IST (00:30UTC)**.
 
 ### Usage
