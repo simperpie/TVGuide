@@ -4,34 +4,6 @@
     <display-name lang="mg">HITS Movies 🄼</display-name>
     <icon src="http://linear-poster.astro.com.my/prod/logo/Logo_10000499.png"/>
   </channel>
-  <programme start="20240318073000 +0530" stop="20240318100000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">The Prince of Tides</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240318100000 +0530" stop="20240318120000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Babe: Pig in the City</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240318120000 +0530" stop="20240318140000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Smokey and the Bandit</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240318140000 +0530" stop="20240318163000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">The Man Who Would Be King</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240318163000 +0530" stop="20240318183000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Fright Night</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240318183000 +0530" stop="20240318203000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Mr. Nice Guy</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
-  <programme start="20240318203000 +0530" stop="20240318223000 +0530" channel="HITSMoviesHD.my">
-    <title lang="mg">Bedazzled</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
-  </programme>
   <programme start="20240318223000 +0530" stop="20240319010000 +0530" channel="HITSMoviesHD.my">
     <title lang="mg">The Man Who Would Be King</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
@@ -74,6 +46,50 @@
   </programme>
   <programme start="20240319203000 +0530" stop="20240319223000 +0530" channel="HITSMoviesHD.my">
     <title lang="mg">Cats &amp; Dogs</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
+  </programme>
+  <programme start="20240319223000 +0530" stop="20240320011500 +0530" channel="HITSMoviesHD.my">
+    <title lang="mg">Bad Boys II</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
+  </programme>
+  <programme start="20240320011500 +0530" stop="20240320040000 +0530" channel="HITSMoviesHD.my">
+    <title lang="mg">Far and Away</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
+  </programme>
+  <programme start="20240320040000 +0530" stop="20240320054500 +0530" channel="HITSMoviesHD.my">
+    <title lang="mg">Antz</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
+  </programme>
+  <programme start="20240320054500 +0530" stop="20240320073000 +0530" channel="HITSMoviesHD.my">
+    <title lang="mg">Cats &amp; Dogs</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
+  </programme>
+  <programme start="20240320073000 +0530" stop="20240320101500 +0530" channel="HITSMoviesHD.my">
+    <title lang="mg">Bad Boys II</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
+  </programme>
+  <programme start="20240320101500 +0530" stop="20240320130000 +0530" channel="HITSMoviesHD.my">
+    <title lang="mg">Far and Away</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
+  </programme>
+  <programme start="20240320130000 +0530" stop="20240320144500 +0530" channel="HITSMoviesHD.my">
+    <title lang="mg">Antz</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
+  </programme>
+  <programme start="20240320144500 +0530" stop="20240320163000 +0530" channel="HITSMoviesHD.my">
+    <title lang="mg">Cats &amp; Dogs</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
+  </programme>
+  <programme start="20240320163000 +0530" stop="20240320183000 +0530" channel="HITSMoviesHD.my">
+    <title lang="mg">Resident Evil: Apocalypse</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
+  </programme>
+  <programme start="20240320183000 +0530" stop="20240320210000 +0530" channel="HITSMoviesHD.my">
+    <title lang="mg">The Jackal</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
+  </programme>
+  <programme start="20240320210000 +0530" stop="20240320231500 +0530" channel="HITSMoviesHD.my">
+    <title lang="mg">Junior</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000499_IVP_LAND_586x330.jpg"/>
   </programme>
 </tv>

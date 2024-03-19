@@ -3,115 +3,6 @@
   <channel id="ColorsCineplexBollywood.in">
     <display-name lang="en">Colors Cineplex Bollywood</display-name>
   </channel>
-  <programme start="20240318003300 +0530" stop="20240318025200 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Naqab</title>
-    <desc lang="en">Imran, a freelance photographer, meets Asiya, a mysterious woman, while on his way to Alipur for an assignment. However, things take a turn when he repeatedly sees her and starts to question reality.</desc>
-    <credits>
-      <actor>Rishi Kapoor</actor>
-      <actor>Farha Naaz</actor>
-      <actor>Amjad Khan</actor>
-      <actor>Vijayendra Ghatge</actor>
-      <actor>Bindu</actor>
-    </credits>
-    <category lang="en">Mystery</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9DF2A6D17681E421D01DCC7D0262F177D9A707300.jpg"/>
-  </programme>
-  <programme start="20240318025200 +0530" stop="20240318060000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">English Babu Desi Mem</title>
-    <desc lang="en">Vikram and Hari, twin brothers, are heirs to the Mayur group of industries. However, after Hari's death, Vikram must care for his orphaned nephew.</desc>
-    <credits>
-      <actor>Shah Rukh Khan</actor>
-      <actor>Sonali Bendre</actor>
-      <actor>Rajeshwari</actor>
-      <actor>Saeed Jaffrey</actor>
-      <actor>Kiran Kumar</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE9079409C96A33DB80EEB4F64BD0142C849A2296.jpg"/>
-  </programme>
-  <programme start="20240318060000 +0530" stop="20240318090200 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Chaand Kaa Tukdaa</title>
-    <desc lang="en">NRI Shyam comes to India to fulfil the final wish of his late mother who wanted him to marry an Indian girl. Unbeknownst to him, the girl he falls in love with is a pawn in the hands of his enemies.</desc>
-    <credits>
-      <actor>Sridevi</actor>
-      <actor>Salman Khan</actor>
-      <actor>Shatrughan Sinha</actor>
-      <actor>Anupam Kher</actor>
-      <actor>Raza Murad</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D800CE8A21B9313E60DE4792F4501B0796541891W.jpg"/>
-  </programme>
-  <programme start="20240318090200 +0530" stop="20240318122200 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Tu Chor Main Sipahi</title>
-    <desc lang="en">Inspector Amar accepts an assignment to serve in a town that is ruled by Thakur Gajendra Singh, a feared criminal. Things go awry when his loved ones face danger from Gajendra.</desc>
-    <credits>
-      <actor>Akshay Kumar</actor>
-      <actor>Saif Ali Khan</actor>
-      <actor>Tabu</actor>
-      <actor>Pratibha Sinha</actor>
-      <actor>Amrish Puri</actor>
-      <actor>Anupam Kher</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3AE1B8E0316D7A6192CE02F944F5933818C4C71DA.jpg"/>
-  </programme>
-  <programme start="20240318122200 +0530" stop="20240318152500 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">R... Rajkumar</title>
-    <desc lang="en">Romeo, a ruffian, starts working for Shivraj, a drug lord, and they end up falling for the same girl, Chanda. Soon, a fight between the two ensues to win her over.</desc>
-    <credits>
-      <actor>Shahid Kapoor</actor>
-      <actor>Sonakshi Sinha</actor>
-      <actor>Sonu Sood</actor>
-      <actor>Ashish Vidhyarthi</actor>
-      <actor>Asrani</actor>
-      <actor>Mukul Dev</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E3B7B6FC1D9D8E3E5AC34458D76A229448697F2B.jpg"/>
-  </programme>
-  <programme start="20240318152500 +0530" stop="20240318190000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Om Shanti Om</title>
-    <desc lang="en">Om, a junior film artist, is smitten by Shantipriya, a renowned actress, but is killed while trying to save her from a fire accident. Thirty years later, he is reborn and sets out to avenge her death.</desc>
-    <credits>
-      <actor>Shah Rukh Khan</actor>
-      <actor>Deepika Padukone</actor>
-      <actor>Arjun Rampal</actor>
-      <actor>Shreyas Talpade</actor>
-      <actor>Kiron Kher</actor>
-      <actor>Bindu</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/84F3FA1E95460159E2EEB63638EB797FCB412253X.jpg"/>
-  </programme>
-  <programme start="20240318190000 +0530" stop="20240318211600 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Yeshwant</title>
-    <desc lang="en">Yeshwant, an honest police inspector, is framed and arrested for a murder. After being released from prison, he learns that his wife is having an affair.</desc>
-    <credits>
-      <actor>Nana Patekar</actor>
-      <actor>Madhoo Shah</actor>
-      <actor>Shafi Inamdar</actor>
-      <actor>Mohan Joshi</actor>
-      <actor>Shivaji Satam</actor>
-      <actor>Atul Agnihotri</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E663AAE38F1C118C79385CDDE632019A6D5F24021.jpg"/>
-  </programme>
-  <programme start="20240318211600 +0530" stop="20240319001800 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Vishwasghaat</title>
-    <desc lang="en">A wrestler goes underground in his quest for freedom. However, he surfaces several days later as a wanted man for the murder of a dreaded gangster.</desc>
-    <credits>
-      <actor>Sunil Shetty</actor>
-      <actor>Anjali Jathar</actor>
-      <actor>Anupam Kher</actor>
-      <actor>Kiran Kumar</actor>
-      <actor>Mushtaq Khan</actor>
-      <actor>Ishrat Ali</actor>
-    </credits>
-    <category lang="en">Action</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/17DE5EA0B4B97153D9C1B40918FF8A4BED53E899S.jpg"/>
-  </programme>
   <programme start="20240319001800 +0530" stop="20240319025600 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Duplicate</title>
     <desc lang="en">Manu, a criminal, finds his doppelganger in a budding chef, Bablu, and uses this fact to his advantage. Later, Manu tries to kill the chef so that he can take over his life and escape the law.</desc>
@@ -221,5 +112,47 @@
     </credits>
     <category lang="en">Action</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/42BA3A961B3A2A79CBC96A0DD8BABCB05CD1DEA0Q.jpg"/>
+  </programme>
+  <programme start="20240320030000 +0530" stop="20240320060000 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320060000 +0530" stop="20240320090000 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320090000 +0530" stop="20240320120000 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320120000 +0530" stop="20240320150000 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320150000 +0530" stop="20240320180000 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320180000 +0530" stop="20240320210000 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240320210000 +0530" stop="20240321030000 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
 </tv>
