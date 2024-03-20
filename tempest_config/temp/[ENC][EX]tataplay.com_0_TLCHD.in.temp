@@ -3,115 +3,16 @@
   <channel id="TLCHD.in">
     <display-name lang="en">TLC HD</display-name>
   </channel>
-  <programme start="20240319003100 +0530" stop="20240319010000 +0530" channel="TLCHD.in">
+  <programme start="20240320003100 +0530" stop="20240320010000 +0530" channel="TLCHD.in">
     <title lang="en">Girl Meets Farm</title>
-    <desc lang="en">Nicks The Man: For Father's Day, Molly Yeh whips up the creamiest, most-decadent dishes around. Plus, she makes saucy chicken alfredo lasagna and toasted ravioli salad with a marinara ranch.</desc>
+    <desc lang="en">Food blogger Molly Yeh shares her love for cooking by preparing a variety of delicious dishes. Simultaneously, she shares insights into her life in the countryside. USA 2018.</desc>
     <credits>
       <actor>Molly Yeh</actor>
     </credits>
     <category lang="en">Cookery Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E52165C7E8841B2A0E8A21E10003678C915E3EAD.jpg"/>
   </programme>
-  <programme start="20240319010000 +0530" stop="20240319013000 +0530" channel="TLCHD.in">
-    <title lang="en">Texas Cake House</title>
-    <desc lang="en">Zen And The Art Of Cakes: Natalie bakes and sculpts two fish cakes that must fit together perfectly for Keep Austin Beautiful's thank-you celebration.</desc>
-    <credits>
-      <actor>Natalie Sideserf</actor>
-      <actor>Dave Sideserf</actor>
-      <actor>Steve Busti</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF8C28E2DA514623C4B860BC5C9B0D4664F95CDFH.jpg"/>
-  </programme>
-  <programme start="20240319013000 +0530" stop="20240319020000 +0530" channel="TLCHD.in">
-    <title lang="en">Crazy Cakes</title>
-    <desc lang="en">Realistic Animal Cakes: An unusual animal race has one baker building a cake like no other.</desc>
-    <credits>
-      <actor>Timbo Sullivan</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8CBCD1E79A756D9B85BAA541AF419EB78F73126AT.jpg"/>
-  </programme>
-  <programme start="20240319020000 +0530" stop="20240319023000 +0530" channel="TLCHD.in">
-    <title lang="en">The Best Thing I Ever Ate</title>
-    <desc lang="en">Chocolate Bliss: Some of the best and renowned chefs talk about a variety of their favourite dishes and share the details of where people can find them.</desc>
-    <credits>
-      <actor>Duff Goldman</actor>
-      <actor>Alex Guarnaschelli</actor>
-      <actor>Ted Allen</actor>
-      <actor>Michael Symon</actor>
-      <actor>Adam Gertler</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A23B1BD577B68465B6EDA9BA7DF4A3400D5A6EC3I.jpg"/>
-  </programme>
-  <programme start="20240319023000 +0530" stop="20240319030000 +0530" channel="TLCHD.in">
-    <title lang="en">30 Minute Meals</title>
-    <desc lang="en">Not Your Moms Sloppy Joes: Rachael adds a creative spin to a standard Sloppy Joe dish by mixing ground pork with pears, sesame oil and red chili paste and sweet pickles for crunch.</desc>
-    <credits>
-      <actor>Rachael Ray</actor>
-      <actor>Swaylee Loughnane</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FFE3DE8C6E91BD9A55FB55BC59B147BEE15F64EAA.jpg"/>
-  </programme>
-  <programme start="20240319030000 +0530" stop="20240319040000 +0530" channel="TLCHD.in">
-    <title lang="en">Chopped</title>
-    <desc lang="en">Mac And Cheese: In a contest that heavily features macaroni and cheese, the chefs prepare sophisticated dishes in the appetiser round that include Swiss chard.</desc>
-    <credits>
-      <actor>Ted Allen</actor>
-      <actor>Alex Guarnaschelli</actor>
-      <actor>Amanda Freitag</actor>
-      <actor>Geoffrey Zakarian</actor>
-      <actor>Marc Murphy</actor>
-      <actor>Aaron Sanchez</actor>
-    </credits>
-    <category lang="en">Talent Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AD23A65E641D8ED59B786C4CEA8028E11E9B16359.jpg"/>
-  </programme>
-  <programme start="20240319040000 +0530" stop="20240319050000 +0530" channel="TLCHD.in">
-    <title lang="en">Best Baker In America</title>
-    <desc lang="en">Tiny And Tall Desserts: The remaining bakers make miniature versions of two pastry classics. And they create a tall dessert with at least 12 layers and sesame as the main flavour.</desc>
-    <credits>
-      <actor>Carla Hall</actor>
-      <actor>Scott Conant</actor>
-      <actor>Adam Rapoport</actor>
-      <actor>Jason Smith</actor>
-      <actor>Marcela Valladolid</actor>
-      <actor>Gesine Bullock-Prado</actor>
-    </credits>
-    <category lang="en">Talent Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5678F36DBD3E4EB1CE5D614C36F51FA904A9FBC4T.jpg"/>
-  </programme>
-  <programme start="20240319050000 +0530" stop="20240319060000 +0530" channel="TLCHD.in">
-    <title lang="en">Say Yes To The Dress</title>
-    <desc lang="en">My Sisters Are Picking Out My Dress: Arlicia lets her opinionated sisters plan her entire wedding, including choosing her wedding dress.</desc>
-    <credits>
-      <actor>Roger Craig Smith</actor>
-      <actor>Ronnie Rothstein</actor>
-      <actor>Randy Fenoli</actor>
-      <actor>Emily Pokora</actor>
-      <actor>Mara Urshel</actor>
-      <actor>Amy Pokora</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55F538293AE101BE96A9A7D742ACC4922DCCF3B45.jpg"/>
-  </programme>
-  <programme start="20240319060000 +0530" stop="20240319070000 +0530" channel="TLCHD.in">
-    <title lang="en">Say Yes To The Dress</title>
-    <desc lang="en">Sales associates, managers and fitters at various stores across Manhattan help nervous brides choose the perfect dress for their wedding. USA 2007.</desc>
-    <credits>
-      <actor>Roger Craig Smith</actor>
-      <actor>Ronnie Rothstein</actor>
-      <actor>Randy Fenoli</actor>
-      <actor>Emily Pokora</actor>
-      <actor>Mara Urshel</actor>
-      <actor>Amy Pokora</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55F538293AE101BE96A9A7D742ACC4922DCCF3B45.jpg"/>
-  </programme>
-  <programme start="20240319070000 +0530" stop="20240319072800 +0530" channel="TLCHD.in">
+  <programme start="20240320010000 +0530" stop="20240320013000 +0530" channel="TLCHD.in">
     <title lang="en">Freakshow Cakes</title>
     <desc lang="en">A variety of contestants compete to win the prize money by creating the most unique cakes in terms of their appearances. USA 2019.</desc>
     <credits>
@@ -121,7 +22,7 @@
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7BCA0186EC0570558F5C5E1929D93CB6EC40AF6O.jpg"/>
   </programme>
-  <programme start="20240319072800 +0530" stop="20240319075500 +0530" channel="TLCHD.in">
+  <programme start="20240320013000 +0530" stop="20240320020000 +0530" channel="TLCHD.in">
     <title lang="en">Crazy Cakes</title>
     <desc lang="en">Chefs from different parts of the USA share insights and demonstrate their skills in preparing some of the world's most breathtaking cakes. USA 2018.</desc>
     <credits>
@@ -130,7 +31,7 @@
     <category lang="en">Cookery Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8CBCD1E79A756D9B85BAA541AF419EB78F73126AT.jpg"/>
   </programme>
-  <programme start="20240319075500 +0530" stop="20240319082300 +0530" channel="TLCHD.in">
+  <programme start="20240320020000 +0530" stop="20240320023000 +0530" channel="TLCHD.in">
     <title lang="en">Hot Dish With Franco</title>
     <desc lang="en">Renowned chef and restaurateur Franco Noriega prepares a wide range of exotic and delicious recipes inspired from his travel adventures.</desc>
     <credits>
@@ -139,7 +40,7 @@
     <category lang="en">Cookery Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/047F2387D8535D1AE563A54953DAAC88A83029E6U.jpg"/>
   </programme>
-  <programme start="20240319082300 +0530" stop="20240319085000 +0530" channel="TLCHD.in">
+  <programme start="20240320023000 +0530" stop="20240320030000 +0530" channel="TLCHD.in">
     <title lang="en">Ravinder's Kitchen</title>
     <desc lang="en">Popular chef Ravinder Bhogal demonstrates her culinary skills by preparing a variety of delicious recipes. While cooking, she also showers generous tips to make healthy food. India 2013.</desc>
     <credits>
@@ -148,7 +49,7 @@
     <category lang="en">Cookery Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E6739F36481D52662039ADDADBD203CEDFE1197EU.jpg"/>
   </programme>
-  <programme start="20240319085000 +0530" stop="20240319094500 +0530" channel="TLCHD.in">
+  <programme start="20240320030000 +0530" stop="20240320040000 +0530" channel="TLCHD.in">
     <title lang="en">Restaurant: Impossible</title>
     <desc lang="en">Chef Robert Irvine sets out to salvage restaurants on the verge of shutting down with just USD 10,000 and two days to help the owners get back into business. USA 2011.</desc>
     <credits>
@@ -161,7 +62,7 @@
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BC1AE93B71BE6EA1BFB2457971FA517616416AD5.jpg"/>
   </programme>
-  <programme start="20240319094500 +0530" stop="20240319104000 +0530" channel="TLCHD.in">
+  <programme start="20240320040000 +0530" stop="20240320050000 +0530" channel="TLCHD.in">
     <title lang="en">Battle On The Beach</title>
     <desc lang="en">Mentored by experts, three teams of talented individuals compete to renovate and redesign seaside homes in order to win. USA 2021.</desc>
     <credits>
@@ -174,290 +75,35 @@
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/17A3D4F6BFACCB97D8E252F74F4A8974DDE2879BP.jpg"/>
   </programme>
-  <programme start="20240319104000 +0530" stop="20240319113500 +0530" channel="TLCHD.in">
-    <title lang="en">Say Yes To The Dress</title>
-    <desc lang="en">Sales associates, managers and fitters at various stores across Manhattan help nervous brides choose the perfect dress for their wedding. USA 2007.</desc>
-    <credits>
-      <actor>Roger Craig Smith</actor>
-      <actor>Ronnie Rothstein</actor>
-      <actor>Randy Fenoli</actor>
-      <actor>Emily Pokora</actor>
-      <actor>Mara Urshel</actor>
-      <actor>Amy Pokora</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55F538293AE101BE96A9A7D742ACC4922DCCF3B45.jpg"/>
-  </programme>
-  <programme start="20240319113500 +0530" stop="20240319120200 +0530" channel="TLCHD.in">
-    <title lang="en">Hawaii Life</title>
-    <desc lang="en">Real estate agents help homebuyers from America who are on the hunt for their dream property in the tropical islands of Hawaii. USA 2013.</desc>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7762F29F05EAAA78C6121A050756AE07FAECE2BH.jpg"/>
-  </programme>
-  <programme start="20240319120200 +0530" stop="20240319123000 +0530" channel="TLCHD.in">
-    <title lang="en">Engineering Wonders</title>
-    <desc lang="en">The host explores the initiative taken by the Railways to carry out significant redevelopment work across various stations.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B795877B3168A24B29CEF9C5729E3E749F3BD2DA9.jpg"/>
-  </programme>
-  <programme start="20240319123000 +0530" stop="20240319125800 +0530" channel="TLCHD.in">
-    <title lang="en">Giada In Italy</title>
-    <desc lang="en">Chef Giada cooks various delicious Italian dishes for a special family reunion, each dish in honour of every member of her family who could not attend. USA 2015.</desc>
-    <credits>
-      <actor>Giada De Laurentiis</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F4D7E9608CD4BAC8FD5DB4F6EC6DF29F8EA93ECD.jpg"/>
-  </programme>
-  <programme start="20240319125800 +0530" stop="20240319132500 +0530" channel="TLCHD.in">
-    <title lang="en">Crazy Cakes</title>
-    <desc lang="en">Chefs from different parts of the USA share insights and demonstrate their skills in preparing some of the world's most breathtaking cakes. USA 2018.</desc>
-    <credits>
-      <actor>Timbo Sullivan</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8CBCD1E79A756D9B85BAA541AF419EB78F73126AT.jpg"/>
-  </programme>
-  <programme start="20240319132500 +0530" stop="20240319135300 +0530" channel="TLCHD.in">
-    <title lang="en">Girl Meets Farm</title>
-    <desc lang="en">Food blogger Molly Yeh shares her love for cooking by preparing a variety of delicious dishes. Simultaneously, she shares insights into her life in the countryside. USA 2018.</desc>
-    <credits>
-      <actor>Molly Yeh</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E52165C7E8841B2A0E8A21E10003678C915E3EAD.jpg"/>
-  </programme>
-  <programme start="20240319135300 +0530" stop="20240319142000 +0530" channel="TLCHD.in">
-    <title lang="en">30 Minute Meals</title>
-    <desc lang="en">Rachael Ray prepares a variety of delicious dishes in under 30 minutes and shares their recipes while providing various tips and techniques. USA 2001.</desc>
-    <credits>
-      <actor>Rachael Ray</actor>
-      <actor>Swaylee Loughnane</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FFE3DE8C6E91BD9A55FB55BC59B147BEE15F64EAA.jpg"/>
-  </programme>
-  <programme start="20240319142000 +0530" stop="20240319150600 +0530" channel="TLCHD.in">
-    <title lang="en">Restaurant: Impossible</title>
-    <desc lang="en">Chef Robert Irvine sets out to salvage restaurants on the verge of shutting down with just USD 10,000 and two days to help the owners get back into business. USA 2011.</desc>
-    <credits>
-      <actor>Robert Irvine</actor>
-      <actor>Tom Bury</actor>
-      <actor>Taniya Nayak</actor>
-      <actor>Cheryl Torrenueva</actor>
-      <actor>Lynn Kegan</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BC1AE93B71BE6EA1BFB2457971FA517616416AD5.jpg"/>
-  </programme>
-  <programme start="20240319150600 +0530" stop="20240319160100 +0530" channel="TLCHD.in">
-    <title lang="en">Restaurant: Impossible</title>
-    <desc lang="en">Chef Robert Irvine sets out to salvage restaurants on the verge of shutting down with just USD 10,000 and two days to help the owners get back into business. USA 2011.</desc>
-    <credits>
-      <actor>Robert Irvine</actor>
-      <actor>Tom Bury</actor>
-      <actor>Taniya Nayak</actor>
-      <actor>Cheryl Torrenueva</actor>
-      <actor>Lynn Kegan</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BC1AE93B71BE6EA1BFB2457971FA517616416AD5.jpg"/>
-  </programme>
-  <programme start="20240319160100 +0530" stop="20240319165600 +0530" channel="TLCHD.in">
-    <title lang="en">Celebrity IOU</title>
-    <desc lang="en">Home renovation experts, brothers Drew and Jonathan Scott, help Hollywood A-listers surprise their dear ones with splendid and heart-warming home renovations. USA 2020.</desc>
-    <credits>
-      <actor>Jonathan Silver Scott</actor>
-      <actor>Drew Scott</actor>
-      <actor>Michael Buble</actor>
-      <actor>Viola Davis</actor>
-      <actor>Melissa McCarthy</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6FC3B9B8DA79E79EFC03DA769818D52F0808B518Q.jpg"/>
-  </programme>
-  <programme start="20240319165600 +0530" stop="20240319175100 +0530" channel="TLCHD.in">
-    <title lang="en">Food Paradise</title>
-    <desc lang="en">The host highlights restaurants across the USA that serve the most delicious and decadent dishes and provide once-in-a-lifetime dining experiences. USA 2007.</desc>
-    <credits>
-      <actor>Jesse Blaze Snider</actor>
-      <actor>Mason Pettit</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BE303893B7FAF3D3CEA79BF1FA32C2997E0E375H.jpg"/>
-  </programme>
-  <programme start="20240319175100 +0530" stop="20240319181500 +0530" channel="TLCHD.in">
-    <title lang="en">Cake Boss: DNI</title>
-    <desc lang="en">Five siblings who own a cake shop together go through the process of making edible art cakes, managing their employees and looking after their family. USA 2009.</desc>
-    <credits>
-      <actor>Buddy Valastro</actor>
-      <actor>Mauro Castano</actor>
-      <actor>Danny Dragone</actor>
-      <actor>Joey Faugno</actor>
-      <actor>Frankie Amato Jr</actor>
-      <actor>Anthony Bellifemine</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2DD5929E21FCC5E4DF865F2E929657D7A36AA87FK.jpg"/>
-  </programme>
-  <programme start="20240319181500 +0530" stop="20240319191000 +0530" channel="TLCHD.in">
-    <title lang="en">Say Yes To The Dress</title>
-    <desc lang="en">Sales associates, managers and fitters at various stores across Manhattan help nervous brides choose the perfect dress for their wedding. USA 2007.</desc>
-    <credits>
-      <actor>Roger Craig Smith</actor>
-      <actor>Ronnie Rothstein</actor>
-      <actor>Randy Fenoli</actor>
-      <actor>Emily Pokora</actor>
-      <actor>Mara Urshel</actor>
-      <actor>Amy Pokora</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55F538293AE101BE96A9A7D742ACC4922DCCF3B45.jpg"/>
-  </programme>
-  <programme start="20240319191000 +0530" stop="20240319200500 +0530" channel="TLCHD.in">
-    <title lang="en">Chopped Sweets</title>
-    <desc lang="en">Four pastry chefs tackle the challenge of creating unique desserts with specific ingredients in a limited time and compete with each other to win. USA 2019.</desc>
-    <credits>
-      <actor>Scott Conant</actor>
-      <actor>Gesine Bullock-Prado</actor>
-      <actor>Zac Young</actor>
-      <actor>Elizabeth Chambers</actor>
-      <actor>Maneet Chauhan</actor>
-      <actor>Thiago Silva</actor>
-    </credits>
-    <category lang="en">Talent Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7FEDA0CA046B29186952E7B9C94293C219F177471.jpg"/>
-  </programme>
-  <programme start="20240319200500 +0530" stop="20240319203300 +0530" channel="TLCHD.in">
-    <title lang="en">Girl Meets Farm</title>
-    <desc lang="en">Food blogger Molly Yeh shares her love for cooking by preparing a variety of delicious dishes. Simultaneously, she shares insights into her life in the countryside. USA 2018.</desc>
-    <credits>
-      <actor>Molly Yeh</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E52165C7E8841B2A0E8A21E10003678C915E3EAD.jpg"/>
-  </programme>
-  <programme start="20240319203300 +0530" stop="20240319210000 +0530" channel="TLCHD.in">
-    <title lang="en">30 Minute Meals</title>
-    <desc lang="en">Rachael Ray prepares a variety of delicious dishes in under 30 minutes and shares their recipes while providing various tips and techniques. USA 2001.</desc>
-    <credits>
-      <actor>Rachael Ray</actor>
-      <actor>Swaylee Loughnane</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FFE3DE8C6E91BD9A55FB55BC59B147BEE15F64EAA.jpg"/>
-  </programme>
-  <programme start="20240319210000 +0530" stop="20240319215500 +0530" channel="TLCHD.in">
-    <title lang="en">Restaurant: Impossible</title>
-    <desc lang="en">Chef Robert Irvine sets out to salvage restaurants on the verge of shutting down with just USD 10,000 and two days to help the owners get back into business. USA 2011.</desc>
-    <credits>
-      <actor>Robert Irvine</actor>
-      <actor>Tom Bury</actor>
-      <actor>Taniya Nayak</actor>
-      <actor>Cheryl Torrenueva</actor>
-      <actor>Lynn Kegan</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BC1AE93B71BE6EA1BFB2457971FA517616416AD5.jpg"/>
-  </programme>
-  <programme start="20240319215500 +0530" stop="20240319225000 +0530" channel="TLCHD.in">
-    <title lang="en">Celebrity IOU</title>
-    <desc lang="en">Home renovation experts, brothers Drew and Jonathan Scott, help Hollywood A-listers surprise their dear ones with splendid and heart-warming home renovations. USA 2020.</desc>
-    <credits>
-      <actor>Jonathan Silver Scott</actor>
-      <actor>Drew Scott</actor>
-      <actor>Michael Buble</actor>
-      <actor>Viola Davis</actor>
-      <actor>Melissa McCarthy</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6FC3B9B8DA79E79EFC03DA769818D52F0808B518Q.jpg"/>
-  </programme>
-  <programme start="20240319225000 +0530" stop="20240319234500 +0530" channel="TLCHD.in">
-    <title lang="en">Darcey &amp; Stacey</title>
-    <desc lang="en">Twin sisters Darcey and Stacey, who have been with each other through major life events, grapple with demanding relationships and family crises. USA 2020.</desc>
-    <credits>
-      <actor>Darcey Silva</actor>
-      <actor>Stacey Silva</actor>
-      <actor>Florian Sukaj</actor>
-      <actor>Georgi Rusev</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/081A7D9C873005F79D63CD13EFED96842F3A2F3ER.jpg"/>
-  </programme>
-  <programme start="20240319234500 +0530" stop="20240320000000 +0530" channel="TLCHD.in">
-    <title lang="en">Food Paradise</title>
-    <desc lang="en">The host highlights restaurants across the USA that serve the most delicious and decadent dishes and provide once-in-a-lifetime dining experiences. USA 2007.</desc>
-    <credits>
-      <actor>Jesse Blaze Snider</actor>
-      <actor>Mason Pettit</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BE303893B7FAF3D3CEA79BF1FA32C2997E0E375H.jpg"/>
-  </programme>
-  <programme start="20240320000000 +0530" stop="20240320003100 +0530" channel="TLCHD.in">
-    <title lang="en">Restaurant: Impossible</title>
-    <desc lang="en">Chef Robert Irvine sets out to salvage restaurants on the verge of shutting down with just USD 10,000 and two days to help the owners get back into business. USA 2011.</desc>
-    <credits>
-      <actor>Robert Irvine</actor>
-      <actor>Tom Bury</actor>
-      <actor>Taniya Nayak</actor>
-      <actor>Cheryl Torrenueva</actor>
-      <actor>Lynn Kegan</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BC1AE93B71BE6EA1BFB2457971FA517616416AD5.jpg"/>
-  </programme>
-  <programme start="20240320003100 +0530" stop="20240320010000 +0530" channel="TLCHD.in">
-    <title lang="en">Bizarre Foods: Delicious Destinations</title>
-    <desc lang="en">An award-winning chef travels to various places and explores the local cuisines. He also talks about its origin, recipe and the right way to eat it.</desc>
-    <credits>
-      <actor>Andrew Zimmern</actor>
-    </credits>
-    <category lang="en">Food</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E5A4F8907CDD29548EB8A4DE64A5C2C8A8AD535S.jpg"/>
-  </programme>
-  <programme start="20240320010000 +0530" stop="20240320020000 +0530" channel="TLCHD.in">
-    <title lang="en">Say Yes To The Dress</title>
-    <desc lang="en">Sales associates, managers and fitters at various stores across Manhattan help nervous brides choose the perfect dress for their wedding. USA 2007.</desc>
-    <credits>
-      <actor>Roger Craig Smith</actor>
-      <actor>Ronnie Rothstein</actor>
-      <actor>Randy Fenoli</actor>
-      <actor>Emily Pokora</actor>
-      <actor>Mara Urshel</actor>
-      <actor>Amy Pokora</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55F538293AE101BE96A9A7D742ACC4922DCCF3B45.jpg"/>
-  </programme>
-  <programme start="20240320020000 +0530" stop="20240320030000 +0530" channel="TLCHD.in">
-    <title lang="en">Food Paradise</title>
-    <desc lang="en">The host highlights restaurants across the USA that serve the most delicious and decadent dishes and provide once-in-a-lifetime dining experiences. USA 2007.</desc>
-    <credits>
-      <actor>Jesse Blaze Snider</actor>
-      <actor>Mason Pettit</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BE303893B7FAF3D3CEA79BF1FA32C2997E0E375H.jpg"/>
-  </programme>
-  <programme start="20240320030000 +0530" stop="20240320040000 +0530" channel="TLCHD.in">
-    <title lang="en">90 Day Fiance</title>
-    <desc lang="en">Dating across borders becomes possible as several non-American women get a visa to meet their fiances for a short duration. Later, they must decide whether to get married or return straight home. USA 2014.</desc>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6136F0C549BA5C73BE0F402F02846E73C3AE9F385.jpg"/>
-  </programme>
-  <programme start="20240320040000 +0530" stop="20240320050000 +0530" channel="TLCHD.in">
-    <title lang="en">Food Paradise</title>
-    <desc lang="en">The host highlights restaurants across the USA that serve the most delicious and decadent dishes and provide once-in-a-lifetime dining experiences. USA 2007.</desc>
-    <credits>
-      <actor>Jesse Blaze Snider</actor>
-      <actor>Mason Pettit</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BE303893B7FAF3D3CEA79BF1FA32C2997E0E375H.jpg"/>
-  </programme>
   <programme start="20240320050000 +0530" stop="20240320060000 +0530" channel="TLCHD.in">
+    <title lang="en">Say Yes To The Dress</title>
+    <desc lang="en">Sales associates, managers and fitters at various stores across Manhattan help nervous brides choose the perfect dress for their wedding. USA 2007.</desc>
+    <credits>
+      <actor>Roger Craig Smith</actor>
+      <actor>Ronnie Rothstein</actor>
+      <actor>Randy Fenoli</actor>
+      <actor>Emily Pokora</actor>
+      <actor>Mara Urshel</actor>
+      <actor>Amy Pokora</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55F538293AE101BE96A9A7D742ACC4922DCCF3B45.jpg"/>
+  </programme>
+  <programme start="20240320060000 +0530" stop="20240320065000 +0530" channel="TLCHD.in">
+    <title lang="en">Say Yes To The Dress</title>
+    <desc lang="en">Sales associates, managers and fitters at various stores across Manhattan help nervous brides choose the perfect dress for their wedding. USA 2007.</desc>
+    <credits>
+      <actor>Roger Craig Smith</actor>
+      <actor>Ronnie Rothstein</actor>
+      <actor>Randy Fenoli</actor>
+      <actor>Emily Pokora</actor>
+      <actor>Mara Urshel</actor>
+      <actor>Amy Pokora</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55F538293AE101BE96A9A7D742ACC4922DCCF3B45.jpg"/>
+  </programme>
+  <programme start="20240320065000 +0530" stop="20240320074400 +0530" channel="TLCHD.in">
     <title lang="en">Chopped Sweets</title>
     <desc lang="en">Four pastry chefs tackle the challenge of creating unique desserts with specific ingredients in a limited time and compete with each other to win. USA 2019.</desc>
     <credits>
@@ -471,78 +117,26 @@
     <category lang="en">Talent Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7FEDA0CA046B29186952E7B9C94293C219F177471.jpg"/>
   </programme>
-  <programme start="20240320060000 +0530" stop="20240320070000 +0530" channel="TLCHD.in">
-    <title lang="en">Star Vs Food: Survival</title>
-    <desc lang="en">With the help of a professional chef, celebrities showcase their culinary skills as they prepare delectable dishes while attempting to survive in the wilderness. India 2023.</desc>
+  <programme start="20240320074400 +0530" stop="20240320081200 +0530" channel="TLCHD.in">
+    <title lang="en">Girl Meets Farm</title>
+    <desc lang="en">Food blogger Molly Yeh shares her love for cooking by preparing a variety of delicious dishes. Simultaneously, she shares insights into her life in the countryside. USA 2018.</desc>
     <credits>
-      <actor>Ranveer Brar</actor>
+      <actor>Molly Yeh</actor>
     </credits>
     <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B5DA132474A9D95F823405A1D0A8D0C78F53DEBK.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E52165C7E8841B2A0E8A21E10003678C915E3EAD.jpg"/>
   </programme>
-  <programme start="20240320070000 +0530" stop="20240320075500 +0530" channel="TLCHD.in">
-    <title lang="en">Dare To Wear</title>
-    <desc lang="en">A host and style expert asks two different women to exchange their wardrobes and teaches them valuable secrets of fashion. USA 2015.</desc>
+  <programme start="20240320081200 +0530" stop="20240320083900 +0530" channel="TLCHD.in">
+    <title lang="en">30 Minute Meals</title>
+    <desc lang="en">Rachael Ray prepares a variety of delicious dishes in under 30 minutes and shares their recipes while providing various tips and techniques. USA 2001.</desc>
     <credits>
-      <actor>Tai Beauchamp</actor>
-      <actor>Mathias Alan</actor>
-      <actor>Dina Renee</actor>
-      <actor>Emma Zerner</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C1376F389AC4DAE67A433D2A33DAD606E2120B8O.jpg"/>
-  </programme>
-  <programme start="20240320075500 +0530" stop="20240320085000 +0530" channel="TLCHD.in">
-    <title lang="en">Best Baker In America</title>
-    <desc lang="en">Eight highly skilled bakers from the United States compete against each other in an attempt to impress the judges with their culinary prowess and win the prize money. USA 2017.</desc>
-    <credits>
-      <actor>Carla Hall</actor>
-      <actor>Scott Conant</actor>
-      <actor>Adam Rapoport</actor>
-      <actor>Jason Smith</actor>
-      <actor>Marcela Valladolid</actor>
-      <actor>Gesine Bullock-Prado</actor>
-    </credits>
-    <category lang="en">Talent Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5678F36DBD3E4EB1CE5D614C36F51FA904A9FBC4T.jpg"/>
-  </programme>
-  <programme start="20240320085000 +0530" stop="20240320091800 +0530" channel="TLCHD.in">
-    <title lang="en">Valerie's Home Cooking</title>
-    <desc lang="en">Valerie Bertinelli presents easy recipes for home-style preparations and also shares a number of culinary tips and tricks. USA 2015.</desc>
-    <credits>
-      <actor>Valerie Bertinelli</actor>
-      <actor>Tom Vitale</actor>
-      <actor>Suzanne Ferleger</actor>
-      <actor>Patrick Bertinelli</actor>
-      <actor>Jo Oyakawa Stougaard</actor>
+      <actor>Rachael Ray</actor>
+      <actor>Swaylee Loughnane</actor>
     </credits>
     <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4D34CF9EDB150970015AC42A107B88ECF038DF2N.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FFE3DE8C6E91BD9A55FB55BC59B147BEE15F64EAA.jpg"/>
   </programme>
-  <programme start="20240320091800 +0530" stop="20240320094500 +0530" channel="TLCHD.in">
-    <title lang="en">Valerie's Home Cooking</title>
-    <desc lang="en">Valerie Bertinelli presents easy recipes for home-style preparations and also shares a number of culinary tips and tricks. USA 2015.</desc>
-    <credits>
-      <actor>Valerie Bertinelli</actor>
-      <actor>Tom Vitale</actor>
-      <actor>Suzanne Ferleger</actor>
-      <actor>Patrick Bertinelli</actor>
-      <actor>Jo Oyakawa Stougaard</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4D34CF9EDB150970015AC42A107B88ECF038DF2N.jpg"/>
-  </programme>
-  <programme start="20240320094500 +0530" stop="20240320104000 +0530" channel="TLCHD.in">
-    <title lang="en">Food Paradise</title>
-    <desc lang="en">The host highlights restaurants across the USA that serve the most delicious and decadent dishes and provide once-in-a-lifetime dining experiences. USA 2007.</desc>
-    <credits>
-      <actor>Jesse Blaze Snider</actor>
-      <actor>Mason Pettit</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BE303893B7FAF3D3CEA79BF1FA32C2997E0E375H.jpg"/>
-  </programme>
-  <programme start="20240320104000 +0530" stop="20240320113500 +0530" channel="TLCHD.in">
+  <programme start="20240320083900 +0530" stop="20240320095000 +0530" channel="TLCHD.in">
     <title lang="en">Restaurant: Impossible</title>
     <desc lang="en">Chef Robert Irvine sets out to salvage restaurants on the verge of shutting down with just USD 10,000 and two days to help the owners get back into business. USA 2011.</desc>
     <credits>
@@ -554,58 +148,85 @@
     </credits>
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BC1AE93B71BE6EA1BFB2457971FA517616416AD5.jpg"/>
+  </programme>
+  <programme start="20240320095000 +0530" stop="20240320104000 +0530" channel="TLCHD.in">
+    <title lang="en">Celebrity IOU</title>
+    <desc lang="en">Home renovation experts, brothers Drew and Jonathan Scott, help Hollywood A-listers surprise their dear ones with splendid and heart-warming home renovations. USA 2020.</desc>
+    <credits>
+      <actor>Jonathan Silver Scott</actor>
+      <actor>Drew Scott</actor>
+      <actor>Michael Buble</actor>
+      <actor>Viola Davis</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6FC3B9B8DA79E79EFC03DA769818D52F0808B518Q.jpg"/>
+  </programme>
+  <programme start="20240320104000 +0530" stop="20240320110800 +0530" channel="TLCHD.in">
+    <title lang="en">Say Yes To The Dress</title>
+    <desc lang="en">Sales associates, managers and fitters at various stores across Manhattan help nervous brides choose the perfect dress for their wedding. USA 2007.</desc>
+    <credits>
+      <actor>Roger Craig Smith</actor>
+      <actor>Ronnie Rothstein</actor>
+      <actor>Randy Fenoli</actor>
+      <actor>Emily Pokora</actor>
+      <actor>Mara Urshel</actor>
+      <actor>Amy Pokora</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55F538293AE101BE96A9A7D742ACC4922DCCF3B45.jpg"/>
+  </programme>
+  <programme start="20240320110800 +0530" stop="20240320113500 +0530" channel="TLCHD.in">
+    <title lang="en">Mediterranean Life</title>
+    <desc lang="en">Individuals and families take the biggest leaps of their lives as they look for new homes along the exotic Mediterranean Sea. USA 2017.</desc>
+    <credits>
+      <actor>Daniel Cummings</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/35DC4C00B3DC61346450722E79460F19F4EECC74C.jpg"/>
   </programme>
   <programme start="20240320113500 +0530" stop="20240320123000 +0530" channel="TLCHD.in">
-    <title lang="en">Dare To Wear</title>
-    <desc lang="en">A host and style expert asks two different women to exchange their wardrobes and teaches them valuable secrets of fashion. USA 2015.</desc>
+    <title lang="en">Chopped Sweets</title>
+    <desc lang="en">Four pastry chefs tackle the challenge of creating unique desserts with specific ingredients in a limited time and compete with each other to win. USA 2019.</desc>
     <credits>
-      <actor>Tai Beauchamp</actor>
-      <actor>Mathias Alan</actor>
-      <actor>Dina Renee</actor>
-      <actor>Emma Zerner</actor>
+      <actor>Scott Conant</actor>
+      <actor>Gesine Bullock-Prado</actor>
+      <actor>Zac Young</actor>
+      <actor>Elizabeth Chambers</actor>
+      <actor>Maneet Chauhan</actor>
+      <actor>Thiago Silva</actor>
     </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C1376F389AC4DAE67A433D2A33DAD606E2120B8O.jpg"/>
+    <category lang="en">Talent Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7FEDA0CA046B29186952E7B9C94293C219F177471.jpg"/>
   </programme>
   <programme start="20240320123000 +0530" stop="20240320132500 +0530" channel="TLCHD.in">
-    <title lang="en">Ben &amp; Jerry's: Clash Of The Cones</title>
-    <desc lang="en">Six contestants showcase their skills and compete against each other to curate their own original Ben and Jerry's ice cream flavour. USA 2021.</desc>
+    <title lang="en">Food Paradise</title>
+    <desc lang="en">The host highlights restaurants across the USA that serve the most delicious and decadent dishes and provide once-in-a-lifetime dining experiences. USA 2007.</desc>
     <credits>
-      <actor>Molly Yeh</actor>
-      <actor>Jet Tila</actor>
-      <actor>Allison Tila</actor>
-      <actor>Chris Rivard</actor>
-      <actor>Kevin Bacon</actor>
-      <actor>Ludacris</actor>
+      <actor>Jesse Blaze Snider</actor>
+      <actor>Mason Pettit</actor>
     </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3210DCA8F11E8C296CC46E13F226A5A72A7DFD1AA.jpg"/>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BE303893B7FAF3D3CEA79BF1FA32C2997E0E375H.jpg"/>
   </programme>
   <programme start="20240320132500 +0530" stop="20240320135300 +0530" channel="TLCHD.in">
-    <title lang="en">Valerie's Home Cooking</title>
-    <desc lang="en">Valerie Bertinelli presents easy recipes for home-style preparations and also shares a number of culinary tips and tricks. USA 2015.</desc>
+    <title lang="en">Girl Meets Farm</title>
+    <desc lang="en">Food blogger Molly Yeh shares her love for cooking by preparing a variety of delicious dishes. Simultaneously, she shares insights into her life in the countryside. USA 2018.</desc>
     <credits>
-      <actor>Valerie Bertinelli</actor>
-      <actor>Tom Vitale</actor>
-      <actor>Suzanne Ferleger</actor>
-      <actor>Patrick Bertinelli</actor>
-      <actor>Jo Oyakawa Stougaard</actor>
+      <actor>Molly Yeh</actor>
     </credits>
     <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4D34CF9EDB150970015AC42A107B88ECF038DF2N.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E52165C7E8841B2A0E8A21E10003678C915E3EAD.jpg"/>
   </programme>
   <programme start="20240320135300 +0530" stop="20240320142000 +0530" channel="TLCHD.in">
-    <title lang="en">Valerie's Home Cooking</title>
-    <desc lang="en">Valerie Bertinelli presents easy recipes for home-style preparations and also shares a number of culinary tips and tricks. USA 2015.</desc>
+    <title lang="en">30 Minute Meals</title>
+    <desc lang="en">Rachael Ray prepares a variety of delicious dishes in under 30 minutes and shares their recipes while providing various tips and techniques. USA 2001.</desc>
     <credits>
-      <actor>Valerie Bertinelli</actor>
-      <actor>Tom Vitale</actor>
-      <actor>Suzanne Ferleger</actor>
-      <actor>Patrick Bertinelli</actor>
-      <actor>Jo Oyakawa Stougaard</actor>
+      <actor>Rachael Ray</actor>
+      <actor>Swaylee Loughnane</actor>
     </credits>
     <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4D34CF9EDB150970015AC42A107B88ECF038DF2N.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FFE3DE8C6E91BD9A55FB55BC59B147BEE15F64EAA.jpg"/>
   </programme>
   <programme start="20240320142000 +0530" stop="20240320150600 +0530" channel="TLCHD.in">
     <title lang="en">Restaurant: Impossible</title>
@@ -621,6 +242,32 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BC1AE93B71BE6EA1BFB2457971FA517616416AD5.jpg"/>
   </programme>
   <programme start="20240320150600 +0530" stop="20240320160100 +0530" channel="TLCHD.in">
+    <title lang="en">MasterChef Canada</title>
+    <desc lang="en">Canada's top amateur cooks compete in culinary challenges judged by a team of seasoned chefs to emerge as the winner and be crowned MasterChef. Canada 2014.</desc>
+    <credits>
+      <actor>Claudio Aprile</actor>
+      <actor>Michael Bonacini</actor>
+      <actor>Alvin Leung</actor>
+    </credits>
+    <category lang="en">Talent Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/225838734D02131D99B2043F3645F0600E4755FAI.jpg"/>
+  </programme>
+  <programme start="20240320160100 +0530" stop="20240320162900 +0530" channel="TLCHD.in">
+    <title lang="en">Hawaii Life</title>
+    <desc lang="en">Real estate agents help homebuyers from America who are on the hunt for their dream property in the tropical islands of Hawaii. USA 2013.</desc>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7762F29F05EAAA78C6121A050756AE07FAECE2BH.jpg"/>
+  </programme>
+  <programme start="20240320162900 +0530" stop="20240320165600 +0530" channel="TLCHD.in">
+    <title lang="en">Mediterranean Life</title>
+    <desc lang="en">Individuals and families take the biggest leaps of their lives as they look for new homes along the exotic Mediterranean Sea. USA 2017.</desc>
+    <credits>
+      <actor>Daniel Cummings</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/35DC4C00B3DC61346450722E79460F19F4EECC74C.jpg"/>
+  </programme>
+  <programme start="20240320165600 +0530" stop="20240320175100 +0530" channel="TLCHD.in">
     <title lang="en">Food Paradise</title>
     <desc lang="en">The host highlights restaurants across the USA that serve the most delicious and decadent dishes and provide once-in-a-lifetime dining experiences. USA 2007.</desc>
     <credits>
@@ -630,25 +277,49 @@
     <category lang="en">Reality Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BE303893B7FAF3D3CEA79BF1FA32C2997E0E375H.jpg"/>
   </programme>
-  <programme start="20240320160100 +0530" stop="20240320165600 +0530" channel="TLCHD.in">
-    <title lang="en">Star Vs Food: Survival</title>
-    <desc lang="en">With the help of a professional chef, celebrities showcase their culinary skills as they prepare delectable dishes while attempting to survive in the wilderness. India 2023.</desc>
+  <programme start="20240320175100 +0530" stop="20240320181500 +0530" channel="TLCHD.in">
+    <title lang="en">Cake Boss: DNI</title>
+    <desc lang="en">Five siblings who own a cake shop together go through the process of making edible art cakes, managing their employees and looking after their family. USA 2009.</desc>
     <credits>
-      <actor>Ranveer Brar</actor>
+      <actor>Buddy Valastro</actor>
+      <actor>Mauro Castano</actor>
+      <actor>Danny Dragone</actor>
+      <actor>Joey Faugno</actor>
+      <actor>Frankie Amato Jr</actor>
+      <actor>Anthony Bellifemine</actor>
     </credits>
     <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B5DA132474A9D95F823405A1D0A8D0C78F53DEBK.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2DD5929E21FCC5E4DF865F2E929657D7A36AA87FK.jpg"/>
   </programme>
-  <programme start="20240320165600 +0530" stop="20240320175100 +0530" channel="TLCHD.in">
-    <title lang="en">Inside Out</title>
-    <desc lang="en">The filmmaker embarks on a journey to explore the science and mechanics that make up New York City through conversations with experts.</desc>
+  <programme start="20240320181500 +0530" stop="20240320191000 +0530" channel="TLCHD.in">
+    <title lang="en">Say Yes To The Dress</title>
+    <desc lang="en">Sales associates, managers and fitters at various stores across Manhattan help nervous brides choose the perfect dress for their wedding. USA 2007.</desc>
     <credits>
-      <actor>Richard Kramer</actor>
+      <actor>Roger Craig Smith</actor>
+      <actor>Ronnie Rothstein</actor>
+      <actor>Randy Fenoli</actor>
+      <actor>Emily Pokora</actor>
+      <actor>Mara Urshel</actor>
+      <actor>Amy Pokora</actor>
     </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76DF7F196A8CD3AFE2FF0982E685BD47C4A09707H.jpg"/>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55F538293AE101BE96A9A7D742ACC4922DCCF3B45.jpg"/>
   </programme>
-  <programme start="20240320175100 +0530" stop="20240320181500 +0530" channel="TLCHD.in">
+  <programme start="20240320191000 +0530" stop="20240320200500 +0530" channel="TLCHD.in">
+    <title lang="en">Chopped Sweets</title>
+    <desc lang="en">Four pastry chefs tackle the challenge of creating unique desserts with specific ingredients in a limited time and compete with each other to win. USA 2019.</desc>
+    <credits>
+      <actor>Scott Conant</actor>
+      <actor>Gesine Bullock-Prado</actor>
+      <actor>Zac Young</actor>
+      <actor>Elizabeth Chambers</actor>
+      <actor>Maneet Chauhan</actor>
+      <actor>Thiago Silva</actor>
+    </credits>
+    <category lang="en">Talent Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7FEDA0CA046B29186952E7B9C94293C219F177471.jpg"/>
+  </programme>
+  <programme start="20240320200500 +0530" stop="20240320203300 +0530" channel="TLCHD.in">
     <title lang="en">Girl Meets Farm</title>
     <desc lang="en">Food blogger Molly Yeh shares her love for cooking by preparing a variety of delicious dishes. Simultaneously, she shares insights into her life in the countryside. USA 2018.</desc>
     <credits>
@@ -657,53 +328,15 @@
     <category lang="en">Cookery Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E52165C7E8841B2A0E8A21E10003678C915E3EAD.jpg"/>
   </programme>
-  <programme start="20240320181500 +0530" stop="20240320184300 +0530" channel="TLCHD.in">
-    <title lang="en">Say Yes To The Dress UK</title>
-    <desc lang="en">Fashion experts advise brides-to-be on choosing their wedding dresses and give them trendy ideas to make their big day unforgettable. USA 2016.</desc>
+  <programme start="20240320203300 +0530" stop="20240320210000 +0530" channel="TLCHD.in">
+    <title lang="en">30 Minute Meals</title>
+    <desc lang="en">Rachael Ray prepares a variety of delicious dishes in under 30 minutes and shares their recipes while providing various tips and techniques. USA 2001.</desc>
     <credits>
-      <actor>David Emanuel</actor>
-      <actor>Christine Dando</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/887E5DF470269464ACF436683B53A1C97B1070C6X.jpg"/>
-  </programme>
-  <programme start="20240320184300 +0530" stop="20240320191000 +0530" channel="TLCHD.in">
-    <title lang="en">Say Yes To The Dress UK</title>
-    <desc lang="en">Fashion experts advise brides-to-be on choosing their wedding dresses and give them trendy ideas to make their big day unforgettable. USA 2016.</desc>
-    <credits>
-      <actor>David Emanuel</actor>
-      <actor>Christine Dando</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/887E5DF470269464ACF436683B53A1C97B1070C6X.jpg"/>
-  </programme>
-  <programme start="20240320191000 +0530" stop="20240320193700 +0530" channel="TLCHD.in">
-    <title lang="en">Crazy Cakes</title>
-    <desc lang="en">Chefs from different parts of the USA share insights and demonstrate their skills in preparing some of the world's most breathtaking cakes. USA 2018.</desc>
-    <credits>
-      <actor>Timbo Sullivan</actor>
+      <actor>Rachael Ray</actor>
+      <actor>Swaylee Loughnane</actor>
     </credits>
     <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8CBCD1E79A756D9B85BAA541AF419EB78F73126AT.jpg"/>
-  </programme>
-  <programme start="20240320193700 +0530" stop="20240320200500 +0530" channel="TLCHD.in">
-    <title lang="en">Crazy Cakes</title>
-    <desc lang="en">Chefs from different parts of the USA share insights and demonstrate their skills in preparing some of the world's most breathtaking cakes. USA 2018.</desc>
-    <credits>
-      <actor>Timbo Sullivan</actor>
-    </credits>
-    <category lang="en">Cookery Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8CBCD1E79A756D9B85BAA541AF419EB78F73126AT.jpg"/>
-  </programme>
-  <programme start="20240320200500 +0530" stop="20240320210000 +0530" channel="TLCHD.in">
-    <title lang="en">Food Paradise</title>
-    <desc lang="en">The host highlights restaurants across the USA that serve the most delicious and decadent dishes and provide once-in-a-lifetime dining experiences. USA 2007.</desc>
-    <credits>
-      <actor>Jesse Blaze Snider</actor>
-      <actor>Mason Pettit</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BE303893B7FAF3D3CEA79BF1FA32C2997E0E375H.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FFE3DE8C6E91BD9A55FB55BC59B147BEE15F64EAA.jpg"/>
   </programme>
   <programme start="20240320210000 +0530" stop="20240320212800 +0530" channel="TLCHD.in">
     <title lang="en">Beat Bobby Flay</title>
@@ -719,35 +352,28 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB80C8DF69ED2FCF6501185C6BDD59C92A29D4ECZ.jpg"/>
   </programme>
   <programme start="20240320212800 +0530" stop="20240320215500 +0530" channel="TLCHD.in">
-    <title lang="en">Beat Bobby Flay</title>
-    <desc lang="en">Two contestants face off in a cooking competition to determine who will face Chef Bobby Flay in a contest to prepare a signature dish. USA 2013.</desc>
+    <title lang="en">Girl Meets Farm</title>
+    <desc lang="en">Food blogger Molly Yeh shares her love for cooking by preparing a variety of delicious dishes. Simultaneously, she shares insights into her life in the countryside. USA 2018.</desc>
     <credits>
-      <actor>Bobby Flay</actor>
-      <actor>Scott Conant</actor>
-      <actor>Alex Guarnaschelli</actor>
-      <actor>Anne Burrell</actor>
-      <actor>Katie Lee</actor>
+      <actor>Molly Yeh</actor>
     </credits>
-    <category lang="en">Talent Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB80C8DF69ED2FCF6501185C6BDD59C92A29D4ECZ.jpg"/>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E52165C7E8841B2A0E8A21E10003678C915E3EAD.jpg"/>
   </programme>
   <programme start="20240320215500 +0530" stop="20240320222300 +0530" channel="TLCHD.in">
-    <title lang="en">Mountain Life</title>
-    <desc lang="en">Numerous families from different walks of life and cities set out in search of homes near various mountains across America. USA 2015.</desc>
-    <credits>
-      <actor>Brian West</actor>
-    </credits>
+    <title lang="en">Hawaii Life</title>
+    <desc lang="en">Real estate agents help homebuyers from America who are on the hunt for their dream property in the tropical islands of Hawaii. USA 2013.</desc>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8097303333237647476D80C81DC72E6619323461O.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7762F29F05EAAA78C6121A050756AE07FAECE2BH.jpg"/>
   </programme>
   <programme start="20240320222300 +0530" stop="20240320225000 +0530" channel="TLCHD.in">
-    <title lang="en">Island Life</title>
-    <desc lang="en">Various couples look for their own slice of paradise as they look at island properties with different budgets and specifications. USA 2015.</desc>
+    <title lang="en">Mediterranean Life</title>
+    <desc lang="en">Individuals and families take the biggest leaps of their lives as they look for new homes along the exotic Mediterranean Sea. USA 2017.</desc>
     <credits>
-      <actor>Lannon Killea</actor>
+      <actor>Daniel Cummings</actor>
     </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C435500711413B857777605B1A8E68ED1A521635T.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/35DC4C00B3DC61346450722E79460F19F4EECC74C.jpg"/>
   </programme>
   <programme start="20240320225000 +0530" stop="20240320234500 +0530" channel="TLCHD.in">
     <title lang="en">Love &amp; Translation</title>
@@ -761,6 +387,360 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D136D11F8FEAE29DD0A2464B11709EEF2CB713384.jpg"/>
   </programme>
   <programme start="20240320234500 +0530" stop="20240321003100 +0530" channel="TLCHD.in">
+    <title lang="en">Food Paradise</title>
+    <desc lang="en">The host highlights restaurants across the USA that serve the most delicious and decadent dishes and provide once-in-a-lifetime dining experiences. USA 2007.</desc>
+    <credits>
+      <actor>Jesse Blaze Snider</actor>
+      <actor>Mason Pettit</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BE303893B7FAF3D3CEA79BF1FA32C2997E0E375H.jpg"/>
+  </programme>
+  <programme start="20240321003100 +0530" stop="20240321010000 +0530" channel="TLCHD.in">
+    <title lang="en">Bizarre Foods: Delicious Destinations</title>
+    <desc lang="en">An award-winning chef travels to various places and explores the local cuisines. He also talks about its origin, recipe and the right way to eat it.</desc>
+    <credits>
+      <actor>Andrew Zimmern</actor>
+    </credits>
+    <category lang="en">Food</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E5A4F8907CDD29548EB8A4DE64A5C2C8A8AD535S.jpg"/>
+  </programme>
+  <programme start="20240321010000 +0530" stop="20240321020000 +0530" channel="TLCHD.in">
+    <title lang="en">Say Yes To The Dress</title>
+    <desc lang="en">Sales associates, managers and fitters at various stores across Manhattan help nervous brides choose the perfect dress for their wedding. USA 2007.</desc>
+    <credits>
+      <actor>Roger Craig Smith</actor>
+      <actor>Ronnie Rothstein</actor>
+      <actor>Randy Fenoli</actor>
+      <actor>Emily Pokora</actor>
+      <actor>Mara Urshel</actor>
+      <actor>Amy Pokora</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/55F538293AE101BE96A9A7D742ACC4922DCCF3B45.jpg"/>
+  </programme>
+  <programme start="20240321020000 +0530" stop="20240321030000 +0530" channel="TLCHD.in">
+    <title lang="en">Food Paradise</title>
+    <desc lang="en">The host highlights restaurants across the USA that serve the most delicious and decadent dishes and provide once-in-a-lifetime dining experiences. USA 2007.</desc>
+    <credits>
+      <actor>Jesse Blaze Snider</actor>
+      <actor>Mason Pettit</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BE303893B7FAF3D3CEA79BF1FA32C2997E0E375H.jpg"/>
+  </programme>
+  <programme start="20240321030000 +0530" stop="20240321040000 +0530" channel="TLCHD.in">
+    <title lang="en">90 Day Fiance</title>
+    <desc lang="en">Dating across borders becomes possible as several non-American women get a visa to meet their fiances for a short duration. Later, they must decide whether to get married or return straight home. USA 2014.</desc>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6136F0C549BA5C73BE0F402F02846E73C3AE9F385.jpg"/>
+  </programme>
+  <programme start="20240321040000 +0530" stop="20240321050000 +0530" channel="TLCHD.in">
+    <title lang="en">90 Day Journey: Jenny &amp; Sumit</title>
+    <desc lang="en">Jenny and Sumit, a couple in a decade-long long-distance relationship, navigate the complexities of merging their diverse backgrounds and cultures to make their love story a success.</desc>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/94D86FB93F68B18D01C45544AE950BF1CCFE5D228.jpg"/>
+  </programme>
+  <programme start="20240321050000 +0530" stop="20240321060000 +0530" channel="TLCHD.in">
+    <title lang="en">Food Paradise</title>
+    <desc lang="en">The host highlights restaurants across the USA that serve the most delicious and decadent dishes and provide once-in-a-lifetime dining experiences. USA 2007.</desc>
+    <credits>
+      <actor>Jesse Blaze Snider</actor>
+      <actor>Mason Pettit</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BE303893B7FAF3D3CEA79BF1FA32C2997E0E375H.jpg"/>
+  </programme>
+  <programme start="20240321060000 +0530" stop="20240321070000 +0530" channel="TLCHD.in">
+    <title lang="en">Star Vs Food: Survival</title>
+    <desc lang="en">With the help of a professional chef, celebrities showcase their culinary skills as they prepare delectable dishes while attempting to survive in the wilderness. India 2023.</desc>
+    <credits>
+      <actor>Ranveer Brar</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B5DA132474A9D95F823405A1D0A8D0C78F53DEBK.jpg"/>
+  </programme>
+  <programme start="20240321070000 +0530" stop="20240321075500 +0530" channel="TLCHD.in">
+    <title lang="en">Dare To Wear</title>
+    <desc lang="en">A host and style expert asks two different women to exchange their wardrobes and teaches them valuable secrets of fashion. USA 2015.</desc>
+    <credits>
+      <actor>Tai Beauchamp</actor>
+      <actor>Mathias Alan</actor>
+      <actor>Dina Renee</actor>
+      <actor>Emma Zerner</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C1376F389AC4DAE67A433D2A33DAD606E2120B8O.jpg"/>
+  </programme>
+  <programme start="20240321075500 +0530" stop="20240321085000 +0530" channel="TLCHD.in">
+    <title lang="en">Ben &amp; Jerry's: Clash Of The Cones</title>
+    <desc lang="en">Six contestants showcase their skills and compete against each other to curate their own original Ben and Jerry's ice cream flavour. USA 2021.</desc>
+    <credits>
+      <actor>Molly Yeh</actor>
+      <actor>Jet Tila</actor>
+      <actor>Allison Tila</actor>
+      <actor>Chris Rivard</actor>
+      <actor>Kevin Bacon</actor>
+      <actor>Ludacris</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3210DCA8F11E8C296CC46E13F226A5A72A7DFD1AA.jpg"/>
+  </programme>
+  <programme start="20240321085000 +0530" stop="20240321091800 +0530" channel="TLCHD.in">
+    <title lang="en">Valerie's Home Cooking</title>
+    <desc lang="en">Valerie Bertinelli presents easy recipes for home-style preparations and also shares a number of culinary tips and tricks. USA 2015.</desc>
+    <credits>
+      <actor>Valerie Bertinelli</actor>
+      <actor>Tom Vitale</actor>
+      <actor>Suzanne Ferleger</actor>
+      <actor>Patrick Bertinelli</actor>
+      <actor>Jo Oyakawa Stougaard</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4D34CF9EDB150970015AC42A107B88ECF038DF2N.jpg"/>
+  </programme>
+  <programme start="20240321091800 +0530" stop="20240321094500 +0530" channel="TLCHD.in">
+    <title lang="en">Valerie's Home Cooking</title>
+    <desc lang="en">Valerie Bertinelli presents easy recipes for home-style preparations and also shares a number of culinary tips and tricks. USA 2015.</desc>
+    <credits>
+      <actor>Valerie Bertinelli</actor>
+      <actor>Tom Vitale</actor>
+      <actor>Suzanne Ferleger</actor>
+      <actor>Patrick Bertinelli</actor>
+      <actor>Jo Oyakawa Stougaard</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4D34CF9EDB150970015AC42A107B88ECF038DF2N.jpg"/>
+  </programme>
+  <programme start="20240321094500 +0530" stop="20240321104000 +0530" channel="TLCHD.in">
+    <title lang="en">Food Paradise</title>
+    <desc lang="en">The host highlights restaurants across the USA that serve the most delicious and decadent dishes and provide once-in-a-lifetime dining experiences. USA 2007.</desc>
+    <credits>
+      <actor>Jesse Blaze Snider</actor>
+      <actor>Mason Pettit</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BE303893B7FAF3D3CEA79BF1FA32C2997E0E375H.jpg"/>
+  </programme>
+  <programme start="20240321104000 +0530" stop="20240321113500 +0530" channel="TLCHD.in">
+    <title lang="en">Restaurant: Impossible</title>
+    <desc lang="en">Chef Robert Irvine sets out to salvage restaurants on the verge of shutting down with just USD 10,000 and two days to help the owners get back into business. USA 2011.</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+      <actor>Tom Bury</actor>
+      <actor>Taniya Nayak</actor>
+      <actor>Cheryl Torrenueva</actor>
+      <actor>Lynn Kegan</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BC1AE93B71BE6EA1BFB2457971FA517616416AD5.jpg"/>
+  </programme>
+  <programme start="20240321113500 +0530" stop="20240321123000 +0530" channel="TLCHD.in">
+    <title lang="en">Dare To Wear</title>
+    <desc lang="en">A host and style expert asks two different women to exchange their wardrobes and teaches them valuable secrets of fashion. USA 2015.</desc>
+    <credits>
+      <actor>Tai Beauchamp</actor>
+      <actor>Mathias Alan</actor>
+      <actor>Dina Renee</actor>
+      <actor>Emma Zerner</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5C1376F389AC4DAE67A433D2A33DAD606E2120B8O.jpg"/>
+  </programme>
+  <programme start="20240321123000 +0530" stop="20240321132500 +0530" channel="TLCHD.in">
+    <title lang="en">Ben &amp; Jerry's: Clash Of The Cones</title>
+    <desc lang="en">Six contestants showcase their skills and compete against each other to curate their own original Ben and Jerry's ice cream flavour. USA 2021.</desc>
+    <credits>
+      <actor>Molly Yeh</actor>
+      <actor>Jet Tila</actor>
+      <actor>Allison Tila</actor>
+      <actor>Chris Rivard</actor>
+      <actor>Kevin Bacon</actor>
+      <actor>Ludacris</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3210DCA8F11E8C296CC46E13F226A5A72A7DFD1AA.jpg"/>
+  </programme>
+  <programme start="20240321132500 +0530" stop="20240321135300 +0530" channel="TLCHD.in">
+    <title lang="en">Valerie's Home Cooking</title>
+    <desc lang="en">Valerie Bertinelli presents easy recipes for home-style preparations and also shares a number of culinary tips and tricks. USA 2015.</desc>
+    <credits>
+      <actor>Valerie Bertinelli</actor>
+      <actor>Tom Vitale</actor>
+      <actor>Suzanne Ferleger</actor>
+      <actor>Patrick Bertinelli</actor>
+      <actor>Jo Oyakawa Stougaard</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4D34CF9EDB150970015AC42A107B88ECF038DF2N.jpg"/>
+  </programme>
+  <programme start="20240321135300 +0530" stop="20240321142000 +0530" channel="TLCHD.in">
+    <title lang="en">Valerie's Home Cooking</title>
+    <desc lang="en">Valerie Bertinelli presents easy recipes for home-style preparations and also shares a number of culinary tips and tricks. USA 2015.</desc>
+    <credits>
+      <actor>Valerie Bertinelli</actor>
+      <actor>Tom Vitale</actor>
+      <actor>Suzanne Ferleger</actor>
+      <actor>Patrick Bertinelli</actor>
+      <actor>Jo Oyakawa Stougaard</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4D34CF9EDB150970015AC42A107B88ECF038DF2N.jpg"/>
+  </programme>
+  <programme start="20240321142000 +0530" stop="20240321150600 +0530" channel="TLCHD.in">
+    <title lang="en">Restaurant: Impossible</title>
+    <desc lang="en">Chef Robert Irvine sets out to salvage restaurants on the verge of shutting down with just USD 10,000 and two days to help the owners get back into business. USA 2011.</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+      <actor>Tom Bury</actor>
+      <actor>Taniya Nayak</actor>
+      <actor>Cheryl Torrenueva</actor>
+      <actor>Lynn Kegan</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1BC1AE93B71BE6EA1BFB2457971FA517616416AD5.jpg"/>
+  </programme>
+  <programme start="20240321150600 +0530" stop="20240321160100 +0530" channel="TLCHD.in">
+    <title lang="en">Food Paradise</title>
+    <desc lang="en">The host highlights restaurants across the USA that serve the most delicious and decadent dishes and provide once-in-a-lifetime dining experiences. USA 2007.</desc>
+    <credits>
+      <actor>Jesse Blaze Snider</actor>
+      <actor>Mason Pettit</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BE303893B7FAF3D3CEA79BF1FA32C2997E0E375H.jpg"/>
+  </programme>
+  <programme start="20240321160100 +0530" stop="20240321165600 +0530" channel="TLCHD.in">
+    <title lang="en">Star Vs Food: Survival</title>
+    <desc lang="en">With the help of a professional chef, celebrities showcase their culinary skills as they prepare delectable dishes while attempting to survive in the wilderness. India 2023.</desc>
+    <credits>
+      <actor>Ranveer Brar</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B5DA132474A9D95F823405A1D0A8D0C78F53DEBK.jpg"/>
+  </programme>
+  <programme start="20240321165600 +0530" stop="20240321175100 +0530" channel="TLCHD.in">
+    <title lang="en">Inside Out</title>
+    <desc lang="en">The filmmaker embarks on a journey to explore the science and mechanics that make up New York City through conversations with experts.</desc>
+    <credits>
+      <actor>Richard Kramer</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76DF7F196A8CD3AFE2FF0982E685BD47C4A09707H.jpg"/>
+  </programme>
+  <programme start="20240321175100 +0530" stop="20240321181500 +0530" channel="TLCHD.in">
+    <title lang="en">Girl Meets Farm</title>
+    <desc lang="en">Food blogger Molly Yeh shares her love for cooking by preparing a variety of delicious dishes. Simultaneously, she shares insights into her life in the countryside. USA 2018.</desc>
+    <credits>
+      <actor>Molly Yeh</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E52165C7E8841B2A0E8A21E10003678C915E3EAD.jpg"/>
+  </programme>
+  <programme start="20240321181500 +0530" stop="20240321184300 +0530" channel="TLCHD.in">
+    <title lang="en">Say Yes To The Dress UK</title>
+    <desc lang="en">Fashion experts advise brides-to-be on choosing their wedding dresses and give them trendy ideas to make their big day unforgettable. USA 2016.</desc>
+    <credits>
+      <actor>David Emanuel</actor>
+      <actor>Christine Dando</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/887E5DF470269464ACF436683B53A1C97B1070C6X.jpg"/>
+  </programme>
+  <programme start="20240321184300 +0530" stop="20240321191000 +0530" channel="TLCHD.in">
+    <title lang="en">Say Yes To The Dress UK</title>
+    <desc lang="en">Fashion experts advise brides-to-be on choosing their wedding dresses and give them trendy ideas to make their big day unforgettable. USA 2016.</desc>
+    <credits>
+      <actor>David Emanuel</actor>
+      <actor>Christine Dando</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/887E5DF470269464ACF436683B53A1C97B1070C6X.jpg"/>
+  </programme>
+  <programme start="20240321191000 +0530" stop="20240321193700 +0530" channel="TLCHD.in">
+    <title lang="en">Crazy Cakes</title>
+    <desc lang="en">Chefs from different parts of the USA share insights and demonstrate their skills in preparing some of the world's most breathtaking cakes. USA 2018.</desc>
+    <credits>
+      <actor>Timbo Sullivan</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8CBCD1E79A756D9B85BAA541AF419EB78F73126AT.jpg"/>
+  </programme>
+  <programme start="20240321193700 +0530" stop="20240321200500 +0530" channel="TLCHD.in">
+    <title lang="en">Crazy Cakes</title>
+    <desc lang="en">Chefs from different parts of the USA share insights and demonstrate their skills in preparing some of the world's most breathtaking cakes. USA 2018.</desc>
+    <credits>
+      <actor>Timbo Sullivan</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8CBCD1E79A756D9B85BAA541AF419EB78F73126AT.jpg"/>
+  </programme>
+  <programme start="20240321200500 +0530" stop="20240321210000 +0530" channel="TLCHD.in">
+    <title lang="en">Food Paradise</title>
+    <desc lang="en">The host highlights restaurants across the USA that serve the most delicious and decadent dishes and provide once-in-a-lifetime dining experiences. USA 2007.</desc>
+    <credits>
+      <actor>Jesse Blaze Snider</actor>
+      <actor>Mason Pettit</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4BE303893B7FAF3D3CEA79BF1FA32C2997E0E375H.jpg"/>
+  </programme>
+  <programme start="20240321210000 +0530" stop="20240321212800 +0530" channel="TLCHD.in">
+    <title lang="en">Beat Bobby Flay</title>
+    <desc lang="en">Two contestants face off in a cooking competition to determine who will face Chef Bobby Flay in a contest to prepare a signature dish. USA 2013.</desc>
+    <credits>
+      <actor>Bobby Flay</actor>
+      <actor>Scott Conant</actor>
+      <actor>Alex Guarnaschelli</actor>
+      <actor>Anne Burrell</actor>
+      <actor>Katie Lee</actor>
+    </credits>
+    <category lang="en">Talent Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB80C8DF69ED2FCF6501185C6BDD59C92A29D4ECZ.jpg"/>
+  </programme>
+  <programme start="20240321212800 +0530" stop="20240321215500 +0530" channel="TLCHD.in">
+    <title lang="en">Beat Bobby Flay</title>
+    <desc lang="en">Two contestants face off in a cooking competition to determine who will face Chef Bobby Flay in a contest to prepare a signature dish. USA 2013.</desc>
+    <credits>
+      <actor>Bobby Flay</actor>
+      <actor>Scott Conant</actor>
+      <actor>Alex Guarnaschelli</actor>
+      <actor>Anne Burrell</actor>
+      <actor>Katie Lee</actor>
+    </credits>
+    <category lang="en">Talent Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AB80C8DF69ED2FCF6501185C6BDD59C92A29D4ECZ.jpg"/>
+  </programme>
+  <programme start="20240321215500 +0530" stop="20240321222300 +0530" channel="TLCHD.in">
+    <title lang="en">Mountain Life</title>
+    <desc lang="en">Numerous families from different walks of life and cities set out in search of homes near various mountains across America. USA 2015.</desc>
+    <credits>
+      <actor>Brian West</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8097303333237647476D80C81DC72E6619323461O.jpg"/>
+  </programme>
+  <programme start="20240321222300 +0530" stop="20240321225000 +0530" channel="TLCHD.in">
+    <title lang="en">Island Life</title>
+    <desc lang="en">Various couples look for their own slice of paradise as they look at island properties with different budgets and specifications. USA 2015.</desc>
+    <credits>
+      <actor>Lannon Killea</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C435500711413B857777605B1A8E68ED1A521635T.jpg"/>
+  </programme>
+  <programme start="20240321225000 +0530" stop="20240321234500 +0530" channel="TLCHD.in">
+    <title lang="en">Love &amp; Translation</title>
+    <desc lang="en">Three men from America and twelve women from other countries embark on a chance to find love on a tropical island without understanding each other's languages. USA 2024.</desc>
+    <credits>
+      <actor>Sangita Patel</actor>
+      <actor>Anzu Lawson</actor>
+      <actor>Tripp Bromley</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D136D11F8FEAE29DD0A2464B11709EEF2CB713384.jpg"/>
+  </programme>
+  <programme start="20240321234500 +0530" stop="20240322003100 +0530" channel="TLCHD.in">
     <title lang="en">Restaurant: Impossible</title>
     <desc lang="en">Chef Robert Irvine sets out to salvage restaurants on the verge of shutting down with just USD 10,000 and two days to help the owners get back into business. USA 2011.</desc>
     <credits>

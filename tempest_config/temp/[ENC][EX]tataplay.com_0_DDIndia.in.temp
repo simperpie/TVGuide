@@ -3,255 +3,6 @@
   <channel id="DDIndia.in">
     <display-name lang="en">DD India</display-name>
   </channel>
-  <programme start="20240319000000 +0530" stop="20240319003000 +0530" channel="DDIndia.in">
-    <title lang="en">Spotlight Cinema</title>
-    <desc lang="en">Devika Rani:the First Lady Of Indian Cinema: The host presents detailed information on the life, career and achievements of prominent figures in the world of cinema.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4ACD588383DC2244BC9B0ECD7B022C0F335C64FC0.jpg"/>
-  </programme>
-  <programme start="20240319003000 +0530" stop="20240319010000 +0530" channel="DDIndia.in">
-    <title lang="en">Voice Of The Global South</title>
-    <desc lang="en">The host provides deeper insights into the Voice of the Global South Summit whilst highlighting the key pointers that were addressed by the dignitaries.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/436828EB9312A44938E665376CCA77D0215129969.jpg"/>
-  </programme>
-  <programme start="20240319010000 +0530" stop="20240319020000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India News Hour</title>
-    <desc lang="en">The host provides a report on the latest news updates and developments from across the globe pertaining to current affairs, the economy, business and more.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD63DFD6896322FB5B97BF296D8F99260DAAB658U.jpg"/>
-  </programme>
-  <programme start="20240319020000 +0530" stop="20240319023000 +0530" channel="DDIndia.in">
-    <title lang="en">Explorer Of The Misty Mountains</title>
-    <desc lang="en">The host embarks on a journey of discovery as he explores the natural landscapes and local cultures of north-eastern India.</desc>
-    <credits>
-      <actor>Mike Pandey</actor>
-    </credits>
-    <category lang="en">Travel</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/30F507F9083C5BF2BB55C731AD9F2674CC793F1D1.jpg"/>
-  </programme>
-  <programme start="20240319023000 +0530" stop="20240319030000 +0530" channel="DDIndia.in">
-    <title lang="en">Indian Diplomacy</title>
-    <desc lang="en">Naval Bases And India's Maritime Strategy: The host discusses with the designated officials on matters relating to India's affairs and diplomatic relations with the foreign countries.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44B65EDEDAD8D13DB132026D2C037488000B472B6.jpg"/>
-  </programme>
-  <programme start="20240319030000 +0530" stop="20240319040000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India News Hour</title>
-    <desc lang="en">The host provides a report on the latest news updates and developments from across the globe pertaining to current affairs, the economy, business and more.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD63DFD6896322FB5B97BF296D8F99260DAAB658U.jpg"/>
-  </programme>
-  <programme start="20240319040000 +0530" stop="20240319043000 +0530" channel="DDIndia.in">
-    <title lang="en">In Conversation</title>
-    <desc lang="en">Michel Mayor Nobel Prize Laureate, Physics 2019: The host interviews a series of guests and experts from different walks of life about their work and personal lives.</desc>
-    <credits>
-      <actor>Rajiv Mehrotra</actor>
-    </credits>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4626EA391C4E95BB929A232BC40DC3F263B04571U.jpg"/>
-  </programme>
-  <programme start="20240319043000 +0530" stop="20240319050000 +0530" channel="DDIndia.in">
-    <title lang="en">India EFTA Free Trade Agreement</title>
-    <desc lang="en">The host presents a detailed report on India signing the Trade and Economic Partnership Agreement (TEPA) with EFTA while exploring key details from the pact.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1AA936F79CC8A4718E0CCF8EC2A1E72E24DFA6D4I.jpg"/>
-  </programme>
-  <programme start="20240319050000 +0530" stop="20240319060000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India News Hour</title>
-    <desc lang="en">The host provides a report on the latest news updates and developments from across the globe pertaining to current affairs, the economy, business and more.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD63DFD6896322FB5B97BF296D8F99260DAAB658U.jpg"/>
-  </programme>
-  <programme start="20240319060000 +0530" stop="20240319063000 +0530" channel="DDIndia.in">
-    <title lang="en">Explorer Of The Misty Mountains</title>
-    <desc lang="en">The host embarks on a journey of discovery as he explores the natural landscapes and local cultures of north-eastern India.</desc>
-    <credits>
-      <actor>Mike Pandey</actor>
-    </credits>
-    <category lang="en">Travel</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/30F507F9083C5BF2BB55C731AD9F2674CC793F1D1.jpg"/>
-  </programme>
-  <programme start="20240319063000 +0530" stop="20240319070000 +0530" channel="DDIndia.in">
-    <title lang="en">Sadhguru Speaks</title>
-    <desc lang="en">Sadhguru delivers enlightening discourses on various topics and shares his wisdom on different aspects of life and spirituality.</desc>
-    <credits>
-      <actor>Sadhguru</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7E8738474DA10B01461685CCD699623C71F287F7.jpg"/>
-  </programme>
-  <programme start="20240319070000 +0530" stop="20240319073000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India Live</title>
-    <desc lang="en">The newsreader presents a detailed report on some of the latest and most important news stories and updates from around the world, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D6BC57AFAD741CE35BE91F8CF391109E72EBF55Z.jpg"/>
-  </programme>
-  <programme start="20240319073000 +0530" stop="20240319080000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India Live</title>
-    <desc lang="en">The newsreader presents a detailed report on some of the latest and most important news stories and updates from around the world, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D6BC57AFAD741CE35BE91F8CF391109E72EBF55Z.jpg"/>
-  </programme>
-  <programme start="20240319080000 +0530" stop="20240319090000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India News Hour</title>
-    <desc lang="en">The host provides a report on the latest news updates and developments from across the globe pertaining to current affairs, the economy, business and more.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD63DFD6896322FB5B97BF296D8F99260DAAB658U.jpg"/>
-  </programme>
-  <programme start="20240319090000 +0530" stop="20240319100000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India News Hour</title>
-    <desc lang="en">The host provides a report on the latest news updates and developments from across the globe pertaining to current affairs, the economy, business and more.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD63DFD6896322FB5B97BF296D8F99260DAAB658U.jpg"/>
-  </programme>
-  <programme start="20240319100000 +0530" stop="20240319110000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India News Hour</title>
-    <desc lang="en">The host provides a report on the latest news updates and developments from across the globe pertaining to current affairs, the economy, business and more.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD63DFD6896322FB5B97BF296D8F99260DAAB658U.jpg"/>
-  </programme>
-  <programme start="20240319110000 +0530" stop="20240319120000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India News Hour</title>
-    <desc lang="en">The host provides a report on the latest news updates and developments from across the globe pertaining to current affairs, the economy, business and more.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD63DFD6896322FB5B97BF296D8F99260DAAB658U.jpg"/>
-  </programme>
-  <programme start="20240319120000 +0530" stop="20240319123000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India Live</title>
-    <desc lang="en">The newsreader presents a detailed report on some of the latest and most important news stories and updates from around the world, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D6BC57AFAD741CE35BE91F8CF391109E72EBF55Z.jpg"/>
-  </programme>
-  <programme start="20240319123000 +0530" stop="20240319130000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India Live</title>
-    <desc lang="en">The newsreader presents a detailed report on some of the latest and most important news stories and updates from around the world, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D6BC57AFAD741CE35BE91F8CF391109E72EBF55Z.jpg"/>
-  </programme>
-  <programme start="20240319130000 +0530" stop="20240319133000 +0530" channel="DDIndia.in">
-    <title lang="en">Connecting The Dots</title>
-    <desc lang="en">The host presents a detailed report on some of the pressing global issues and current affairs that have an impact on the lives of people.</desc>
-    <credits>
-      <actor>Amit Mukherjee</actor>
-    </credits>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/830D126AF8DEA81165A1E903DE29A48BE6A49849J.jpg"/>
-  </programme>
-  <programme start="20240319133000 +0530" stop="20240319140000 +0530" channel="DDIndia.in">
-    <title lang="en">In Conversation</title>
-    <desc lang="en">Michel Mayor Nobel Prize Laureate, Physics 2019: The host interviews a series of guests and experts from different walks of life about their work and personal lives.</desc>
-    <credits>
-      <actor>Rajiv Mehrotra</actor>
-    </credits>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4626EA391C4E95BB929A232BC40DC3F263B04571U.jpg"/>
-  </programme>
-  <programme start="20240319140000 +0530" stop="20240319150000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India News Hour</title>
-    <desc lang="en">The host provides a report on the latest news updates and developments from across the globe pertaining to current affairs, the economy, business and more.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD63DFD6896322FB5B97BF296D8F99260DAAB658U.jpg"/>
-  </programme>
-  <programme start="20240319150000 +0530" stop="20240319153000 +0530" channel="DDIndia.in">
-    <title lang="en">Golden Frames</title>
-    <desc lang="en">Legacy of a Legend: Pandit Ravi Shankar</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4A1FFC8161AA649E8BD28D8C1D38B3C3DA3D80D3.jpg"/>
-  </programme>
-  <programme start="20240319153000 +0530" stop="20240319160000 +0530" channel="DDIndia.in">
-    <title lang="en">India EFTA Free Trade Agreement</title>
-    <desc lang="en">The host presents a detailed report on India signing the Trade and Economic Partnership Agreement (TEPA) with EFTA while exploring key details from the pact.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1AA936F79CC8A4718E0CCF8EC2A1E72E24DFA6D4I.jpg"/>
-  </programme>
-  <programme start="20240319160000 +0530" stop="20240319163000 +0530" channel="DDIndia.in">
-    <title lang="en">Sports Buzz</title>
-    <desc lang="en">The host sheds light on some of the latest news stories, updates and developments pertaining to the world of sports involving Indian participation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/40A33F1A56D722C25BE92428E915B36003EA08D7Q.jpg"/>
-  </programme>
-  <programme start="20240319163000 +0530" stop="20240319170000 +0530" channel="DDIndia.in">
-    <title lang="en">Indian Diplomacy</title>
-    <desc lang="en">Naval Bases And India's Maritime Strategy: The host discusses with the designated officials on matters relating to India's affairs and diplomatic relations with the foreign countries.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44B65EDEDAD8D13DB132026D2C037488000B472B6.jpg"/>
-  </programme>
-  <programme start="20240319170000 +0530" stop="20240319173000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India Global</title>
-    <desc lang="en">The host presents the latest news stories and significant developments from India and around the world in quick succession.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E5FCDE268919498EAB6D113FF5B3867695F4F3EZ.jpg"/>
-  </programme>
-  <programme start="20240319173000 +0530" stop="20240319180000 +0530" channel="DDIndia.in">
-    <title lang="en">Sports Buzz</title>
-    <desc lang="en">The host sheds light on some of the latest news stories, updates and developments pertaining to the world of sports involving Indian participation.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/40A33F1A56D722C25BE92428E915B36003EA08D7Q.jpg"/>
-  </programme>
-  <programme start="20240319180000 +0530" stop="20240319183000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India Live</title>
-    <desc lang="en">The newsreader presents a detailed report on some of the latest and most important news stories and updates from around the world, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D6BC57AFAD741CE35BE91F8CF391109E72EBF55Z.jpg"/>
-  </programme>
-  <programme start="20240319183000 +0530" stop="20240319190000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India Live</title>
-    <desc lang="en">The newsreader presents a detailed report on some of the latest and most important news stories and updates from around the world, live.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D6BC57AFAD741CE35BE91F8CF391109E72EBF55Z.jpg"/>
-  </programme>
-  <programme start="20240319190000 +0530" stop="20240319193000 +0530" channel="DDIndia.in">
-    <title lang="en">Express News</title>
-    <desc lang="en">The host presents the top 100 news headlines, latest happenings and significant updates from different parts of the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C008B4D3A32C1523B1A682BEACFA37CD5EA5F733Z.jpg"/>
-  </programme>
-  <programme start="20240319193000 +0530" stop="20240319200000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India Global</title>
-    <desc lang="en">The host presents the latest news stories and significant developments from India and around the world in quick succession.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E5FCDE268919498EAB6D113FF5B3867695F4F3EZ.jpg"/>
-  </programme>
-  <programme start="20240319200000 +0530" stop="20240319203000 +0530" channel="DDIndia.in">
-    <title lang="en">Voice Of The Global South</title>
-    <desc lang="en">The host provides deeper insights into the Voice of the Global South Summit whilst highlighting the key pointers that were addressed by the dignitaries.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/436828EB9312A44938E665376CCA77D0215129969.jpg"/>
-  </programme>
-  <programme start="20240319203000 +0530" stop="20240319210000 +0530" channel="DDIndia.in">
-    <title lang="en">Express News</title>
-    <desc lang="en">The host presents the top 100 news headlines, latest happenings and significant updates from different parts of the country.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C008B4D3A32C1523B1A682BEACFA37CD5EA5F733Z.jpg"/>
-  </programme>
-  <programme start="20240319210000 +0530" stop="20240319220000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India News Hour</title>
-    <desc lang="en">The host provides a report on the latest news updates and developments from across the globe pertaining to current affairs, the economy, business and more.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD63DFD6896322FB5B97BF296D8F99260DAAB658U.jpg"/>
-  </programme>
-  <programme start="20240319220000 +0530" stop="20240319223000 +0530" channel="DDIndia.in">
-    <title lang="en">Connecting The Dots</title>
-    <desc lang="en">The host presents a detailed report on some of the pressing global issues and current affairs that have an impact on the lives of people.</desc>
-    <credits>
-      <actor>Amit Mukherjee</actor>
-    </credits>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/830D126AF8DEA81165A1E903DE29A48BE6A49849J.jpg"/>
-  </programme>
-  <programme start="20240319223000 +0530" stop="20240319230000 +0530" channel="DDIndia.in">
-    <title lang="en">Indian Diplomacy</title>
-    <desc lang="en">Naval Bases And India's Maritime Strategy: The host discusses with the designated officials on matters relating to India's affairs and diplomatic relations with the foreign countries.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44B65EDEDAD8D13DB132026D2C037488000B472B6.jpg"/>
-  </programme>
-  <programme start="20240319230000 +0530" stop="20240320000000 +0530" channel="DDIndia.in">
-    <title lang="en">DD India News Hour</title>
-    <desc lang="en">The host provides a report on the latest news updates and developments from across the globe pertaining to current affairs, the economy, business and more.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD63DFD6896322FB5B97BF296D8F99260DAAB658U.jpg"/>
-  </programme>
   <programme start="20240320000000 +0530" stop="20240320003000 +0530" channel="DDIndia.in">
     <title lang="en">Golden Frames</title>
     <desc lang="en">Legacy of a Legend: Pandit Ravi Shankar</desc>
@@ -313,16 +64,22 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD63DFD6896322FB5B97BF296D8F99260DAAB658U.jpg"/>
   </programme>
   <programme start="20240320060000 +0530" stop="20240320063000 +0530" channel="DDIndia.in">
-    <title lang="en">Souls Of The Mountains</title>
-    <desc lang="en">The host visits several mountainous regions and provides insight into the culture and traditions of the indigenous communities.</desc>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0831EF5F971CB382FE3A79EB5931ACD14790FBC4G.jpg"/>
+    <title lang="en">Explorer Of The Misty Mountains</title>
+    <desc lang="en">The host embarks on a journey of discovery as he explores the natural landscapes and local cultures of north-eastern India.</desc>
+    <credits>
+      <actor>Mike Pandey</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/30F507F9083C5BF2BB55C731AD9F2674CC793F1D1.jpg"/>
   </programme>
   <programme start="20240320063000 +0530" stop="20240320070000 +0530" channel="DDIndia.in">
-    <title lang="en">Meditation Session</title>
-    <desc lang="en">The host sheds light on practising the proper techniques of meditation, which can help one achieve peace and health of the mind, body and soul.</desc>
+    <title lang="en">Sadhguru Speaks</title>
+    <desc lang="en">Sadhguru delivers enlightening discourses on various topics and shares his wisdom on different aspects of life and spirituality.</desc>
+    <credits>
+      <actor>Sadhguru</actor>
+    </credits>
     <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8B4276514051FE66FC31E37E18675FCA154858F5N.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7E8738474DA10B01461685CCD699623C71F287F7.jpg"/>
   </programme>
   <programme start="20240320070000 +0530" stop="20240320073000 +0530" channel="DDIndia.in">
     <title lang="en">DD India Live</title>
@@ -373,13 +130,13 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0D6BC57AFAD741CE35BE91F8CF391109E72EBF55Z.jpg"/>
   </programme>
   <programme start="20240320130000 +0530" stop="20240320133000 +0530" channel="DDIndia.in">
-    <title lang="en">Interview Of Finland Foreign Minister Elina Valtonen</title>
-    <desc lang="en">The host engages in an insightful conversation with Elina Valtonen, the Minister for Foreign Affairs of Finland, about various topics concerning the country.</desc>
+    <title lang="en">Interview With Hungary Foreign Minister Peter Szijjarto</title>
+    <desc lang="en">The host engages in an insightful conversation with Peter Szijjarto, Hungary's Minister of Foreign Affairs and Trade, on matters of global significance.</desc>
     <credits>
-      <actor>Elina Valtonen</actor>
+      <actor>Peter Szijjarto</actor>
     </credits>
     <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6EAD7037116EF621CAA8CCED405912E46E64FDAEH.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/756D153E7523D041A3CC71CFB3E8D8CE724EF83EA.jpg"/>
   </programme>
   <programme start="20240320133000 +0530" stop="20240320140000 +0530" channel="DDIndia.in">
     <title lang="en">Voice Of The Global South</title>
@@ -395,27 +152,30 @@
   </programme>
   <programme start="20240320150000 +0530" stop="20240320153000 +0530" channel="DDIndia.in">
     <title lang="en">Golden Frames</title>
-    <desc lang="en">Golden Frames</desc>
+    <desc lang="en">Legendry Music Composer Naushad Ali</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4A1FFC8161AA649E8BD28D8C1D38B3C3DA3D80D3.jpg"/>
   </programme>
   <programme start="20240320153000 +0530" stop="20240320160000 +0530" channel="DDIndia.in">
     <title lang="en">Indian Diplomacy</title>
-    <desc lang="en">The host discusses with the designated officials on matters relating to India's affairs and diplomatic relations with the foreign countries.</desc>
+    <desc lang="en">Navel Bases and India's Maritime Strategy: The host discusses with the designated officials on matters relating to India's affairs and diplomatic relations with the foreign countries.</desc>
     <category lang="en">Talk Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44B65EDEDAD8D13DB132026D2C037488000B472B6.jpg"/>
   </programme>
   <programme start="20240320160000 +0530" stop="20240320163000 +0530" channel="DDIndia.in">
-    <title lang="en">Sports Programme</title>
-    <desc lang="en">Sports Programme</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+    <title lang="en">Sports Buzz</title>
+    <desc lang="en">The host sheds light on some of the latest news stories, updates and developments pertaining to the world of sports involving Indian participation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/40A33F1A56D722C25BE92428E915B36003EA08D7Q.jpg"/>
   </programme>
   <programme start="20240320163000 +0530" stop="20240320170000 +0530" channel="DDIndia.in">
-    <title lang="en">Changemakers</title>
-    <desc lang="en">The host sheds light on various developments making impactful changes in the society and environment by interacting with experts across fields.</desc>
-    <category lang="en">Environment</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4144CB05F844BD7339B9D1FD6272DA70059E8919S.jpg"/>
+    <title lang="en">India Ideas</title>
+    <desc lang="en">Women in VC Ecosystem: The host invites experts to discuss some of the most path-breaking inventions made by Indians and the potential of these ideas to serve the future generations.</desc>
+    <credits>
+      <actor>Gautam Roy</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4953720C6B596CFF40EEFB4A234DDC3356994DF0L.jpg"/>
   </programme>
   <programme start="20240320170000 +0530" stop="20240320173000 +0530" channel="DDIndia.in">
     <title lang="en">DD - India Global</title>
@@ -424,10 +184,10 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA2BD929808ADEE746BEE9D677195FF6D6F100FE7.jpg"/>
   </programme>
   <programme start="20240320173000 +0530" stop="20240320180000 +0530" channel="DDIndia.in">
-    <title lang="en">Sports Programme</title>
-    <desc lang="en">Sports Programme</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DFFC865D77929941255CB6BE4E4279A9DD2C90A1.jpg"/>
+    <title lang="en">Sports Buzz</title>
+    <desc lang="en">The host sheds light on some of the latest news stories, updates and developments pertaining to the world of sports involving Indian participation.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/40A33F1A56D722C25BE92428E915B36003EA08D7Q.jpg"/>
   </programme>
   <programme start="20240320180000 +0530" stop="20240320183000 +0530" channel="DDIndia.in">
     <title lang="en">DD India Live</title>
@@ -454,10 +214,10 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BA2BD929808ADEE746BEE9D677195FF6D6F100FE7.jpg"/>
   </programme>
   <programme start="20240320200000 +0530" stop="20240320203000 +0530" channel="DDIndia.in">
-    <title lang="en">India EFTA Free Trade Agreement</title>
-    <desc lang="en">The host presents a detailed report on India signing the Trade and Economic Partnership Agreement (TEPA) with EFTA while exploring key details from the pact.</desc>
+    <title lang="en">Putin's Russia Till 2030</title>
+    <desc lang="en">Putin's Russia Till 2030</desc>
     <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1AA936F79CC8A4718E0CCF8EC2A1E72E24DFA6D4I.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/61F6271B5F0055D31978B947D4930B50DE2FFF09N.jpg"/>
   </programme>
   <programme start="20240320203000 +0530" stop="20240320210000 +0530" channel="DDIndia.in">
     <title lang="en">Express News</title>
@@ -472,13 +232,13 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD63DFD6896322FB5B97BF296D8F99260DAAB658U.jpg"/>
   </programme>
   <programme start="20240320220000 +0530" stop="20240320223000 +0530" channel="DDIndia.in">
-    <title lang="en">Interview Of Finland Foreign Minister Elina Valtonen</title>
-    <desc lang="en">The host engages in an insightful conversation with Elina Valtonen, the Minister for Foreign Affairs of Finland, about various topics concerning the country.</desc>
+    <title lang="en">Interview With Hungary Foreign Minister Peter Szijjarto</title>
+    <desc lang="en">The host engages in an insightful conversation with Peter Szijjarto, Hungary's Minister of Foreign Affairs and Trade, on matters of global significance.</desc>
     <credits>
-      <actor>Elina Valtonen</actor>
+      <actor>Peter Szijjarto</actor>
     </credits>
     <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6EAD7037116EF621CAA8CCED405912E46E64FDAEH.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/756D153E7523D041A3CC71CFB3E8D8CE724EF83EA.jpg"/>
   </programme>
   <programme start="20240320223000 +0530" stop="20240320230000 +0530" channel="DDIndia.in">
     <title lang="en">Voice Of The Global South</title>
@@ -491,5 +251,227 @@
     <desc lang="en">The host provides a report on the latest news updates and developments from across the globe pertaining to current affairs, the economy, business and more.</desc>
     <category lang="en">Special Report</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DD63DFD6896322FB5B97BF296D8F99260DAAB658U.jpg"/>
+  </programme>
+  <programme start="20240321000000 +0530" stop="20240321010000 +0530" channel="DDIndia.in">
+    <title lang="en">Startup Champions</title>
+    <desc lang="en">The host invites upcoming entrepreneurs to share stories about their start-up companies.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47FC534A05B77BBA4D8810934A9FAB1246718D858.jpg"/>
+  </programme>
+  <programme start="20240321010000 +0530" stop="20240321020000 +0530" channel="DDIndia.in">
+    <title lang="en">In Focus</title>
+    <desc lang="en">The host connects with various individuals to discuss some of the most pressing issues related to society, politics and economy in India.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/131C9A34BCEA4C063A23789F55EB45EDB7868747Z.jpg"/>
+  </programme>
+  <programme start="20240321020000 +0530" stop="20240321030000 +0530" channel="DDIndia.in">
+    <title lang="en">News Night</title>
+    <desc lang="en">A news anchor presents a comprehensive round-up of the latest economic, political and social updates from India and across the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F23846EADE0DCBA09A9327D7110EE9EA6389FF85P.jpg"/>
+  </programme>
+  <programme start="20240321030000 +0530" stop="20240321040000 +0530" channel="DDIndia.in">
+    <title lang="en">Doctor's Speak</title>
+    <desc lang="en">Medical experts discuss various questions asked by people about COVID-19 and dispel the popular myths about the disease.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B761D2F718C9EB081F6551ADC850386EF1DE2420N.jpg"/>
+  </programme>
+  <programme start="20240321040000 +0530" stop="20240321050000 +0530" channel="DDIndia.in">
+    <title lang="en">News Night</title>
+    <desc lang="en">A news anchor presents a comprehensive round-up of the latest economic, political and social updates from India and across the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F23846EADE0DCBA09A9327D7110EE9EA6389FF85P.jpg"/>
+  </programme>
+  <programme start="20240321050000 +0530" stop="20240321053000 +0530" channel="DDIndia.in">
+    <title lang="en">Aspirational India</title>
+    <desc lang="en">The host brings to light the stories of a number of ambitious people in India who dare to dream big and have managed to achieve their aspirations.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52FDC13936061B04DE008EA22086C91E3A04369AR.jpg"/>
+  </programme>
+  <programme start="20240321053000 +0530" stop="20240321060000 +0530" channel="DDIndia.in">
+    <title lang="en">India Ideas</title>
+    <desc lang="en">The host invites experts to discuss some of the most path-breaking inventions made by Indians and the potential of these ideas to serve the future generations.</desc>
+    <credits>
+      <actor>Gautam Roy</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4953720C6B596CFF40EEFB4A234DDC3356994DF0L.jpg"/>
+  </programme>
+  <programme start="20240321060000 +0530" stop="20240321063000 +0530" channel="DDIndia.in">
+    <title lang="en">In Conversation</title>
+    <desc lang="en">The host interviews a series of guests and experts from different walks of life about their work and personal lives.</desc>
+    <credits>
+      <actor>Rajiv Mehrotra</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4626EA391C4E95BB929A232BC40DC3F263B04571U.jpg"/>
+  </programme>
+  <programme start="20240321063000 +0530" stop="20240321070000 +0530" channel="DDIndia.in">
+    <title lang="en">Meditation Session</title>
+    <desc lang="en">The host sheds light on practising the proper techniques of meditation, which can help one achieve peace and health of the mind, body and soul.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8B4276514051FE66FC31E37E18675FCA154858F5N.jpg"/>
+  </programme>
+  <programme start="20240321070000 +0530" stop="20240321073000 +0530" channel="DDIndia.in">
+    <title lang="en">G-7 And Geopolitics Of Business</title>
+    <desc lang="en">The presenter focuses on the G7 summit, a political forum comprising the governments of various countries, and sheds light on the influence of geopolitics on business.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FB7AA42562C6BB7D299606D5FEC27558EE00691D.jpg"/>
+  </programme>
+  <programme start="20240321073000 +0530" stop="20240321080000 +0530" channel="DDIndia.in">
+    <title lang="en">The News</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF8207FCF2D536EC04EA71E92CC588BBD89F01CAM.jpg"/>
+  </programme>
+  <programme start="20240321080000 +0530" stop="20240321090000 +0530" channel="DDIndia.in">
+    <title lang="en">Startup Champions</title>
+    <desc lang="en">The host invites upcoming entrepreneurs to share stories about their start-up companies.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47FC534A05B77BBA4D8810934A9FAB1246718D858.jpg"/>
+  </programme>
+  <programme start="20240321090000 +0530" stop="20240321100000 +0530" channel="DDIndia.in">
+    <title lang="en">Breakfast News</title>
+    <desc lang="en">The host presents numerous top stories, latest happenings and significant updates from the national and international front.</desc>
+    <credits>
+      <actor>Anchal Vohra</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E4E810F8DA5F305F211ADC400339CC221C1FD3BCV.jpg"/>
+  </programme>
+  <programme start="20240321100000 +0530" stop="20240321103000 +0530" channel="DDIndia.in">
+    <title lang="en">Aspirational India</title>
+    <desc lang="en">The host brings to light the stories of a number of ambitious people in India who dare to dream big and have managed to achieve their aspirations.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52FDC13936061B04DE008EA22086C91E3A04369AR.jpg"/>
+  </programme>
+  <programme start="20240321103000 +0530" stop="20240321110000 +0530" channel="DDIndia.in">
+    <title lang="en">India Ideas</title>
+    <desc lang="en">The host invites experts to discuss some of the most path-breaking inventions made by Indians and the potential of these ideas to serve the future generations.</desc>
+    <credits>
+      <actor>Gautam Roy</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4953720C6B596CFF40EEFB4A234DDC3356994DF0L.jpg"/>
+  </programme>
+  <programme start="20240321110000 +0530" stop="20240321113000 +0530" channel="DDIndia.in">
+    <title lang="en">The News</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF8207FCF2D536EC04EA71E92CC588BBD89F01CAM.jpg"/>
+  </programme>
+  <programme start="20240321113000 +0530" stop="20240321120000 +0530" channel="DDIndia.in">
+    <title lang="en">The News</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF8207FCF2D536EC04EA71E92CC588BBD89F01CAM.jpg"/>
+  </programme>
+  <programme start="20240321120000 +0530" stop="20240321130000 +0530" channel="DDIndia.in">
+    <title lang="en">In Focus</title>
+    <desc lang="en">The host connects with various individuals to discuss some of the most pressing issues related to society, politics and economy in India.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/131C9A34BCEA4C063A23789F55EB45EDB7868747Z.jpg"/>
+  </programme>
+  <programme start="20240321130000 +0530" stop="20240321133000 +0530" channel="DDIndia.in">
+    <title lang="en">Doctor's Chat</title>
+    <desc lang="en">The host connects with a doctor who talks about concerns related to the COVID-19 pandemic and answers the most commonly-asked questions.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3F426F223FE6E774983476F39DE46739CFD04F29O.jpg"/>
+  </programme>
+  <programme start="20240321133000 +0530" stop="20240321140000 +0530" channel="DDIndia.in">
+    <title lang="en">India At G-7</title>
+    <desc lang="en">The host presents a comprehensive update about India's participation in the G-7 Summit where world leaders discuss matters of international importance.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62F8F4BA55135C498A48E071D5B1D011890AC85BL.jpg"/>
+  </programme>
+  <programme start="20240321140000 +0530" stop="20240321150000 +0530" channel="DDIndia.in">
+    <title lang="en">Mid Day Prime</title>
+    <desc lang="en">The host presents the latest and most important political, socio-economic and sports news updates and developments from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/07D20C437D59F21F030B1E0961230630E55AC4830.jpg"/>
+  </programme>
+  <programme start="20240321150000 +0530" stop="20240321160000 +0530" channel="DDIndia.in">
+    <title lang="en">Doctor's Speak</title>
+    <desc lang="en">Medical experts discuss various questions asked by people about COVID-19 and dispel the popular myths about the disease.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B761D2F718C9EB081F6551ADC850386EF1DE2420N.jpg"/>
+  </programme>
+  <programme start="20240321160000 +0530" stop="20240321163000 +0530" channel="DDIndia.in">
+    <title lang="en">Masters Of Cinema</title>
+    <desc lang="en">The presenter sheds light on the careers and achievements of luminaries in cinema, from film-makers and producers to actors and actresses.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3A3171E178C19D333CA6148D0C0A263C78CD9B0F7.jpg"/>
+  </programme>
+  <programme start="20240321163000 +0530" stop="20240321170000 +0530" channel="DDIndia.in">
+    <title lang="en">Sports 360 / Champions Speak</title>
+    <desc lang="en">The host presents the latest updates from the world of sports; the anchor speaks with sportspersons who talk about their journey and experiences.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F153FD90F741CC8FDA9812F724B43A078C91F186B.jpg"/>
+  </programme>
+  <programme start="20240321170000 +0530" stop="20240321180000 +0530" channel="DDIndia.in">
+    <title lang="en">Startup Champions</title>
+    <desc lang="en">The host invites upcoming entrepreneurs to share stories about their start-up companies.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/47FC534A05B77BBA4D8810934A9FAB1246718D858.jpg"/>
+  </programme>
+  <programme start="20240321180000 +0530" stop="20240321183000 +0530" channel="DDIndia.in">
+    <title lang="en">The News</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF8207FCF2D536EC04EA71E92CC588BBD89F01CAM.jpg"/>
+  </programme>
+  <programme start="20240321183000 +0530" stop="20240321190000 +0530" channel="DDIndia.in">
+    <title lang="en">The News</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF8207FCF2D536EC04EA71E92CC588BBD89F01CAM.jpg"/>
+  </programme>
+  <programme start="20240321190000 +0530" stop="20240321193000 +0530" channel="DDIndia.in">
+    <title lang="en">G-7 And Geopolitics Of Business</title>
+    <desc lang="en">The presenter focuses on the G7 summit, a political forum comprising the governments of various countries, and sheds light on the influence of geopolitics on business.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5FB7AA42562C6BB7D299606D5FEC27558EE00691D.jpg"/>
+  </programme>
+  <programme start="20240321193000 +0530" stop="20240321200000 +0530" channel="DDIndia.in">
+    <title lang="en">India Ideas</title>
+    <desc lang="en">The host invites experts to discuss some of the most path-breaking inventions made by Indians and the potential of these ideas to serve the future generations.</desc>
+    <credits>
+      <actor>Gautam Roy</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4953720C6B596CFF40EEFB4A234DDC3356994DF0L.jpg"/>
+  </programme>
+  <programme start="20240321200000 +0530" stop="20240321203000 +0530" channel="DDIndia.in">
+    <title lang="en">Doctor's Chat</title>
+    <desc lang="en">The host connects with a doctor who talks about concerns related to the COVID-19 pandemic and answers the most commonly-asked questions.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3F426F223FE6E774983476F39DE46739CFD04F29O.jpg"/>
+  </programme>
+  <programme start="20240321203000 +0530" stop="20240321210000 +0530" channel="DDIndia.in">
+    <title lang="en">In Conversation</title>
+    <desc lang="en">The host interviews a series of guests and experts from different walks of life about their work and personal lives.</desc>
+    <credits>
+      <actor>Rajiv Mehrotra</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4626EA391C4E95BB929A232BC40DC3F263B04571U.jpg"/>
+  </programme>
+  <programme start="20240321210000 +0530" stop="20240321220000 +0530" channel="DDIndia.in">
+    <title lang="en">News Night</title>
+    <desc lang="en">A news anchor presents a comprehensive round-up of the latest economic, political and social updates from India and across the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F23846EADE0DCBA09A9327D7110EE9EA6389FF85P.jpg"/>
+  </programme>
+  <programme start="20240321220000 +0530" stop="20240321230000 +0530" channel="DDIndia.in">
+    <title lang="en">Doctor's Speak</title>
+    <desc lang="en">Medical experts discuss various questions asked by people about COVID-19 and dispel the popular myths about the disease.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B761D2F718C9EB081F6551ADC850386EF1DE2420N.jpg"/>
+  </programme>
+  <programme start="20240321230000 +0530" stop="20240322000000 +0530" channel="DDIndia.in">
+    <title lang="en">News Night</title>
+    <desc lang="en">A news anchor presents a comprehensive round-up of the latest economic, political and social updates from India and across the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F23846EADE0DCBA09A9327D7110EE9EA6389FF85P.jpg"/>
   </programme>
 </tv>

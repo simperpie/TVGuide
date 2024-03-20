@@ -3,82 +3,6 @@
   <channel id="ShemarooBollywood.us">
     <display-name lang="en">Shemaroo Bollywood</display-name>
   </channel>
-  <programme start="20240319050558 +0530" stop="20240319053306 +0530" channel="ShemarooBollywood.us">
-    <title lang="en">Screen Legends</title>
-    <category lang="en">International</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/ca3db3e1-dfee-420a-bce3-1d0470624fe6/Shemaroo_bollywood_1920X1080.jpg"/>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
-  </programme>
-  <programme start="20240319053306 +0530" stop="20240319083734 +0530" channel="ShemarooBollywood.us">
-    <title lang="en">Xcuse Me</title>
-    <desc lang="en">Chantu and Bantu are two meddling friends who join a hotel management program in Goa by deceit. During their training, they expose the illicit activities of many hotel personnel and guests.</desc>
-    <date>2003</date>
-    <category lang="en">International</category>
-    <icon src="https://d2w0puppdwdeoi.cloudfront.net/Xcuse_Me_FUM_HD_SNP.jpg"/>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
-  </programme>
-  <programme start="20240319083734 +0530" stop="20240319113000 +0530" channel="ShemarooBollywood.us">
-    <title lang="en">Shakalaka Boom Boom</title>
-    <desc lang="en">A tale of two different musicians dramatically different but united by their passion for music set against the backdrop of the international music industry.</desc>
-    <date>2007</date>
-    <category lang="en">International</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/ca3db3e1-dfee-420a-bce3-1d0470624fe6/Shemaroo_bollywood_1920X1080.jpg"/>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
-  </programme>
-  <programme start="20240319113000 +0530" stop="20240319142739 +0530" channel="ShemarooBollywood.us">
-    <title lang="en">Miss India</title>
-    <desc lang="en">It is a story of young girls participating for a beauty contest. They share a love hate relationship as they are contenders. One day one of the top contenders is mysteriously murdered. The police steps in to investigate the case.</desc>
-    <date>2003</date>
-    <category lang="en">International</category>
-    <icon src="https://d2w0puppdwdeoi.cloudfront.net/Miss_India_FUM_SD_SNP.jpg"/>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
-  </programme>
-  <programme start="20240319142739 +0530" stop="20240319173004 +0530" channel="ShemarooBollywood.us">
-    <title lang="en">Xcuse Me</title>
-    <desc lang="en">Chantu and Bantu are two meddling friends who join a hotel management program in Goa by deceit. During their training, they expose the illicit activities of many hotel personnel and guests.</desc>
-    <date>2003</date>
-    <category lang="en">International</category>
-    <icon src="https://d2w0puppdwdeoi.cloudfront.net/Xcuse_Me_FUM_HD_SNP.jpg"/>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
-  </programme>
-  <programme start="20240319173004 +0530" stop="20240319200021 +0530" channel="ShemarooBollywood.us">
-    <title lang="en">Miss Teacher</title>
-    <desc lang="en">Rose Dey is a newly appointed teacher at a college is considered to be extremely attractive. She is a nymphomaniac by nature. She meets Tanvesh at the college and starts having an affair with him.</desc>
-    <date>2016</date>
-    <category lang="en">International</category>
-    <icon src="https://d2w0puppdwdeoi.cloudfront.net/Miss_Teacher_FUM_HD_SNP.jpg"/>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
-  </programme>
-  <programme start="20240319200021 +0530" stop="20240319222744 +0530" channel="ShemarooBollywood.us">
-    <title lang="en">30 Minutes</title>
-    <desc lang="en">A crazy father uses torture to enforce punctuality on his child, who then develops psychological issues upon growing up. To get rid of his nightmares, he plans a life-and-death game called 30 Minutes for everyone who has ever dared to be late.</desc>
-    <date>2016</date>
-    <category lang="en">International</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/ca3db3e1-dfee-420a-bce3-1d0470624fe6/Shemaroo_bollywood_1920X1080.jpg"/>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
-  </programme>
-  <programme start="20240319222744 +0530" stop="20240319230543 +0530" channel="ShemarooBollywood.us">
-    <title lang="en">Baatein Kahi Ankahi</title>
-    <category lang="en">International</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/ca3db3e1-dfee-420a-bce3-1d0470624fe6/Shemaroo_bollywood_1920X1080.jpg"/>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
-  </programme>
-  <programme start="20240319230543 +0530" stop="20240320023315 +0530" channel="ShemarooBollywood.us">
-    <title lang="en">Jeans</title>
-    <desc lang="en">Madhumitha loves Vishu, who happens to have a twin brother. When Vishu's father insists that his sons will only marry twin sisters, Madhumitha pretends to be her own twin.</desc>
-    <date>1998</date>
-    <category lang="en">International</category>
-    <icon src="https://d2w0puppdwdeoi.cloudfront.net/Jeans_FUM_HD_SNP.jpg"/>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
-  </programme>
-  <programme start="20240320023315 +0530" stop="20240320050209 +0530" channel="ShemarooBollywood.us">
-    <title lang="en">Blue</title>
-    <desc lang="en">Three men decide to dive underwater to find treasure in a sunken ship, but one of them has a hidden agenda of his own.</desc>
-    <date>2009</date>
-    <category lang="en">International</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/ca3db3e1-dfee-420a-bce3-1d0470624fe6/Shemaroo_bollywood_1920X1080.jpg"/>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
-  </programme>
   <programme start="20240320050209 +0530" stop="20240320053314 +0530" channel="ShemarooBollywood.us">
     <title lang="en">Screen Legends</title>
     <category lang="en">International</category>
@@ -165,6 +89,74 @@
     <title lang="en">Rudraksh</title>
     <desc lang="en">Bhuria (Sunil Shetty) a contract labourer finds a sacred Rudraksh possessed by Raavan the demon king and thereby acquires supernatural powers. He tries to establish his rule over the universe but is stopped by Varun (Sanjay Dutt) a yogic and a gifted healer. In his mission Varun is supported by his father Pandit Ved Pujan (Kabir Bedi) and researcher Dr. Gayathri (Bipasha Basu).</desc>
     <date>2004</date>
+    <category lang="en">International</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/ca3db3e1-dfee-420a-bce3-1d0470624fe6/Shemaroo_bollywood_1920X1080.jpg"/>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
+  </programme>
+  <programme start="20240321082734 +0530" stop="20240321113000 +0530" channel="ShemarooBollywood.us">
+    <title lang="en">Halla Bol</title>
+    <desc lang="en">An aspiring actor from a small town makes his way to the top of the coveted Hindi film industry and attains superstardom. However, his life changes drastically when he becomes the prime witness to a murder but is reluctant to reveal what he has seen.</desc>
+    <date>2008</date>
+    <category lang="en">International</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/ca3db3e1-dfee-420a-bce3-1d0470624fe6/Shemaroo_bollywood_1920X1080.jpg"/>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
+  </programme>
+  <programme start="20240321113000 +0530" stop="20240321143327 +0530" channel="ShemarooBollywood.us">
+    <title lang="en">Pathar Ke Insan</title>
+    <desc lang="en">A gifted singer Sita and a renowned dancer Lata are two talented sisters who compete to excel in their respective careers. The rivalry between them leads to a competition that has far-reaching psychological consequences.</desc>
+    <date>1990</date>
+    <category lang="en">International</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/ca3db3e1-dfee-420a-bce3-1d0470624fe6/Shemaroo_bollywood_1920X1080.jpg"/>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
+  </programme>
+  <programme start="20240321143327 +0530" stop="20240321173020 +0530" channel="ShemarooBollywood.us">
+    <title lang="en">Rudraksh</title>
+    <desc lang="en">Bhuria (Sunil Shetty) a contract labourer finds a sacred Rudraksh possessed by Raavan the demon king and thereby acquires supernatural powers. He tries to establish his rule over the universe but is stopped by Varun (Sanjay Dutt) a yogic and a gifted healer. In his mission Varun is supported by his father Pandit Ved Pujan (Kabir Bedi) and researcher Dr. Gayathri (Bipasha Basu).</desc>
+    <date>2004</date>
+    <category lang="en">International</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/ca3db3e1-dfee-420a-bce3-1d0470624fe6/Shemaroo_bollywood_1920X1080.jpg"/>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
+  </programme>
+  <programme start="20240321173020 +0530" stop="20240321200033 +0530" channel="ShemarooBollywood.us">
+    <title lang="en">Missing on a Weekend</title>
+    <desc lang="en">Seven friends go on a trip to Goa. After a night of partying, one of them is found dead, another becomes unconscious and the rest go missing. Ali, a cop, is given the task of solving this mysterious case.</desc>
+    <date>2016</date>
+    <category lang="en">International</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/ca3db3e1-dfee-420a-bce3-1d0470624fe6/Shemaroo_bollywood_1920X1080.jpg"/>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
+  </programme>
+  <programme start="20240321200033 +0530" stop="20240321223412 +0530" channel="ShemarooBollywood.us">
+    <title lang="en">Gandhigiri</title>
+    <desc lang="en">Four criminals end up in jail after attempting to rob an NRI’s car. But the NRI is a follower of Gandhi’s philosophy. He bails them out and vows to change their lives.</desc>
+    <date>2016</date>
+    <category lang="en">International</category>
+    <icon src="https://d2w0puppdwdeoi.cloudfront.net/Gandhigiri_FUM_HD_SNP.jpg"/>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
+  </programme>
+  <programme start="20240321223412 +0530" stop="20240321231902 +0530" channel="ShemarooBollywood.us">
+    <title lang="en">Baatein Kahi Ankahi</title>
+    <category lang="en">International</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/ca3db3e1-dfee-420a-bce3-1d0470624fe6/Shemaroo_bollywood_1920X1080.jpg"/>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
+  </programme>
+  <programme start="20240321231902 +0530" stop="20240322023245 +0530" channel="ShemarooBollywood.us">
+    <title lang="en">Har Dil Jo Pyar Karega…</title>
+    <desc lang="en">Jahnvi’s best friend Pooja attempts suicide when her boyfriend jilts her. Raj, a struggling singer, saves Pooja but she still goes into a coma and Raj gets stuck into caring for her. Upon recovery, Pooja falls for Raj, but he is in love with Jahnvi.</desc>
+    <date>2000</date>
+    <category lang="en">International</category>
+    <icon src="https://d2w0puppdwdeoi.cloudfront.net/Har_Dil_Jo_Pyar_Kareg_HD_SNP.jpg"/>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
+  </programme>
+  <programme start="20240322023245 +0530" stop="20240322050034 +0530" channel="ShemarooBollywood.us">
+    <title lang="en">Thodi Thodi Si Manmaaniyan</title>
+    <desc lang="en">An obedient middle-class boy battles between wanting to pursue a career in rock music and his mother's dream of studying abroad. In the midst of a dilemma he learns an unsettling truth about his dead father which nearly jeopardises his life.</desc>
+    <date>2017</date>
+    <category lang="en">International</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/ca3db3e1-dfee-420a-bce3-1d0470624fe6/Shemaroo_bollywood_1920X1080.jpg"/>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
+  </programme>
+  <programme start="20240322050034 +0530" stop="20240322053036 +0530" channel="ShemarooBollywood.us">
+    <title lang="en">Screen Legends</title>
     <category lang="en">International</category>
     <icon src="https://provider-static.plex.tv/epg/cms/production/ca3db3e1-dfee-420a-bce3-1d0470624fe6/Shemaroo_bollywood_1920X1080.jpg"/>
     <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
