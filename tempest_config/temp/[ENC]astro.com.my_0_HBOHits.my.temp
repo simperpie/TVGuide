@@ -4,54 +4,6 @@
     <display-name lang="mg">HBO Hits 🄼</display-name>
     <icon src="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png"/>
   </channel>
-  <programme start="20240320213000 +0530" stop="20240320233500 +0530" channel="HBOHits.my">
-    <title lang="mg">DOWNTON ABBEY: A NEW ERA</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240320233500 +0530" stop="20240321015000 +0530" channel="HBOHits.my">
-    <title lang="mg">DUNGEONS &amp; DRAGONS: HONOR AMONG THIEVES</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240321015000 +0530" stop="20240321043500 +0530" channel="HBOHits.my">
-    <title lang="mg">THE CURIOUS CASE of BENJAMIN BUTTON</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240321043500 +0530" stop="20240321061500 +0530" channel="HBOHits.my">
-    <title lang="mg">THE BAD GUYS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240321061500 +0530" stop="20240321074500 +0530" channel="HBOHits.my">
-    <title lang="mg">HONEY</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240321074500 +0530" stop="20240321093500 +0530" channel="HBOHits.my">
-    <title lang="mg">SUPER 8</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240321093500 +0530" stop="20240321120000 +0530" channel="HBOHits.my">
-    <title lang="mg">JURASSIC WORLD DOMINION</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240321120000 +0530" stop="20240321141500 +0530" channel="HBOHits.my">
-    <title lang="mg">THE HOLIDAY</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240321141500 +0530" stop="20240321155500 +0530" channel="HBOHits.my">
-    <title lang="mg">SPY KIDS 2: ISLAND of LOST DREAMS</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240321155500 +0530" stop="20240321173500 +0530" channel="HBOHits.my">
-    <title lang="mg">Puss in Boots: the Last Wish</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240321173500 +0530" stop="20240321200000 +0530" channel="HBOHits.my">
-    <title lang="mg">JURASSIC WORLD DOMINION</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20240321200000 +0530" stop="20240321213000 +0530" channel="HBOHits.my">
-    <title lang="mg">DOUBLE LIFE</title>
-    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
-  </programme>
   <programme start="20240321213000 +0530" stop="20240321233000 +0530" channel="HBOHits.my">
     <title lang="mg">COLLATERAL</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
@@ -110,6 +62,62 @@
   </programme>
   <programme start="20240322194000 +0530" stop="20240322213000 +0530" channel="HBOHits.my">
     <title lang="mg">SUPER 8</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240322213000 +0530" stop="20240322230500 +0530" channel="HBOHits.my">
+    <title lang="mg">ONE WAY</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240322230500 +0530" stop="20240323010000 +0530" channel="HBOHits.my">
+    <title lang="mg">BLENDED</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240323010000 +0530" stop="20240323025500 +0530" channel="HBOHits.my">
+    <title lang="mg">COLLATERAL</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240323025500 +0530" stop="20240323043000 +0530" channel="HBOHits.my">
+    <title lang="mg">HONEY</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240323043000 +0530" stop="20240323064500 +0530" channel="HBOHits.my">
+    <title lang="mg">THE HOLIDAY</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240323064500 +0530" stop="20240323082500 +0530" channel="HBOHits.my">
+    <title lang="mg">SPY KIDS 2: ISLAND of LOST DREAMS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240323082500 +0530" stop="20240323102500 +0530" channel="HBOHits.my">
+    <title lang="mg">COLLATERAL</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240323102500 +0530" stop="20240323115500 +0530" channel="HBOHits.my">
+    <title lang="mg">DOUBLE LIFE</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240323115500 +0530" stop="20240323134000 +0530" channel="HBOHits.my">
+    <title lang="mg">Puss in Boots: the Last Wish</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240323134000 +0530" stop="20240323154000 +0530" channel="HBOHits.my">
+    <title lang="mg">BLENDED</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240323154000 +0530" stop="20240323161000 +0530" channel="HBOHits.my">
+    <title lang="mg">HOLLYWOOD on SET</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240323161000 +0530" stop="20240323175500 +0530" channel="HBOHits.my">
+    <title lang="mg">SPY KIDS 2: ISLAND of LOST DREAMS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240323175500 +0530" stop="20240323194500 +0530" channel="HBOHits.my">
+    <title lang="mg">SUPER 8</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240323194500 +0530" stop="20240323213000 +0530" channel="HBOHits.my">
+    <title lang="mg">Puss in Boots: the Last Wish</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_917x516.jpg"/>
   </programme>
 </tv>
