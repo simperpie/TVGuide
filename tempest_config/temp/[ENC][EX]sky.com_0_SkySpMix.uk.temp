@@ -4,408 +4,6 @@
     <display-name lang="en">SkySp Mix</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb4090.png"/>
   </channel>
-  <programme start="20240322023000 +0530" stop="20240322043000 +0530" channel="SkySpMix.uk">
-    <title lang="en">How The 2009 Ashes Were Won</title>
-    <desc lang="en">A chance to relive all the major stories and talking points from the 2009 Ashes series in England. The hosts were looking to regain the urn after being whitewashed in the previous tour.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/6aad8764-45c7-47fe-a537-56f8457f355b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322043000 +0530" stop="20240322053000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Secrets of Success: Judy Murray</title>
-    <desc lang="en">Nasser Hussain meets Sir Andy Murray's mother, Judy Murray, to find out how she cultivates success in others as an inspirational tennis coach and parent.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/bac9a6c7-d389-3a9d-ab9d-6c68be5a58f0/16-9"/>
-    <episode-num system="xmltv_ns">2023.6.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322053000 +0530" stop="20240322063000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Captains Log: Ricky Ponting</title>
-    <desc lang="en">Ricky Ponting reflects on his time as Australia captain, including his start in international cricket, his two World Cup wins, the 2005 Ashes defeat and the infamous Edgbaston toss.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3a32d77d-b650-485d-a989-14ca0fe8f98e/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322063000 +0530" stop="20240322103000 +0530" channel="SkySpMix.uk">
-    <title lang="en">PL Darts: Dublin</title>
-    <desc lang="en">The BetMGM Premier League continues during 2024 with night eight in Dublin. Luke Humphries went back to back last week, adding to his Brighton win with another in Nottingham. (21.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Darts</category>
-    <icon src="https://images.metadata.sky.com/pd-image/099d7afa-39cc-30bb-a830-99c97b33a2ed/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240322103000 +0530" stop="20240322113000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Ashes Memories: Vaughan 2005</title>
-    <desc lang="en">Former England captain Michael Vaughan provides his memories of the famous 2005 Ashes series, as he led the English side to one of the most memorable Ashes wins ever.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/87ecb17c-6665-4c8e-a454-72ed27f6b5ab/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322113000 +0530" stop="20240322133000 +0530" channel="SkySpMix.uk">
-    <title lang="en">How The 2013 Ashes Were Won</title>
-    <desc lang="en">To mark Alastair Cook's knighthood, take a look back at the 2013 Ashes series in England. The hosts were gunning for their third straight series triumph.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c136bd43-1da1-3617-869b-cbd350adcc4f/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322133000 +0530" stop="20240322143000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Captains Log: Nasser Hussain</title>
-    <desc lang="en">Nasser Hussain discusses the ups and downs of his England captaincy, including working with Duncan Fletcher, the importance of Darren Gough - and electing to bowl in Brisbane.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d0c7d40c-5b14-43b0-a432-1832a02781d6/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322143000 +0530" stop="20240322152500 +0530" channel="SkySpMix.uk">
-    <title lang="en">Ashes Memories: Vaughan 2005</title>
-    <desc lang="en">Former England captain Michael Vaughan provides his memories of the famous 2005 Ashes series, as he led the English side to one of the most memorable Ashes wins ever.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/87ecb17c-6665-4c8e-a454-72ed27f6b5ab/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322152500 +0530" stop="20240322153000 +0530" channel="SkySpMix.uk">
-    <title lang="en">F1 Demystified: DRS</title>
-    <desc lang="en">Sky F1's Ted Kravitz explains everything you need to know about the Drag Reduction System, commonly referred to as DRS.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bd238ef8-3cf0-3239-b8f7-e723bc1eea5b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322153000 +0530" stop="20240322160000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Chronicles Of A Champion Golfer Padraig Harrington</title>
-    <desc lang="en">A look at one of The Open's great champions. Here, the focus is on Irishman Padraig Harrington, a two-time Open winner who took back-to-back titles in 2007 and 2008.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f7e2327e-5c70-4ff3-8667-61d460ece546/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322160000 +0530" stop="20240322163000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Chronicles Of A Champion Golfer Tiger Woods</title>
-    <desc lang="en">A compelling documentary in which Woods talks about his 20-year involvement in The Open. Tiger also looks at the impact of his father's death and what the future holds.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/58ec382d-1f06-48b0-bacf-e86991ba32cd/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322163000 +0530" stop="20240322170000 +0530" channel="SkySpMix.uk">
-    <title lang="en">European Challenge Tour Golf</title>
-    <desc lang="en">The European Challenge Tour takes to India for the first of two stops, beginning with the Delhi Challenge from the Classic Golf and Country Club in Gurugram.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4e62fb24-ca67-3068-8bba-f04d05df9bf8/16-9"/>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322170000 +0530" stop="20240322180000 +0530" channel="SkySpMix.uk">
-    <title lang="en">The F1 Show: Australia</title>
-    <desc lang="en">The F1 Show positions itself at the centre of the 2024 Australian Grand Prix, providing a sneak peek of the paddock and the personalities involved at the heart of the race.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/977db557-a3ca-3840-8196-806abe3ff4b7/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240322180000 +0530" stop="20240322183000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Women's Championship Show</title>
-    <desc lang="en">Stay up to speed with the FA Women's Championship, the second division of women's professional football in England, with the latest highlights, news, reaction and analysis.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2d8309a0-09b6-37e8-8b0e-c5f9b7f8d02a/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240322183000 +0530" stop="20240322193000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Best of NFL 23/24</title>
-    <desc lang="en">Super Bowl LVIII comes from Las Vegas as the San Francisco 49ers and the Kansas City Chiefs set up a repeat of Super Bowl 54. The Chiefs are aiming to become back-to-back champions. (11.02)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">American Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f40b203e-28ff-3797-a2f9-8beecba693f9/16-9"/>
-    <episode-num system="xmltv_ns">2023.75.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322193000 +0530" stop="20240322205500 +0530" channel="SkySpMix.uk">
-    <title lang="en">Australian F1 GP: Practice 1</title>
-    <desc lang="en">The drivers and teams get preparations underway with FP1 for Sunday's Australian Grand Prix, set for lights out at 04:00 GMT, as the field look to claw back an imperious Verstappen. (22.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/77a33e0e-158a-367b-a6d9-df3357ab93b4/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240322205500 +0530" stop="20240322210000 +0530" channel="SkySpMix.uk">
-    <title lang="en">F1 Demysified: The Pitwall</title>
-    <desc lang="en">Sky Sports F1's Bernie Collins explains what happens on an F1 pit wall during a race weekend.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/48d97e27-275d-3785-964c-b83cf323ae7e/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322210000 +0530" stop="20240322222500 +0530" channel="SkySpMix.uk">
-    <title lang="en">Australian F1 GP: Practice 2</title>
-    <desc lang="en">Practice runs continue in Melbourne with the second session of the day, all in preparation for Sunday's Australian Grand Prix set for lights out at 04:00 GMT. (22.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8458fb0b-4710-3b43-af73-f8e2cfe7b602/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240322222500 +0530" stop="20240322223000 +0530" channel="SkySpMix.uk">
-    <title lang="en">F1 Demystified: DRS</title>
-    <desc lang="en">Sky F1's Ted Kravitz explains everything you need to know about the Drag Reduction System, commonly referred to as DRS.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bd238ef8-3cf0-3239-b8f7-e723bc1eea5b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322223000 +0530" stop="20240322233000 +0530" channel="SkySpMix.uk">
-    <title lang="en">The F1 Show: Australia</title>
-    <desc lang="en">The F1 Show positions itself at the centre of the 2024 Australian Grand Prix, providing a sneak peek of the paddock and the personalities involved at the heart of the race.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/977db557-a3ca-3840-8196-806abe3ff4b7/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240322233000 +0530" stop="20240323003000 +0530" channel="SkySpMix.uk">
-    <title lang="en">S. Arabian F1 GP Highlights</title>
-    <desc lang="en">The lights go out at the 2024 Saudi Arabian Grand Prix, staged at the Jeddah Corniche Circuit. For the fifth race in a row, Max Verstappen and Charles Leclerc share the front row. (09.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/64728059-fece-3ae6-a58d-45b81fe93d81/16-9"/>
-    <episode-num system="xmltv_ns">.34.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240323003000 +0530" stop="20240323010000 +0530" channel="SkySpMix.uk">
-    <title lang="en">UNBEATABLE</title>
-    <desc lang="en">This weekly magazine show covers all the action of the British Basketball League including highlights of each week's games, original features, interviews, top plays and bloopers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/677e0004-0869-345c-b2aa-01503ca73bf7/16-9"/>
-    <episode-num system="xmltv_ns">2022.26.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240323010000 +0530" stop="20240323033000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Live BBL: Leicester V Caledonia</title>
-    <desc lang="en">A British Basketball League contest between Leicester Riders and Caledonia Gladiators. (22.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ccafde16-7232-3502-ac7f-520c4e812c85/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240323033000 +0530" stop="20240323040000 +0530" channel="SkySpMix.uk">
-    <title lang="en">UNBEATABLE</title>
-    <desc lang="en">This weekly magazine show covers all the action of the British Basketball League including highlights of each week's games, original features, interviews, top plays and bloopers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/677e0004-0869-345c-b2aa-01503ca73bf7/16-9"/>
-    <episode-num system="xmltv_ns">2022.26.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20240323040000 +0530" stop="20240323043000 +0530" channel="SkySpMix.uk">
     <title lang="en">One Championship Weekly Magazine</title>
     <desc lang="en">The weekly show looking back at the best performances of ONE Championship's biggest stars ahead of highly anticipated upcoming bouts.</desc>
@@ -445,6 +43,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Darts</category>
     <icon src="https://images.metadata.sky.com/pd-image/099d7afa-39cc-30bb-a830-99c97b33a2ed/16-9"/>
+    <episode-num system="xmltv_ns">.7.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
@@ -546,7 +145,7 @@
   </programme>
   <programme start="20240323163000 +0530" stop="20240323190000 +0530" channel="SkySpMix.uk">
     <title lang="en">BBL: Leicester V Caledonia</title>
-    <desc lang="en">A British Basketball League contest between Leicester Riders and Caledonia Gladiators. (22.03)</desc>
+    <desc lang="en">Leicester Riders - who have lost their last two matches - take on Caledonia Gladiators in a British Basketball League contest, hoping to climb within two points of their opponents. (22.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://images.metadata.sky.com/pd-image/5c559dc2-c0bc-3519-8e05-cd079e130282/16-9"/>
@@ -557,9 +156,10 @@
     <audio>
       <stereo>Stereo</stereo>
     </audio>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20240323190000 +0530" stop="20240323200000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Fight Night: Jonas v Mayer</title>
+    <title lang="en">Fight Night: Natasha Jonas v Mayer</title>
     <desc lang="en">Putting her IBF world welterweight championship on the line, Natasha Jonas steps inside the ring with former unified world champion Mikaela Mayer at the M&amp;S Bank Arena in Liverpool. (20.01)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
@@ -689,7 +289,7 @@
   </programme>
   <programme start="20240323230000 +0530" stop="20240324013000 +0530" channel="SkySpMix.uk">
     <title lang="en">BBL: Leicester V Caledonia</title>
-    <desc lang="en">A British Basketball League contest between Leicester Riders and Caledonia Gladiators. (22.03)</desc>
+    <desc lang="en">Leicester Riders - who have lost their last two matches - take on Caledonia Gladiators in a British Basketball League contest, hoping to climb within two points of their opponents. (22.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://images.metadata.sky.com/pd-image/5c559dc2-c0bc-3519-8e05-cd079e130282/16-9"/>
@@ -715,7 +315,6 @@
     <audio>
       <stereo>Stereo</stereo>
     </audio>
-    <subtitles type="teletext"/>
     <rating system="BBFC">
       <value>U</value>
     </rating>
@@ -734,5 +333,359 @@
       <stereo>Mono</stereo>
     </audio>
     <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240324063000 +0530" stop="20240324073000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Ashes Memories: Strauss</title>
+    <desc lang="en">Ex-England captain Andrew Strauss shares his memories of playing in The Ashes against Australia. Strauss' tenure was highlighted by England's away win in the 2010-2011 series.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e5df241a-694a-4e2c-a85d-223ba15f9904/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240324073000 +0530" stop="20240324093000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Ashes Regained: Cook's Redemption</title>
+    <desc lang="en">After years of pressure, from the whitewash loss in the 2013-14 Ashes to the Kevin Pietersen saga, see how England captain Alastair Cook achieved redemption by winning the 2015 Ashes.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1a3ccb05-63a8-431f-8dbe-d5c7e29a7a26/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240324093000 +0530" stop="20240324103000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Captains Log: Michael Atherton</title>
+    <desc lang="en">Michael Atherton reflects on his five years as England Test captain between 1993 and 1998, including the 'dirt in the pocket' affair, his famous Johannesburg innings and his Ashes memories.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a17eade8-279e-4fc1-acbc-5a7e460d7dfc/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240324103000 +0530" stop="20240324113000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Ashes Memories: Strauss</title>
+    <desc lang="en">Ex-England captain Andrew Strauss shares his memories of playing in The Ashes against Australia. Strauss' tenure was highlighted by England's away win in the 2010-2011 series.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e5df241a-694a-4e2c-a85d-223ba15f9904/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240324113000 +0530" stop="20240324123000 +0530" channel="SkySpMix.uk">
+    <title lang="en">World Club Challenge Highlights</title>
+    <desc lang="en">In the Betfred World Club Challenge, Wigan Warriors host NRL Premiers Penrith Panthers at the DW Stadium in one of club rugby league's biggest encounters. (24.02)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10bf90f8-5b44-32e2-957e-d8ada719e6f0/16-9"/>
+    <episode-num system="xmltv_ns">.13.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240324123000 +0530" stop="20240324130000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Captains Log: Alec Stewart</title>
+    <desc lang="en">Former England cricket captain Alec Stewart sits down with commentator Charles Colvile to discuss the highs and lows of his time leading the national side.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b2fd0fc7-d62c-48f1-bb20-2279587eb57d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240324130000 +0530" stop="20240324133000 +0530" channel="SkySpMix.uk">
+    <title lang="en">European Challenge Tour Golf</title>
+    <desc lang="en">The European Challenge Tour takes to India for the first of two stops, beginning with the Delhi Challenge from the Classic Golf and Country Club in Gurugram.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4e62fb24-ca67-3068-8bba-f04d05df9bf8/16-9"/>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240324133000 +0530" stop="20240324143000 +0530" channel="SkySpMix.uk">
+    <title lang="en">World Club Challenge Highlights</title>
+    <desc lang="en">In the Betfred World Club Challenge, Wigan Warriors host NRL Premiers Penrith Panthers at the DW Stadium in one of club rugby league's biggest encounters. (24.02)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10bf90f8-5b44-32e2-957e-d8ada719e6f0/16-9"/>
+    <episode-num system="xmltv_ns">.13.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240324143000 +0530" stop="20240324153000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night: Natasha Jonas v Mayer</title>
+    <desc lang="en">Putting her IBF world welterweight championship on the line, Natasha Jonas steps inside the ring with former unified world champion Mikaela Mayer at the M&amp;S Bank Arena in Liverpool. (20.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eb23b468-00af-3e02-b91d-5ff76db63d77/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240324153000 +0530" stop="20240324160000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Captains Log: Alec Stewart</title>
+    <desc lang="en">Former England cricket captain Alec Stewart sits down with commentator Charles Colvile to discuss the highs and lows of his time leading the national side.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b2fd0fc7-d62c-48f1-bb20-2279587eb57d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240324160000 +0530" stop="20240324163000 +0530" channel="SkySpMix.uk">
+    <title lang="en">European Challenge Tour Golf</title>
+    <desc lang="en">The European Challenge Tour takes to India for the first of two stops, beginning with the Delhi Challenge from the Classic Golf and Country Club in Gurugram.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4e62fb24-ca67-3068-8bba-f04d05df9bf8/16-9"/>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240324163000 +0530" stop="20240324173000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Making their fifth straight playoff appearance, the Buffalo Bills host Pittsburgh during wild-card weekend in the NFL. The Steelers hold a 2-1 record over Buffalo in the playoffs. (14.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/72b2e8fd-cf6a-3064-abc9-af07e2655f13/16-9"/>
+    <episode-num system="xmltv_ns">2023.38.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240324173000 +0530" stop="20240324183000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night: Natasha Jonas v Mayer</title>
+    <desc lang="en">Putting her IBF world welterweight championship on the line, Natasha Jonas steps inside the ring with former unified world champion Mikaela Mayer at the M&amp;S Bank Arena in Liverpool. (20.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eb23b468-00af-3e02-b91d-5ff76db63d77/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240324183000 +0530" stop="20240324223000 +0530" channel="SkySpMix.uk">
+    <title lang="en">PL Darts: Dublin</title>
+    <desc lang="en">The BetMGM Premier League continues during 2024 with night eight in Dublin. Luke Humphries went back to back last week, adding to his Brighton win with another in Nottingham. (21.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+    <icon src="https://images.metadata.sky.com/pd-image/099d7afa-39cc-30bb-a830-99c97b33a2ed/16-9"/>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240324223000 +0530" stop="20240324233000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night: Navarrete v Wilson</title>
+    <desc lang="en">Emanuel Navarrete faces Liam Wilson for the vacant WBO world junior lightweight championship. Navarrete is looking to become a three-weight world champion with a win. (03.02)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a7046aaf-d91a-4a35-81ed-91c0750018b3/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240324233000 +0530" stop="20240325000000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Chronicles Of A Champion Golfer Darren Clarke</title>
+    <desc lang="en">As a child, Clarke longed to be The Open champion. As a veteran, against all odds, he succeeded. This is an emotional story of a golfer refusing to give up on his dream.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6ef71324-4b35-4a25-a008-1b53dd6af6a4/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240325000000 +0530" stop="20240325003000 +0530" channel="SkySpMix.uk">
+    <title lang="en">European Challenge Tour Golf</title>
+    <desc lang="en">The European Challenge Tour takes to India for the first of two stops, beginning with the Delhi Challenge from the Classic Golf and Country Club in Gurugram.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4e62fb24-ca67-3068-8bba-f04d05df9bf8/16-9"/>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240325003000 +0530" stop="20240325033000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Live LPGA Tour Golf</title>
+    <desc lang="en">The FIR HILLS SERI PAK Championship concludes at Palos Verdes Golf Club with the fourth and final round. A year ago, Ruoning Yin registered her first LPGA Tour victory here. (24.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/11a89af5-445a-3d60-aa3d-ea33d7f4ad82/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325033000 +0530" stop="20240325043000 +0530" channel="SkySpMix.uk">
+    <title lang="en">DP World Tour Golf Highlights</title>
+    <desc lang="en">Day four of the 2024 Porsche Singapore Classic, held at Laguna National Golf Resort Club. This event marks the beginning of the DP World Tour's Asian swing. (24.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/27765773-f155-32ee-b26d-abf9fd3de706/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240325043000 +0530" stop="20240325053000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Ashes Memories: Vaughan 2005</title>
+    <desc lang="en">Former England captain Michael Vaughan provides his memories of the famous 2005 Ashes series, as he led the English side to one of the most memorable Ashes wins ever.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/87ecb17c-6665-4c8e-a454-72ed27f6b5ab/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
 </tv>

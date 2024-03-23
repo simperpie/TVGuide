@@ -4,219 +4,9 @@
     <display-name lang="en">SkySpMainEv</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb1301.png"/>
   </channel>
-  <programme start="20240322003000 +0530" stop="20240322043000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live PL Darts: Dublin</title>
-    <desc lang="en">The BetMGM Premier League continues during 2024 with night eight in Dublin. Luke Humphries went back to back last week, adding to his Brighton win with another in Nottingham. (21.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Darts</category>
-    <icon src="https://images.metadata.sky.com/pd-image/43eaebd1-05a2-3ed2-8205-1471ea2f32ba/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240322043000 +0530" stop="20240322083000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live Tennis: Miami</title>
-    <desc lang="en">After withdrawing from Indian Wells, last year's finalist Elena Rybakina returns to action at the Miami Open to face Clara Tauson. Plus, Gael Monfils meets Dusan Lajovic. (21.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2b2886d3-e1d3-3850-b8d0-1a1504e3a210/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240322083000 +0530" stop="20240322093000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/678b324f-96cb-3f80-9fd3-6d1e8796801e/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240322093000 +0530" stop="20240322101500 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/26f0ae94-4508-317d-a417-c0e288e1ca87/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240322101500 +0530" stop="20240322115500 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live Australian F1 GP: Practice 2</title>
-    <desc lang="en">Practice runs continue in Melbourne with the second session of the day, all in preparation for Sunday's Australian Grand Prix set for lights out at 04:00 GMT. (22.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ef977a0c-a15f-3354-921d-0322353bb487/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240322115500 +0530" stop="20240322124500 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live Australian F2: Qualifying</title>
-    <desc lang="en">Qualifying gets underway in the Formula 2 Championship, taking place at the Albert Park Circuit in Melbourne, Australia. (22.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/750cd204-9ac0-33c2-8656-814336bf1d6c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240322124500 +0530" stop="20240322134500 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live The F1 Show: Australia</title>
-    <desc lang="en">The F1 Show positions itself at the centre of the 2024 Australian Grand Prix, providing a sneak peek of the paddock and the personalities involved at the heart of the race.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/977db557-a3ca-3840-8196-806abe3ff4b7/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240322134500 +0530" stop="20240322135500 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Crofty's Melbourne V8 Adventure</title>
-    <desc lang="en">Sky F1's David Croft joined Will Davison for an exhilarating ride on a high-speed lap in a V8 Supercar.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/80adc0d5-e51e-37d7-a52f-f446c139affd/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322135500 +0530" stop="20240322140000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">F1's Sustainable Fuel</title>
-    <desc lang="en">Sky F1's Ted Kravitz looks at how F1 will switch to fully sustainable fuels by 2026 and the impact it will have on the road automotive industry.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/eefd1089-0afc-3d9b-b0db-bdacf0641381/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322140000 +0530" stop="20240322143000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Good Morning Sports Fans</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/39aa12fd-afd6-3f74-b1a0-b45295cb3f9e/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240322143000 +0530" stop="20240322143500 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Super League Gold</title>
-    <desc lang="en">Relive some classic Super League matches. Here, a look back at the 2015 Grand Final, as Leeds Rhinos and Wigan Warriors played out a tense match at Old Trafford.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e5a42abc-68ee-402d-9427-b5091c790571/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240322143500 +0530" stop="20240322163000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live NRL: Roosters v Rabbitohs</title>
-    <desc lang="en">The third round of the NRL pits the Roosters against the Rabbitohs. It was an error-strewn defeat for the Roosters previously, as they look bounce back against their Sydney rivals. (22.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/138f1268-68f4-3bc7-86c6-381bfa45bb0b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240322163000 +0530" stop="20240322170000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e635b583-f664-3878-8a7b-ea37bce5a03e/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240322170000 +0530" stop="20240322200000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live PGA Tour Golf Early Coverage</title>
-    <desc lang="en">Early coverage from day two of the 2024 Valspar Championship, held at Innisbrook Resort in Palm Harbor, Florida. A year ago, Taylor Moore secured his first PGA Tour win here. (22.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/eb171b47-43ea-3879-927e-187b70ec8617/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240322200000 +0530" stop="20240323000000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live IPL: CSK v RCB</title>
-    <desc lang="en">The five-time champions Chennai Super Kings get the 2024 IPL underway with a match against Royal Challengers Bangalore. It was the Super Kings who added a fifth title last year. (22.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/229661e1-92f2-39d8-8594-09b064295455/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
   <programme start="20240323000000 +0530" stop="20240323043000 +0530" channel="SkySpMainEvent.uk">
     <title lang="en">Live Tennis: Miami</title>
-    <desc lang="en">Day four of the 2024 Miami Open - a joint WTA and ATP 1000 event showcasing the world's top men's and women's players. (22.03)</desc>
+    <desc lang="en">Three Grand Slam champions appear in second-round action at the Miami Open including Andy Murray, Jannik Sinner and Aryna Sabalenka. Plus, Britain's Jack Draper meets Nicolas Jarry. (22.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://images.metadata.sky.com/pd-image/2e2f631d-adc6-35c2-a44f-7fcafa482db9/16-9"/>
@@ -230,7 +20,7 @@
   </programme>
   <programme start="20240323043000 +0530" stop="20240323083000 +0530" channel="SkySpMainEvent.uk">
     <title lang="en">Live Tennis: WTA/ATP Miami</title>
-    <desc lang="en">Day four of the 2024 Miami Open - a joint WTA and ATP 1000 event showcasing the world's top men's and women's players. (22.03)</desc>
+    <desc lang="en">Iga Swiatek and Daniil Medvedev headline the evening session at the Miami Open, while Britain's Cam Norrie targets a place in the last 32 as he meets Flavio Cobolli. (22.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://images.metadata.sky.com/pd-image/c3fac592-3787-3842-b3b3-244b4b3cf108/16-9"/>
@@ -273,7 +63,7 @@
   </programme>
   <programme start="20240323094500 +0530" stop="20240323123000 +0530" channel="SkySpMainEvent.uk">
     <title lang="en">Live Australian F1 GP: Qualifying</title>
-    <desc lang="en">Qualifying for Sunday's Australian Grand Prix - set for lights out at 04:00 GMT - gets underway. (23.03)</desc>
+    <desc lang="en">Qualifying for Sunday's Australian Grand Prix - set for lights out at 04:00 GMT - gets underway. With grid places up for grabs, who will advance through to Q3 for a shot at pole? (23.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Motor Sports</category>
     <icon src="https://images.metadata.sky.com/pd-image/c62f5f82-21b2-39e3-8e03-674a00b0e119/16-9"/>
@@ -296,10 +86,11 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20240323130000 +0530" stop="20240323140000 +0530" channel="SkySpMainEvent.uk">
     <title lang="en">Australian F1 GP: Qualifying Hlts</title>
-    <desc lang="en">Qualifying for Sunday's Australian Grand Prix - set for lights out at 4am - gets underway. (23.03)</desc>
+    <desc lang="en">Qualifying for Sunday's Australian Grand Prix - set for lights out at 04:00 GMT - gets underway. With grid places up for grabs, who will advance through to Q3 for a shot at pole? (23.03)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Motor Sports</category>
     <icon src="https://images.metadata.sky.com/pd-image/1bb6075d-67d9-3c59-b811-407660bc8db0/16-9"/>
@@ -418,6 +209,196 @@
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://images.metadata.sky.com/pd-image/3c897d6c-368c-3be1-aaf8-239e854982a2/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240324083000 +0530" stop="20240324092500 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live Grand Prix Sunday: Australia</title>
+    <desc lang="en">Join Sky Sports F1 on the grid ahead of the start of the race at the 2024 Australian Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7fa90032-9881-340b-9321-afef507c86f9/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240324092500 +0530" stop="20240324113000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live Australian F1 Grand Prix</title>
+    <desc lang="en">At Albert Park Circuit in Melbourne, it's lights out for the Australian Grand Prix. Last season, Max Verstappen was joined by Lewis Hamilton and Fernando Alonso on the podium. (24.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4a2c61eb-1295-32f6-96ce-4e5c08059916/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240324113000 +0530" stop="20240324123000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live Chequered Flag: Australia</title>
+    <desc lang="en">As the chequered flag comes down on the 2024 Australian Grand Prix, join Sky Sports F1 for all the reaction and analysis in Melbourne.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9f2de4e6-5007-3804-b897-2a4ca100ba11/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240324123000 +0530" stop="20240324130000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live Ted's Notebook: Australia</title>
+    <desc lang="en">Ted Kravitz is live following the 2024 Australian Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/07547385-ec8f-387d-a223-e415ba341743/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240324130000 +0530" stop="20240324140000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Australian F1 GP Highlights</title>
+    <desc lang="en">At Albert Park Circuit in Melbourne, it's lights out for the Australian Grand Prix. Last season, Max Verstappen was joined by Lewis Hamilton and Fernando Alonso on the podium. (24.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/32a4e32d-23e5-3d8f-bf56-5f483ed81ae7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240324140000 +0530" stop="20240324145500 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Grand Prix Sunday: Australia</title>
+    <desc lang="en">Join Sky Sports F1 on the grid ahead of the start of the race at the 2024 Australian Grand Prix.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ad00230e-0958-36c7-b050-b28f92138bb6/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240324145500 +0530" stop="20240324170000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Australian F1 Grand Prix</title>
+    <desc lang="en">At Albert Park Circuit in Melbourne, it's lights out for the Australian Grand Prix. Last season, Max Verstappen was joined by Lewis Hamilton and Fernando Alonso on the podium. (24.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dc1cf774-f7ea-38cc-92a4-098a5aeac3ab/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240324170000 +0530" stop="20240324180000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Chequered Flag: Australia</title>
+    <desc lang="en">As the chequered flag comes down on the 2024 Australian Grand Prix, join Sky Sports F1 for all the reaction and analysis in Melbourne.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9f2de4e6-5007-3804-b897-2a4ca100ba11/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240324180000 +0530" stop="20240324183000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Ted's Notebook: Australia</title>
+    <desc lang="en">Ted Kravitz is live following the 2024 Australian Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/07547385-ec8f-387d-a223-e415ba341743/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240324183000 +0530" stop="20240324220000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live Sky Sports Cup Final</title>
+    <desc lang="en">Rangers and Partick Thistle compete in the final of the Sky Sports Cup at Tynecastle. In the semi-finals, Rangers overcome city rivals Celtic, while Partick Thistle beat Hibs 2-0. (24.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/319271ea-17d3-382d-91f5-e0efcb214a6b/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240324220000 +0530" stop="20240325000000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live WSL: West Ham v Chelsea</title>
+    <desc lang="en">In the WSL, reigning champions Chelsea visit West Ham. Last time out, Emma Hayes' Blues flexed their championship-winning status with a 3-1 win over title rivals Arsenal. (24.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9baeb504-8174-3d9d-aa2d-17627b967d13/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325000000 +0530" stop="20240325030000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live WSL: Aston Villa v Arsenal</title>
+    <desc lang="en">After losing 3-1 to London rivals Chelsea, Arsenal return to Women's Super League action with a match against Aston Villa - who secured a solid 2-1 victory over Everton previously. (24.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bf2e8769-0892-3fc0-9d28-251d942b089d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325030000 +0530" stop="20240325043000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live Tennis: Miami</title>
+    <desc lang="en">Day six of the 2024 Miami Open - a joint WTA and ATP 1000 event showcasing the world's top men's and women's players. (24.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a4428094-92af-36e1-b31b-ac8526b58bc8/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325043000 +0530" stop="20240325083000 +0530" channel="SkySpMainEvent.uk">
+    <title lang="en">Live Tennis: WTA/ATP Miami</title>
+    <desc lang="en">Day six of the 2024 Miami Open - a joint WTA and ATP 1000 event showcasing the world's top men's and women's players. (24.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="https://images.metadata.sky.com/pd-image/249cfe2e-5e34-3095-81de-809c51487eb9/16-9"/>
     <video>
       <aspect>16:9</aspect>
     </video>
