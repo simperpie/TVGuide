@@ -152,43 +152,208 @@
     <category lang="en">Comedy</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1CCFE4C1D7135C64F1F3E4F6148DC690FB74272CO.jpg"/>
   </programme>
-  <programme start="20240325030000 +0530" stop="20240325060000 +0530" channel="ColorsCineplexHD.in">
+  <programme start="20240325003900 +0530" stop="20240325023900 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Bombay Talkies</title>
+    <desc lang="en">An anthology of four short stories that describe how films have an influence on the lives of people from various strata of society.</desc>
+    <credits>
+      <actor>Rani Mukerji</actor>
+      <actor>Saqib Saleem</actor>
+      <actor>Randeep Hooda</actor>
+      <actor>Nawazuddin Siddiqui</actor>
+      <actor>Sadashiv Amrapurkar</actor>
+      <actor>Katrina Kaif</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8C15E5E06431C3294F56305BB9FE9B3BAB60346CN.jpg"/>
+  </programme>
+  <programme start="20240325023900 +0530" stop="20240325042400 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Crazy Singh</title>
+    <desc lang="en">Bittu, a village simpleton, falls in love with a modern Saumya. Chaos ensues when their contrasting families meet to fix their marriage.</desc>
+    <credits>
+      <actor>Harish Verma</actor>
+      <actor>Priyanka</actor>
+      <actor>Shavinder Mahal</actor>
+      <actor>Jaswinder Bhalla</actor>
+      <actor>Hobby Dhaliwal</actor>
+      <actor>Nihal Purba</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/54D816B24251EA51B0F9D66C3F79726B8D94D1D8K.jpg"/>
+  </programme>
+  <programme start="20240325042400 +0530" stop="20240325060600 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Satya Gang</title>
+    <desc lang="en">Satya and Raj, who are orphans, own a garage and make a living out of it. However, their lives turn tragic when a notorious gang commit numerous murders and make them the culprits.</desc>
+    <credits>
+      <actor>Sathvik Eshvar</actor>
+      <actor>Akshita</actor>
+      <actor>Prathyush</actor>
+      <actor>Harshita Singh</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/30B0039386B17703B11A2964FF736E93CAF5FEF3B.jpg"/>
+  </programme>
+  <programme start="20240325060600 +0530" stop="20240325082700 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">R... Rajkumar</title>
+    <desc lang="en">Romeo, a ruffian, starts working for Shivraj, a drug lord, and they end up falling for the same girl, Chanda. Soon, a fight between the two ensues to win her over.</desc>
+    <credits>
+      <actor>Shahid Kapoor</actor>
+      <actor>Sonakshi Sinha</actor>
+      <actor>Sonu Sood</actor>
+      <actor>Ashish Vidhyarthi</actor>
+      <actor>Asrani</actor>
+      <actor>Mukul Dev</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6E3B7B6FC1D9D8E3E5AC34458D76A229448697F2B.jpg"/>
+  </programme>
+  <programme start="20240325082700 +0530" stop="20240325105000 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Roberrt</title>
+    <desc lang="en">Raghava, the head cook in a catering unit, leads a peaceful life with his son Arjun. However, their bliss is short-lived as Raghava's past comes back to haunt him.</desc>
+    <credits>
+      <actor>Darshan</actor>
+      <actor>Jagapathi Babu</actor>
+      <actor>Vinod Prabhakar</actor>
+      <actor>P. Ravi Shankar</actor>
+      <actor>Asha Bhat</actor>
+      <actor>Sonal Monteiro</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D574A906E8D6496BCADCFB32F8B87DAA4A20EEFFP.jpg"/>
+  </programme>
+  <programme start="20240325105000 +0530" stop="20240325125700 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Vijay Raghavan</title>
+    <desc lang="en">Vijay, an honest IAS officer, devotes his life to the upliftment of the youth of his locality. However,a corrupt businessman's ploy to poison these young minds compels Vijay to challenge the criminal.</desc>
+    <credits>
+      <actor>Vijay Antony</actor>
+      <actor>Aathmika</actor>
+      <actor>Ramachandra Raju</actor>
+      <actor>Prabhakar</actor>
+      <actor>Divya Prabha</actor>
+      <actor>Shankar Krishnamurthy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4AEE1BD244AF8AAA925099007119594EEF5893A0A.jpg"/>
+  </programme>
+  <programme start="20240325125700 +0530" stop="20240325143200 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Hidimbha</title>
+    <desc lang="en">A police officer joins forces with a special investigation officer to get to the bottom of a series of kidnappings of young girls.</desc>
+    <credits>
+      <actor>Ashwin Babu</actor>
+      <actor>Nandita Shwetha</actor>
+      <actor>Srinivasa Reddy</actor>
+      <actor>Sahithi Avancha</actor>
+      <actor>Sanjay Swaroop</actor>
+      <actor>Shiju</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F246502FF394405F97DAF30CCECC046FCA9D9BAS.jpg"/>
+  </programme>
+  <programme start="20240325143200 +0530" stop="20240325164100 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Love Aaj Kal</title>
+    <desc lang="en">In a technology-driven world where love is on speed-dial, two lovers find themselves overcoming distances, failures and heartbreaks to find each other again and preserve the love they had abandoned.</desc>
+    <credits>
+      <actor>Saif Ali Khan</actor>
+      <actor>Deepika Padukone</actor>
+      <actor>Giselli Monteiro</actor>
+      <actor>Rishi Kapoor</actor>
+      <actor>Neetu Singh</actor>
+      <actor>Rahul Khanna</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B0F2FF8BC755C5DB197AA545EAD9F3ED5045E18E0.jpg"/>
+  </programme>
+  <programme start="20240325164100 +0530" stop="20240325185800 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Chhalaang</title>
+    <desc lang="en">Montu is a lazy physical training instructor who does the bare minimum to stay employed. However, a new teacher threatens to take his job and the woman he loves.</desc>
+    <credits>
+      <actor>Rajkummar Rao</actor>
+      <actor>Nushrat Bharucha</actor>
+      <actor>Mohammed Zeeshan Ayyub</actor>
+      <actor>Saurabh Shukla</actor>
+      <actor>Ila Arun</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B6EA1215BD6592C261BDEB6E3E77B8B8157DD85A.jpg"/>
+  </programme>
+  <programme start="20240325185800 +0530" stop="20240325210900 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Bhola Shankar</title>
+    <desc lang="en">In Kolkata, a taxi driver strives for a fresh start with his sister, but his haunted past resurfaces as he clashes with the city's underworld.</desc>
+    <credits>
+      <actor>Chiranjeevi</actor>
+      <actor>Tamannaah Bhatia</actor>
+      <actor>Keerthy Suresh</actor>
+      <actor>Sushanth</actor>
+      <actor>Tarun Arora</actor>
+      <actor>Murali Sharma</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B855B8C1271FB8DE2CA058605BA39974806B656AJ.jpg"/>
+  </programme>
+  <programme start="20240325210900 +0530" stop="20240325234900 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">Rangoon</title>
+    <desc lang="en">Julia journeys to the Indo-Burma border to perform for the troops during World War II, on the insistence of Billimoria, her lover. There, she finds herself enamoured by Jemadar Malik, a soldier.</desc>
+    <credits>
+      <actor>Shahid Kapoor</actor>
+      <actor>Saif Ali Khan</actor>
+      <actor>Kangana Ranaut</actor>
+      <actor>Shriswara</actor>
+      <actor>Kashmira Irani</actor>
+      <actor>Richard McCabe</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4A0DEE9C189672A76765FD795D5FD6FCF5667AB5R.jpg"/>
+  </programme>
+  <programme start="20240325234900 +0530" stop="20240326020600 +0530" channel="ColorsCineplexHD.in">
+    <title lang="en">City Of Gold</title>
+    <desc lang="en">A mill owner decides to shut down his business and construct a shopping complex instead. Following this, the jobless mill workers are tragically silenced when they try to raise their voices.</desc>
+    <credits>
+      <actor>Shashank Shende</actor>
+      <actor>Seema Biswas</actor>
+      <actor>Ankush Choudhary</actor>
+      <actor>Anousha Dandekar</actor>
+      <actor>Vineet Kumar Singh</actor>
+      <actor>Sachin Khedekar</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0B071A94036E8D4994096C8B63EAAC30273582A0A.jpg"/>
+  </programme>
+  <programme start="20240326030000 +0530" stop="20240326060000 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325060000 +0530" stop="20240325090000 +0530" channel="ColorsCineplexHD.in">
+  <programme start="20240326060000 +0530" stop="20240326090000 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325090000 +0530" stop="20240325120000 +0530" channel="ColorsCineplexHD.in">
+  <programme start="20240326090000 +0530" stop="20240326120000 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325120000 +0530" stop="20240325150000 +0530" channel="ColorsCineplexHD.in">
+  <programme start="20240326120000 +0530" stop="20240326150000 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325150000 +0530" stop="20240325180000 +0530" channel="ColorsCineplexHD.in">
+  <programme start="20240326150000 +0530" stop="20240326180000 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325180000 +0530" stop="20240325210000 +0530" channel="ColorsCineplexHD.in">
+  <programme start="20240326180000 +0530" stop="20240326210000 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240325210000 +0530" stop="20240326030000 +0530" channel="ColorsCineplexHD.in">
+  <programme start="20240326210000 +0530" stop="20240327030000 +0530" channel="ColorsCineplexHD.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

@@ -68,4 +68,36 @@
     <title lang="mg">8 X 10 Tasveer</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/ZeeCinemaHD_IVP_LAND_448x252.jpg"/>
   </programme>
+  <programme start="20240325213000 +0530" stop="20240326003000 +0530" channel="ZeeCinema.my">
+    <title lang="mg">Ghayal</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ZeeCinemaHD_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240326003000 +0530" stop="20240326033000 +0530" channel="ZeeCinema.my">
+    <title lang="mg">Encounter Shankar</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ZeeCinemaHD_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240326033000 +0530" stop="20240326063000 +0530" channel="ZeeCinema.my">
+    <title lang="mg">8 X 10 Tasveer</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ZeeCinemaHD_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240326063000 +0530" stop="20240326093000 +0530" channel="ZeeCinema.my">
+    <title lang="mg">Ghayal</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ZeeCinemaHD_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240326093000 +0530" stop="20240326123000 +0530" channel="ZeeCinema.my">
+    <title lang="mg">Encounter Shankar</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ZeeCinemaHD_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240326123000 +0530" stop="20240326153000 +0530" channel="ZeeCinema.my">
+    <title lang="mg">Talaash: the Hunt Begins</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ZeeCinemaHD_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240326153000 +0530" stop="20240326183000 +0530" channel="ZeeCinema.my">
+    <title lang="mg">Yaara</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ZeeCinemaHD_IVP_LAND_448x252.jpg"/>
+  </programme>
+  <programme start="20240326183000 +0530" stop="20240326213000 +0530" channel="ZeeCinema.my">
+    <title lang="mg">Jab Harry Met Sejal</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/ZeeCinemaHD_IVP_LAND_448x252.jpg"/>
+  </programme>
 </tv>

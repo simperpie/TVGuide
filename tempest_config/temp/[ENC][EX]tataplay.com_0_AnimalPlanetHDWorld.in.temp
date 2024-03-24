@@ -353,8 +353,8 @@
   </programme>
   <programme start="20240325185900 +0530" stop="20240325195700 +0530" channel="AnimalPlanetHDWorld.in">
     <title lang="en">Wild Instincts Unleashed</title>
-    <desc lang="en">Crazy Close Encounters</desc>
-    <category lang="en">Educational</category>
+    <desc lang="en">Crazy Close Encounters: The filmmaker examines the behaviour of animals and explores how they use their survival instincts to their best advantage in the wild.</desc>
+    <category lang="en">Nature</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B09ABC4DEA5B756F7227C34DDA784B3DBE62B21C4.jpg"/>
   </programme>
   <programme start="20240325195700 +0530" stop="20240325205400 +0530" channel="AnimalPlanetHDWorld.in">
@@ -384,6 +384,214 @@
   <programme start="20240325234500 +0530" stop="20240326001400 +0530" channel="AnimalPlanetHDWorld.in">
     <title lang="en">Jungle Planet</title>
     <desc lang="en">The Infinite Forest: The filmmaker travels across the world exploring various forests and provides insights into the inhabitants of these jungles.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B187BCA55DFAB3F3E49217C5A11731719C034D91J.jpg"/>
+  </programme>
+  <programme start="20240326001400 +0530" stop="20240326011100 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Wildest Survival</title>
+    <desc lang="en">Life At Extremes: Various species of incredible animals have adapted to survive in the world's most inhospitable environments.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/325438E9896DDF6A680F5237346AB76DB1E7109ER.jpg"/>
+  </programme>
+  <programme start="20240326011100 +0530" stop="20240326020800 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Only Africa</title>
+    <desc lang="en">Africa's Hunters Of The Night: The filmmaker sheds light on how wild animals depend on each other for food while highlighting their co-existence and survival instincts.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4C68BB574C982CA4D517A5BCA860552220C1B5BCU.jpg"/>
+  </programme>
+  <programme start="20240326020800 +0530" stop="20240326030000 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Chasing The Rains</title>
+    <desc lang="en">The filmmaker sheds light on three animal matriarchs as they protect their families while surviving one of the worst droughts.</desc>
+    <credits>
+      <actor>Adjoa Andoh</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDF3086E694EC4758CF5D57A9AF04B67BD3B9E1E3.jpg"/>
+  </programme>
+  <programme start="20240326030000 +0530" stop="20240326040000 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Predator's Playground</title>
+    <desc lang="en">The film-maker follows animals that get caught in a fight for survival while drinking water from a spring in Africa that is populated by predators.</desc>
+    <credits>
+      <actor>Thabiso Tema</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D38DA869C41D4B1034E8577903079FDB390D6086.jpg"/>
+  </programme>
+  <programme start="20240326040000 +0530" stop="20240326050000 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Wildest Survival</title>
+    <desc lang="en">Life At Extremes: Various species of incredible animals have adapted to survive in the world's most inhospitable environments.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/325438E9896DDF6A680F5237346AB76DB1E7109ER.jpg"/>
+  </programme>
+  <programme start="20240326050000 +0530" stop="20240326060000 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Only Africa</title>
+    <desc lang="en">Africa's Hunters Of The Night: The filmmaker sheds light on how wild animals depend on each other for food while highlighting their co-existence and survival instincts.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4C68BB574C982CA4D517A5BCA860552220C1B5BCU.jpg"/>
+  </programme>
+  <programme start="20240326060000 +0530" stop="20240326062400 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Jungle Planet</title>
+    <desc lang="en">The filmmaker travels across the world exploring various forests and provides insights into the inhabitants of these jungles.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B187BCA55DFAB3F3E49217C5A11731719C034D91J.jpg"/>
+  </programme>
+  <programme start="20240326062400 +0530" stop="20240326064700 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Race Of Life</title>
+    <desc lang="en">The host speaks about various animals that have evolved over time and adapted to their surroundings in an effort to protect themselves from predators.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/30A6EA3812A752C5D1BF8A1D9AE288A72650A7E08.jpg"/>
+  </programme>
+  <programme start="20240326064700 +0530" stop="20240326073700 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Earthflight</title>
+    <desc lang="en">David Tennant takes an aerial journey across continents to explore the uninhibited wildlife. Through the eyes of birds like falcons, eagles and snow geese, nature is explored like never before.</desc>
+    <credits>
+      <actor>David Tennant</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0A6614FD7BC9DFC9FF50FEDE825025A6F6B43073S.jpg"/>
+  </programme>
+  <programme start="20240326073700 +0530" stop="20240326083000 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Chasing The Rains</title>
+    <desc lang="en">The filmmaker sheds light on wild animals in Northern Kenya and how they rely on their survival skills to adapt to extreme environments.</desc>
+    <credits>
+      <actor>Adjoa Andoh</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDF3086E694EC4758CF5D57A9AF04B67BD3B9E1E3.jpg"/>
+  </programme>
+  <programme start="20240326083000 +0530" stop="20240326092300 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Wild Cats</title>
+    <desc lang="en">The exploration of the life of some of the most ferocious big cat species from the jungles of Africa, Asia, North America and Amazon, is presented.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/90FD8379876DCC46A92C9948CBA6FE5E8D5C7D5EC.jpg"/>
+  </programme>
+  <programme start="20240326092300 +0530" stop="20240326102200 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Wild Fighters</title>
+    <desc lang="en">The film-maker explores the hidden and deeply instinctual motives behind the fight for survival experienced by animals in the wild.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DA86650E5709C082527F8AE00B2FB1E219E8C4AG.jpg"/>
+  </programme>
+  <programme start="20240326102200 +0530" stop="20240326111600 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Wildest Survival</title>
+    <desc lang="en">Wild animals use various survival tactics in order to sustain themselves in the wilderness where they have to hunt for food and also fight to stay alive.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/325438E9896DDF6A680F5237346AB76DB1E7109ER.jpg"/>
+  </programme>
+  <programme start="20240326111600 +0530" stop="20240326121500 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Only Africa</title>
+    <desc lang="en">The filmmaker sheds light on how wild animals depend on each other for food while highlighting their co-existence and survival instincts.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4C68BB574C982CA4D517A5BCA860552220C1B5BCU.jpg"/>
+  </programme>
+  <programme start="20240326121500 +0530" stop="20240326124300 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Killer Instincts</title>
+    <desc lang="en">The filmmaker explores several methods and strategies that wildlife predators adopt to hunt their prey and survive in the natural world.</desc>
+    <credits>
+      <actor>Brian Roberts</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5891828D55FB1219E3184B7B221826004FCBF5F4K.jpg"/>
+  </programme>
+  <programme start="20240326124300 +0530" stop="20240326131100 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Killer Instincts</title>
+    <desc lang="en">The filmmaker explores several methods and strategies that wildlife predators adopt to hunt their prey and survive in the natural world.</desc>
+    <credits>
+      <actor>Brian Roberts</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5891828D55FB1219E3184B7B221826004FCBF5F4K.jpg"/>
+  </programme>
+  <programme start="20240326131100 +0530" stop="20240326140600 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Hunting Games</title>
+    <desc lang="en">The filmmaker sheds light on the predatory character of various creatures while focusing on their hunting techniques and survival skills.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C45D3540171256F3E0C39C83C473CB3C06F73F6T.jpg"/>
+  </programme>
+  <programme start="20240326140600 +0530" stop="20240326150100 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Wild Africa: Rivers Of Life</title>
+    <desc lang="en">The filmmaker explores various rivers and deltas in Africa, which provide vital resources that sustain the wildlife and ecosystem.</desc>
+    <credits>
+      <actor>Bray Poor</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B5AA31BC58DED14AD7BD90AF20944C74ED5D54C5M.jpg"/>
+  </programme>
+  <programme start="20240326150100 +0530" stop="20240326155700 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Predator's Playground</title>
+    <desc lang="en">The film-maker follows animals that get caught in a fight for survival while drinking water from a spring in Africa that is populated by predators.</desc>
+    <credits>
+      <actor>Thabiso Tema</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D38DA869C41D4B1034E8577903079FDB390D6086.jpg"/>
+  </programme>
+  <programme start="20240326155700 +0530" stop="20240326165200 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Sherkhan</title>
+    <desc lang="en">The filmmaker shares interesting insights about the life of lions and highlights the various threats they are exposed to during their lifetime.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4D7BB8DFCB47ED16132105603F854A02E63B8F8Q.jpg"/>
+  </programme>
+  <programme start="20240326165200 +0530" stop="20240326174800 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Becoming Prey</title>
+    <desc lang="en">While predators are known for their agility and strategies, the beasts claim essential positions on the food chain. The filmmaker documents the crucial roles played by these wild animals.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9DF6EB01479A0A4DF2BF1010FC02AE071AC6B4C1J.jpg"/>
+  </programme>
+  <programme start="20240326174800 +0530" stop="20240326181800 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Race Of Life</title>
+    <desc lang="en">The host speaks about various animals that have evolved over time and adapted to their surroundings in an effort to protect themselves from predators.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/30A6EA3812A752C5D1BF8A1D9AE288A72650A7E08.jpg"/>
+  </programme>
+  <programme start="20240326181800 +0530" stop="20240326184600 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Jungle Planet</title>
+    <desc lang="en">The filmmaker travels across the world exploring various forests and provides insights into the inhabitants of these jungles.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B187BCA55DFAB3F3E49217C5A11731719C034D91J.jpg"/>
+  </programme>
+  <programme start="20240326184600 +0530" stop="20240326191400 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Race Of Life</title>
+    <desc lang="en">The host speaks about various animals that have evolved over time and adapted to their surroundings in an effort to protect themselves from predators.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/30A6EA3812A752C5D1BF8A1D9AE288A72650A7E08.jpg"/>
+  </programme>
+  <programme start="20240326191400 +0530" stop="20240326200700 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Hunting Games</title>
+    <desc lang="en">The filmmaker sheds light on the predatory character of various creatures while focusing on their hunting techniques and survival skills.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3C45D3540171256F3E0C39C83C473CB3C06F73F6T.jpg"/>
+  </programme>
+  <programme start="20240326200700 +0530" stop="20240326210200 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Animal Attack Rate</title>
+    <desc lang="en">The filmmaker sheds light on the attacking instinct displayed by various animals and provides insights into their peculiar features.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/28936FD8A9F304613231EF62AD220423374628EAS.jpg"/>
+  </programme>
+  <programme start="20240326210200 +0530" stop="20240326215800 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Nature's Fast Attacks</title>
+    <desc lang="en">The filmmaker travels across the world to document nature's greatest predators as they use their speed and agility to chase and strike their prey.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D87FD8EDEB28F552D749AD6C631C1EDA63CDD7C37.jpg"/>
+  </programme>
+  <programme start="20240326215800 +0530" stop="20240326225400 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Sherkhan</title>
+    <desc lang="en">The filmmaker shares interesting insights about the life of lions and highlights the various threats they are exposed to during their lifetime.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4D7BB8DFCB47ED16132105603F854A02E63B8F8Q.jpg"/>
+  </programme>
+  <programme start="20240326225400 +0530" stop="20240326234900 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Mysterious Planet</title>
+    <desc lang="en">The narrators shed light on several locations around the world that inhabit various unique and incredible animal species.</desc>
+    <credits>
+      <actor>Loretta Schrijver</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/444A4F042B47C35BDD68C88B067476DF1CEDBCD4H.jpg"/>
+  </programme>
+  <programme start="20240326234900 +0530" stop="20240327000000 +0530" channel="AnimalPlanetHDWorld.in">
+    <title lang="en">Jungle Planet</title>
+    <desc lang="en">The filmmaker travels across the world exploring various forests and provides insights into the inhabitants of these jungles.</desc>
     <category lang="en">Nature</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B187BCA55DFAB3F3E49217C5A11731719C034D91J.jpg"/>
   </programme>

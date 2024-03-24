@@ -80,4 +80,40 @@
     <title lang="mg">(L) IPL 2024: RCB v PBKS</title>
     <icon src="http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_917x516.jpg"/>
   </programme>
+  <programme start="20240325233000 +0530" stop="20240326000000 +0530" channel="AstroCricketHD.my">
+    <title lang="mg">Highlights IPL 2023: PBKS v RR</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240326000000 +0530" stop="20240326003000 +0530" channel="AstroCricketHD.my">
+    <title lang="mg">Highlights IPL 2023: PBKS v DC</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240326003000 +0530" stop="20240326010000 +0530" channel="AstroCricketHD.my">
+    <title lang="mg">Highlights IPL 2023: Eliminator</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240326010000 +0530" stop="20240326013000 +0530" channel="AstroCricketHD.my">
+    <title lang="mg">Highlights IPL 2023: Qualifier 1</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240326013000 +0530" stop="20240326060000 +0530" channel="AstroCricketHD.my">
+    <title lang="mg">IPL 2024: KKR v SRH</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240326060000 +0530" stop="20240326103000 +0530" channel="AstroCricketHD.my">
+    <title lang="mg">IPL 2024: RR v LSG</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240326103000 +0530" stop="20240326150000 +0530" channel="AstroCricketHD.my">
+    <title lang="mg">IPL 2024: GT v MI</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240326150000 +0530" stop="20240326192000 +0530" channel="AstroCricketHD.my">
+    <title lang="mg">IPL 2024: RCB v PBKS</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20240326192000 +0530" stop="20240326233000 +0530" channel="AstroCricketHD.my">
+    <title lang="mg">(L) IPL 2024: CSK v GT</title>
+    <icon src="http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_917x516.jpg"/>
+  </programme>
 </tv>
