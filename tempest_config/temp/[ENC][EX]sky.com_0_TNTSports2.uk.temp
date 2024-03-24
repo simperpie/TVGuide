@@ -4,50 +4,9 @@
     <display-name lang="en">TNT Sports 2</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb3663.png"/>
   </channel>
-  <programme start="20240324033000 +0530" stop="20240324043000 +0530" channel="TNTSports2.uk">
-    <title lang="en">ABB FIA Formula E Preview Show</title>
-    <desc lang="en">A preview show looking ahead to round five of ABB FIA Formula E in Tokyo, Japan.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f0b2d251-c7b7-31d9-9445-4cebdacbefe9/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324043000 +0530" stop="20240324050000 +0530" channel="TNTSports2.uk">
-    <title lang="en">National League Highlights</title>
-    <desc lang="en">The best of the latest action from the Vanarama National League, including Rochdale v Maidenhead, Bromley v York and Eastleigh v Hartlepool.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0238e8ff-cf8e-33e0-8ce6-9bad970a6207/16-9"/>
-    <episode-num system="xmltv_ns">2022.40.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324050000 +0530" stop="20240324053000 +0530" channel="TNTSports2.uk">
-    <title lang="en">What Went Down: Joanna Jedrzejczyk</title>
-    <desc lang="en">Joanna Jedrzejczyk revisits her historic UFC 248 fight with Weili Zhang and discusses her pride at being involved in this intense contest.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other</category>
-    <icon src="https://images.metadata.sky.com/pd-image/228ec2f0-8b9f-3ac8-9086-372234924e8c/16-9"/>
-    <episode-num system="xmltv_ns">2.4.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
+  
+  
+  
   <programme start="20240324053000 +0530" stop="20240324073000 +0530" channel="TNTSports2.uk">
     <title lang="en">Live: UFC Fight Night Prelims</title>
     <desc lang="en">Action from UFC Fight Night Prelims ahead of the women's flyweight bout between Amanda Ribas and Rose Namajunas.</desc>

@@ -4,34 +4,8 @@
     <display-name lang="en">TNT Sports 1</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb3661.png"/>
   </channel>
-  <programme start="20240324040000 +0530" stop="20240324050000 +0530" channel="TNTSports1.uk">
-    <title lang="en">NZ v England - Women's 2nd T20</title>
-    <desc lang="en">Women's cricket action from the second T20 between New Zealand and England at Saxton Oval in Nelson.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a76070e5-a08d-3e26-9355-378bf686bd15/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324050000 +0530" stop="20240324091500 +0530" channel="TNTSports1.uk">
-    <title lang="en">Live Women's 3rd T20: NZ v England</title>
-    <desc lang="en">Women's cricket action from the third T20 between New Zealand and England at Saxton Oval in Nelson.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a9459c10-13f0-35bf-bd3f-e3dab2752bf2/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
+  
+  
   <programme start="20240324091500 +0530" stop="20240324173000 +0530" channel="TNTSports1.uk">
     <title lang="en">Live: Bangladesh v SL - 1st Test</title>
     <desc lang="en">Cricket action from day three of the first Test between Bangladesh and Sri Lanka at Sylhet International Cricket Stadium.</desc>

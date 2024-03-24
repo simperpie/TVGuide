@@ -4,21 +4,7 @@
     <display-name lang="en">SkySp Mix</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb4090.png"/>
   </channel>
-  <programme start="20240324033000 +0530" stop="20240324063000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Live LPGA Tour Golf</title>
-    <desc lang="en">The FIR HILLS SERI PAK Championship continues from Palos Verdes Golf Club with round three. In her second career LPGA Tour start, Malia Nam takes a one-shot lead into the weekend. (23.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4e115901-c3ed-32a3-8704-38ffff14ddaa/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
+  
   <programme start="20240324063000 +0530" stop="20240324073000 +0530" channel="SkySpMix.uk">
     <title lang="en">Ashes Memories: Strauss</title>
     <desc lang="en">Ex-England captain Andrew Strauss shares his memories of playing in The Ashes against Australia. Strauss' tenure was highlighted by England's away win in the 2010-2011 series.</desc>

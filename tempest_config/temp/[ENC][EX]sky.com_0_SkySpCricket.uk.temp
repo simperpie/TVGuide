@@ -4,33 +4,8 @@
     <display-name lang="en">SkySp Cricket</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb1302.png"/>
   </channel>
-  <programme start="20240324033000 +0530" stop="20240324043000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">IPL: KKR v SRH Highlights</title>
-    <desc lang="en">More opening-weekend action from the 2024 IPL with the Kolkata Knight Riders hosting the Sunrisers Hyderabad. Neither team progressed through to last season's play-offs. (23.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8730c564-1ac8-3e77-a489-d831223ccc99/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240324043000 +0530" stop="20240324053000 +0530" channel="SkySpCricket.uk">
-    <title lang="en">IPL: CSK v RCB Highlights</title>
-    <desc lang="en">The five-time champions Chennai Super Kings get the 2024 IPL underway with a match against Royal Challengers Bangalore. It was the Super Kings who added a fifth title last year. (22.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/559bbe72-949f-3b76-82ad-242273da6056/16-9"/>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
+  
+  
   <programme start="20240324053000 +0530" stop="20240324101000 +0530" channel="SkySpCricket.uk">
     <title lang="en">WPL Final: Delhi C v RCB</title>
     <desc lang="en">The 2024 Women's Premier League champions are crowned as this year's final sees Royal Challengers Bangalore challenge the table-topping Delhi Capitals in their own backyard. (17.03)</desc>

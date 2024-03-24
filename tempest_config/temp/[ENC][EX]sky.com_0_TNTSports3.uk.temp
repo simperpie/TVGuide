@@ -4,19 +4,7 @@
     <display-name lang="en">TNT Sports 3</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb5032.png"/>
   </channel>
-  <programme start="20240324033000 +0530" stop="20240324053000 +0530" channel="TNTSports3.uk">
-    <title lang="en">AFL: North Melbourne v Fremantle</title>
-    <desc lang="en">Action from the Australian Football League as North Melbourne meet Fremantle at Marvel Stadium.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6d054bfa-3fa5-3857-a949-f5d55adaa3d1/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
+  
   <programme start="20240324053000 +0530" stop="20240324073000 +0530" channel="TNTSports3.uk">
     <title lang="en">AFL: Hawthorn v Melbourne</title>
     <desc lang="en">Action from the Australian Football League as Hawthorn face-off against Melbourne at Melbourne Cricket Ground.</desc>

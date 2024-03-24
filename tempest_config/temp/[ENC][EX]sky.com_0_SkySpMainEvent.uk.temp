@@ -4,33 +4,8 @@
     <display-name lang="en">SkySpMainEv</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb1301.png"/>
   </channel>
-  <programme start="20240324011500 +0530" stop="20240324043000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live Tennis: Miami</title>
-    <desc lang="en">A rain-hit Miami Open resumes with Andy Murray meeting Tomas Martin Etcheverry before British number ones Katie Boulter and Cam Norrie compete. Plus, Jack Draper also features. (23.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a0df43ca-b4a9-38d5-b7ff-bb77197402a3/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324043000 +0530" stop="20240324083000 +0530" channel="SkySpMainEvent.uk">
-    <title lang="en">Live Tennis: WTA/ATP Miami</title>
-    <desc lang="en">At the Miami Open, Carlos Alcaraz competes in an-all Spanish second-round match against Roberto Carballes Baena, while world number two Aryna Sabalenka faces Anhelina Kalinina. (23.03)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3c897d6c-368c-3be1-aaf8-239e854982a2/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
+  
+  
   <programme start="20240324083000 +0530" stop="20240324092500 +0530" channel="SkySpMainEvent.uk">
     <title lang="en">Live Grand Prix Sunday: Australia</title>
     <desc lang="en">Join Sky Sports F1 on the grid ahead of the start of the race at the 2024 Australian Grand Prix.</desc>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="YRFMusic.in">
+    <display-name lang="en">YRF Music</display-name>
+  </channel>
+  <programme start="20240323000000 +0530" stop="20240323010000 +0530" channel="YRFMusic.in">
+    <title lang="en">Best Of Amitabh Bachchan</title>
+    <desc lang="en">Timeless melodies &amp; iconic hits of Amitabh Bachchan to celebrate his unmatched charisma and unforgettable performances.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753000.jpg"/>
+  </programme>
+  <programme start="20240323010000 +0530" stop="20240323020000 +0530" channel="YRFMusic.in">
+    <title lang="en">Love Meter</title>
+    <desc lang="en">Hop on to a journey of love with these heartfelt melodies</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753001.jpg"/>
+  </programme>
+  <programme start="20240323020000 +0530" stop="20240323030000 +0530" channel="YRFMusic.in">
+    <title lang="en">Top Mix</title>
+    <desc lang="en">Get ready to groove to the bangers that dominate the charts. Hit play and amp up the volume.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753002.jpg"/>
+  </programme>
+  <programme start="20240323030000 +0530" stop="20240323033000 +0530" channel="YRFMusic.in">
+    <title lang="en">Dazzling Deepika Padukone</title>
+    <desc lang="en">Step into the world of Dazzling Deepika Padukone and celebrate her mix of chart-topping anthems and soulful tunes.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753003.jpg"/>
+  </programme>
+  <programme start="20240323033000 +0530" stop="20240323040000 +0530" channel="YRFMusic.in">
+    <title lang="en">Hot Hits: Vaani Kapoor</title>
+    <desc lang="en">Groovy dance numbers or feel-good romance melodies, this playlist of Vaani Kapoor has it all!</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753004.jpg"/>
+  </programme>
+  <programme start="20240323040000 +0530" stop="20240323050000 +0530" channel="YRFMusic.in">
+    <title lang="en">Remix Hour</title>
+    <desc lang="en">Get ready to vibe with 'Remix Hour'. The ultimate remixes that are guaranteed to keep you energized.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753005.jpg"/>
+  </programme>
+  <programme start="20240323050000 +0530" stop="20240323060000 +0530" channel="YRFMusic.in">
+    <title lang="en">Trending Tunes</title>
+    <desc lang="en">A top mix of trending beats that will make you want to 'shake a leg' and get grooving!</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753006.jpg"/>
+  </programme>
+  <programme start="20240323060000 +0530" stop="20240323070000 +0530" channel="YRFMusic.in">
+    <title lang="en">Hits Of Anushka Sharma</title>
+    <desc lang="en">From soulful melodies to chart-topping hits, an Anushka Sharma playlist is here to captivate your senses.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753007.jpg"/>
+  </programme>
+  <programme start="20240323070000 +0530" stop="20240323080000 +0530" channel="YRFMusic.in">
+    <title lang="en">Dance Till You Drop</title>
+    <desc lang="en">The energy is unstoppable with this ultimate party playlist that will get you dancing, immediately!</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753008.jpg"/>
+  </programme>
+  <programme start="20240323080000 +0530" stop="20240323090000 +0530" channel="YRFMusic.in">
+    <title lang="en">Punjabi Beats</title>
+    <desc lang="en">A non-stop mix of superhit Punjabi tracks that will uplift your mood and get you dancing till you drop.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753009.jpg"/>
+  </programme>
+  <programme start="20240323090000 +0530" stop="20240323093000 +0530" channel="YRFMusic.in">
+    <title lang="en">Dazzling Deepika Padukone</title>
+    <desc lang="en">Step into the world of Dazzling Deepika Padukone and celebrate her mix of chart-topping anthems and soulful tunes.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753010.jpg"/>
+  </programme>
+  <programme start="20240323093000 +0530" stop="20240323100000 +0530" channel="YRFMusic.in">
+    <title lang="en">Rang Barse</title>
+    <desc lang="en">Colour your lives with all shades of happiness and celebrate Holi with this perfect mix.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753011.jpg"/>
+  </programme>
+  <programme start="20240323100000 +0530" stop="20240323110000 +0530" channel="YRFMusic.in">
+    <title lang="en">Drive-Time Jams</title>
+    <desc lang="en">Long Drives with your favourite tunes are the unbeatable combination to instantly put you in a good mood.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753012.jpg"/>
+  </programme>
+  <programme start="20240323110000 +0530" stop="20240323120000 +0530" channel="YRFMusic.in">
+    <title lang="en">Saturday Party Central</title>
+    <desc lang="en">Turn up the beat and get ready to party with Saturday Party Central! These tracks will keep you dancing all night long</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753013.jpg"/>
+  </programme>
+  <programme start="20240323120000 +0530" stop="20240323130000 +0530" channel="YRFMusic.in">
+    <title lang="en">Summer Superhits</title>
+    <desc lang="en">Packed with the hottest tracks, this playlist will keep you dancing all season long. Get into the summer groove now</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753014.jpg"/>
+  </programme>
+  <programme start="20240323130000 +0530" stop="20240323140000 +0530" channel="YRFMusic.in">
+    <title lang="en">Love Meter</title>
+    <desc lang="en">Hop on to a journey of love with these heartfelt melodies</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753015.jpg"/>
+  </programme>
+  <programme start="20240323140000 +0530" stop="20240323150000 +0530" channel="YRFMusic.in">
+    <title lang="en">Best Of Amitabh Bachchan</title>
+    <desc lang="en">Timeless melodies &amp; iconic hits of Amitabh Bachchan to celebrate his unmatched charisma and unforgettable performances.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753016.jpg"/>
+  </programme>
+  <programme start="20240323150000 +0530" stop="20240323160000 +0530" channel="YRFMusic.in">
+    <title lang="en">Remix Hour</title>
+    <desc lang="en">Get ready to vibe with 'Remix Hour'. The ultimate remixes that are guaranteed to keep you energized.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753017.jpg"/>
+  </programme>
+  <programme start="20240323160000 +0530" stop="20240323163000 +0530" channel="YRFMusic.in">
+    <title lang="en">Dazzling Deepika Padukone</title>
+    <desc lang="en">Step into the world of Dazzling Deepika Padukone and celebrate her mix of chart-topping anthems and soulful tunes.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753018.jpg"/>
+  </programme>
+  <programme start="20240323163000 +0530" stop="20240323170000 +0530" channel="YRFMusic.in">
+    <title lang="en">Rang Barse</title>
+    <desc lang="en">Colour your lives with all shades of happiness and celebrate Holi with this perfect mix.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753019.jpg"/>
+  </programme>
+  <programme start="20240323170000 +0530" stop="20240323180000 +0530" channel="YRFMusic.in">
+    <title lang="en">Beach Vibes</title>
+    <desc lang="en">A perfect mix of feel-good and upbeat songs that will make you want to hit the beach, already!</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753020.jpg"/>
+  </programme>
+  <programme start="20240323180000 +0530" stop="20240323190000 +0530" channel="YRFMusic.in">
+    <title lang="en">Dance Till You Drop</title>
+    <desc lang="en">The energy is unstoppable with this ultimate party playlist that will get you dancing, immediately!</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753021.jpg"/>
+  </programme>
+  <programme start="20240323190000 +0530" stop="20240323200000 +0530" channel="YRFMusic.in">
+    <title lang="en">Punjabi Beats</title>
+    <desc lang="en">A non-stop mix of superhit Punjabi tracks that will uplift your mood and get you dancing till you drop.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753022.jpg"/>
+  </programme>
+  <programme start="20240323200000 +0530" stop="20240323210000 +0530" channel="YRFMusic.in">
+    <title lang="en">Saturday Party Central</title>
+    <desc lang="en">Turn up the beat and get ready to party with Saturday Party Central! These tracks will keep you dancing all night long</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753023.jpg"/>
+  </programme>
+  <programme start="20240323210000 +0530" stop="20240323213000 +0530" channel="YRFMusic.in">
+    <title lang="en">Dazzling Deepika Padukone</title>
+    <desc lang="en">Step into the world of Dazzling Deepika Padukone and celebrate her mix of chart-topping anthems and soulful tunes.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753024.jpg"/>
+  </programme>
+  <programme start="20240323213000 +0530" stop="20240323220000 +0530" channel="YRFMusic.in">
+    <title lang="en">Rang Barse</title>
+    <desc lang="en">Colour your lives with all shades of happiness and celebrate Holi with this perfect mix.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753025.jpg"/>
+  </programme>
+  <programme start="20240323220000 +0530" stop="20240323230000 +0530" channel="YRFMusic.in">
+    <title lang="en">Remix Hour</title>
+    <desc lang="en">Get ready to vibe with 'Remix Hour'. The ultimate remixes that are guaranteed to keep you energized.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753026.jpg"/>
+  </programme>
+  <programme start="20240323230000 +0530" stop="20240323235959 +0530" channel="YRFMusic.in">
+    <title lang="en">Hits Of Anushka Sharma</title>
+    <desc lang="en">From soulful melodies to chart-topping hits, an Anushka Sharma playlist is here to captivate your senses.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-23/2403232753027.jpg"/>
+  </programme>
+  <programme start="20240324000000 +0530" stop="20240324010000 +0530" channel="YRFMusic.in">
+    <title lang="en">Legendary Lata Mangeshkar</title>
+    <desc lang="en">Immerse yourself in the essence of a cherished musical era through the timeless voice of Lata Mangeshkar.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753000.jpg"/>
+  </programme>
+  <programme start="20240324010000 +0530" stop="20240324020000 +0530" channel="YRFMusic.in">
+    <title lang="en">Love, Ishq, Mohabbat</title>
+    <desc lang="en">Feel the pulse of love with this perfectly curated playlist full of love feels</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753001.jpg"/>
+  </programme>
+  <programme start="20240324020000 +0530" stop="20240324030000 +0530" channel="YRFMusic.in">
+    <title lang="en">Feel Good Music</title>
+    <desc lang="en">A specially curated playlist that can brighten your day and put you in a good mood, instantly.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753002.jpg"/>
+  </programme>
+  <programme start="20240324030000 +0530" stop="20240324040000 +0530" channel="YRFMusic.in">
+    <title lang="en">Trending Tunes</title>
+    <desc lang="en">A top mix of trending beats that will make you want to 'shake a leg' and get grooving!</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753003.jpg"/>
+  </programme>
+  <programme start="20240324040000 +0530" stop="20240324050000 +0530" channel="YRFMusic.in">
+    <title lang="en">Remix Hour</title>
+    <desc lang="en">Get ready to vibe with 'Remix Hour'. The ultimate remixes that are guaranteed to keep you energized.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753004.jpg"/>
+  </programme>
+  <programme start="20240324050000 +0530" stop="20240324060000 +0530" channel="YRFMusic.in">
+    <title lang="en">Summer Superhits</title>
+    <desc lang="en">Packed with the hottest tracks, this playlist will keep you dancing all season long. Get into the summer groove now</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753005.jpg"/>
+  </programme>
+  <programme start="20240324060000 +0530" stop="20240324070000 +0530" channel="YRFMusic.in">
+    <title lang="en">Top Mix</title>
+    <desc lang="en">Get ready to groove to the bangers that dominate the charts. Hit play and amp up the volume.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753006.jpg"/>
+  </programme>
+  <programme start="20240324070000 +0530" stop="20240324080000 +0530" channel="YRFMusic.in">
+    <title lang="en">Dance Hits</title>
+    <desc lang="en">A mix of upbeat chartbusters to get you grooving. Hit the dance floor and get the party started!</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753007.jpg"/>
+  </programme>
+  <programme start="20240324080000 +0530" stop="20240324090000 +0530" channel="YRFMusic.in">
+    <title lang="en">Party Starters</title>
+    <desc lang="en">Packed with grooves that guarantee a non-stop good time. So turn up the music, and let the good times roll</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753008.jpg"/>
+  </programme>
+  <programme start="20240324090000 +0530" stop="20240324093000 +0530" channel="YRFMusic.in">
+    <title lang="en">Hot Hits: Vaani Kapoor</title>
+    <desc lang="en">Groovy dance numbers or feel-good romance melodies, this playlist of Vaani Kapoor has it all!</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753009.jpg"/>
+  </programme>
+  <programme start="20240324093000 +0530" stop="20240324100000 +0530" channel="YRFMusic.in">
+    <title lang="en">Rang Barse</title>
+    <desc lang="en">Colour your lives with all shades of happiness and celebrate Holi with this perfect mix.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753010.jpg"/>
+  </programme>
+  <programme start="20240324100000 +0530" stop="20240324110000 +0530" channel="YRFMusic.in">
+    <title lang="en">Road Trippin'</title>
+    <desc lang="en">This playlist will take you places. So roll down the windows, turn up the volume, and let the Road Trippin' begin</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753011.jpg"/>
+  </programme>
+  <programme start="20240324110000 +0530" stop="20240324120000 +0530" channel="YRFMusic.in">
+    <title lang="en">Sunday Unwind</title>
+    <desc lang="en">Your perfect companion for a laid-back Sunday. Relax and let the music set the mood for a peaceful day.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753012.jpg"/>
+  </programme>
+  <programme start="20240324120000 +0530" stop="20240324130000 +0530" channel="YRFMusic.in">
+    <title lang="en">Love, Ishq, Mohabbat</title>
+    <desc lang="en">Feel the pulse of love with this perfectly curated playlist full of love feels</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753013.jpg"/>
+  </programme>
+  <programme start="20240324130000 +0530" stop="20240324140000 +0530" channel="YRFMusic.in">
+    <title lang="en">Feel Good Music</title>
+    <desc lang="en">A specially curated playlist that can brighten your day and put you in a good mood, instantly.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753014.jpg"/>
+  </programme>
+  <programme start="20240324140000 +0530" stop="20240324150000 +0530" channel="YRFMusic.in">
+    <title lang="en">Remix Hour</title>
+    <desc lang="en">Get ready to vibe with 'Remix Hour'. The ultimate remixes that are guaranteed to keep you energized.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753015.jpg"/>
+  </programme>
+  <programme start="20240324150000 +0530" stop="20240324160000 +0530" channel="YRFMusic.in">
+    <title lang="en">Summer Superhits</title>
+    <desc lang="en">Packed with the hottest tracks, this playlist will keep you dancing all season long. Get into the summer groove now</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753016.jpg"/>
+  </programme>
+  <programme start="20240324160000 +0530" stop="20240324163000 +0530" channel="YRFMusic.in">
+    <title lang="en">Hot Hits: Vaani Kapoor</title>
+    <desc lang="en">Groovy dance numbers or feel-good romance melodies, this playlist of Vaani Kapoor has it all!</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753017.jpg"/>
+  </programme>
+  <programme start="20240324163000 +0530" stop="20240324170000 +0530" channel="YRFMusic.in">
+    <title lang="en">Rang Barse</title>
+    <desc lang="en">Colour your lives with all shades of happiness and celebrate Holi with this perfect mix.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753018.jpg"/>
+  </programme>
+  <programme start="20240324170000 +0530" stop="20240324180000 +0530" channel="YRFMusic.in">
+    <title lang="en">Beach Vibes</title>
+    <desc lang="en">A perfect mix of feel-good and upbeat songs that will make you want to hit the beach, already!</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753019.jpg"/>
+  </programme>
+  <programme start="20240324180000 +0530" stop="20240324190000 +0530" channel="YRFMusic.in">
+    <title lang="en">Sunday Unwind</title>
+    <desc lang="en">Your perfect companion for a laid-back Sunday. Relax and let the music set the mood for a peaceful day.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753020.jpg"/>
+  </programme>
+  <programme start="20240324190000 +0530" stop="20240324200000 +0530" channel="YRFMusic.in">
+    <title lang="en">Road Trippin'</title>
+    <desc lang="en">This playlist will take you places. So roll down the windows, turn up the volume, and let the Road Trippin' begin</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753021.jpg"/>
+  </programme>
+  <programme start="20240324200000 +0530" stop="20240324210000 +0530" channel="YRFMusic.in">
+    <title lang="en">Dance Hits</title>
+    <desc lang="en">A mix of upbeat chartbusters to get you grooving. Hit the dance floor and get the party started!</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753022.jpg"/>
+  </programme>
+  <programme start="20240324210000 +0530" stop="20240324213000 +0530" channel="YRFMusic.in">
+    <title lang="en">Rang Barse</title>
+    <desc lang="en">Colour your lives with all shades of happiness and celebrate Holi with this perfect mix.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753023.jpg"/>
+  </programme>
+  <programme start="20240324213000 +0530" stop="20240324220000 +0530" channel="YRFMusic.in">
+    <title lang="en">Club Mix</title>
+    <desc lang="en">A playlist packed with high-energy beats and dance floor anthems that will keep the party going on all night long!</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753024.jpg"/>
+  </programme>
+  <programme start="20240324220000 +0530" stop="20240324230000 +0530" channel="YRFMusic.in">
+    <title lang="en">Party Starters</title>
+    <desc lang="en">Packed with grooves that guarantee a non-stop good time. So turn up the music, and let the good times roll</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753025.jpg"/>
+  </programme>
+  <programme start="20240324230000 +0530" stop="20240324235959 +0530" channel="YRFMusic.in">
+    <title lang="en">Parineeti Chopra: Non-Stop Mix</title>
+    <desc lang="en">A non-stop mix of heart-touching melodies and high-energy dance numbers, featuring Parineeti Chopra</desc>
+    <category lang="en">Music</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-03-24/2403242753026.jpg"/>
+  </programme>
+</tv>
