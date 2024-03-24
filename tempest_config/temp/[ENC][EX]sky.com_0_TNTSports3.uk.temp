@@ -4,202 +4,6 @@
     <display-name lang="en">TNT Sports 3</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb5032.png"/>
   </channel>
-  <programme start="20240323040000 +0530" stop="20240323043000 +0530" channel="TNTSports3.uk">
-    <title lang="en">The Jake Dixon Diaries - Part 3</title>
-    <desc lang="en">2023 is the most important year of Jake Dixon's life. We follow him throughout the season, on and off the track, as he strives for Moto2 glory. 3/3</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c6a1eec6-bc0a-3810-b58d-1a4813d9090e/16-9"/>
-    <episode-num system="xmltv_ns">22.33.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323043000 +0530" stop="20240323060000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Hexagone MMA</title>
-    <desc lang="en">Action from Hexagone MMA at Arena Futuroscope in Poitiers, featuring the heavyweight fight between Moesio Brandao and Anthony Morel.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d298cd9d-0c6c-3ea0-917f-dd3181241a18/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323060000 +0530" stop="20240323070000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Leicester Tigers v Gloucester R</title>
-    <desc lang="en">Action from Gallagher Premiership Rugby as Leicester Tigers host Gloucester Rugby at Mattioli Woods Welford Road Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d1366c2a-f922-37a5-84a0-cf589b086ceb/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240323070000 +0530" stop="20240323080000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Bristol Bears v Northampton Saints</title>
-    <desc lang="en">Action from Gallagher Premiership Rugby as Bristol Bears face Northampton Saints at Ashton Gate.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5602f201-3633-3488-a16d-cea9c96e8ded/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240323080000 +0530" stop="20240323110000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Live AFL: N Melbourne v Fremantle</title>
-    <desc lang="en">Action from the Australian Football League as North Melbourne meet Fremantle at Marvel Stadium.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f73c7537-1636-30e2-bc68-f1a3f085f951/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323110000 +0530" stop="20240323140000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Live AFL: Hawthorn v Melbourne</title>
-    <desc lang="en">Action from the Australian Football League as Hawthorn face-off against Melbourne at Melbourne Cricket Ground.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b7adb214-f392-3547-8656-50970f4d3ab0/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323140000 +0530" stop="20240323170000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Live AFL: Sydney Swans v Essendon</title>
-    <desc lang="en">Action from the Australian Football League as Sydney Swans face Essendon at Sydney Cricket Ground.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b7849dfe-ab9f-3f25-b850-aa08e540425d/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323170000 +0530" stop="20240323173000 +0530" channel="TNTSports3.uk">
-    <title lang="en">1967: When LA Wolves Conquered the USA</title>
-    <desc lang="en">This is the incredible story of the summer of 1967 and how Wolverhampton Wanderers helped introduce football to a wide audience in the United States.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b4d5c8b4-0d9e-36ad-9609-cda4fb18bbcc/16-9"/>
-    <episode-num system="xmltv_ns">22.28.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323173000 +0530" stop="20240323201500 +0530" channel="TNTSports3.uk">
-    <title lang="en">Live: King's Lynn Town v Tamworth</title>
-    <desc lang="en">Action from the Vanarama National League North as King's Lynn Town face Tamworth at the Walks Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/bf6a88f5-a67e-37c0-9676-faf94f6f00d7/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323201500 +0530" stop="20240323230000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Live: Chesterfield v Boreham Wood</title>
-    <desc lang="en">Action from the Vanarama National League as Chesterfield host Boreham Wood at SMH Group Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4b085b0a-aa1c-314b-9709-1ca0835046be/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323230000 +0530" stop="20240324010000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Live: Futsal Women's Super Series</title>
-    <desc lang="en">Action from the FA Futsal Women's Super Series as Bolton Futsal Club Women take on London Helvecia Futsal Club Ladies.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fbc5a99a-996b-3e67-b6e3-949d02bad3c6/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324010000 +0530" stop="20240324024500 +0530" channel="TNTSports3.uk">
-    <title lang="en">Football is For Everyone: With Michael Owen</title>
-    <desc lang="en">Michael Owen and his son James explore the world of partially sighted football with the England national team ahead of the 2023 IBSA World Games.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other</category>
-    <icon src="https://images.metadata.sky.com/pd-image/87ebcd5f-5151-3d7c-a994-b1cc07d97b74/16-9"/>
-    <episode-num system="xmltv_ns">22.29.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324024500 +0530" stop="20240324030000 +0530" channel="TNTSports3.uk">
-    <title lang="en">Around The Block: Virgil Van Dijk</title>
-    <desc lang="en">Virgil van Dijk joins Peter Crouch for a spin around the block as they discuss title ambitions, footballing idols, the Merseyside derby and much more.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f84667f3-314b-30b5-820d-04af9e0d66b7/16-9"/>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324030000 +0530" stop="20240324033000 +0530" channel="TNTSports3.uk">
-    <title lang="en">The WRC Magazine</title>
-    <desc lang="en">The latest news and action from the World Rally Championship and Safari Rally Kenya.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/35a995ed-5456-3ecf-98a2-a4f1ae3224cb/16-9"/>
-    <episode-num system="xmltv_ns">23.2.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
   <programme start="20240324033000 +0530" stop="20240324053000 +0530" channel="TNTSports3.uk">
     <title lang="en">AFL: North Melbourne v Fremantle</title>
     <desc lang="en">Action from the Australian Football League as North Melbourne meet Fremantle at Marvel Stadium.</desc>
@@ -476,6 +280,302 @@
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
     <icon src="https://images.metadata.sky.com/pd-image/626741c0-c6b1-3cfe-b66d-2eb4718f8ccc/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325053000 +0530" stop="20240325063000 +0530" channel="TNTSports3.uk">
+    <title lang="en">MotoGP: GP of Portugal</title>
+    <desc lang="en">Race action from the MotoGP Grand Prix of Portugal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/82b3d7e8-c76f-3eaa-9491-aa23d34643bd/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325063000 +0530" stop="20240325073000 +0530" channel="TNTSports3.uk">
+    <title lang="en">MotoGP Chequered Flag: Portugal</title>
+    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders following the Grand Prix of Portugal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/79879c7e-a4e1-33b4-b6f1-447f0117f751/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325073000 +0530" stop="20240325080000 +0530" channel="TNTSports3.uk">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/55b0c758-7ed2-3002-95e6-adb9dc55c631/16-9"/>
+    <episode-num system="xmltv_ns">23.11.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325080000 +0530" stop="20240325090000 +0530" channel="TNTSports3.uk">
+    <title lang="en">ABB FIA Formula E Preview Show</title>
+    <desc lang="en">A preview show looking ahead to round five of ABB FIA Formula E in Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f0b2d251-c7b7-31d9-9445-4cebdacbefe9/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325090000 +0530" stop="20240325093000 +0530" channel="TNTSports3.uk">
+    <title lang="en">UCL Stories of the Finals</title>
+    <desc lang="en">We look back as AC Milan gained revenge over Liverpool after their 2005 heartbreak and Chelsea stunned Bayern to clinch the title for the first time in 2012.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7725457f-5dde-4a52-8d5c-7659186d8498/16-9"/>
+    <episode-num system="xmltv_ns">2017.4.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325093000 +0530" stop="20240325100000 +0530" channel="TNTSports3.uk">
+    <title lang="en">UCL Stories of the Finals</title>
+    <desc lang="en">We turn back the clock to 1997 and Borussia Dortmund's historic victory against Juventus. Plus, a look back at the 2016 final between Real Madrid and Atletico.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ea44cd28-e983-4dae-94f6-55bf83ac566c/16-9"/>
+    <episode-num system="xmltv_ns">2017.5.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325100000 +0530" stop="20240325103000 +0530" channel="TNTSports3.uk">
+    <title lang="en">UCL Stories of the Finals</title>
+    <desc lang="en">A look back at some of the famous finals from the UEFA Champions League era, featuring Real Madrid v Liverpool from 2018 and AC Milan v Barcelona from 1994.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c405724e-df92-4b56-af7c-cf64a05ac42b/16-9"/>
+    <episode-num system="xmltv_ns">2017.18.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325103000 +0530" stop="20240325113000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Champions League Goals Show Retro</title>
+    <desc lang="en">The UEFA Champions League Goals Show Retro looks back at the 2003/04 meeting between Monaco and Deportivo La Coruna.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2629cb1e-9c98-4688-8bf5-e793d8c20a9b/16-9"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325113000 +0530" stop="20240325133000 +0530" channel="TNTSports3.uk">
+    <title lang="en">AFL: Adelaide Crows v Geelong Cats</title>
+    <desc lang="en">Action from the Australian Football League as Adelaide Crows take on Geelong Cats at Adelaide Oval.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/56926934-8ef8-3cf5-90ea-03a7313718ae/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325133000 +0530" stop="20240325153000 +0530" channel="TNTSports3.uk">
+    <title lang="en">AFL: North Melbourne v Fremantle</title>
+    <desc lang="en">Action from the Australian Football League as North Melbourne meet Fremantle at Marvel Stadium.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6d054bfa-3fa5-3857-a949-f5d55adaa3d1/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325153000 +0530" stop="20240325173000 +0530" channel="TNTSports3.uk">
+    <title lang="en">AFL: Hawthorn v Melbourne</title>
+    <desc lang="en">Action from the Australian Football League as Hawthorn face-off against Melbourne at Melbourne Cricket Ground.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/33d4af2b-710a-3531-b289-9897c53fb2de/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325173000 +0530" stop="20240325193000 +0530" channel="TNTSports3.uk">
+    <title lang="en">AFL: Sydney Swans v Essendon</title>
+    <desc lang="en">Action from the Australian Football League as Sydney Swans face Essendon at Sydney Cricket Ground.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9218bb60-491c-3018-820d-308a0d602fa8/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325193000 +0530" stop="20240325210000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Pound Land</title>
+    <desc lang="en">Pound Land: The Battle for Stamford Bridge focuses on the trials and tribulations of Ken Bates and Matthew Harding - Chelsea's trailblazing forces of the 1980s and 1990s!</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b5647641-bfc4-42d1-b07d-fa9a74250f3c/16-9"/>
+    <episode-num system="xmltv_ns">22.24.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325210000 +0530" stop="20240325213000 +0530" channel="TNTSports3.uk">
+    <title lang="en">The Big Interview: Andrew Cole</title>
+    <desc lang="en">Andrew Cole discusses his incredible footballing journey, including getting noticed by Sir Alex Ferguson, winning the treble in 1999, and his lethal partnership with Dwight Yorke.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e3843521-27d3-3ede-8187-39201b74b70c/16-9"/>
+    <episode-num system="xmltv_ns">22.32.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325213000 +0530" stop="20240325223000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Real Madrid W v Barcelona W</title>
+    <desc lang="en">Action from Spanish Women's Liga F as Real Madrid face league leaders Barcelona at Alfredo Di Stefano Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f7f23939-4534-321e-8b4d-35896a073677/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325223000 +0530" stop="20240325233000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Leicester Tigers v Gloucester R</title>
+    <desc lang="en">Action from Gallagher Premiership Rugby as Leicester Tigers host Gloucester Rugby at Mattioli Woods Welford Road Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d1366c2a-f922-37a5-84a0-cf589b086ceb/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325233000 +0530" stop="20240326003000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Bristol Bears v Northampton Saints</title>
+    <desc lang="en">Action from Gallagher Premiership Rugby as Bristol Bears face Northampton Saints at Ashton Gate.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5602f201-3633-3488-a16d-cea9c96e8ded/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240326003000 +0530" stop="20240326013000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Saracens v Harlequins</title>
+    <desc lang="en">Action from Gallagher Premiership Rugby as Saracens host Harlequins at Tottenham Hotspur Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5bcec456-f819-32cb-9d04-772cb8b1184b/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240326013000 +0530" stop="20240326023000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Bath Rugby v Sale Sharks</title>
+    <desc lang="en">Action from Gallagher Premiership Rugby as Bath Rugby face Sale Sharks at the Recreation Ground.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/626741c0-c6b1-3cfe-b66d-2eb4718f8ccc/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240326023000 +0530" stop="20240326043000 +0530" channel="TNTSports3.uk">
+    <title lang="en">Badminton: Swiss Open Finals</title>
+    <desc lang="en">Badminton action from the finals of the Swiss Open, part the HSBC BWF World Tour.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c6da8631-f2b0-39ab-813a-2fb43dcf7bbf/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240326043000 +0530" stop="20240326053000 +0530" channel="TNTSports3.uk">
+    <title lang="en">ABB FIA Formula E Preview Show</title>
+    <desc lang="en">A preview show looking ahead to round five of ABB FIA Formula E in Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f0b2d251-c7b7-31d9-9445-4cebdacbefe9/16-9"/>
     <video>
       <aspect>16:9</aspect>
     </video>

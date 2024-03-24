@@ -3,120 +3,140 @@
   <channel id="ColorsCineplexBollywood.in">
     <display-name lang="en">Colors Cineplex Bollywood</display-name>
   </channel>
-  <programme start="20240323004700 +0530" stop="20240323032100 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Hum Kisise Kum Nahin</title>
-    <desc lang="en">Munna Bhai, a gangster, meets Komal and instantly falls in love with her. In a bid to marry her, he must fight with Komal's elder brother, Dr Rastogi, and her lover, Raja.</desc>
+  <programme start="20240324013400 +0530" stop="20240324042400 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Chaahat</title>
+    <desc lang="en">When Roop comes to the city for his father's medical treatment, he falls for Pooja and proposes to her. However, when a spoilt Reshma falls for him, she turns crazy and tries to own him.</desc>
     <credits>
-      <actor>Sanjay Dutt</actor>
-      <actor>Amitabh Bachchan</actor>
-      <actor>Ajay Devgn</actor>
-      <actor>Aishwarya Rai</actor>
-      <actor>Satish Kaushik</actor>
-      <actor>Anu Kapoor</actor>
+      <actor>Shah Rukh Khan</actor>
+      <actor>Pooja Bhatt</actor>
+      <actor>Naseeruddin Shah</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Ramya Krishnan</actor>
+      <actor>Avtar Gill</actor>
     </credits>
-    <category lang="en">Comedy</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/968C725EAF7C153D6EDAE464B47C7F860DE3FDCB2.jpg"/>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/789D8A0939E506F4E3042453B3930A33DED48B14D.jpg"/>
   </programme>
-  <programme start="20240323032100 +0530" stop="20240323053100 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Annadata</title>
-    <desc lang="en">When Amba Prasad realises the harsh truth that his relatives just care for his money, he leaves home. Upon reaching a village, he meets Arun and Aarti and finds his life changed forever.</desc>
+  <programme start="20240324042400 +0530" stop="20240324074300 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Phir Bhi Dil Hai Hindustani</title>
+    <desc lang="en">Ajay Bakshi and Ria Banerji are two rival TV reporters and will stop at nothing to outdo each other. Finally, they team up to help a man seek justice for his daughter who was raped by a politician.</desc>
     <credits>
-      <actor>Jaya Bhaduri Bachchan</actor>
-      <actor>Anil Dhawan</actor>
-      <actor>Om Prakash</actor>
-      <actor>Krishnakant</actor>
-      <actor>Dulari</actor>
+      <actor>Shah Rukh Khan</actor>
+      <actor>Juhi Chawla</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Johnny Lever</actor>
+      <actor>Atul Parchure</actor>
+      <actor>Sanjai Mishra</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F4D246F23CE0DF7B02D46163EAA705501739C7D28.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F171E818C75B5043BF86B7CFBEDB0A3A84366630I.jpg"/>
   </programme>
-  <programme start="20240323053100 +0530" stop="20240323070000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Ram Aur Shyam</title>
-    <desc lang="en">Ram escapes from his home when he learns that his abusive brother-in-law plans to kill him. Justice is meted out when Shyam, Ram's long-lost twin, accidentally takes his place.</desc>
+  <programme start="20240324074300 +0530" stop="20240324113200 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Dil</title>
+    <desc lang="en">Raja and Madhu fall in love with each other and get married against their parents' wishes. However, both their fathers try their best to separate them.</desc>
     <credits>
-      <actor>Dilip Kumar</actor>
-      <actor>Waheeda Rehman</actor>
-      <actor>Mumtaz</actor>
-      <actor>Nirupa Roy</actor>
+      <actor>Aamir Khan</actor>
+      <actor>Madhuri Dixit Nene</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Padama Rani</actor>
+      <actor>Saeed Jaffrey</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1415B4C7CCF83F4CF28C9551F0B00B69A72E0DEBH.jpg"/>
+  </programme>
+  <programme start="20240324113200 +0530" stop="20240324153100 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Dil Hai Tumhaara</title>
+    <desc lang="en">Shalu, a feisty young girl, falls in love with her employer's son, Dev. However, she decides to sacrifice her love after learning that her own sister, Nimmi, is also in love with him.</desc>
+    <credits>
+      <actor>Rekha</actor>
+      <actor>Preity Zinta</actor>
+      <actor>Mahima Chaudhry</actor>
+      <actor>Arjun Rampal</actor>
+      <actor>Jimmy Shergil</actor>
+      <actor>Alok Nath</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2019736905CFBD4C9959CD28107F7944767FA7A0F.jpg"/>
+  </programme>
+  <programme start="20240324153100 +0530" stop="20240324185900 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Sohni Mahiwal</title>
+    <desc lang="en">Mirza falls in love with Sohni, daughter of a potter but their relationship is not accepted and he is thrown out of the town. Later, he then starts meeting her disguised as a shepherd.</desc>
+    <credits>
+      <actor>Sunny Deol</actor>
+      <actor>Poonam Dhillon</actor>
       <actor>Pran</actor>
-      <actor>Nazir Hussain</actor>
+      <actor>Tanuja</actor>
+      <actor>Shammi Kapoor</actor>
+      <actor>Zeenat Aman</actor>
     </credits>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/007B756B4C24F81C255724A07464A09B3D38BCFEM.jpg"/>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/01AA4CF17F16F790956CE3829764FDC800BF0CBEW.jpg"/>
   </programme>
-  <programme start="20240323070000 +0530" stop="20240323090000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240324185900 +0530" stop="20240324224000 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Raja Hindustani</title>
+    <desc lang="en">Raja, a taxi driver, falls in love with Aarti, a rich girl, and marries her against her parents' wishes. Later, her stepmother tries to create differences amongst the couple.</desc>
+    <credits>
+      <actor>Aamir Khan</actor>
+      <actor>Karisma Kapoor</actor>
+      <actor>Archana Puran Singh</actor>
+      <actor>Suresh Oberoi</actor>
+      <actor>Tiku Talsania</actor>
+      <actor>Farida Jalal</actor>
+    </credits>
+    <category lang="en">Romance</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA65428AAFEAA1DC15C258A9130B35F862DA3D135.jpg"/>
+  </programme>
+  <programme start="20240324224000 +0530" stop="20240325010800 +0530" channel="ColorsCineplexBollywood.in">
+    <title lang="en">Anth</title>
+    <desc lang="en">Kali, the son of a gangster, rapes and kills Pooja, and frames her fiance, who is killed in custody, for the crime. As a result, her brother, Vijay, vows revenge against Kali.</desc>
+    <credits>
+      <actor>Sunil Shetty</actor>
+      <actor>Somy Ali</actor>
+      <actor>Paresh Rawal</actor>
+      <actor>Alok Nath</actor>
+      <actor>Deepak Shirke</actor>
+      <actor>Neena Gupta</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/320A80DFA5BA69EC03BF27A042AB4FB022F18A272.jpg"/>
+  </programme>
+  <programme start="20240325030000 +0530" stop="20240325060000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240323090000 +0530" stop="20240323120000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240325060000 +0530" stop="20240325090000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240323120000 +0530" stop="20240323150000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240325090000 +0530" stop="20240325120000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240323150000 +0530" stop="20240323180000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240325120000 +0530" stop="20240325150000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240323180000 +0530" stop="20240323210000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240325150000 +0530" stop="20240325180000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240323210000 +0530" stop="20240324030000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240325180000 +0530" stop="20240325210000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
   </programme>
-  <programme start="20240324030000 +0530" stop="20240324060000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240324060000 +0530" stop="20240324090000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240324090000 +0530" stop="20240324120000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240324120000 +0530" stop="20240324150000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240324150000 +0530" stop="20240324180000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240324180000 +0530" stop="20240324210000 +0530" channel="ColorsCineplexBollywood.in">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240324210000 +0530" stop="20240325030000 +0530" channel="ColorsCineplexBollywood.in">
+  <programme start="20240325210000 +0530" stop="20240326030000 +0530" channel="ColorsCineplexBollywood.in">
     <title lang="en">Movie</title>
     <desc lang="en">Movie</desc>
     <category lang="en">Drama</category>

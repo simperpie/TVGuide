@@ -4,252 +4,6 @@
     <display-name lang="en">TNT Sports 1</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb3661.png"/>
   </channel>
-  <programme start="20240323033000 +0530" stop="20240323043000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Bangladesh v Sri Lanka - 1st Test</title>
-    <desc lang="en">Cricket action from day one of the first Test between Bangladesh and Sri Lanka at Sylhet International Cricket Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8ecdb10b-e970-3b0e-bc36-1e1774cb7bbe/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240323043000 +0530" stop="20240323053000 +0530" channel="TNTSports1.uk">
-    <title lang="en">WWE SmackDown Highlights</title>
-    <desc lang="en">The Rock puts on an electrifying concert for a sellout crowd in Memphis. Plus, former Damage CTRL teammates Bayley and Dakota Kai face-off in the ring.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7d9446f9-5c92-3a6f-aff2-4e4ae021dbd9/16-9"/>
-    <episode-num system="xmltv_ns">25.10.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323053000 +0530" stop="20240323073000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Live: WWE Friday Night SmackDown</title>
-    <desc lang="en">See all your favourite WWE SmackDown Superstars deliver edge-of-your-seat action, including Roman Reigns, Asuka, Rey Mysterio, Randy Orton and Bianca Belair.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f90d7969-6a09-3e0b-aa9a-c3251726a4ab/16-9"/>
-    <episode-num system="xmltv_ns">25.11.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323073000 +0530" stop="20240323074500 +0530" channel="TNTSports1.uk">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <desc lang="en">A look at the best batting action from the fifth Test between India and England at Himachal Pradesh Cricket Association Stadium, including Shubman Gill's sublime century.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/119d85c2-afc9-36f9-bf04-d1bffa86eff1/16-9"/>
-    <episode-num system="xmltv_ns">1.68.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323074500 +0530" stop="20240323080000 +0530" channel="TNTSports1.uk">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <desc lang="en">A look at the best batting action from the second Test between New Zealand and Australia, including the match-winning partnership between Mitchell Marsh and Alex Carey.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8e535411-8b12-3bb6-b6fa-a08614415319/16-9"/>
-    <episode-num system="xmltv_ns">1.66.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323080000 +0530" stop="20240323081500 +0530" channel="TNTSports1.uk">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <desc lang="en">We revisit the best bowling action from the second Test between New Zealand and Australia, including Josh Hazlewood's five-wicket haul for the visitors.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d7222ba7-3c52-33c5-8212-ba2132965a68/16-9"/>
-    <episode-num system="xmltv_ns">1.67.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323081500 +0530" stop="20240323091500 +0530" channel="TNTSports1.uk">
-    <title lang="en">Bangladesh v Sri Lanka - 1st Test</title>
-    <desc lang="en">Cricket action from day one of the first Test between Bangladesh and Sri Lanka at Sylhet International Cricket Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8ecdb10b-e970-3b0e-bc36-1e1774cb7bbe/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323091500 +0530" stop="20240323173000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Live: Bangladesh v SL - 1st Test</title>
-    <desc lang="en">Cricket action from day two of the first Test between Bangladesh and Sri Lanka at Sylhet International Cricket Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a2d59a83-9633-31c6-83ab-d97359187870/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323173000 +0530" stop="20240323180000 +0530" channel="TNTSports1.uk">
-    <title lang="en">The Big Interview: Andrew Cole</title>
-    <desc lang="en">Andrew Cole discusses his incredible footballing journey, including getting noticed by Sir Alex Ferguson, winning the treble in 1999, and his lethal partnership with Dwight Yorke.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e3843521-27d3-3ede-8187-39201b74b70c/16-9"/>
-    <episode-num system="xmltv_ns">22.32.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323180000 +0530" stop="20240323200000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Boxing: Bourke v Lane</title>
-    <desc lang="en">Action from Fight Night Live as Chris Bourke challenges Ashley Lane for the vacant British bantamweight title at York Hall in London. And, Willy Hutchinson faces Martin Houben.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2993824c-7169-3a82-97cc-1556339ca542/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323200000 +0530" stop="20240323224500 +0530" channel="TNTSports1.uk">
-    <title lang="en">Live: Saracens v Harlequins</title>
-    <desc lang="en">Action from Gallagher Premiership Rugby as Saracens host Harlequins at Tottenham Hotspur Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9d1284d1-a55f-32f9-964a-2ad17922b724/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240323224500 +0530" stop="20240324001500 +0530" channel="TNTSports1.uk">
-    <title lang="en">The Edge: Women's T20 - NZ v ENG</title>
-    <desc lang="en">Highlights and analysis from the second Women's T20 between New Zealand and England at Saxton Oval in Nelson.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3ec4dd95-66c4-3358-affd-9438bffff30f/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324001500 +0530" stop="20240324011500 +0530" channel="TNTSports1.uk">
-    <title lang="en">Bangladesh v Sri Lanka - 1st Test</title>
-    <desc lang="en">Cricket action from day two of the first Test between Bangladesh and Sri Lanka at Sylhet International Cricket Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e10e3575-131b-31a3-ab65-eb5f99dc2f65/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324011500 +0530" stop="20240324014500 +0530" channel="TNTSports1.uk">
-    <title lang="en">MotoGP: Portugal Sprint Race</title>
-    <desc lang="en">MotoGP action from the Grand Prix of Portugal Sprint Race.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6740e7dc-f9dc-36be-b7c3-422c23381acd/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324014500 +0530" stop="20240324020000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Rio Ferdinand Meets: De Bruyne</title>
-    <desc lang="en">Rio Ferdinand talks to Manchester City midfielder Kevin De Bruyne about his journey through football, winning the treble and injury struggles.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/362f05ee-ce28-3903-9a41-99b2824c361b/16-9"/>
-    <episode-num system="xmltv_ns">22.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324020000 +0530" stop="20240324023000 +0530" channel="TNTSports1.uk">
-    <title lang="en">NBA On Fire</title>
-    <desc lang="en">The latest episode of NBA On Fire.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7ce8729b-f814-37dc-ae89-dcb48c6e7fad/16-9"/>
-    <episode-num system="xmltv_ns">22.20.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324023000 +0530" stop="20240324040000 +0530" channel="TNTSports1.uk">
-    <title lang="en">WWE Friday Night SmackDown</title>
-    <desc lang="en">See all your favourite WWE SmackDown Superstars deliver edge-of-your-seat action, including Roman Reigns, Asuka, Rey Mysterio, Randy Orton and Bianca Belair.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://images.metadata.sky.com/pd-image/abf2da76-c488-3918-97ac-eb07302b936f/16-9"/>
-    <episode-num system="xmltv_ns">25.11.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
   <programme start="20240324040000 +0530" stop="20240324050000 +0530" channel="TNTSports1.uk">
     <title lang="en">NZ v England - Women's 2nd T20</title>
     <desc lang="en">Women's cricket action from the second T20 between New Zealand and England at Saxton Oval in Nelson.</desc>
@@ -413,6 +167,193 @@
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://images.metadata.sky.com/pd-image/84f42925-7af3-3ae5-b454-ac3f20ed451a/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325070000 +0530" stop="20240325071500 +0530" channel="TNTSports1.uk">
+    <title lang="en">TNT Sports Cricket Reload</title>
+    <desc lang="en">A look at the best batting action from the second Test between New Zealand and Australia, including the match-winning partnership between Mitchell Marsh and Alex Carey.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8e535411-8b12-3bb6-b6fa-a08614415319/16-9"/>
+    <episode-num system="xmltv_ns">1.66.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325071500 +0530" stop="20240325081500 +0530" channel="TNTSports1.uk">
+    <title lang="en">Bath Rugby v Sale Sharks</title>
+    <desc lang="en">Action from Gallagher Premiership Rugby as Bath Rugby face Sale Sharks at the Recreation Ground.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/626741c0-c6b1-3cfe-b66d-2eb4718f8ccc/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325081500 +0530" stop="20240325091500 +0530" channel="TNTSports1.uk">
+    <title lang="en">Bangladesh v Sri Lanka - 1st Test</title>
+    <desc lang="en">Cricket action from day three of the first Test between Bangladesh and Sri Lanka at Sylhet International Cricket Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0818febe-0d3c-31bb-816d-9ec39dc42379/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325091500 +0530" stop="20240325173000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Live: Bangladesh v SL - 1st Test</title>
+    <desc lang="en">Cricket action from day four of the first Test between Bangladesh and Sri Lanka at Sylhet International Cricket Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6f5ed16a-ee4a-3add-a6b0-b9d3b57e0aee/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325173000 +0530" stop="20240325190000 +0530" channel="TNTSports1.uk">
+    <title lang="en">The Edge: Women's T20 - NZ v ENG</title>
+    <desc lang="en">Highlights and analysis from the third Women's T20 between New Zealand and England at Saxton Oval in Nelson.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f3533bf0-c59b-34b8-91f6-c29916ab9568/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325190000 +0530" stop="20240325203000 +0530" channel="TNTSports1.uk">
+    <title lang="en">King's Lynn Town v Tamworth</title>
+    <desc lang="en">Action from the Vanarama National League North as King's Lynn Town face Tamworth at the Walks Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3e2d6a3c-3c28-39c9-b320-78baf3d197ca/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325203000 +0530" stop="20240325220000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Worthing v Bath City</title>
+    <desc lang="en">Action from the Vanarama National League South as Worthing and Bath City face-off at Sussex Transport Community Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fa4040a3-a486-3bb1-836c-21e90ce97a47/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325220000 +0530" stop="20240325233000 +0530" channel="TNTSports1.uk">
+    <title lang="en">The Edge: Women's T20 - NZ v ENG</title>
+    <desc lang="en">Highlights and analysis from the third Women's T20 between New Zealand and England at Saxton Oval in Nelson.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f3533bf0-c59b-34b8-91f6-c29916ab9568/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240325233000 +0530" stop="20240326000000 +0530" channel="TNTSports1.uk">
+    <title lang="en">The WRC Magazine</title>
+    <desc lang="en">The latest news and action from the World Rally Championship and Safari Rally Kenya.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/35a995ed-5456-3ecf-98a2-a4f1ae3224cb/16-9"/>
+    <episode-num system="xmltv_ns">23.2.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240326000000 +0530" stop="20240326030000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Live: Ultimate Pool</title>
+    <desc lang="en">Action from Ultimate Pool and the Champions League Group 12.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1b0ddd74-2ffc-3d5a-99a7-11ddd0b34c45/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240326030000 +0530" stop="20240326033000 +0530" channel="TNTSports1.uk">
+    <title lang="en">Premier League Stories</title>
+    <desc lang="en">The Veron family name is that of football royalty in the city of La Plata. We uncover the history behind the three generations of Veron's who have left their mark on football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b215348e-07de-3997-acbf-cbb4eebc9f16/16-9"/>
+    <episode-num system="xmltv_ns">22.33.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240326033000 +0530" stop="20240326043000 +0530" channel="TNTSports1.uk">
+    <title lang="en">WWE Raw Highlights</title>
+    <desc lang="en">Becky Lynch faces Nia Jax in a Last Woman Standing match. Cody Rhodes responds to The Rock, while Gunther and Sami Zayn sign the contract for their WrestleMania 40 showdown.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ab4e6b23-cb99-36f8-a50c-9afb997ce2a3/16-9"/>
+    <episode-num system="xmltv_ns">31.11.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240326043000 +0530" stop="20240326053000 +0530" channel="TNTSports1.uk">
+    <title lang="en">WWE SmackDown Highlights</title>
+    <desc lang="en">All the best highlights from the latest episode of WWE Friday Night SmackDown.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c0d5cfa6-9ce5-3b41-943c-63034fd5ec92/16-9"/>
+    <episode-num system="xmltv_ns">25.11.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
