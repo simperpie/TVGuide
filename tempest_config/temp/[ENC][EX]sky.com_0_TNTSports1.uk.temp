@@ -6,149 +6,16 @@
   </channel>
   
   
-  <programme start="20240324091500 +0530" stop="20240324173000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Live: Bangladesh v SL - 1st Test</title>
-    <desc lang="en">Cricket action from day three of the first Test between Bangladesh and Sri Lanka at Sylhet International Cricket Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/82ed0c7e-5ce7-3841-a0c0-7b2f7784a7f3/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324173000 +0530" stop="20240324190000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Live: The Edge - NZ v England</title>
-    <desc lang="en">Highlights and analysis from the third Women's T20 between New Zealand and England at Saxton Oval in Nelson.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f3533bf0-c59b-34b8-91f6-c29916ab9568/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324190000 +0530" stop="20240324200000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Saracens v Harlequins</title>
-    <desc lang="en">Action from Gallagher Premiership Rugby as Saracens host Harlequins at Tottenham Hotspur Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5bcec456-f819-32cb-9d04-772cb8b1184b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324200000 +0530" stop="20240324224500 +0530" channel="TNTSports1.uk">
-    <title lang="en">Live: Bath Rugby v Sale Sharks</title>
-    <desc lang="en">Action from Gallagher Premiership Rugby as Bath Rugby face Sale Sharks at the Recreation Ground.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e490df11-eb03-3b51-8af9-9dad1e41328c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324224500 +0530" stop="20240324233000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Live: The Rugby Review</title>
-    <desc lang="en">A review of all the action from matchweek 13 of Gallagher Premiership Rugby.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5fbb9022-1155-389a-9845-a3faf34dfc2d/16-9"/>
-    <episode-num system="xmltv_ns">22.12.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240324233000 +0530" stop="20240325010000 +0530" channel="TNTSports1.uk">
-    <title lang="en">The Edge: Women's T20 - NZ v ENG</title>
-    <desc lang="en">Highlights and analysis from the third Women's T20 between New Zealand and England at Saxton Oval in Nelson.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f3533bf0-c59b-34b8-91f6-c29916ab9568/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240325010000 +0530" stop="20240325033000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Live NBA: 76ers @ Clippers</title>
-    <desc lang="en">Action from the NBA as LA Clippers host Philadelphia 76ers at Crypto.com Arena.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1ea8f47e-7abb-33c2-b7d4-14c173accbe5/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240325033000 +0530" stop="20240325040000 +0530" channel="TNTSports1.uk">
-    <title lang="en">NBA Action</title>
-    <desc lang="en">Action is the watchword for this fast paced highlights programme, which rounds up the latest action from the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0ba1070a-9326-3be4-be3e-161ae8840a3d/16-9"/>
-    <episode-num system="xmltv_ns">22.21.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240325040000 +0530" stop="20240325043000 +0530" channel="TNTSports1.uk">
-    <title lang="en">NBA On Fire</title>
-    <desc lang="en">The latest episode of NBA On Fire.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7ce8729b-f814-37dc-ae89-dcb48c6e7fad/16-9"/>
-    <episode-num system="xmltv_ns">22.20.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240325043000 +0530" stop="20240325070000 +0530" channel="TNTSports1.uk">
-    <title lang="en">Live NBA: Thunder @ Bucks</title>
-    <desc lang="en">Action from the NBA as Oklahoma City Thunder take on Milwaukee Bucks at Fiserv Forum.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/84f42925-7af3-3ae5-b454-ac3f20ed451a/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <programme start="20240325070000 +0530" stop="20240325071500 +0530" channel="TNTSports1.uk">
     <title lang="en">TNT Sports Cricket Reload</title>
     <desc lang="en">A look at the best batting action from the second Test between New Zealand and Australia, including the match-winning partnership between Mitchell Marsh and Alex Carey.</desc>
